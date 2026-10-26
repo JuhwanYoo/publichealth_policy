@@ -74,7 +74,11 @@ jobs:
 
       - name: Probe URLs
         if: steps.mode.outputs.mode == 'probe'
-        run: python -m policybrief probe ${{ inputs.probe_urls }} --grep '${{ inputs.probe_grep }}' --limit 40
+        env:
+          PROBE_URLS: ${{ inputs.probe_urls }}
+          PROBE_GREP: ${{ inputs.probe_grep }}
+        # URL에 든 '&'가 셸에 해석되지 않도록 xargs로 인자를 넘긴다.
+        run: printf '%s' "$PROBE_URLS" | xargs python -m policybrief probe --limit 40 --grep "$PROBE_GREP"
 
       - name: Collect
         if: steps.mode.outputs.mode == 'collect'
