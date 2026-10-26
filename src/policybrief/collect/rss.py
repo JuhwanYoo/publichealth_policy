@@ -16,6 +16,13 @@ from .http import get_bytes
 
 _TAG_RE = re.compile(r"<[^>]+>")
 _WS_RE = re.compile(r"\s+")
+_BARE_AMP_RE = re.compile(rb"&(?!(?:#\d+|#x[0-9a-fA-F]+|[a-zA-Z][a-zA-Z0-9]*);)")
+_BAD_XML_CHARS_RE = re.compile(rb"[\x00-\x08\x0b\x0c\x0e-\x1f]")
+
+
+def sanitize_xml(raw: bytes) -> bytes:
+    """정부·언론 피드에 흔한 '이스케이프 안 된 &'와 제어문자를 고친다."""
+    return _BAD_XML_CHARS_RE.sub(b"", _BARE_AMP_RE.sub(b"&amp;", raw))
 
 
 def clean_text(value: str | None) -> str:
@@ -47,7 +54,10 @@ def parse_feed(source: Source, raw: bytes, now: datetime) -> list[Item]:
     """피드 바이트를 Item 목록으로 변환한다 (lookback 창 밖은 제외)."""
     feed = feedparser.parse(raw)
     if feed.get("bozo") and not feed.entries:
-        raise ValueError(f"feed parse error: {feed.get('bozo_exception')}")
+        # 깨진 XML이면 한 번 정리해서 다시 시도한다.
+        feed = feedparser.parse(sanitize_xml(raw))
+        if feed.get("bozo") and not feed.entries:
+            raise ValueError(f"feed parse error: {feed.get('bozo_exception')}")
 
     cutoff = now - timedelta(hours=source.lookback_hours)
     items: list[Item] = []

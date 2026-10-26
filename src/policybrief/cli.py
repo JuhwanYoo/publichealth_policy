@@ -341,9 +341,30 @@ def cmd_run(args: argparse.Namespace) -> int:
 
 # ── 기타 ────────────────────────────────────────────────────────────────────
 
+def _debug_snippet(source: Source) -> str:
+    """실패하거나 비어 있는 소스의 응답 앞부분을 보여준다 (URL 교정용)."""
+    if source.kind == "pubmed" or not source.url:
+        return ""
+    from policybrief.collect.http import get_bytes
+    try:
+        raw = get_bytes(source.url)
+    except Exception as exc:
+        return f"    [debug] fetch 실패: {type(exc).__name__}: {str(exc)[:160]}"
+    text = raw[:6000].decode("utf-8", errors="replace")
+    lines = [f"    [debug] {len(raw)} bytes, 시작: {text[:300]!r}"]
+    import re as _re
+    links = _re.findall(r'href=["\']([^"\']*(?:view|rss|xml)[^"\']*)', text)[:8]
+    if links:
+        lines.append("    [debug] 링크 예시: " + " | ".join(links))
+    return "\n".join(lines)
+
+
 def cmd_check_feeds(args: argparse.Namespace) -> int:
     now = datetime.now(KST)
     sources = load_sources(include_disabled=args.include_disabled)
+    if args.sources:
+        wanted = set(args.sources.split(","))
+        sources = [s for s in sources if s.id in wanted]
     bad = 0
     print(f"{'소스':<28} {'kind':<7} {'상태':<6} {'건수':>4}  비고")
     for source in sources:
@@ -356,9 +377,13 @@ def cmd_check_feeds(args: argparse.Namespace) -> int:
                 note = "lookback 창 안에 항목 없음"
             state = "OK" if source.enabled else "OFF"
             print(f"{source.name:<28} {source.kind:<7} {state:<6} {len(items):>4}  {note}")
+            if args.debug and not items:
+                print(_debug_snippet(source))
         except Exception as exc:
             bad += 1
             print(f"{source.name:<28} {source.kind:<7} {'FAIL':<6} {'-':>4}  {type(exc).__name__}: {str(exc)[:80]}")
+            if args.debug:
+                print(_debug_snippet(source))
     print(f"\n{len(sources) - bad}/{len(sources)} 정상")
     return 1 if bad and args.strict else 0
 
@@ -410,6 +435,8 @@ def main(argv: list[str] | None = None) -> None:
 
     p_chk = sub.add_parser("check-feeds", help="모든 소스 접근 가능 여부 점검")
     p_chk.add_argument("--include-disabled", action="store_true")
+    p_chk.add_argument("--sources", help="점검할 소스 id (쉼표 구분)")
+    p_chk.add_argument("--debug", action="store_true", help="실패/0건 소스의 응답 앞부분 출력")
     p_chk.add_argument("--strict", action="store_true", help="실패 소스가 있으면 종료 코드 1")
     p_chk.set_defaults(func=cmd_check_feeds)
 

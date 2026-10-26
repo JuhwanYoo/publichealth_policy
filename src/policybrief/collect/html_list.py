@@ -89,8 +89,41 @@ def parse_list(source: Source, html: str, now: datetime) -> list[Item]:
         )
         if len(items) >= source.max_items:
             break
+    if not items:
+        items = _parse_flat(source, html, cutoff, seen)
     if not items and "<a" not in html:
         raise ValueError("목록 페이지에서 링크를 찾지 못했습니다 (차단 또는 구조 변경)")
+    return items
+
+
+def _parse_flat(source: Source, html: str, cutoff: datetime, seen: set[str]) -> list[Item]:
+    """행 구조를 못 찾았을 때: 패턴에 맞는 링크를 모두 모으고 날짜는 링크 뒤 400자 안에서 찾는다."""
+    pattern = source.link_pattern or "view"
+    items: list[Item] = []
+    for m in _LINK_RE.finditer(html):
+        href, inner = m.group(1), m.group(2)
+        if pattern not in href:
+            continue
+        title = _text(inner)
+        if not title or len(title) < 6:
+            continue
+        url = normalize_url(urljoin(source.url or "", unescape(href)))
+        if url in seen:
+            continue
+        seen.add(url)
+        published = None
+        dm = _DATE_RE.search(_text(html[m.end(): m.end() + 400]))
+        if dm:
+            try:
+                published = datetime(int(dm[1]), int(dm[2]), int(dm[3]), tzinfo=KST).astimezone(timezone.utc)
+            except ValueError:
+                published = None
+        if published is not None and published < cutoff:
+            continue
+        items.append(Item(id=make_item_id(url), source_id=source.id, source_name=source.name, category=source.category,
+                          lang=source.lang, title=title, url=url, published=published, summary=""))
+        if len(items) >= source.max_items:
+            break
     return items
 
 

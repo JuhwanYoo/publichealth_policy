@@ -61,7 +61,7 @@ jobs:
 
       - name: Check feeds
         if: steps.mode.outputs.mode == 'check'
-        run: python -m policybrief check-feeds --include-disabled
+        run: python -m policybrief check-feeds --include-disabled --debug
 
       - name: Collect
         if: steps.mode.outputs.mode == 'collect'

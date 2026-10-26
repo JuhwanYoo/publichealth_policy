@@ -242,8 +242,9 @@ sources:
   - id: kdca_press
     name: 질병관리청 보도자료
     profile: gov
-    url: https://www.kdca.go.kr/rss/press.xml
-    enabled: false        # RSS 주소 미확인
+    kind: html_list
+    url: "https://www.kdca.go.kr/board/board.es?mid=a20501010000&bid=0015"
+    link_pattern: act=view
   - id: nhis_press
     name: 국민건강보험공단 보도자료
     profile: gov

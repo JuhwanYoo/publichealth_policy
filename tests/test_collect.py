@@ -53,3 +53,12 @@ def test_exclude_filter_drops_pr_titles():
     mk = lambda t: Item(id="x", source_id="s", source_name="S", category="media_health", lang="ko", title=t, url="https://x.test/1")
     assert ef.excluded(mk("고대구로병원 최의경 교수팀, 과학기술우수논문상 수상"))
     assert not ef.excluded(mk("신경외과의사회, 관리급여 재검토 촉구"))
+
+
+def test_rss_recovers_from_bare_ampersand(now):
+    raw = (b'<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>t</title>'
+           b'<item><title>A & B</title><link>https://x.test/1</link>'
+           b'<pubDate>Sun, 26 Oct 2026 06:10:00 +0900</pubDate></item></channel></rss>')
+    src = Source(id="x", name="X", kind="rss", category="gov", url="https://x.test", lookback_hours=48)
+    items = parse_feed(src, raw, now)
+    assert len(items) == 1 and items[0].title == "A & B"
