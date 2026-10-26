@@ -1,20 +1,21 @@
 name: Daily policy brief
 
+# 기본(collect): 매일 아침 소스를 수집해 data/raw/<date>.json 을 커밋한다. API 키 불필요.
+# 분석·요약은 Claude Code 세션에서 수행한다 (CLAUDE.md 참고).
+# full: ANTHROPIC_API_KEY 시크릿이 있을 때만 — 수집·분석·리포트·배포까지 한 번에.
+
 on:
   schedule:
     - cron: "0 22 * * *"        # 매일 07:00 KST
   workflow_dispatch:
     inputs:
-      no_llm:
-        description: "Claude 호출 없이 실행 (파이프라인 점검용)"
-        type: boolean
-        default: false
-      check_feeds:
-        description: "수집 대신 피드 상태만 점검"
-        type: boolean
-        default: false
+      mode:
+        description: "collect = 수집만 (기본) / full = Claude API 분석까지 (시크릿 필요) / check = 피드 점검만"
+        type: choice
+        options: [collect, full, check]
+        default: collect
       limit:
-        description: "분석 항목 수 상한 (비워두면 제한 없음)"
+        description: "항목 수 상한 (비워두면 제한 없음)"
         type: string
         default: ""
 
@@ -31,6 +32,8 @@ jobs:
   brief:
     runs-on: ubuntu-latest
     timeout-minutes: 45
+    outputs:
+      deploy: ${{ steps.mode.outputs.deploy }}
     steps:
       - uses: actions/checkout@v4
         with:
@@ -45,50 +48,73 @@ jobs:
       - name: Install
         run: pip install -e .
 
+      - name: Resolve mode
+        id: mode
+        env:
+          INPUT_MODE: ${{ inputs.mode }}
+          VAR_MODE: ${{ vars.POLICYBRIEF_MODE }}
+        run: |
+          MODE="${INPUT_MODE:-${VAR_MODE:-collect}}"
+          echo "mode=$MODE" >> "$GITHUB_OUTPUT"
+          if [ "$MODE" = "full" ]; then echo "deploy=true" >> "$GITHUB_OUTPUT"; else echo "deploy=false" >> "$GITHUB_OUTPUT"; fi
+          echo "mode: $MODE"
+
       - name: Check feeds
-        if: ${{ inputs.check_feeds }}
+        if: steps.mode.outputs.mode == 'check'
         run: python -m policybrief check-feeds --include-disabled
 
-      - name: Run pipeline
-        if: ${{ !inputs.check_feeds }}
+      - name: Collect
+        if: steps.mode.outputs.mode == 'collect'
+        env:
+          NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
+        run: |
+          ARGS=""
+          if [ -n "${{ inputs.limit }}" ]; then ARGS="$ARGS --limit ${{ inputs.limit }}"; fi
+          python -m policybrief collect $ARGS
+
+      - name: Collect + analyze (Claude API)
+        if: steps.mode.outputs.mode == 'full'
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
           POLICYBRIEF_MODEL: ${{ vars.POLICYBRIEF_MODEL }}
         run: |
+          if [ -z "$ANTHROPIC_API_KEY" ]; then echo "::error::ANTHROPIC_API_KEY 시크릿이 없습니다. mode=collect 를 쓰세요."; exit 1; fi
           ARGS=""
-          if [ "${{ inputs.no_llm }}" = "true" ]; then ARGS="$ARGS --no-llm"; fi
           if [ -n "${{ inputs.limit }}" ]; then ARGS="$ARGS --limit ${{ inputs.limit }}"; fi
           python -m policybrief run $ARGS
 
-      - name: Commit report
-        if: ${{ !inputs.check_feeds }}
+      - name: Commit results
+        if: steps.mode.outputs.mode != 'check'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add reports data
+          git add data reports
           if git diff --cached --quiet; then
             echo "변경 없음"
           else
-            git commit -m "brief: $(TZ=Asia/Seoul date +%Y-%m-%d)"
+            git commit -m "${{ steps.mode.outputs.mode }}: $(TZ=Asia/Seoul date +%Y-%m-%d)"
             git pull --rebase origin "${GITHUB_REF_NAME}"
             git push origin HEAD:"${GITHUB_REF_NAME}"
           fi
 
       - name: Build site
-        if: ${{ !inputs.check_feeds }}
+        if: steps.mode.outputs.deploy == 'true'
         run: python -m policybrief build-site --out site
 
       - name: Upload Pages artifact
-        if: ${{ !inputs.check_feeds }}
+        if: steps.mode.outputs.deploy == 'true'
         uses: actions/upload-pages-artifact@v3
         with:
           path: site
 
   deploy:
     needs: brief
-    if: ${{ !inputs.check_feeds }}
+    if: needs.brief.outputs.deploy == 'true'
     runs-on: ubuntu-latest
+    concurrency:
+      group: pages
+      cancel-in-progress: false
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}

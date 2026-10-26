@@ -110,6 +110,23 @@ class SourceStatus(BaseModel):
     error: str | None = None
 
 
+class RawBatch(BaseModel):
+    """`policybrief collect`가 저장하는 수집 결과 (분석 전)."""
+
+    date: str
+    collected_at: datetime
+    items: list[Item] = Field(default_factory=list)
+    source_status: list[SourceStatus] = Field(default_factory=list)
+
+
+class AnalysisFile(BaseModel):
+    """세션(또는 외부)에서 작성한 분석 결과. `policybrief render`가 raw와 합친다."""
+
+    items: list[ItemAnalysis]
+    synthesis: Synthesis = Field(default_factory=Synthesis)
+    analyst: str = "Claude Code 세션"
+
+
 class DailyBrief(BaseModel):
     date: str                                  # YYYY-MM-DD (KST)
     generated_at: datetime

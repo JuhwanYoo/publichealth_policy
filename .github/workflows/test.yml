@@ -17,8 +17,12 @@ jobs:
           cache-dependency-path: pyproject.toml
       - run: pip install -e ".[dev]"
       - run: pytest -q
-      - name: Smoke run (fixtures, no LLM)
+      - name: Smoke run (fixtures, no network, no LLM)
+        env:
+          POLICYBRIEF_ROOT: /tmp/pb
         run: |
-          python -m policybrief run --no-llm --fixtures tests/fixtures --date 2099-01-01 --fresh
+          python -m policybrief collect --fixtures tests/fixtures --date 2099-01-01 --fresh
+          python -m policybrief show --date 2099-01-01 | head -20
+          python -m policybrief render --date 2099-01-01 --analysis tests/fixtures/analysis.json
           python -m policybrief build-site --out /tmp/site
           test -f /tmp/site/index.html

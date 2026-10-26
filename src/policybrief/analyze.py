@@ -5,6 +5,7 @@ from __future__ import annotations
 import json
 import logging
 import os
+from zoneinfo import ZoneInfo
 from typing import Protocol
 
 from pydantic import BaseModel, Field, ValidationError
@@ -21,6 +22,7 @@ from policybrief.models import (
 
 log = logging.getLogger(__name__)
 
+KST = ZoneInfo("Asia/Seoul")
 DEFAULT_MODEL = "claude-opus-5-5"
 BATCH_SIZE = 15
 MAX_SUMMARY_CHARS = 2500      # 항목당 입력 본문 상한 (토큰 절약)
@@ -123,11 +125,11 @@ class StubAnalyzer:
 
 # ── Claude ──────────────────────────────────────────────────────────────────
 
-def _item_block(item: Item) -> str:
+def _item_block(item: Item, max_chars: int = MAX_SUMMARY_CHARS) -> str:
     cat = CATEGORY_LABELS.get(item.category, item.category)
-    date = item.published.strftime("%Y-%m-%d") if item.published else "날짜 불명"
-    body = item.summary[:MAX_SUMMARY_CHARS]
-    head = f"[id={item.id}] ({cat} / {item.source_name} / {date})\n제목: {item.title}"
+    date = item.published.astimezone(KST).strftime("%Y-%m-%d") if item.published else "날짜 불명"
+    body = item.summary[:max_chars]
+    head = f"[id={item.id}] ({cat} / {item.source_name} / {date})\n제목: {item.title}\nURL: {item.url}"
     if item.authors:
         head += f"\n저자: {', '.join(item.authors[:4])}"
     return f"{head}\n내용: {body or '(본문 없음)'}"

@@ -1,0 +1,20 @@
+{
+  "analyst": "테스트",
+  "items": [
+    {"id": "1707fcb809cb", "relevant": true, "topic": "건강보험·수가", "title_ko": "복지부, 2027년 수가 협상 앞두고 필수의료 보상 강화 논의",
+     "summary_ko": "보건복지부가 건정심에서 필수의료 수가 인상안을 논의했다. 내년 수가 협상의 방향을 가늠할 수 있는 신호다.", "importance": 4, "tags": ["건정심", "필수의료", "수가"]},
+    {"id": "343b207e38b0", "relevant": true, "topic": "의료인력", "title_ko": "전공의 복귀율 80% 넘어…의대 정원 논의 재개",
+     "summary_ko": "정부와 의료계가 의대 정원 조정 논의를 재개한다.", "importance": 5, "tags": ["의대 정원", "전공의"]},
+    {"id": "edcfe4c27455", "relevant": true, "topic": "보건재정", "title_ko": "메디케이드 확대와 병원 재정: 10년 데이터",
+     "summary_ko": "메디케이드 확대 주에서 무보상 진료가 30% 감소했다는 10년치 분석. 보장성 확대가 병원 재정에 미치는 효과의 근거.", "importance": 3, "tags": ["Medicaid", "병원 재정"]}
+  ],
+  "synthesis": {
+    "headline": "수가·의대정원 논의 동시 재개 (테스트)",
+    "key_issues": [
+      {"title": "필수의료 수가 인상 논의", "description": "건정심에서 필수의료 보상 강화안이 다뤄졌다.", "item_ids": ["1707fcb809cb"]},
+      {"title": "의대 정원 논의 재개", "description": "전공의 복귀를 계기로 정원 논의가 다시 시작된다.", "item_ids": ["343b207e38b0", "ghost"]}
+    ],
+    "notable_papers": ["edcfe4c27455"],
+    "policy_outlook": "수가와 인력 양쪽에서 연말 협상 국면이 예상된다."
+  }
+}
