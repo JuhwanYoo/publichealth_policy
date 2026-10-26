@@ -9,6 +9,8 @@
 
 from __future__ import annotations
 
+import logging
+import os
 import re
 from datetime import datetime, timedelta, timezone
 from html import unescape
@@ -21,6 +23,7 @@ from policybrief.prefilter import make_item_id, normalize_url
 from .http import get_bytes
 
 KST = ZoneInfo("Asia/Seoul")
+log = logging.getLogger(__name__)
 _ROW_RE = re.compile(r"<(tr|li)\b[^>]*>(.*?)</\1>", re.S | re.I)
 _LINK_RE = re.compile(r"<a\b[^>]*href\s*=\s*[\"']([^\"']+)[\"'][^>]*>(.*?)</a>", re.S | re.I)
 _DATE_RE = re.compile(r"(20\d{2})[.\-/]\s?(\d{1,2})[.\-/]\s?(\d{1,2})")
@@ -48,9 +51,12 @@ def _decode(raw: bytes) -> str:
 def parse_list(source: Source, html: str, now: datetime) -> list[Item]:
     pattern = source.link_pattern or "view"
     cutoff = now - timedelta(hours=source.lookback_hours)
+    trace = bool(os.environ.get("POLICYBRIEF_TRACE"))
     items: list[Item] = []
     seen: set[str] = set()
-    for _, row in _ROW_RE.findall(html):
+    rows = _ROW_RE.findall(html)
+    n_link = n_old = 0
+    for _, row in rows:
         link = None
         for href, inner in _LINK_RE.findall(row):
             if pattern in href:
@@ -60,6 +66,7 @@ def parse_list(source: Source, html: str, now: datetime) -> list[Item]:
                     break
         if link is None:
             continue
+        n_link += 1
         href, title = link
         url = normalize_url(urljoin(source.url or "", unescape(href)))
         if url in seen:
@@ -72,7 +79,10 @@ def parse_list(source: Source, html: str, now: datetime) -> list[Item]:
                 published = datetime(int(m[1]), int(m[2]), int(m[3]), tzinfo=KST).astimezone(timezone.utc)
             except ValueError:
                 published = None
+        if trace and n_link <= 3:
+            print(f"    [trace] row link: {title[:40]!r} date={m.group(0) if m else None} href={href[:80]}")
         if published is not None and published < cutoff:
+            n_old += 1
             continue
         items.append(
             Item(
@@ -89,8 +99,14 @@ def parse_list(source: Source, html: str, now: datetime) -> list[Item]:
         )
         if len(items) >= source.max_items:
             break
+    if trace:
+        total_links = sum(1 for h, _ in _LINK_RE.findall(html) if pattern in h)
+        print(f"    [trace] rows={len(rows)} row-links={n_link} old={n_old} kept={len(items)} "
+              f"links-with-pattern(total)={total_links} cutoff={cutoff:%Y-%m-%d %H:%M}")
     if not items:
         items = _parse_flat(source, html, cutoff, seen)
+        if trace:
+            print(f"    [trace] flat fallback kept={len(items)}")
     if not items and "<a" not in html:
         raise ValueError("목록 페이지에서 링크를 찾지 못했습니다 (차단 또는 구조 변경)")
     return items

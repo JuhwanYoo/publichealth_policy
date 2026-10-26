@@ -366,6 +366,8 @@ def cmd_check_feeds(args: argparse.Namespace) -> int:
         wanted = set(args.sources.split(","))
         sources = [s for s in sources if s.id in wanted]
     bad = 0
+    if args.debug:
+        os.environ["POLICYBRIEF_TRACE"] = "1"
     print(f"{'소스':<28} {'kind':<7} {'상태':<6} {'건수':>4}  비고")
     for source in sources:
         try:

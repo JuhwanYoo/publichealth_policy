@@ -127,16 +127,12 @@ sources:
     lang: ko
     url: https://www.kjhpm.or.kr/rss/rss.xml
     lookback_hours: 720
-    enabled: false        # 2026-10-26 DNS 실패 — 주소 확인 필요
+    enabled: false        # 2026-10-26 kjhpm.or.kr / kjhpm.org 모두 DNS 실패 — 학회지 사이트 주소 확인 필요
 
   - id: jpmph
     name: 예방의학회지 (JPMPH)
     profile: journal
-    kind: rss
-    lang: en
-    url: https://www.jpmph.org/rss/rss.xml
-    lookback_hours: 720
-    enabled: false        # 2026-10-26 404 — RSS 주소 확인 필요
+    journal: "J Prev Med Public Health"
 
   - id: jkms
     name: JKMS (정책 논문)
@@ -201,14 +197,15 @@ sources:
   - id: dailymedi
     name: 데일리메디
     profile: media_health
-    url: https://www.dailymedi.com/rss/allArticle.xml
-    enabled: false        # 2026-10-26 404 — RSS 주소 확인 필요
+    kind: html_list
+    url: https://dailymedi.com/news/news_list.php
+    link_pattern: news_view
 
   - id: medicaltimes
     name: 메디칼타임즈
     profile: media_health
     url: https://www.medicaltimes.com/rss/allArticle.xml
-    enabled: false        # 2026-10-26 404 — RSS 주소 확인 필요
+    enabled: false        # 2026-10-26 RSS 404, 홈이 JS 렌더링이라 목록 파싱도 불가
 
   - id: rapportian
     name: 라포르시안
@@ -226,14 +223,6 @@ sources:
   # ── 정부·공공기관 보도자료 ─────────────────────────────────────────
     enabled: false        # 2026-10-26 404 — RSS 주소 확인 필요
 
-  - id: mohw_press_rss
-    name: 보건복지부 보도자료 (RSS 후보 1)
-    profile: gov
-    url: "https://www.mohw.go.kr/board.es?mid=a10503010100&bid=0027&act=rss"
-  - id: mohw_press_koreakr
-    name: 보건복지부 보도자료 (정책브리핑 RSS 후보)
-    profile: gov
-    url: https://www.korea.kr/rss/dept_mohw.xml
   - id: mohw_press
     name: 보건복지부 보도자료
     profile: gov
@@ -252,6 +241,7 @@ sources:
     kind: html_list
     url: https://www.nhis.or.kr/nhis/together/wbhaea01600m01.do
     link_pattern: brdScnBltNo
+    enabled: false        # 2026-10-26 GitHub 러너에서 연결 즉시 끊김 (접근 차단 추정)
   - id: hira_press
     name: 건강보험심사평가원 보도자료
     profile: gov
