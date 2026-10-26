@@ -238,6 +238,7 @@ sources:
     name: 보건복지부 보도자료 (정책브리핑·Google 뉴스)
     profile: gov
     url: "https://news.google.com/rss/search?q=site:korea.kr+%22%EB%B3%B4%EA%B1%B4%EB%B3%B5%EC%A7%80%EB%B6%80%22&hl=ko&gl=KR&ceid=KR:ko"
+    prefilter: keywords   # korea.kr 전체가 섞여 들어오므로 보건의료 키워드로 거른다
   - id: kdca_press
     name: 질병관리청 보도자료
     profile: gov
@@ -249,6 +250,7 @@ sources:
     name: 질병관리청 보도자료 (정책브리핑·Google 뉴스)
     profile: gov
     url: "https://news.google.com/rss/search?q=site:korea.kr+%22%EC%A7%88%EB%B3%91%EA%B4%80%EB%A6%AC%EC%B2%AD%22&hl=ko&gl=KR&ceid=KR:ko"
+    prefilter: keywords
   - id: nhis_press
     name: 국민건강보험공단 보도자료
     profile: gov

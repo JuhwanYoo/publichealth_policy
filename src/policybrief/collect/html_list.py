@@ -41,6 +41,7 @@ def _clean_title(text: str) -> str:
     if "\ufeff" in text:
         text = text.split("\ufeff", 1)[0]
     text = re.sub(r"^(?:새글|새 글|NEW|new|N)\s+", "", text.strip())
+    text = re.sub(r"\s*20\d{2}-\d{2}-\d{2}(?:\s+\d{1,2}:\d{2})?\s*$", "", text)   # 제목 꼬리의 등록 시각
     return text.strip()
 
 

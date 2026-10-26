@@ -125,7 +125,7 @@ def collect_all(args: argparse.Namespace, now: datetime, state: SeenState) -> tu
         new = len(items)
         if source.prefilter == "keywords":
             items = keyword_filter.apply(items)
-        if source.category.startswith("media"):
+        if source.category != "journal":
             items = exclude_filter.apply(items)
         statuses.append(SourceStatus(source_id=source.id, source_name=source.name, category=source.category,
                                      ok=True, fetched=fetched, new=new, kept=len(items)))

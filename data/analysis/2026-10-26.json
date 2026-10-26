@@ -2124,6 +2124,2024 @@
       "summary_ko": "",
       "importance": 1,
       "tags": []
+    },
+    {
+      "id": "341b831d6dc4",
+      "relevant": true,
+      "topic": "돌봄·장기요양",
+      "title_ko": "OECD 30개국 장기요양 정책의 앙상블 군집 유형화",
+      "summary_ko": "재원·규제·공급 방식에 따라 30개국 장기요양체계를 재현 가능한 방법으로 유형화했다(Health Policy). 통합돌봄 전환기 한국의 위치를 가늠하는 비교 틀.",
+      "importance": 3,
+      "tags": [
+        "장기요양",
+        "OECD",
+        "유형론"
+      ]
+    },
+    {
+      "id": "c99864d6cbb5",
+      "relevant": true,
+      "topic": "의료인력",
+      "title_ko": "팬데믹 전후 보건의료 종사자의 삶의 만족도 변화",
+      "summary_ko": "다른 필수·비필수 부문 노동자와 비교한 보건의료 종사자 삶의 만족도 변화.",
+      "importance": 2,
+      "tags": [
+        "의료인력",
+        "웰빙"
+      ]
+    },
+    {
+      "id": "78092d96e53e",
+      "relevant": true,
+      "topic": "건강보험·수가",
+      "title_ko": "가치기반 지불의 실행: 보건의료체계 개혁을 위한 의사결정 지원 프레임워크",
+      "summary_ko": "공공 중심 체계에서 가치기반 지불(VBP) 모형의 설계와 도입 순서를 안내하는 프레임워크를 제시했다(Health Policy). 성과 기반 보상 확대를 논의하는 한국에 참고가 된다.",
+      "importance": 3,
+      "tags": [
+        "가치기반 지불",
+        "지불제도"
+      ]
+    },
+    {
+      "id": "7a1660c5c122",
+      "relevant": true,
+      "topic": "의료인력",
+      "title_ko": "각국은 인력배치 기준(staffing levels)을 어떻게 설계·운영하는가 — 유럽 비교 분석",
+      "summary_ko": "인력 부족 대응과 질 보장을 위해 간호·의료 인력배치 기준을 도입한 유럽 국가들의 설계 목적, 거버넌스, 집행 방식을 비교했다(Health Policy). 한국의 간호사 배치기준·간호간병통합서비스 인력 기준 논의에 직접적인 비교 자료다.",
+      "importance": 4,
+      "tags": [
+        "인력배치 기준",
+        "간호인력",
+        "유럽 비교"
+      ]
+    },
+    {
+      "id": "0eac2267aa68",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "Monitoring health systems in small island settings",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "c76b65745892",
+      "relevant": true,
+      "topic": "국제보건",
+      "title_ko": "기후변화에 대한 보건의료체계의 대응 — 체계적 고찰의 종합",
+      "summary_ko": "완화·적응 조치의 범위와 효과에 대한 체계적 고찰들을 종합했다.",
+      "importance": 2,
+      "tags": [
+        "기후보건"
+      ]
+    },
+    {
+      "id": "c5578510ba3b",
+      "relevant": true,
+      "topic": "디지털헬스",
+      "title_ko": "기술에서 역량으로: 싱가포르 공공의료 디지털 전환의 지속 조건 — NASSS 정책 분석",
+      "summary_ko": "시범사업을 넘어 체계 전반의 디지털 전환을 지속시키는 조건을 싱가포르 사례로 분석했다.",
+      "importance": 3,
+      "tags": [
+        "디지털 전환",
+        "싱가포르"
+      ]
+    },
+    {
+      "id": "8f00c68ab996",
+      "relevant": true,
+      "topic": "의료인력",
+      "title_ko": "유럽 보건안보 체계에서의 보건의료 인력 — EU 7개국 비교",
+      "summary_ko": "하이브리드·군사 위협 대비 보건인력 보호·준비 정책을 7개국에서 비교했다.",
+      "importance": 2,
+      "tags": [
+        "보건안보",
+        "인력"
+      ]
+    },
+    {
+      "id": "fdfcae7255b6",
+      "relevant": true,
+      "topic": "의료전달체계·공공의료",
+      "title_ko": "노인의학을 병원 진료의 중심에 — 고령사회 사람중심 병원 진료",
+      "summary_ko": "다중질환·허약 노인 입원이 늘어난 병원 체계에서 노인의학 중심 모형을 제안한 논평.",
+      "importance": 2,
+      "tags": [
+        "노인의학"
+      ]
+    },
+    {
+      "id": "e5d9ae82d83b",
+      "relevant": true,
+      "topic": "정신건강",
+      "title_ko": "몰타 국가 자살예방전략(2026~2031)의 설계 — 범정부·범사회 모형",
+      "summary_ko": "범정부·범사회 접근으로 설계된 몰타의 첫 자살예방전략 수립 과정을 분석했다.",
+      "importance": 2,
+      "tags": [
+        "자살예방"
+      ]
+    },
+    {
+      "id": "66c19926b1fa",
+      "relevant": true,
+      "topic": "법제·거버넌스",
+      "title_ko": "카탈루냐 의료과오 청구 22년 분석 — 인구 기반 추세",
+      "summary_ko": "2000~2022년 의료과오 배상청구의 특성과 추세를 분석한 인구 기반 연구.",
+      "importance": 2,
+      "tags": [
+        "의료분쟁"
+      ]
+    },
+    {
+      "id": "51a9879f5f49",
+      "relevant": true,
+      "topic": "의료인력",
+      "title_ko": "튀르키예 의료이용 급증의 분해: 의사 수 증가인가, 의사당 진료량 증가인가 — OECD 12개국 비교",
+      "summary_ko": "2003년 보건개혁 이후 OECD 최고 수준으로 늘어난 튀르키예의 진료량을 1990~2019년 의사 밀도 증가와 의사당 진료량 증가로 분해했다. 의사 수 확대 정책의 효과를 해석할 때 공급 유인(행위별 보상)의 역할을 함께 봐야 함을 시사한다.",
+      "importance": 3,
+      "tags": [
+        "의사 공급",
+        "진료량",
+        "OECD"
+      ]
+    },
+    {
+      "id": "18b2dc232f1c",
+      "relevant": true,
+      "topic": "감염병·예방",
+      "title_ko": "의료관련감염 의무 보고제의 국제 비교 — 킹던의 다중흐름 모형 적용",
+      "summary_ko": "국가별 감염 감시·보고 체계 도입의 정책 조건을 비교 분석했다(Health Policy).",
+      "importance": 3,
+      "tags": [
+        "의료관련감염",
+        "감시체계"
+      ]
+    },
+    {
+      "id": "4e19355c30e7",
+      "relevant": true,
+      "topic": "법제·거버넌스",
+      "title_ko": "개혁이 약속하는 것과 평가가 측정하는 것: 조세 기반 6개국 보건개혁 평가의 정합성",
+      "summary_ko": "호주·영국·캐나다·덴마크·노르웨이·스웨덴의 대규모 보건개혁 목표와 평가 모형의 정합성을 비교했다(Health Policy). 통합·일차의료·지속가능성을 내건 개혁이 실제로 무엇을 측정하는지 묻는다.",
+      "importance": 3,
+      "tags": [
+        "개혁 평가",
+        "국제 비교"
+      ]
+    },
+    {
+      "id": "1b6c95e5ef7b",
+      "relevant": true,
+      "topic": "디지털헬스",
+      "title_ko": "필수 공공 인프라로서의 보건데이터 유틸리티 — 협력적 연방주의 설계 (Milbank Q)",
+      "summary_ko": "연방 상호운용 네트워크가 전송만 할 뿐 주 단위 데이터 집계·분석 수요를 채우지 못하는 공백을 주정부 지정 보건데이터 유틸리티가 메운다는 정책 제안.",
+      "importance": 3,
+      "tags": [
+        "보건의료 데이터",
+        "데이터 거버넌스"
+      ]
+    },
+    {
+      "id": "4fb26aa24af2",
+      "relevant": true,
+      "topic": "약가·의약품·기기",
+      "title_ko": "미국 메디케이드 GENEROUS 모형의 약제별 절감 효과 (JAMA Health Forum)",
+      "summary_ko": "국제 참조가격 기반 메디케이드 약가 모형(GENEROUS)의 약제별 절감액을 추정한 연구(초록 미제공). 해외 약가 참조를 둘러싼 국내 약가유연계약 논의와 맞닿는다.",
+      "importance": 3,
+      "tags": [
+        "약가",
+        "국제 참조가격",
+        "Medicaid"
+      ]
+    },
+    {
+      "id": "9a8ab8a5504c",
+      "relevant": true,
+      "topic": "감염병·예방",
+      "title_ko": "주·지방 주사기 배포 법률과 주사기 서비스 프로그램의 존재",
+      "summary_ko": "법률 환경이 주사기 교환 프로그램 운영에 미치는 영향을 분석한 연구.",
+      "importance": 2,
+      "tags": [
+        "감염 예방",
+        "약물 정책"
+      ]
+    },
+    {
+      "id": "6c8ff978f94b",
+      "relevant": true,
+      "topic": "기타",
+      "title_ko": "지역 자산 불평등과 근로연령 사망률 — 미국 카운티 50년 분석",
+      "summary_ko": "1970~2019년 카운티 수준에서 자산 불평등이 연령표준화 사망률과 연관됨을 보였다(JAMA Health Forum). 복지부가 같은 주 논의한 소득·지역별 건강수명 격차와 같은 문제의식.",
+      "importance": 3,
+      "tags": [
+        "건강형평성",
+        "불평등",
+        "사망률"
+      ]
+    },
+    {
+      "id": "b695d1e39666",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "The \"Safer\" Plastics Paradox",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "713590e567ee",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "Voter Suppression Is a Structural Determinant of Health",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "adaef2285a7a",
+      "relevant": true,
+      "topic": "디지털헬스",
+      "title_ko": "원격의료 확산의 다음 단계에 남은 질문들",
+      "summary_ko": "원격의료 제도화 이후 접근성·질·비용에 관한 미해결 질문을 정리한 논평.",
+      "importance": 2,
+      "tags": [
+        "원격의료"
+      ]
+    },
+    {
+      "id": "f2d922c30d6c",
+      "relevant": true,
+      "topic": "건강보험·수가",
+      "title_ko": "메디케이드 성인 치과급여 삭감과 주 재정 절감 (JAMA Health Forum)",
+      "summary_ko": "치과급여 삭감이 주 재정에 미치는 절감 효과를 다룬 논평.",
+      "importance": 2,
+      "tags": [
+        "치과 급여"
+      ]
+    },
+    {
+      "id": "2a559c8d6ccf",
+      "relevant": true,
+      "topic": "정신건강",
+      "title_ko": "민간보험 정신건강 '유령 네트워크' — 5,822통 비밀 전화 조사",
+      "summary_ko": "미국 민간보험 네트워크 디렉터리에 등재된 정신건강 의료진에게 예약을 시도한 결과 상당수가 연결되지 않거나 대기가 길었다. 네트워크 적정성 규제의 근거.",
+      "importance": 3,
+      "tags": [
+        "정신건강 접근성",
+        "네트워크 적정성"
+      ]
+    },
+    {
+      "id": "a9e885cd90ce",
+      "relevant": true,
+      "topic": "정신건강",
+      "title_ko": "USPSTF 성인 우울증 선별 권고 이후 정신치료·항우울제 이용 변화 — 단절적 시계열",
+      "summary_ko": "2016년 권고 이후 치료 이용 변화를 전국 자료로 평가한 정책 평가 연구.",
+      "importance": 3,
+      "tags": [
+        "우울증 선별",
+        "정책 평가"
+      ]
+    },
+    {
+      "id": "3c2032137448",
+      "relevant": true,
+      "topic": "디지털헬스",
+      "title_ko": "보건의료 AI의 '2층 생태계'를 피하려면 (JAMA Health Forum)",
+      "summary_ko": "AI 도입 격차가 기관·환자 간 2층 체계를 만들 위험을 경고한 논평.",
+      "importance": 2,
+      "tags": [
+        "AI",
+        "형평성"
+      ]
+    },
+    {
+      "id": "71c30950aafc",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "The Challenges of Linking SNAP State Cost Sharing to Payment Error Rates",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "2bc2946f9a38",
+      "relevant": true,
+      "topic": "감염병·예방",
+      "title_ko": "팬데믹 예방·대비·대응 투자의 우선순위 — Disease Control Priorities 관점",
+      "summary_ko": "제한된 자원에서 가장 수익이 큰 팬데믹 대비 투자 85개를 선별한 Viewpoint(Lancet Public Health).",
+      "importance": 3,
+      "tags": [
+        "팬데믹 대비",
+        "우선순위"
+      ]
+    },
+    {
+      "id": "44eff9e2338c",
+      "relevant": true,
+      "topic": "국제보건",
+      "title_ko": "국제보건의 미래에 낙관할 근거가 있는가",
+      "summary_ko": "200년의 역사적 관점에서 국제보건의 전망을 논한 기고.",
+      "importance": 2,
+      "tags": [
+        "국제보건"
+      ]
+    },
+    {
+      "id": "1c958a7d9ec0",
+      "relevant": true,
+      "topic": "국제보건",
+      "title_ko": "다음 10년 공중보건의 열망을 다시 그리다 (Galea)",
+      "summary_ko": "고령화·도시화·기후·제도 신뢰·기술이라는 다섯 추세에 대응하는 공중보건의 방향.",
+      "importance": 2,
+      "tags": [
+        "공중보건"
+      ]
+    },
+    {
+      "id": "7fce2b833a22",
+      "relevant": true,
+      "topic": "기타",
+      "title_ko": "건강 형평성과 세 가지 도전 — 마멋의 제언",
+      "summary_ko": "불평등·기후위기·정치 불안정이라는 세 도전에 대응하는 네 영역의 권고(경제 구조, 사회적 결정요인, 보편적 체계, 거버넌스)를 정리한 Lancet Public Health 10주년 기고.",
+      "importance": 3,
+      "tags": [
+        "건강형평성",
+        "사회적 결정요인"
+      ]
+    },
+    {
+      "id": "13a759290a0c",
+      "relevant": true,
+      "topic": "국제보건",
+      "title_ko": "실행 격차 닫기: 다음 10년의 우선순위·선제적·책임성 있는 일차보건의료 (Frieden)",
+      "summary_ko": "저·중소득국 예방 가능 사망의 대부분이 중재가 없어서가 아니라 체계가 전달하지 못해 발생한다며 일차보건의료 실행의 책임성을 강조한 논평.",
+      "importance": 3,
+      "tags": [
+        "일차보건의료",
+        "국제보건"
+      ]
+    },
+    {
+      "id": "c32eb151dcbf",
+      "relevant": true,
+      "topic": "법제·거버넌스",
+      "title_ko": "인식론적 위기 — 공중보건의 결정적 도전 (Kickbusch)",
+      "summary_ko": "근거의 부족이 아니라 지식 권위의 위기가 공중보건을 시험한다는 논평.",
+      "importance": 2,
+      "tags": [
+        "위기소통",
+        "신뢰"
+      ]
+    },
+    {
+      "id": "abb1b146efa8",
+      "relevant": true,
+      "topic": "국제보건",
+      "title_ko": "사람을 중심에 (Bassett)",
+      "summary_ko": "2024년 미국 대선 이후 공중보건 제도 변화 속에서 분야의 방향을 재설정하자는 기고.",
+      "importance": 2,
+      "tags": [
+        "공중보건"
+      ]
+    },
+    {
+      "id": "24280e618c7b",
+      "relevant": true,
+      "topic": "정신건강",
+      "title_ko": "주산기 우울증 재발 예방 온라인 마음챙김 인지치료 — 실용적 무작위시험",
+      "summary_ko": "웹 기반 MBCT가 주산기 여성의 우울 재발과 증상을 줄였는지 평가한 RCT.",
+      "importance": 2,
+      "tags": [
+        "주산기 정신건강"
+      ]
+    },
+    {
+      "id": "fbd541adcd8d",
+      "relevant": true,
+      "topic": "의료전달체계·공공의료",
+      "title_ko": "병원 밖 심정지 목격자 심폐소생술률을 높이는 다면적 개입 — 프랑스 15개 응급체계 계단형 군집 무작위시험",
+      "summary_ko": "응급 상황실 교육과 지역사회 대응을 결합한 개입이 구급대 도착 전 목격자 CPR 시행률을 높였는지 평가한 실험 연구.",
+      "importance": 3,
+      "tags": [
+        "응급의료",
+        "CPR",
+        "무작위시험"
+      ]
+    },
+    {
+      "id": "55ecb4565c4a",
+      "relevant": true,
+      "topic": "감염병·예방",
+      "title_ko": "영국 식품세 세 가지 설계의 건강·경제·형평 효과 — 미시모의 연구",
+      "summary_ko": "설탕·소금 등 건강에 해로운 식품에 대한 세 가지 과세 설계가 건강 결과, 비용, 불평등에 미치는 영향을 모형화했다(Lancet Public Health). 설탕세 도입 논의의 근거.",
+      "importance": 3,
+      "tags": [
+        "식품세",
+        "건강증진",
+        "재정"
+      ]
+    },
+    {
+      "id": "a23da288a1a6",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "Association between parental death during childhood and health and wellbeing in adulthood in 22 countries and regions: a retrospective, outcome-wide analysis",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "4d3e7de51f20",
+      "relevant": true,
+      "topic": "기타",
+      "title_ko": "잉글랜드 남북 사망률 격차 1981~2024 — 종단 인구 연구",
+      "summary_ko": "40년 넘게 지속된 잉글랜드 남북 사망률 격차를 2024년까지 갱신해 연령·성별 추세를 분석했다(Lancet Public Health).",
+      "importance": 3,
+      "tags": [
+        "지역 격차",
+        "사망률"
+      ]
+    },
+    {
+      "id": "4eb63e3115a7",
+      "relevant": true,
+      "topic": "법제·거버넌스",
+      "title_ko": "교정시설 보건의료 거버넌스와 공중보건 — 연구 촉구",
+      "summary_ko": "교도소 의료 거버넌스 연구의 필요성을 제기한 논평.",
+      "importance": 2,
+      "tags": [
+        "교정 의료"
+      ]
+    },
+    {
+      "id": "906249ec55d3",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "Public health has a mobilisation problem",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "13ab229cd7be",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "The urgent role for health professionals in accelerating mitigation and adaptation to climate change",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "603c19848c1d",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "Preventing perinatal depression relapse",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "e874a9be8c1a",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "To increase bystander CPR rates after out-of-hospital cardiac arrest, bystanders alone are not sufficient",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "6315935b0278",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "The Lancet Public Health at 10",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "128f6eda21ff",
+      "relevant": true,
+      "topic": "건강보험·수가",
+      "title_ko": "보장에서 '졸업'하는 순간: 웨스트버지니아 성인 메디케이드 치과급여 1,000달러의 교훈",
+      "summary_ko": "21세부터 끊기던 치과 이용이 성인 치과급여 도입 후 기저 대비 50% 회복됐다는 청구자료 분석. 연령 기준 보장 단절의 효과를 보여준다.",
+      "importance": 3,
+      "tags": [
+        "치과 급여",
+        "Medicaid",
+        "보장 단절"
+      ]
+    },
+    {
+      "id": "1a8b361a725c",
+      "relevant": true,
+      "topic": "기타",
+      "title_ko": "중증 모성이환의 인종 격차와 산모 동반질환의 역할 (텍사스 2016~2022)",
+      "summary_ko": "동반질환 부담 증가가 중증 모성이환 격차를 얼마나 설명하는지 분석했다.",
+      "importance": 2,
+      "tags": [
+        "모성보건",
+        "격차"
+      ]
+    },
+    {
+      "id": "ad5861de0dc4",
+      "relevant": true,
+      "topic": "의료전달체계·공공의료",
+      "title_ko": "미국 병상 허가제(CON) 폐지가 의료비 지출에 미친 인과 효과",
+      "summary_ko": "35개 주가 운영하는 시설 신설 사전허가제(CON) 폐지의 의료비 효과를 인과 분석했다(Health Economics). 병상 총량 관리와 공급 규제의 효과를 둘러싼 한국 논의에 비교 근거.",
+      "importance": 3,
+      "tags": [
+        "병상 규제",
+        "CON",
+        "의료비"
+      ]
+    },
+    {
+      "id": "06f454b13d9a",
+      "relevant": true,
+      "topic": "법제·거버넌스",
+      "title_ko": "의료 민영화의 여러 경로: 공·사 이분법을 넘어 잉글랜드와 이탈리아 비교",
+      "summary_ko": "조세 기반 두 체계에서 민간 부문 역할 확대가 어떤 경로로 진행되는지 개념적으로 정리했다(HEPL).",
+      "importance": 3,
+      "tags": [
+        "민영화",
+        "공공-민간"
+      ]
+    },
+    {
+      "id": "80a134c02b2a",
+      "relevant": true,
+      "topic": "의료인력",
+      "title_ko": "에티오피아 보건인력 이직 의도에 대한 프로그램·정책 개입의 역할",
+      "summary_ko": "국가 인적자원 정책 개입 전후 이직 의도 변화를 반복 횡단조사로 비교했다.",
+      "importance": 2,
+      "tags": [
+        "보건인력",
+        "이직"
+      ]
+    },
+    {
+      "id": "352e6304bf72",
+      "relevant": true,
+      "topic": "의료전달체계·공공의료",
+      "title_ko": "광둥성 보건의료 체계 효율성의 지역 격차 — 3단계 DEA (2015~2024)",
+      "summary_ko": "주강삼각주와 그 외 지역 간 효율성 격차를 평가했다.",
+      "importance": 2,
+      "tags": [
+        "효율성",
+        "지역 격차"
+      ]
+    },
+    {
+      "id": "f70c6d68b403",
+      "relevant": true,
+      "topic": "국제보건",
+      "title_ko": "아프리카 취약계층의 보건의료 재원 형평성과 접근 — 체계적 고찰",
+      "summary_ko": "재원 조달 방식과 취약계층 접근성 간 관계를 종합했다.",
+      "importance": 2,
+      "tags": [
+        "보건재정",
+        "형평성"
+      ]
+    },
+    {
+      "id": "5d192679a0db",
+      "relevant": true,
+      "topic": "디지털헬스",
+      "title_ko": "야심차지만 불분명한: 노르웨이 사회보장-보건의료 디지털 협업 정책문서 분석",
+      "summary_ko": "부문 간 디지털 협업이 정부 백서에서 어떻게 개념화되는지 분석했다.",
+      "importance": 2,
+      "tags": [
+        "디지털 협업"
+      ]
+    },
+    {
+      "id": "f1db762a75ec",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "Exploring the association between social support and reward satisfaction: the mediating role of multi-dimensional psychological capital",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "242b66ca8721",
+      "relevant": true,
+      "topic": "건강보험·수가",
+      "title_ko": "고품질 등록자료와 가치기반의료의 공생 — 관절치환 레지스트리 사례",
+      "summary_ko": "레지스트리 자료가 가치기반의료 사업 개발에 어떤 역할을 하는지 탐색했다.",
+      "importance": 2,
+      "tags": [
+        "가치기반의료",
+        "레지스트리"
+      ]
+    },
+    {
+      "id": "8a4acd9068c9",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "Co-development of a contextually relevant maternity service user feedback tool in Malawi using participatory consensus methods",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "b897c33d1064",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "Outcomes of evidence-based psychotherapy for healthcare workers: a single-arm prospective cohort study",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "b2d98bc53512",
+      "relevant": true,
+      "topic": "건강보험·수가",
+      "title_ko": "고혈압·2형 당뇨 동반 미국 고령자의 본인부담 지출과 사회경제적 요인 (MEPS 2018~2022)",
+      "summary_ko": "복합만성질환 고령자의 본인부담 의료비 결정요인 분석.",
+      "importance": 2,
+      "tags": [
+        "본인부담",
+        "만성질환"
+      ]
+    },
+    {
+      "id": "3375d4c344bb",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "Pharmacy role in the proMotion of continencE (PRIME): a co-production study to develop a pharmacy bladder and bowel service",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "fbdd7e0e4d18",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "A qualitative exploration of community health workers' roles and motivations in delivering care during and after the COVID-19 pandemic: experiences and community perceptions in rural and urban Delhi, India",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "90a67ac0db5d",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "Balancing CO₂ emissions, energy consumption, health expenditure: implications for life expectancy in GCC countries",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "b74139e4bedd",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "Turnover intention and associated factors among employees of regional and city health regulatory bodies in Ethiopia: a cross-sectional study",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "0120be678edb",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "Healthcare workers' perceptions of the potential value of whole-genome sequencing for post-exposure management of rifampicin-resistant tuberculosis: a qualitative study",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "99ff60143e7f",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "Barriers and facilitators to utilisation of KMC among preterm babies on CPAP",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "1f7a8fd3b551",
+      "relevant": true,
+      "topic": "의료인력",
+      "title_ko": "의료분쟁과 의사·의료기사의 이직 의도 — 중국 쉬저우 공공병원",
+      "summary_ko": "의료분쟁 경험이 이직 의도와 연관됨을 1,570명 조사로 보였다.",
+      "importance": 2,
+      "tags": [
+        "의료분쟁",
+        "이직"
+      ]
+    },
+    {
+      "id": "7368fc3fe2f9",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "Exploring underlying factors associated with effective coverage of diabetes care in Iran: a systems thinking approach",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "bee7691f0366",
+      "relevant": true,
+      "topic": "의료전달체계·공공의료",
+      "title_ko": "일차보건의료 내 완화의료 통합 종합지수 개발·타당화 (콜롬비아)",
+      "summary_ko": "33개 지역 단위에서 완화의료 통합 정도를 측정하는 복합지수를 개발했다.",
+      "importance": 2,
+      "tags": [
+        "완화의료",
+        "일차의료"
+      ]
+    },
+    {
+      "id": "c511e0da01b4",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "Mismatch between urban eco-sanitation improvement and health service supply capacity: evidence from Chinese city panel data and interpretable machine learning",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "f87ebb9af5dd",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "Implementation of cardiovascular disease risk prediction scores in Sub-Saharan Africa: a scoping review",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "6c8cfdf1e7da",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "The replica dilemma: older patients' views on virtual models made from their health data-a qualitative study",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "95fae386fcf8",
+      "relevant": true,
+      "topic": "법제·거버넌스",
+      "title_ko": "스웨덴 보건의료 개혁 담론 속 '평등'의 의미 변화",
+      "summary_ko": "두 개혁 문서에서 평등이 어떻게 개인화·탈평등주의적으로 재구성되는지 담론 분석.",
+      "importance": 2,
+      "tags": [
+        "형평성",
+        "개혁 담론"
+      ]
+    },
+    {
+      "id": "0c6b1fdf5681",
+      "relevant": true,
+      "topic": "건강보험·수가",
+      "title_ko": "메디케이드 근로요건(community engagement) — 결정요인으로서의 법 (NEJM)",
+      "summary_ko": "메디케이드 수급 조건으로 도입되는 근로·사회참여 요건의 건강 영향을 법적 결정요인 관점에서 논한 NEJM Perspective(초록 미제공).",
+      "importance": 3,
+      "tags": [
+        "Medicaid",
+        "근로요건"
+      ]
+    },
+    {
+      "id": "3dd02b911a40",
+      "relevant": true,
+      "topic": "건강보험·수가",
+      "title_ko": "메디케어 어드밴티지 위험조정 개혁 — 의회의 시각 (JAMA)",
+      "summary_ko": "민간 관리형 메디케어의 위험조정(코딩 인센티브) 개혁 방향을 상원의원이 제시한 기고(초록 미제공).",
+      "importance": 3,
+      "tags": [
+        "위험조정",
+        "Medicare Advantage"
+      ]
+    },
+    {
+      "id": "b43834d43611",
+      "relevant": true,
+      "topic": "법제·거버넌스",
+      "title_ko": "IOTA 모형 하 신장이식 대기명단 기준의 공개 접근성 (JAMA)",
+      "summary_ko": "미국 신장이식 성과기반 지불 모형(IOTA)에서 이식센터가 공개한 대기명단 기준의 접근성을 점검했다.",
+      "importance": 2,
+      "tags": [
+        "장기이식",
+        "투명성"
+      ]
+    },
+    {
+      "id": "0d991e1d67b5",
+      "relevant": true,
+      "topic": "의료전달체계·공공의료",
+      "title_ko": "미국 일차의료의 커지는 위기 (JAMA 특집)",
+      "summary_ko": "일차의료 인력·재정 위기를 다룬 JAMA 뉴스 특집(초록 미제공).",
+      "importance": 2,
+      "tags": [
+        "일차의료"
+      ]
+    },
+    {
+      "id": "083ecc0343f9",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "경복대, 이탈리아 의료 VR 기업과 AI·디지털헬스케어 협력",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "453cd1144884",
+      "relevant": true,
+      "topic": "건강보험·수가",
+      "title_ko": "외국인 건보 재정 첫 1조 흑자…중국인 가입자는 적자 전환 (중앙일보)",
+      "summary_ko": "지난해 외국인 건강보험 재정수지가 처음 1조원 흑자를 냈지만 중국 국적 가입자는 적자로 돌아섰다는 보도. 같은 날 무상의료운동본부는 국적별 수지 비교가 사회보험 원리를 훼손한다고 반박해 외국인 건보 상호주의 논쟁이 재점화됐다.",
+      "importance": 3,
+      "tags": [
+        "외국인 건강보험",
+        "상호주의",
+        "재정수지"
+      ]
+    },
+    {
+      "id": "4d1fdbc8e9ed",
+      "relevant": true,
+      "topic": "디지털헬스",
+      "title_ko": "건보공단, 107억 투입해 AI 상담·업무지원 고도화 — '업무시간 50% 단축' 목표",
+      "summary_ko": "건보공단이 AI 고객상담 플랫폼(NHIS-CALL)에 음성봇 200채널을 추가하고 임직원 업무비서를 고도화하는 '지능형 AX 고도화 사업'을 발주했다(106.9억원, 240일).",
+      "importance": 2,
+      "tags": [
+        "건보공단",
+        "AI",
+        "민원"
+      ]
+    },
+    {
+      "id": "b0d7aec2c4c6",
+      "relevant": true,
+      "topic": "의료전달체계·공공의료",
+      "title_ko": "울산시·지역 의료기관, 지역필수의료 특별회계·지역필수의료법 시행 대비 협의체 가동",
+      "summary_ko": "2027년 지역필수의료 특별회계 신설과 지역필수의료법 시행을 앞두고 울산시와 권역·지역책임의료기관이 '지역주도 의료공백 해소 지원사업(안)'을 논의했다. 응급·중증환자의 역외 유출을 막기 위한 기관별 역할 구체화가 초점이다.",
+      "importance": 3,
+      "tags": [
+        "지역필수의료 특별회계",
+        "책임의료기관",
+        "울산"
+      ]
+    },
+    {
+      "id": "2d3745cff624",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "한국유나이티드제약, 동남아 항암제 수출 327만불",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "dd15576b5ac0",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "동국제약 이어 생명과학도 변경 ‘DK루오닉스’",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "1ddc176aec67",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "대웅제약, 씽크 대학병원 확산…아주대 342병상 흉부·순환기·응급 등 7개병동 운영…빅5 병원 이어 한양대·전남대도 적용 2026-10-26 16:21",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "26634ffbd109",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "H+양지병원 김용진 “인시투(in situ) 수술법 입증” “복강경 위소매절제술 수술시간 평균 15분 단축·합병증 발생률도 감소” 2026-10-26 16:14",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "9be1d916f4b5",
+      "relevant": true,
+      "topic": "디지털헬스",
+      "title_ko": "제이엘케이 \"AI 협진으로 뇌졸중 전원 결정 19분 단축\" — 이천병원·분당서울대병원 236명 분석",
+      "summary_ko": "지역 병원과 상급병원 간 AI 기반 뇌졸중 협진 플랫폼이 전원 결정 시간을 단축했다는 분석 결과(제목 기반).",
+      "importance": 2,
+      "tags": [
+        "AI 협진",
+        "뇌졸중",
+        "전원"
+      ]
+    },
+    {
+      "id": "9ac28e0c62bc",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "오스템임플란트, 치과 장비 A/S 만족도 ‘1위’ 의사 1000명 조사, 대응 속도·문제 해결·종합만족도 ‘최고 평가’ 2026-10-26 14:49",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "f716cf5ef8ab",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "불면증 강좌 1회 수강했더니…72% “증상 호전” 윤창호 분당서울대병원 교수, 4주 추적조사 결과 평균점수 20% 감소 2026-10-26 14:43",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "f79674e23cb3",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "부산대병원·의대, 미래 ‘지역필수의료 인재’ 양성 의대생 70여명 캠프 개최…정책 현황·직업적 소명 의식 등 공유 2026-10-26 14:14",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "89e5546436ae",
+      "relevant": true,
+      "topic": "감염병·예방",
+      "title_ko": "질병청, ASP 시범사업 3차 연도 참여기관 공모 (데일리메디)",
+      "summary_ko": "청년의사 보도와 같은 내용.",
+      "importance": 1,
+      "tags": [
+        "ASP"
+      ]
+    },
+    {
+      "id": "ea5f5ee1d547",
+      "relevant": true,
+      "topic": "의료인력",
+      "title_ko": "군의관 신규 임관 304명, 전역 예정의 절반도 안 돼 — 국방위 국감서 처우·선발 다변화 촉구",
+      "summary_ko": "올해 군의관 신규 편입은 304명으로 전년(692명) 대비 56% 줄어 전역 예정(745명)에 크게 못 미친다. 현역병 18개월 대비 39개월에 이르는 복무기간 격차가 원인으로 지목됐고, 유영하 의원은 복무기간 단축·보수 인상·장기복무 유인책을, 국방장관은 종합 검토를 언급했다.",
+      "importance": 3,
+      "tags": [
+        "군의관",
+        "의료인력",
+        "국정감사"
+      ]
+    },
+    {
+      "id": "3e481aacf8ed",
+      "relevant": true,
+      "topic": "의료전달체계·공공의료",
+      "title_ko": "분만병원 폐업 심각 — \"분만실 유지비 최소 1억\" (데일리메디)",
+      "summary_ko": "산부인과의사회 기자간담회 보도. 분만기관이 1곳만 남은 지역 60곳 선지원 제안.",
+      "importance": 2,
+      "tags": [
+        "분만 인프라"
+      ]
+    },
+    {
+      "id": "a1c93ef24ba9",
+      "relevant": true,
+      "topic": "법제·거버넌스",
+      "title_ko": "경기도의사회, 의협 상대 회칙 개정 인준 소송 승소 — 법원 \"인준 거부는 재량권 남용\"",
+      "summary_ko": "서울서부지법이 의협의 경기도의사회 회칙 개정안 인준 거부를 재량권 일탈·남용으로 판단해 인준 이행을 명령했다. 의료단체 내부 거버넌스에 대한 사법 판단 사례다.",
+      "importance": 2,
+      "tags": [
+        "의협",
+        "거버넌스",
+        "판결"
+      ]
+    },
+    {
+      "id": "91cbb185bd85",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "동정 대한신경외과학회 신임 이사장 장재칠(순천향대서울병원)",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "7018fc5d146b",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "모집 심평원, 2026년 진료협력 우수사례 공모",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "eb05e6e54a84",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "선정 지영민 교수(순천향대서울병원 가정의학과), 亞·오세아니아 비만학술대회 라이징스타",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "3a1d5d327768",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "동아제약 경영지원실 상무 여균형·동아ST 영업본부 상무 조상욱·에스티팜 생산본부 공장장 최용락外",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "a120943fb221",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "국립부곡병원 김유석 신임원장",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "a0968f97cfc3",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "국립보건연구원 국립감염병연구소장 이근화",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "5d3dadd9cd71",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "한국원자력의학원 방사선의학연구소장 배인화",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "0ea488a76b4c",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "이준원 교수(강남세브란스병원 안과) 장인상",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "b9d4200b869e",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "정일성 원장(군산 정일성정신과의원) 모친상",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "b39a9a8cad5e",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "홍현식 홍비뇨의학과원장 빙모상",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "cf40f7cbd026",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "(주)데일리메디 사무실 이전",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "ab212a92b261",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "(주)데일리메디 2024 경력기자 및 신입기자 모집",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "4342674e3395",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "강스템바이오텍, 무릎 골관절염 신약 2a상서 통증 개선 확인",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "7714d00c550c",
+      "relevant": true,
+      "topic": "법제·거버넌스",
+      "title_ko": "대통령 주재 규제합리화위원회 제2차 전체회의 — 복지부 소관 규제 개선 보고",
+      "summary_ko": "규제합리화위원회 2차 전체회의 관련 복지부 보도자료. 바이오헬스 규제 완화 안건이 포함됐다.",
+      "importance": 2,
+      "tags": [
+        "규제합리화위원회"
+      ]
+    },
+    {
+      "id": "64fa91be43ff",
+      "relevant": true,
+      "topic": "약가·의약품·기기",
+      "title_ko": "자가면역세포 치료 위험도 하향, 불필요 심의 면제 — '선진국 수준'으로 바이오헬스 규제 완화",
+      "summary_ko": "대통령 주재 규제합리화위원회 제2차 전체회의에서 복지부가 자가면역세포치료의 위험도 등급 하향, 불필요한 심의 면제 등 첨단재생의료·바이오헬스 규제 완화 방안을 보고했다(10/23 보도자료). 세포·유전자치료 접근성과 안전관리 간 균형이 쟁점이 될 수 있다.",
+      "importance": 4,
+      "tags": [
+        "첨단재생의료",
+        "규제 완화",
+        "규제합리화위원회"
+      ]
+    },
+    {
+      "id": "540da62fee56",
+      "relevant": true,
+      "topic": "돌봄·장기요양",
+      "title_ko": "발달장애인 돌봄 국가책임제, 현장과 함께 추진",
+      "summary_ko": "복지부가 발달장애인과 가족의 일상 변화를 목표로 한 '발달장애인 돌봄 국가책임제'를 현장 의견을 반영해 추진한다고 밝혔다(10/23 보도자료, 제목 기반).",
+      "importance": 3,
+      "tags": [
+        "발달장애인",
+        "돌봄 국가책임제"
+      ]
+    },
+    {
+      "id": "d68c88a10fae",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "치료 어려운 말기 대장암 환자, 맞춤형 면역세포로 치료 가능성 모색",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "f3db97a5683a",
+      "relevant": true,
+      "topic": "의료전달체계·공공의료",
+      "title_ko": "섬에서 육지까지 — 복지부, 충남 지역 의료 현장 목소리 듣는다",
+      "summary_ko": "복지부가 충남 도서·농어촌 지역 의료 현장을 방문해 의견을 수렴했다(10/22 보도자료, 제목 기반).",
+      "importance": 2,
+      "tags": [
+        "지역의료",
+        "현장 방문"
+      ]
+    },
+    {
+      "id": "3c8a62c59665",
+      "relevant": true,
+      "topic": "약가·의약품·기기",
+      "title_ko": "복지부, 의약분업 원칙 위반해 비만치료 자가주사제 원내 조제·판매하는 병·의원 조사",
+      "summary_ko": "보건복지부가 GLP-1 계열 비만치료 자가주사제를 원외처방 없이 원내에서 조제·판매하는 병·의원에 대한 조사에 나선다고 밝혔다(10/22 보도자료, 제목 기반). 비만치료제 수요 급증 속 의약분업 원칙과 약사법 준수를 점검하는 조치다.",
+      "importance": 4,
+      "tags": [
+        "비만치료제",
+        "의약분업",
+        "원내조제",
+        "복지부"
+      ]
+    },
+    {
+      "id": "29fa0006ce6a",
+      "relevant": true,
+      "topic": "기타",
+      "title_ko": "복지부, '소득과 지역에 따라 차이 나는 건강수명' 원인과 해결책 모색",
+      "summary_ko": "보건복지부가 소득수준·지역에 따른 건강수명 격차의 원인과 대응 방안을 논의하는 자리를 마련했다(10/22 보도자료, 제목 기반). 건강형평성 지표를 정책 목표로 삼는 흐름으로, 지역필수의료 재정 배분 논의와 맞닿아 있다.",
+      "importance": 4,
+      "tags": [
+        "건강수명",
+        "건강형평성",
+        "지역 격차"
+      ]
+    },
+    {
+      "id": "f783cbb3d45d",
+      "relevant": true,
+      "topic": "법제·거버넌스",
+      "title_ko": "문신사법 시행 앞두고 '문신업소 설문조사' 실시",
+      "summary_ko": "복지부가 문신사법 시행을 앞두고 현장 실태 파악을 위한 문신업소 설문조사에 나선다(10/22 보도자료). 비의료인 문신 시술 합법화 이후 위생·안전관리 체계 설계의 기초 자료가 된다.",
+      "importance": 3,
+      "tags": [
+        "문신사법",
+        "실태조사"
+      ]
+    },
+    {
+      "id": "a9f1b2b3f4bd",
+      "relevant": true,
+      "topic": "법제·거버넌스",
+      "title_ko": "2025년 사회보장기본계획 120개 세부과제 추진실적 점검·평가 — 제5차 사회보장 평가전문위원회",
+      "summary_ko": "복지부가 사회보장기본계획 세부과제의 2025년 추진실적을 점검·평가했다(10/22 보도자료, 제목 기반). 사회보장 정책의 성과관리 체계 운영 현황을 보여준다.",
+      "importance": 3,
+      "tags": [
+        "사회보장기본계획",
+        "성과평가"
+      ]
+    },
+    {
+      "id": "fe96339139ff",
+      "relevant": true,
+      "topic": "돌봄·장기요양",
+      "title_ko": "WHO·코크란 등 글로벌 전문기구, 통합돌봄에서 재활의 역할과 전략 논의",
+      "summary_ko": "복지부가 WHO·코크란 등과 함께 통합돌봄 체계에서 재활의 역할을 논의하는 국제 행사를 열었다(10/22 보도자료, 제목 기반).",
+      "importance": 2,
+      "tags": [
+        "통합돌봄",
+        "재활"
+      ]
+    },
+    {
+      "id": "89d3e482b406",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "2011년 달라지는 보건복지부",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "6f7dc7be71db",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "[보도설명자료][10.23.금 동아일보] 소득 없는 전업주부도 국민연금 가입 추진 관련",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "c061e895ff1e",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "\"기관 간 이견으로 멈춘 정관변경허가 민원, 반복되지 않도록 관련 절차 개선해야\"",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "7d6d9978f403",
+      "relevant": true,
+      "topic": "디지털헬스",
+      "title_ko": "[복지부 보도설명] \"비대면 초진 처방 최대 7일\" 개정안 반발 보도 관련",
+      "summary_ko": "매일경제의 '비대면 초진 처방은 최대 7일, 업계·환자 반발' 보도에 대해 복지부가 10/23 보도설명자료를 냈다(제목 기반). 의료법 시행규칙 입법예고안의 초진 처방일수 제한을 둘러싼 플랫폼 업계·환자단체와 약사회의 상반된 반발 속에 정부가 입장을 밝힌 것이다.",
+      "importance": 4,
+      "tags": [
+        "비대면진료",
+        "초진 처방",
+        "보도설명"
+      ]
+    },
+    {
+      "id": "7c8b0e7ace08",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "병원비 때문에 시작된 남매의 눈치싸움 - 영상 | 멀티미디어",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "aca832185d5e",
+      "relevant": true,
+      "topic": "법제·거버넌스",
+      "title_ko": "규제합리화위원회 제2차 전체회의 개최 (정책브리핑)",
+      "summary_ko": "정책브리핑 전재본.",
+      "importance": 1,
+      "tags": [
+        "규제합리화위원회"
+      ]
+    },
+    {
+      "id": "af9061fa50b1",
+      "relevant": true,
+      "topic": "약가·의약품·기기",
+      "title_ko": "바이오헬스 규제 빗장 푼다 — 자가면역세포 치료 위험도 하향 (정책브리핑)",
+      "summary_ko": "복지부 10/23 보도자료의 정책브리핑 전재본.",
+      "importance": 2,
+      "tags": [
+        "첨단재생의료"
+      ]
+    },
+    {
+      "id": "e376d9533980",
+      "relevant": true,
+      "topic": "돌봄·장기요양",
+      "title_ko": "보험업권·복지부 산하 노인지원기관, 취약 어르신 65만 명에 낙상 치료비·치매배상책임보험 무료 제공",
+      "summary_ko": "보험업권과 복지부 산하 노인지원기관이 협력해 취약계층 노인 65만 명에게 낙상사고 치료비와 치매배상책임보험을 무상 제공한다(10/25 정책브리핑, 제목 기반). 민간보험을 활용한 노인 안전망 보완 사례다.",
+      "importance": 3,
+      "tags": [
+        "노인 낙상",
+        "치매배상책임보험",
+        "민관협력"
+      ]
+    },
+    {
+      "id": "2e2d7ed8a0e5",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "취향을 짓다 - 영상 | 멀티미디어",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "16f81ae8847d",
+      "relevant": true,
+      "topic": "건강보험·수가",
+      "title_ko": "[복지부 보도설명] 한국일보 '원가 14만원 팔 땐 132만원…건보료 새는 소리' 보도 관련",
+      "summary_ko": "건강보험 재정 누수를 지적한 한국일보 보도에 대한 복지부의 10/26 보도설명자료(제목 기반). 치료재료·약제 가격 결정 구조의 투명성 논란과 연결된다.",
+      "importance": 3,
+      "tags": [
+        "건강보험 재정",
+        "보도설명"
+      ]
+    },
+    {
+      "id": "f49fdcf14661",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "「국제상사중재위원회(ICCA) 2030 총회」 서울 유치 확정",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "1f7b61de80b9",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "이재명 대통령 주재 초안전사회 범정부 대응회의 관련 강유정 수석대변인 서면 브리핑",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "084a69bef21b",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "농어촌민박 제도개선 및 바가지요금 근절대책 이행을 위한 ｢도시와 농어촌 간의 교류촉진에 관한 법률｣ 개정안 공포",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "c70b3d204d92",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "김혜경 여사, 오월어머니집 전·현직 임원 초청 오찬 간담회 관련 안귀령 부대변인 서면브리핑",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "2b580994b022",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "무분별한 벌떼 입찰 근절",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "265bbb5eb12d",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "이 대통령 \"강력범죄, 사후 대응 넘어 사전 예방으로 대대적 전환해야\"",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "289fe14b91a5",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "정부 '내년 지출효율화 TF' 조기 가동…국민참여단 청년 비중 40%로",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "a16e0325a907",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "외교부, 청년·지방자치단체 등 국민과 함께 공공외교의 발전 방향 논의",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "414042502640",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "[정책 바로보기] 소방관 순직 재발방지 대책은? - 정책뉴스 | 뉴스",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "5c330f6522cc",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "[정책 바로보기] 정보보호 공시제도, 해킹 악용 우려? - 정책뉴스 | 뉴스",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "64fb2e7a5aec",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "[보도자료] 규제합리화위원회 제2차 전체회의",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "8de5460bc19b",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "해외 우수 한식당 5년간 1000곳으로 확대…지정제 개편·맞춤형 지원",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "51546355a33f",
+      "relevant": true,
+      "topic": "돌봄·장기요양",
+      "title_ko": "[정책브리핑 오피니언] 지역사회 통합돌봄, 이제는 지역 격차 줄일 때",
+      "summary_ko": "통합돌봄 시행을 앞두고 지역 간 인프라·재정 격차를 줄여야 한다는 정책브리핑 기고(제목 기반).",
+      "importance": 2,
+      "tags": [
+        "통합돌봄",
+        "지역 격차"
+      ]
+    },
+    {
+      "id": "2170acf27954",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "안전을 듣다 : 한국원자력통제기술원 이영욱 핵비확산 센터장 - 영상 | 멀티미디어",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "462abe1cb8d7",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "가을의 끝자락에 만난 도토리 - 영상 | 멀티미디어",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "7bc53c1bbf2a",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "위 건강에 안성맞춤! 산속의 장어 '마' - 영상 | 멀티미디어",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "5ac8b2e00b0f",
+      "relevant": true,
+      "topic": "감염병·예방",
+      "title_ko": "식약처, 감미료 사용 저당 식품의 혈당 관련 기능성 표시 제한 (정책브리핑)",
+      "summary_ko": "경향신문 보도와 같은 내용의 식약처 보도자료.",
+      "importance": 2,
+      "tags": [
+        "식약처",
+        "표시 규제"
+      ]
+    },
+    {
+      "id": "7372804d418f",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "한일 재계회의 대표단 접견 - 포토 | 멀티미디어",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "edf11c08db7f",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "상상이 현실이 되는 하루, 국립중앙과학관 「2026 메이커 PLAY」 31일 개최",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "71a6c056bb63",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "[설명] 주택구입 자금조달 구성 변화는 갭투자 감소 등에 따른 것입니다.",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "5f18426e7759",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "'해외직구, 신속하게 통관'…관세청, 전용 플랫폼 정식 개통",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "d0e063a57e58",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "(설명) 경향신문(온라인), \"임금체불로 고용허가 취소돼도...1년 못 채운 이주노동자 퇴직적립금, 사업주에게 간다\" 기사 관련",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "2126aa18f7fe",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "(동정) 남재헌 차관, 노르웨이 통상산업수산부 수산해양정책장관과 면담",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "cee42a80340a",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "금융이력 부족한 고객도 보증금 기반 비대면 신용카드 발급 - 카드/한컷 | 멀티미디어",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "a5bfd5b32c37",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "(설명) MBC, \"업주말만 듣다 2,100만원 체불누락. 피해자 두 번 울린 구멍난 근로감독\" 기사 관련",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "4ffa6729b125",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "동부지방산림청, 현장의 '아차사고'에서 중대재해 예방 해법 찾는다",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "33477825ea4b",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "공공디자인 페스티벌 2026 - 카드/한컷 | 멀티미디어",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "6294cb0e1223",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "폴리텍대학, 부산 벡스코(BEXCO)서 동남권 청년 취업 지원 나선다",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "f4fc2a785bb3",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "가을비·태풍 영향 농작업 지연 우려…농작물 사전 관리 당부",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "fb8d57dcd57e",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "가축전염병 보상 강화, 국경검역·현장방역 기반 확충",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "283e29e0b766",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "성범죄자 취업제한 '사각지대' 원천 차단…기관 간 연계시스템 구축",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "361a379f52ad",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "군 경력도 사회로 잇다…국군 장병 우리 아들, 알찬 군 생활을 응원해!",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "577e68eecf75",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "[정책 바로보기] 미처리 민원 5년간 2천건? - 정책뉴스 | 뉴스",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "28946f057f72",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "이 대통령 \"농어업은 생존 위한 안보·전략산업…일방적 손실·피해 강요 안 돼\"",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "b1d22073db43",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "과기정통부 정례브리핑",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "ffe640af27a7",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "박물관 열린 마당에서 한복의 향연, '빛을 품은 한복'",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "af714f9f9949",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "농촌진흥청 정례브리핑",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "85ff2a458207",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "국민과 함께 성장하는 새만금청, SNS 대상 최우수상 수상",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "12121af7b848",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "농어촌민박사업 진입 요건 완화…요금 신고·준수 의무화",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "10330dc2d654",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "전 세계 해운·조선 분야 리더 부산에 모인다",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "ae46ad6f35f8",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "더 다양해진 국민비서 서비스를 만나보세요! - 카드/한컷 | 멀티미디어",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "4a3a645f8cfd",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "자율주행의 다음 목적지, 실증을 넘어 상용화로! - 카드/한컷 | 멀티미디어",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "8342819f5849",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "경찰대학, 치안데이터와 현장 연구로 '안전한 인천'의 해법 모색",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "ba666d526b8f",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "관세청, 해외직구 전용 통관 플랫폼 정식 개통",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "153b0a9a747d",
+      "relevant": true,
+      "topic": "기타",
+      "title_ko": "병원기반 인간 마이크로바이옴 연구 후속 사업 공청회 (질병청)",
+      "summary_ko": "메디파나 보도와 같은 공청회의 질병청 보도자료.",
+      "importance": 2,
+      "tags": [
+        "보건 R&D"
+      ]
+    },
+    {
+      "id": "b480a9a3cfe9",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "[10.27.화.조간] 쉽게 낫지 않는 소아 식품 알레르기, 태반의 유전자 조절 변화와 관련",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "e5ba4b0fe3ff",
+      "relevant": true,
+      "topic": "감염병·예방",
+      "title_ko": "질병관리청-대한예방의학회, 감염병 인포데믹 관리 업무협약",
+      "summary_ko": "감염병 관련 허위·과잉 정보(인포데믹) 관리를 위해 질병청과 예방의학회가 협력하기로 했다(10/23).",
+      "importance": 2,
+      "tags": [
+        "인포데믹",
+        "위기소통"
+      ]
+    },
+    {
+      "id": "e17a91697455",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "질병관리청-대한예방의학회, 감염병 인포데믹 관리를 위한 업무협약 체결(10.23.금)",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "6bc0357b9433",
+      "relevant": true,
+      "topic": "감염병·예방",
+      "title_ko": "질병청, 항생제 적정사용 관리(ASP) 시범사업 1차 연도 성과공유회 개최",
+      "summary_ko": "질병관리청이 10/22 ASP 시범사업 1차 연도 성과공유회를 열었다(제목 기반). 같은 주 3차 연도 참여기관 공모와 항생제 사용량 OECD 2위 통계가 이어지며 ASP 확대의 근거와 과제가 함께 드러났다.",
+      "importance": 3,
+      "tags": [
+        "ASP",
+        "항생제 내성",
+        "질병관리청"
+      ]
+    },
+    {
+      "id": "343a293ad9af",
+      "relevant": true,
+      "topic": "감염병·예방",
+      "title_ko": "질병청, '국민의 건강과 일상을 지키는 사회대응' 전문가와 매월 논의",
+      "summary_ko": "질병관리청이 감염병 사회대응 전문가 협의체를 매월 운영한다고 밝혔다(10/22, 제목 기반).",
+      "importance": 2,
+      "tags": [
+        "감염병 대응",
+        "거버넌스"
+      ]
+    },
+    {
+      "id": "53c79c6d4082",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "진드기 예방수칙과 함께 안전한 야외활동 즐기세요 - 영상 | 멀티미디어",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "31a0c9a8678c",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "2023년 국가병원체자원은행 연보",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "dbe7edeb0c2d",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "왕 앞에 모인 호위군, 조선의 군사의례 '첩종' 재현",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "4ba0a83278c1",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "'26.10월 국고채 「모집 방식 비경쟁인수」 발행 미실시",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "2a1bbab22119",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "베트남 진출 기업들을 위한 법률 안내서 나온다",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "d835fb4f0d0d",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "컨설팅 경험에서 제도 실행까지, 2026년 일터혁신 리더스 클럽 개최",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "e4906fcc609c",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "조달청 시설공사 주간('26.10.26.~'26.10.30.)입찰 동향",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "ab8076b2f319",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "3기 신도시 교통대책 '직접 인？허가'로 속도 높인다",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "b7dd2b0eab54",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "이재명 대통령, 한일 재계회의 일본측 대표단 접견 관련 김성완 대변인 서면 브리핑",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "fec03f68d09a",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "핼러윈 앞두고 다중운집인파 안전관리 총력 대응 - 카드/한컷 | 멀티미디어",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "3c8b9287377a",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "산림청, 칠레에 산불대응 시스템 및 정책 공유",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "23b49150e02b",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "[설명] 매입임대 주택이 실수요자에게 공급될 수 있도록 공실관리 등 적극 노력 중입니다",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "005067abedfe",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "함께 한 땀방울, 하나된 열정! 제19회 전국 학교스포츠클럽 축전 개최",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "fcedb79464b8",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "개인정보위 \"PHP 보안 취약점 주의\"…개인정보 보호조치 당부",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "b1852b8f7c8c",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "한성숙 총리 \"도심 내 가용부지 추가 발굴, 주택공급에 적극 활용\"",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "abfbcc9d89f7",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "행안부, 태풍 '참피'·호우 대비 강풍 취약시설 사전 점검 지시",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "5d38f834444b",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "전국에서 빛난 창업 아이디어, 더 큰 도전을 이어갑니다! - 카드/한컷 | 멀티미디어",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "af7e8f804011",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "이 대통령 \"우리 경제 새로운 도약 기회…국민 체감할 수 있도록 전력\"",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "a5c06399d980",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "(동정) 황종우 해수부 장관, 원양 업계와 지속 가능한 발전 방안 논의",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "c2d13fcc64e3",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "국산목재, 공공분야가 앞장서서 쓴다··· '국유림법' 개정 시행",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "7900f2b80fc4",
+      "relevant": true,
+      "topic": "디지털헬스",
+      "title_ko": "심평원, 빅데이터·AI 창업경진대회 수상팀과 KIMES BUSAN 참여 (보도자료)",
+      "summary_ko": "라포르시안 보도와 같은 내용.",
+      "importance": 1,
+      "tags": [
+        "심평원"
+      ]
+    },
+    {
+      "id": "1a139310222c",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "심평원 경기남부본부, 장애 청소년의 구강건강 안전망 구축을 위한 ‘SMILE GATE’ 추진",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "ea2211c16ec2",
+      "relevant": false,
+      "topic": "기타",
+      "title_ko": "심평원 제주본부, 도서지역 취약계층 건강 돌봄 지원",
+      "summary_ko": "",
+      "importance": 1,
+      "tags": []
+    },
+    {
+      "id": "0e3e58c3f5e4",
+      "relevant": true,
+      "topic": "의료전달체계·공공의료",
+      "title_ko": "심평원, 상급종합병원 구조전환 참여기관 대상 '2026년 진료협력 우수사례 공모전'",
+      "summary_ko": "상급종합병원 구조전환 지원사업 참여 상급종합병원·진료협력병원을 대상으로 의뢰·회송, 2차 병원 역할 강화 사례를 공모한다(10/26~11/13).",
+      "importance": 2,
+      "tags": [
+        "상급종합병원 구조전환",
+        "진료협력"
+      ]
     }
   ],
   "synthesis": {
@@ -2144,7 +4162,7 @@
       },
       {
         "title": "지역의료 인력·인프라: 지역의사제 '교육 공백'과 분만실 고정비 지원 요구",
-        "description": "2027학년도부터 연 490명을 뽑는 지역의사제를 앞두고 의대들이 지역 임상실습망을 각자 구축하고 있으며, 예방의학회 학술대회에서는 선발·복무에만 집중하고 교육·정착 지원이 비어 있다는 비판이 잇따랐다. 윤석준 이사장은 지역의료 위기를 지역소멸의 결과로 보고 의료전달체계 개선과 대기비용 보상을 병행하라고 했다. 인프라 쪽에서는 산부인과의사회가 분만기관 34% 감소를 근거로 건수 기반 수가 대신 분만실 유지 고정비 지원을, 특히 분만기관이 한 곳뿐인 60개 지역 우선 지원을 요구했다. 인력 양성과 지역 인프라 유지 재정을 함께 설계해야 한다는 메시지가 공통된다.",
+        "description": "2027학년도부터 연 490명을 뽑는 지역의사제를 앞두고 의대들이 지역 임상실습망을 각자 구축하고 있으며, 예방의학회 학술대회에서는 선발·복무에만 집중하고 교육·정착 지원이 비어 있다는 비판이 잇따랐다. 윤석준 이사장은 지역의료 위기를 지역소멸의 결과로 보고 의료전달체계 개선과 대기비용 보상을 병행하라고 했다. 인프라 쪽에서는 산부인과의사회가 분만기관 34% 감소를 근거로 건수 기반 수가 대신 분만실 유지 고정비 지원을, 특히 분만기관이 한 곳뿐인 60개 지역 우선 지원을 요구했다. 인력 양성과 지역 인프라 유지 재정을 함께 설계해야 한다는 메시지가 공통된다. 울산에서는 2027년 지역필수의료 특별회계·지역필수의료법 시행에 대비한 협의체가 가동됐고, 국방위 국감에서는 군의관 신규 임관이 전역 예정의 절반에도 못 미친다는 인력 공백이 제기됐다.",
         "item_ids": [
           "4f9cca848ad6",
           "dbbd2956b268",
@@ -2154,7 +4172,9 @@
           "51481e168b65",
           "7a4717211bd1",
           "71fef6bc62c6",
-          "37aef9949dbc"
+          "37aef9949dbc",
+          "b0d7aec2c4c6",
+          "ea5f5ee1d547"
         ]
       },
       {
@@ -2167,12 +4187,13 @@
       },
       {
         "title": "항생제 내성 경고음 — CRE 급증, 사용량 OECD 2위, ASP 병원급 확대",
-        "description": "국정감사 자료에서 2024년 항생제 사용량이 3년 새 1.7배 늘어 OECD 2위, CRE 감염 신고 4만9천 건 중 70%가 70대 이상으로 나타났다. 질병청은 2024년 11월 시작한 항생제 적정사용관리(ASP) 시범사업 3차 연도 참여기관을 공모하며 병원급 확대를 예고했고, 보험연구원은 AMR을 건강보험과 민간보험 모두의 구조적 위험으로 규정했다. JKMS에 실린 전국 ASP 조사는 시범사업 참여가 대형·수도권 병원에 치우치고 중소·지방 병원은 인력·재정 지원이 거의 없음을 보여줘, 확대 과정에서 격차 해소가 관건임을 시사한다.",
+        "description": "국정감사 자료에서 2024년 항생제 사용량이 3년 새 1.7배 늘어 OECD 2위, CRE 감염 신고 4만9천 건 중 70%가 70대 이상으로 나타났다. 질병청은 2024년 11월 시작한 항생제 적정사용관리(ASP) 시범사업 3차 연도 참여기관을 공모하며 병원급 확대를 예고했고, 보험연구원은 AMR을 건강보험과 민간보험 모두의 구조적 위험으로 규정했다. JKMS에 실린 전국 ASP 조사는 시범사업 참여가 대형·수도권 병원에 치우치고 중소·지방 병원은 인력·재정 지원이 거의 없음을 보여줘, 확대 과정에서 격차 해소가 관건임을 시사한다. 질병청은 10/22 1차 연도 성과공유회도 열어 확대의 근거를 공유했다.",
         "item_ids": [
           "c9c272ddc624",
           "2dcc3303b27d",
           "3d60e7929c1e",
-          "5d9d068084df"
+          "5d9d068084df",
+          "6bc0357b9433"
         ]
       },
       {
@@ -2199,19 +4220,35 @@
       },
       {
         "title": "비대면진료 제도화 후속 규제 — 플랫폼 처분 기준 입법예고 vs 약사회 철회 요구",
-        "description": "12월 24일 시행되는 개정 의료법에 맞춰 복지부가 비대면진료 중개 플랫폼을 행정처분 대상에 포함하고 환자정보 영리 제공 시 최대 운영 자격 취소까지 규정한 규칙 개정안을 입법예고했다. 반면 실천하는 약사회는 시행규칙안이 초진 처방 예외와 약 배송, 플랫폼 이용을 검증 없이 제도권으로 끌어들였다며 전면 철회를 요구했다. 공공 시스템 가동 시점이 확정되지 않은 상태에서 본인확인·처방전 진위 확인 책임이 현장에 전가된다는 우려가 핵심이다.",
+        "description": "12월 24일 시행되는 개정 의료법에 맞춰 복지부가 비대면진료 중개 플랫폼을 행정처분 대상에 포함하고 환자정보 영리 제공 시 최대 운영 자격 취소까지 규정한 규칙 개정안을 입법예고했다. 반면 실천하는 약사회는 시행규칙안이 초진 처방 예외와 약 배송, 플랫폼 이용을 검증 없이 제도권으로 끌어들였다며 전면 철회를 요구했다. 공공 시스템 가동 시점이 확정되지 않은 상태에서 본인확인·처방전 진위 확인 책임이 현장에 전가된다는 우려가 핵심이다. 복지부는 '초진 처방 최대 7일' 보도에 보도설명자료를 내 입장을 밝혔다.",
         "item_ids": [
           "4df38b71ded2",
-          "4bc49107ca9f"
+          "4bc49107ca9f",
+          "7d6d9978f403"
+        ]
+      },
+      {
+        "title": "복지부 주간 동향: 바이오헬스 규제 완화와 비만치료제 원내조제 단속, 건강수명 격차 의제화",
+        "description": "지난주(10/22~23) 복지부 보도자료가 이번 수집에 들어왔다. 대통령 주재 규제합리화위원회에서는 자가면역세포치료 위험도 하향과 불필요 심의 면제 등 첨단재생의료 규제 완화를 보고한 반면, 같은 주 의약분업 원칙을 어기고 비만치료 자가주사제를 원내 조제·판매하는 병·의원 조사에 착수해 '완화와 단속'이 동시에 진행됐다. 소득·지역별 건강수명 격차의 원인과 해결책을 논의하는 자리도 마련됐는데, 같은 주 JAMA Health Forum(미국 카운티 자산 불평등과 사망률)과 Lancet Public Health(잉글랜드 남북 사망률 격차 1981~2024)에 실린 연구와 문제의식이 겹친다. 발달장애인 돌봄 국가책임제, 문신사법 시행 대비 실태조사, 사회보장기본계획 성과평가도 함께 발표됐다.",
+        "item_ids": [
+          "64fa91be43ff",
+          "3c8a62c59665",
+          "29fa0006ce6a",
+          "6c8ff978f94b",
+          "4d3e7de51f20",
+          "540da62fee56",
+          "f783cbb3d45d",
+          "a9f1b2b3f4bd",
+          "e376d9533980"
         ]
       }
     ],
     "notable_papers": [
       "aea731bfc7a4",
+      "7a1660c5c122",
       "5d9d068084df",
       "cae1b29b4e36",
-      "82eec52f5463",
-      "98ba77fd3980"
+      "51a9879f5f49"
     ],
     "policy_outlook": "연말 국정감사 후속 국면에서 심평원·건보공단이 예고한 신약 급여 평가체계(ICER·위험분담제·약가유연계약) 개편과 관리급여 세부 기준이 구체화되면서 재정 관리와 접근성·보상 사이의 조정이 본격화될 전망이다. 지역의사제 첫 선발(2027학년도)과 비대면진료 제도 시행(12월 24일)을 앞두고 교육·정착 지원과 공공 시스템 구축 등 후속 인프라가 제때 갖춰지는지가 관건이다. 돌봄 영역에서는 요양병원 사회적 입원 추계와 65세 장애인 활동지원 합헌 결정이 통합돌봄 전환기의 경계 설정 논쟁을 예고한다.",
     "research_ideas": [
@@ -2279,6 +4316,18 @@
           "dbbd2956b268",
           "75bf8667f664",
           "37aef9949dbc"
+        ]
+      },
+      {
+        "title": "소득·지역별 건강수명 격차의 분해와 지역필수의료 특별회계 배분 기준",
+        "question": "한국의 소득분위·시군구별 건강수명 격차는 의료 접근성(분만·응급·필수의료 인프라), 건강행태, 사회경제적 요인 중 무엇으로 얼마나 설명되며, 2027년 신설되는 지역필수의료 특별회계를 격차 지표에 연동해 배분하면 어떤 지역이 얼마나 더 받게 되는가?",
+        "rationale": "복지부가 소득·지역별 건강수명 격차를 의제로 올렸고, 같은 주 JAMA Health Forum과 Lancet Public Health에 지역 불평등과 사망률 격차 연구가 실렸다. 특별회계 배분 기준 설계가 임박한 시점이어서 격차 지표의 정책 활용 가능성을 검증할 필요가 있다.",
+        "approach": "국민건강보험공단 건강검진·자격 코호트와 통계청 사망원인자료로 시군구×소득분위 건강수명을 산출하고 Oaxaca-Blinder/Shapley 분해; 응급·분만·필수의료 접근성 지표(NEDIS, 심평원 기관 분포)와 연계해 특별회계 배분 시나리오를 시뮬레이션.",
+        "item_ids": [
+          "29fa0006ce6a",
+          "6c8ff978f94b",
+          "4d3e7de51f20",
+          "b0d7aec2c4c6"
         ]
       }
     ]
