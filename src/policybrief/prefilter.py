@@ -57,13 +57,29 @@ class KeywordFilter:
         return [it for it in items if self.matches(it)]
 
 
+_TITLE_NORM_RE = re.compile(r"[\s\W_]+")
+
+
+def title_key(title: str) -> str:
+    return _TITLE_NORM_RE.sub("", title).lower()
+
+
 def dedupe(items: list[Item]) -> list[Item]:
-    """같은 실행 안에서 URL이 겹치는 항목을 제거한다 (먼저 온 것을 남김)."""
+    """같은 실행 안에서 URL이 겹치는 항목을 제거한다 (먼저 온 것을 남김).
+
+    정부·공공기관 자료는 기관 사이트 원본과 정책브리핑 전재본이 서로 다른 URL로 들어오므로 제목으로도 합친다.
+    """
     seen: set[str] = set()
+    seen_titles: set[str] = set()
     out: list[Item] = []
     for item in items:
         if item.id in seen:
             continue
+        if item.category == "gov":
+            key = title_key(item.title)
+            if key in seen_titles:
+                continue
+            seen_titles.add(key)
         seen.add(item.id)
         out.append(item)
     return out

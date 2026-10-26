@@ -40,6 +40,7 @@ def _clean_title(text: str) -> str:
     text = text.replace("\u200b", "")
     if "\ufeff" in text:
         text = text.split("\ufeff", 1)[0]
+    text = re.sub(r"^(?:새글|새 글|NEW|new|N)\s+", "", text.strip())
     return text.strip()
 
 

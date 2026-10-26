@@ -60,12 +60,15 @@ def parse_feed(source: Source, raw: bytes, now: datetime) -> list[Item]:
             raise ValueError(f"feed parse error: {feed.get('bozo_exception')}")
 
     cutoff = now - timedelta(hours=source.lookback_hours)
+    is_gnews = "news.google." in (source.url or "")
     items: list[Item] = []
     for entry in feed.entries:
         link = entry.get("link")
         title = clean_text(entry.get("title"))
         if not link or not title:
             continue
+        if is_gnews and " - " in title:
+            title = title.rsplit(" - ", 1)[0].strip()   # 'headline - 매체명' 꼬리 제거
         published = _entry_datetime(entry)
         # 발행 시각이 없는 항목은 현재 시각으로 간주하고, 창 밖 항목은 버린다.
         if published is not None and published < cutoff:

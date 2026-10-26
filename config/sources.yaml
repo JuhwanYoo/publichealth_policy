@@ -36,7 +36,7 @@ defaults:
     kind: rss
     category: gov
     lang: ko
-    lookback_hours: 48
+    lookback_hours: 120     # 보도자료는 주말 공백이 있어 5일; 중복은 seen.json 이 막는다
     prefilter: none
     fetch_fulltext: false
     max_items: 60

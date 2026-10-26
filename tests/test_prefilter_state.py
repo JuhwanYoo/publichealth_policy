@@ -40,3 +40,14 @@ def test_seen_state_roundtrip_and_prune(tmp_path, now):
     assert "old" in st2 and "new" in st2
     st2.prune(now)
     assert "old" not in st2 and "new" in st2
+
+
+def test_dedupe_merges_gov_items_by_title():
+    a = Item(id="a", source_id="mohw", source_name="복지부", category="gov", lang="ko",
+             title="의약분업 원칙 위반해 비만치료 자가주사제 원내 조제·판매하는 병·의원 조사한다", url="https://mohw.test/1")
+    b = Item(id="b", source_id="gnews", source_name="정책브리핑", category="gov", lang="ko",
+             title="의약분업 원칙 위반해 비만치료 자가주사제 원내 조제·판매하는 병·의원 조사한다", url="https://news.google.test/2")
+    c = Item(id="c", source_id="yna", source_name="연합", category="media_general", lang="ko",
+             title="의약분업 원칙 위반해 비만치료 자가주사제 원내 조제·판매하는 병·의원 조사한다", url="https://yna.test/3")
+    out = dedupe([a, b, c])
+    assert [i.id for i in out] == ["a", "c"]
