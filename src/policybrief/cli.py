@@ -27,6 +27,7 @@ from pydantic import ValidationError
 from policybrief.analyze import _item_block, make_analyzer
 from policybrief.collect import collect_source
 from policybrief.collect.fulltext import enrich
+from policybrief.collect.html_list import parse_list
 from policybrief.collect.pubmed import parse_efetch
 from policybrief.collect.rss import parse_feed
 from policybrief.config import KEYWORDS_PATH, ROOT, load_sources
@@ -39,12 +40,13 @@ from policybrief.models import (
     ItemAnalysis,
     KeyIssue,
     RawBatch,
+    ResearchIdea,
     Source,
     SourceStatus,
     Synthesis,
     Topic,
 )
-from policybrief.prefilter import KeywordFilter, dedupe
+from policybrief.prefilter import ExcludeFilter, KeywordFilter, dedupe
 from policybrief.render import build_site, render_markdown
 from policybrief.state import SeenState
 
@@ -91,7 +93,11 @@ def _collect_one(source: Source, now: datetime, fixtures: Path | None) -> list[I
     if not path.exists():
         return []
     raw = path.read_bytes()
-    return parse_efetch(source, raw) if source.kind == "pubmed" else parse_feed(source, raw, now)
+    if source.kind == "pubmed":
+        return parse_efetch(source, raw)
+    if source.kind == "html_list":
+        return parse_list(source, raw.decode("utf-8"), now)
+    return parse_feed(source, raw, now)
 
 
 def collect_all(args: argparse.Namespace, now: datetime, state: SeenState) -> tuple[list[Item], list[SourceStatus]]:
@@ -102,6 +108,7 @@ def collect_all(args: argparse.Namespace, now: datetime, state: SeenState) -> tu
         wanted = set(args.sources.split(","))
         sources = [s for s in sources if s.id in wanted]
     keyword_filter = KeywordFilter.from_yaml(KEYWORDS_PATH)
+    exclude_filter = ExcludeFilter.from_yaml(KEYWORDS_PATH)
 
     statuses: list[SourceStatus] = []
     collected: list[Item] = []
@@ -118,6 +125,8 @@ def collect_all(args: argparse.Namespace, now: datetime, state: SeenState) -> tu
         new = len(items)
         if source.prefilter == "keywords":
             items = keyword_filter.apply(items)
+        if source.category.startswith("media"):
+            items = exclude_filter.apply(items)
         statuses.append(SourceStatus(source_id=source.id, source_name=source.name, category=source.category,
                                      ok=True, fetched=fetched, new=new, kept=len(items)))
         log.info("[%s] 수집 %d → 신규 %d → 필터 통과 %d", source.id, fetched, new, len(items))
@@ -234,11 +243,17 @@ def assemble_brief(batch: RawBatch, analysis: AnalysisFile, now: datetime) -> tu
         if dropped:
             warnings.append(f"이슈 '{k.title}'에서 알 수 없거나 비관련 id {dropped}개를 제외했습니다.")
         issues.append(KeyIssue(title=k.title, description=k.description, item_ids=ids))
+    ideas = [
+        ResearchIdea(title=r.title, question=r.question, rationale=r.rationale, approach=r.approach,
+                     item_ids=[i for i in r.item_ids if i in valid])
+        for r in analysis.synthesis.research_ideas
+    ]
     synthesis = Synthesis(
         headline=analysis.synthesis.headline,
         key_issues=issues,
         notable_papers=[i for i in analysis.synthesis.notable_papers if i in valid],
         policy_outlook=analysis.synthesis.policy_outlook,
+        research_ideas=ideas,
     )
     brief = DailyBrief(
         date=batch.date,

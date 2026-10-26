@@ -24,13 +24,21 @@ Anthropic API는 쓰지 않는다 (사용자가 과금을 원치 않음). `polic
 4. **분석 파일 작성** → `data/analysis/YYYY-MM-DD.json`
    - 형식은 `src/policybrief/models.py`의 `AnalysisFile` (아래 예시). `analyst`는 `"Claude Code 세션"`.
    - **분류 기준·요약 톤은 `src/policybrief/analyze.py`의 `CLASSIFY_SYSTEM`, `SYNTHESIS_SYSTEM`을 그대로 따른다.**
-     - `relevant`: 보건의료 *정책* 관련성. 임상 단신·병원 홍보·건강 상식·사건사고는 false.
+     - `relevant`: 보건의료 *정책* 관련성. 임상 단신·병원/기업 홍보(수상·협약·기부·행사·인사·출시·주가)·건강 상식·사건사고는 false.
+     - **이슈성 기준이 엄격하다.** 리포트 본문에는 `importance >= 3`인 항목만 실리고(2 이하는 접힌 '참고 항목'으로만),
+       사용자는 "이슈가 되는 기사만" 원한다. 3 이상은 제도 결정·입법·예산, 이해관계자 쟁점, 새 통계·근거, 법원·헌재 판단,
+       주요 저널 논문처럼 독자가 알아야 할 *변화*가 있는 항목에만 준다. 같은 사건의 중복 보도는 대표 1~2건만 3 이상으로.
      - `topic`: `Topic` enum 값 문자열 그대로 (건강보험·수가 / 의료인력 / 의료전달체계·공공의료 / 감염병·예방 / 약가·의약품·기기 /
        디지털헬스 / 보건재정 / 돌봄·장기요양 / 정신건강 / 법제·거버넌스 / 국제보건 / 기타).
      - `title_ko`: 한국어 제목(영문은 번역). `summary_ko`: 2~3문장, 입력에 없는 사실 금지. `importance` 1~5. `tags` 2~5개.
      - 모든 수집 항목에 대해 relevant true/false를 판단해 넣는다. 빠뜨린 id는 자동으로 `relevant=false` 처리되지만 경고가 난다.
    - `synthesis`: 핵심 이슈 4~7개(같은 사건은 하나로 묶고 `item_ids`로 근거 연결, 뉴스와 논문 교차 연결), 주목할 논문 최대 5개 id,
      정책 동향 2~3문장. 입력에 없는 사실을 추가하지 않는다.
+   - `synthesis.research_ideas`: **보건의료정책 연구 주제 제안 3~6개** (사용자가 매일 원하는 항목).
+     각 항목은 `title`, `question`(검증 가능한 연구 질문), `rationale`(오늘 어떤 뉴스·논문·보도자료가 이 주제를 시의성 있게 만드는지),
+     `approach`(활용 가능한 자료원 — 건보 청구자료, 심평원 비급여 보고, 한국의료패널, NEDIS, 감염병 신고 등 — 과 설계: DID, 단절적 시계열,
+     회귀단절, 코호트 연계, 질적 연구 등), `item_ids`. 뉴스가 던진 정책 논쟁을 실증 가능한 질문으로 바꾸는 데 집중하고,
+     이미 답이 나온 주제나 자료가 존재하지 않는 설계는 피한다.
 5. **렌더 및 확인**
    ```bash
    python -m policybrief render --date YYYY-MM-DD      # → data/items/, reports/
@@ -42,7 +50,7 @@ Anthropic API는 쓰지 않는다 (사용자가 과금을 원치 않음). `polic
    - 메시지: `brief: YYYY-MM-DD`.
    - **사용자가 `main` 직접 푸시를 허용했다 (2026-10-26).** 브리핑 데이터와 코드 변경 모두 `main`에 바로 푸시한다 (`git push origin HEAD:main`).
    - `main`에 `data/items/**`가 푸시되면 `Deploy site` 워크플로가 Pages를 다시 배포한다.
-7. 사용자에게 결과를 짧게 보고: 관련 N/총 M건, 핵심 이슈 제목들, 실패한 소스가 있으면 이름.
+7. 사용자에게 결과를 짧게 보고: 이슈 N건(중요도 3 이상)/총 M건, 핵심 이슈 제목들, 연구 주제 제목들, 실패한 소스가 있으면 이름.
 
 ## 분석 파일 예시
 
@@ -67,5 +75,6 @@ Anthropic API는 쓰지 않는다 (사용자가 과금을 원치 않음). `polic
 
 - 테스트: `pip install -e ".[dev]" && pytest -q`. 네트워크 없이 `--fixtures tests/fixtures`로 전체 흐름을 재현할 수 있다
   (`POLICYBRIEF_ROOT`로 출력 경로를 바꿀 수 있음).
-- 소스 추가는 `config/sources.yaml`, 일반 언론 사전 필터 키워드는 `config/keywords.yaml`.
+- 소스 추가는 `config/sources.yaml` (kind: rss / pubmed / html_list). 일반 언론 사전 필터 키워드와 언론 공통 제외 키워드(`exclude:`)는 `config/keywords.yaml`.
+- 리포트에 싣는 중요도 문턱은 `src/policybrief/render.py`의 `MIN_IMPORTANCE`(기본 3).
 - 피드 상태 점검은 Actions `mode=check` (샌드박스에서는 네트워크가 막혀 `check-feeds`가 전부 실패한다).

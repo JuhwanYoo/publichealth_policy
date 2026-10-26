@@ -32,3 +32,24 @@ def test_pubmed_term_with_query():
     src = Source(id="nejm", name="NEJM", kind="pubmed", category="journal", journal="N Engl J Med",
                  query="health policy[tiab]")
     assert build_term(src) == '"N Engl J Med"[ta] AND (health policy[tiab])'
+
+
+def test_html_list_parse(now, fixtures_dir):
+    from policybrief.collect.html_list import parse_list
+    src = Source(id="mohw_press", name="보건복지부 보도자료", kind="html_list", category="gov",
+                 url="https://www.mohw.go.kr/board.es?mid=a10503010100&bid=0027", link_pattern="act=view",
+                 lookback_hours=48)
+    items = parse_list(src, (fixtures_dir / "mohw_list.html").read_text(encoding="utf-8"), now)
+    assert [it.title for it in items] == ["2027년 건강보험료율 결정 관련 건강보험정책심의위원회 개최", "지역의사제 선발 세부 기준 발표"]
+    assert items[0].url.startswith("https://mohw.go.kr/board.es?")
+    assert "list_no=1500001" in items[0].url
+    assert items[1].published.astimezone(now.tzinfo).strftime("%Y-%m-%d") == "2026-10-25"
+
+
+def test_exclude_filter_drops_pr_titles():
+    from policybrief.prefilter import ExcludeFilter
+    from policybrief.models import Item
+    ef = ExcludeFilter(["수상", "협약", "주가"])
+    mk = lambda t: Item(id="x", source_id="s", source_name="S", category="media_health", lang="ko", title=t, url="https://x.test/1")
+    assert ef.excluded(mk("고대구로병원 최의경 교수팀, 과학기술우수논문상 수상"))
+    assert not ef.excluded(mk("신경외과의사회, 관리급여 재검토 촉구"))

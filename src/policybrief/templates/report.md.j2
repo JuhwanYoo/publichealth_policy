@@ -4,7 +4,7 @@
 > **{{ brief.synthesis.headline }}**
 
 {% endif %}
-수집 {{ counts.total }}건 중 관련 {{ counts.relevant }}건 (저널 {{ counts.journal }} · 언론 {{ counts.media }} · 정부 {{ counts.gov }}){% if brief.model %} · 분석 모델 `{{ brief.model }}`{% else %} · LLM 미사용{% endif %}
+수집 {{ counts.total }}건 → 이슈 {{ counts.shown }}건 (저널 {{ counts.journal }} · 언론 {{ counts.media }} · 정부 {{ counts.gov }}){% if rest %} · 참고 {{ rest|length }}건{% endif %}{% if brief.model %} · 분석 `{{ brief.model }}`{% else %} · LLM 미사용{% endif %}
 
 
 {% if issues %}
@@ -41,7 +41,24 @@
 {% endfor %}
 
 {% endif %}
-## 주제별 항목
+{% if ideas %}
+## 연구 주제 제안
+
+{% for r in ideas %}
+### {{ loop.index }}. {{ r.title }}
+
+- **연구 질문**: {{ r.question }}
+- **왜 지금**: {{ r.rationale }}
+{% if r.approach %}
+- **자료·설계**: {{ r.approach }}
+{% endif %}
+{% if r.linked %}
+- **근거**: {% for ai in r.linked %}[{{ ai.analysis.title_ko or ai.item.title }}]({{ ai.item.url }}){% if not loop.last %} · {% endif %}{% endfor %}
+
+{% endif %}
+{% endfor %}
+{% endif %}
+## 주제별 이슈
 
 {% for topic, ais in topics %}
 ### {{ topic.value }} ({{ ais|length }})
@@ -60,6 +77,17 @@
 {% endfor %}
 
 {% endfor %}
+{% if rest %}
+<details>
+<summary>참고 항목 {{ rest|length }}건 (중요도 {{ min_importance }} 미만)</summary>
+
+{% for ai in rest %}
+- [{{ ai.analysis.title_ko or ai.item.title }}]({{ ai.item.url }}) · {{ ai.item.source_name }}
+{% endfor %}
+
+</details>
+
+{% endif %}
 ## 수집 상태
 
 | 소스 | 구분 | 상태 | 수집 | 신규 | 분석 |

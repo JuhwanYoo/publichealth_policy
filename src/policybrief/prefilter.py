@@ -42,7 +42,9 @@ class KeywordFilter:
     def from_yaml(cls, path: Path) -> "KeywordFilter":
         data = yaml.safe_load(path.read_text(encoding="utf-8")) or {}
         keywords: list[str] = []
-        for lang_list in data.values():
+        for key, lang_list in data.items():
+            if key == "exclude":
+                continue
             keywords.extend(str(k) for k in (lang_list or []))
         return cls(keywords)
 
@@ -65,3 +67,22 @@ def dedupe(items: list[Item]) -> list[Item]:
         seen.add(item.id)
         out.append(item)
     return out
+
+
+class ExcludeFilter:
+    """제목에 홍보·동정성 표현이 있는 기사를 걸러낸다 (언론 소스 전용)."""
+
+    def __init__(self, patterns: list[str]):
+        self.patterns = [p for p in patterns if p]
+        self._pattern = re.compile("|".join(re.escape(p) for p in self.patterns), re.IGNORECASE) if self.patterns else None
+
+    @classmethod
+    def from_yaml(cls, path: Path) -> "ExcludeFilter":
+        data = yaml.safe_load(path.read_text(encoding="utf-8")) or {}
+        return cls([str(p) for p in (data.get("exclude") or [])])
+
+    def excluded(self, item: Item) -> bool:
+        return bool(self._pattern and self._pattern.search(item.title))
+
+    def apply(self, items: list[Item]) -> list[Item]:
+        return [it for it in items if not self.excluded(it)]

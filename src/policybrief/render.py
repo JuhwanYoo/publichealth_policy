@@ -31,6 +31,7 @@ TOPIC_SLUGS: dict[Topic, str] = {
 }
 
 SITE_TITLE = "보건의료정책 데일리 브리핑"
+MIN_IMPORTANCE = 3          # 이 미만은 본문에서 빼고 접힌 '참고 항목'으로만 남긴다
 KST = ZoneInfo("Asia/Seoul")
 
 
@@ -64,23 +65,35 @@ def group_by_topic(items: list[AnalyzedItem]) -> list[tuple[Topic, list[Analyzed
 def _context(brief: DailyBrief) -> dict:
     relevant = brief.relevant_items()
     by_id = {ai.item.id: ai for ai in relevant}
+    shown = [ai for ai in relevant if ai.analysis.importance >= MIN_IMPORTANCE]
+    rest = [ai for ai in relevant if ai.analysis.importance < MIN_IMPORTANCE]
     papers = [by_id[i] for i in brief.synthesis.notable_papers if i in by_id]
     issues = [
         {"title": k.title, "description": k.description, "linked": [by_id[i] for i in k.item_ids if i in by_id]}
         for k in brief.synthesis.key_issues
     ]
+    ideas = [
+        {"title": r.title, "question": r.question, "rationale": r.rationale, "approach": r.approach,
+         "linked": [by_id[i] for i in r.item_ids if i in by_id]}
+        for r in brief.synthesis.research_ideas
+    ]
     return {
         "brief": brief,
         "relevant": relevant,
-        "topics": group_by_topic(relevant),
+        "shown": shown,
+        "rest": rest,
+        "topics": group_by_topic(shown),
         "issues": issues,
         "papers": papers,
+        "ideas": ideas,
+        "min_importance": MIN_IMPORTANCE,
         "counts": {
             "total": len(brief.items),
             "relevant": len(relevant),
-            "journal": sum(1 for ai in relevant if ai.item.category == "journal"),
-            "media": sum(1 for ai in relevant if ai.item.category.startswith("media")),
-            "gov": sum(1 for ai in relevant if ai.item.category == "gov"),
+            "shown": len(shown),
+            "journal": sum(1 for ai in shown if ai.item.category == "journal"),
+            "media": sum(1 for ai in shown if ai.item.category.startswith("media")),
+            "gov": sum(1 for ai in shown if ai.item.category == "gov"),
         },
     }
 
@@ -125,7 +138,8 @@ def build_site(items_dir: Path, out_dir: Path, topic_window_days: int = 30) -> N
     topic_items: dict[Topic, list[tuple[str, AnalyzedItem]]] = defaultdict(list)
     for b in recent:
         for ai in b.relevant_items():
-            topic_items[ai.analysis.topic].append((b.date, ai))
+            if ai.analysis.importance >= MIN_IMPORTANCE:
+                topic_items[ai.analysis.topic].append((b.date, ai))
     topic_tpl = env.get_template("topic.html.j2")
     for topic in Topic:
         rows = topic_items.get(topic, [])

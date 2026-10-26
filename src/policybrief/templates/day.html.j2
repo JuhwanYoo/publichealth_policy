@@ -6,8 +6,9 @@
   <p class="eyebrow">{{ brief.date }}{% if is_index %} · 최신{% endif %}</p>
   {% if brief.synthesis.headline %}<h1>{{ brief.synthesis.headline }}</h1>{% else %}<h1>{{ brief.date }} 브리핑</h1>{% endif %}
   <p class="stats">
-    수집 {{ counts.total }}건 → 관련 <strong>{{ counts.relevant }}</strong>건
+    수집 {{ counts.total }}건 → 이슈 <strong>{{ counts.shown }}</strong>건
     <span class="dot">·</span> 저널 {{ counts.journal }} <span class="dot">·</span> 언론 {{ counts.media }} <span class="dot">·</span> 정부 {{ counts.gov }}
+    {% if rest %}<span class="dot">·</span> 참고 {{ rest|length }}건{% endif %}
     {% if not brief.model %}<span class="dot">·</span> <span class="warn">LLM 미사용</span>{% endif %}
   </p>
 </section>
@@ -47,8 +48,27 @@
 </section>
 {% endif %}
 
+{% if ideas %}
+<section class="ideas">
+  <h2>연구 주제 제안</h2>
+  <ol class="issues">
+  {% for r in ideas %}
+    <li class="issue">
+      <h3>{{ r.title }}</h3>
+      <p><strong>연구 질문</strong> {{ r.question }}</p>
+      <p><strong>왜 지금</strong> {{ r.rationale }}</p>
+      {% if r.approach %}<p><strong>자료·설계</strong> {{ r.approach }}</p>{% endif %}
+      {% if r.linked %}<ul class="issue-links">
+      {% for ai in r.linked %}<li><a href="{{ ai.item.url }}" target="_blank" rel="noopener">{{ ai.analysis.title_ko or ai.item.title }}</a> <span class="source">{{ ai.item.source_name }}</span></li>{% endfor %}
+      </ul>{% endif %}
+    </li>
+  {% endfor %}
+  </ol>
+</section>
+{% endif %}
+
 <section>
-  <h2>주제별 항목</h2>
+  <h2>주제별 이슈</h2>
   <nav class="topic-jump">
   {% for topic, ais in topics %}<a href="#t-{{ topic|topic_slug }}">{{ topic.value }} <small>{{ ais|length }}</small></a>{% endfor %}
   </nav>
@@ -59,6 +79,17 @@
   </div>
   {% endfor %}
 </section>
+
+{% if rest %}
+<section>
+  <details class="status">
+    <summary>참고 항목 {{ rest|length }}건 (중요도 {{ min_importance }} 미만 — 본문에서 제외)</summary>
+    <ul class="rest">
+    {% for ai in rest %}<li><a href="{{ ai.item.url }}" target="_blank" rel="noopener">{{ ai.analysis.title_ko or ai.item.title }}</a> <span class="source">{{ ai.item.source_name }}</span></li>{% endfor %}
+    </ul>
+  </details>
+</section>
+{% endif %}
 
 <section>
   <details class="status">

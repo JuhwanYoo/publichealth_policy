@@ -37,12 +37,13 @@ CATEGORY_LABELS: dict[str, str] = {
 class Source(BaseModel):
     id: str
     name: str
-    kind: Literal["rss", "pubmed"]
+    kind: Literal["rss", "pubmed", "html_list"]
     category: Category
     lang: Literal["ko", "en"] = "ko"
     url: str | None = None          # rss
     journal: str | None = None      # pubmed: 저널명 ([ta] 검색)
     query: str | None = None        # pubmed: 추가 검색식 (AND 결합)
+    link_pattern: str | None = None # html_list: 기사 링크 href에 포함돼야 하는 문자열
     lookback_hours: int = 36
     prefilter: Literal["none", "keywords"] = "none"
     fetch_fulltext: bool = False
@@ -90,6 +91,16 @@ class KeyIssue(BaseModel):
     item_ids: list[str] = Field(default_factory=list)
 
 
+class ResearchIdea(BaseModel):
+    """오늘 수집된 자료에서 도출한 보건의료정책 연구 주제 제안."""
+
+    title: str
+    question: str                                   # 연구 질문
+    rationale: str                                  # 왜 지금 이 주제인가 (근거 항목과 연결)
+    approach: str = ""                              # 가능한 자료원·설계
+    item_ids: list[str] = Field(default_factory=list)
+
+
 class Synthesis(BaseModel):
     """하루 브리핑 종합 결과."""
 
@@ -97,6 +108,7 @@ class Synthesis(BaseModel):
     key_issues: list[KeyIssue] = Field(default_factory=list)
     notable_papers: list[str] = Field(default_factory=list)   # item id
     policy_outlook: str = ""
+    research_ideas: list[ResearchIdea] = Field(default_factory=list)
 
 
 class SourceStatus(BaseModel):

@@ -6,6 +6,7 @@ from datetime import datetime
 
 from policybrief.models import Item, Source
 
+from .html_list import collect_html_list
 from .pubmed import collect_pubmed
 from .rss import collect_rss
 
@@ -15,7 +16,9 @@ def collect_source(source: Source, now: datetime) -> list[Item]:
         return collect_rss(source, now)
     if source.kind == "pubmed":
         return collect_pubmed(source, now)
+    if source.kind == "html_list":
+        return collect_html_list(source, now)
     raise ValueError(f"unknown source kind: {source.kind}")
 
 
-__all__ = ["collect_source", "collect_rss", "collect_pubmed"]
+__all__ = ["collect_source", "collect_rss", "collect_pubmed", "collect_html_list"]

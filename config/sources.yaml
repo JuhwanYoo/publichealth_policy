@@ -225,12 +225,20 @@ sources:
   # ── 정부·공공기관 보도자료 ─────────────────────────────────────────
     enabled: false        # 2026-10-26 404 — RSS 주소 확인 필요
 
+  - id: mohw_press_rss
+    name: 보건복지부 보도자료 (RSS 후보 1)
+    profile: gov
+    url: "https://www.mohw.go.kr/board.es?mid=a10503010100&bid=0027&act=rss"
+  - id: mohw_press_koreakr
+    name: 보건복지부 보도자료 (정책브리핑 RSS 후보)
+    profile: gov
+    url: https://www.korea.kr/rss/dept_mohw.xml
   - id: mohw_press
     name: 보건복지부 보도자료
     profile: gov
-    url: https://www.mohw.go.kr/rss/news.xml
-    enabled: false        # 2026-10-26 404 — 보도자료 RSS 주소 확인 필요
-
+    kind: html_list
+    url: "https://www.mohw.go.kr/board.es?mid=a10503010100&bid=0027"
+    link_pattern: act=view
   - id: kdca_press
     name: 질병관리청 보도자료
     profile: gov

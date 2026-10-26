@@ -56,6 +56,11 @@ h2 { font-size: 1.2rem; margin: 0 0 12px; padding-bottom: 6px; border-bottom: 2p
 .issue p { margin: 0 0 6px; }
 .issue-links { margin: 0; padding-left: 1em; color: var(--muted); font-size: .92rem; }
 .issue-links .source { margin-left: 6px; }
+.ideas { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 14px 18px; }
+.ideas h2 { border: 0; margin-bottom: 4px; }
+.ideas .issue p { margin: 0 0 4px; font-size: .95rem; }
+.rest { margin: 10px 0 0; padding-left: 1.2em; font-size: .92rem; }
+.rest .source { color: var(--muted); margin-left: 6px; font-size: .85rem; }
 .outlook { background: var(--accent-soft); border-radius: 12px; padding: 14px 18px; }
 .outlook h2 { border: 0; margin-bottom: 4px; }
 .outlook p { margin: 0; }
