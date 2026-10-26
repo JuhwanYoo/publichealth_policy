@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PubmedArticleSet>
+<PubmedArticle>
+<MedlineCitation Status="In-Process" Owner="NLM">
+<PMID Version="1">41000001</PMID>
+<Article PubModel="Print">
+<Journal><Title>Health affairs (Project Hope)</Title><JournalIssue><PubDate><Year>2026</Year><Month>Oct</Month></PubDate></JournalIssue></Journal>
+<ArticleTitle>Medicaid Expansion And Hospital Finances: Evidence From Ten Years Of Data.</ArticleTitle>
+<Abstract>
+<AbstractText Label="BACKGROUND">Medicaid expansion changed payer mix.</AbstractText>
+<AbstractText Label="RESULTS">Uncompensated care fell by 30 percent in expansion states.</AbstractText>
+</Abstract>
+<AuthorList><Author><LastName>Kim</LastName><ForeName>Jiwon</ForeName></Author><Author><LastName>Lee</LastName><ForeName>Sumin</ForeName></Author></AuthorList>
+<ArticleDate DateType="Electronic"><Year>2026</Year><Month>10</Month><Day>20</Day></ArticleDate>
+</Article>
+</MedlineCitation>
+<PubmedData><ArticleIdList><ArticleId IdType="pubmed">41000001</ArticleId><ArticleId IdType="doi">10.1377/hlthaff.2026.00001</ArticleId></ArticleIdList></PubmedData>
+</PubmedArticle>
+</PubmedArticleSet>

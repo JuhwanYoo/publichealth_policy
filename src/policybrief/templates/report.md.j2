@@ -1,0 +1,71 @@
+# 보건의료정책 데일리 브리핑 — {{ brief.date }}
+
+{% if brief.synthesis.headline %}
+> **{{ brief.synthesis.headline }}**
+
+{% endif %}
+수집 {{ counts.total }}건 중 관련 {{ counts.relevant }}건 (저널 {{ counts.journal }} · 언론 {{ counts.media }} · 정부 {{ counts.gov }}){% if brief.model %} · 분석 모델 `{{ brief.model }}`{% else %} · LLM 미사용{% endif %}
+
+
+{% if issues %}
+## 오늘의 핵심 이슈
+
+{% for issue in issues %}
+### {{ loop.index }}. {{ issue.title }}
+
+{{ issue.description }}
+
+{% for ai in issue.linked %}
+- [{{ ai.analysis.title_ko or ai.item.title }}]({{ ai.item.url }}) — {{ ai.item.source_name }}
+{% endfor %}
+
+{% endfor %}
+{% endif %}
+{% if brief.synthesis.policy_outlook %}
+## 정책 동향
+
+{{ brief.synthesis.policy_outlook }}
+
+{% endif %}
+{% if papers %}
+## 주목할 논문
+
+{% for ai in papers %}
+- **[{{ ai.analysis.title_ko or ai.item.title }}]({{ ai.item.url }})** — {{ ai.item.journal or ai.item.source_name }}
+{% if ai.analysis.title_ko and ai.item.title != ai.analysis.title_ko %}
+  _{{ ai.item.title }}_
+{% endif %}
+{% if ai.analysis.summary_ko %}
+  {{ ai.analysis.summary_ko }}
+{% endif %}
+{% endfor %}
+
+{% endif %}
+## 주제별 항목
+
+{% for topic, ais in topics %}
+### {{ topic.value }} ({{ ais|length }})
+
+{% for ai in ais %}
+- **[{{ ai.analysis.title_ko or ai.item.title }}]({{ ai.item.url }})** · {{ ai.item.source_name }} · {{ ai.item.published|date }} · 중요도 {{ ai.analysis.importance }}/5
+{% if ai.analysis.title_ko and ai.item.title != ai.analysis.title_ko %}
+  _{{ ai.item.title }}_
+{% endif %}
+{% if ai.analysis.summary_ko %}
+  {{ ai.analysis.summary_ko }}
+{% endif %}
+{% if ai.analysis.tags %}
+  `{{ ai.analysis.tags|join('` `') }}`
+{% endif %}
+{% endfor %}
+
+{% endfor %}
+## 수집 상태
+
+| 소스 | 구분 | 상태 | 수집 | 신규 | 분석 |
+|---|---|---|---:|---:|---:|
+{% for s in brief.source_status %}
+| {{ s.source_name }} | {{ s.category|category_label }} | {{ '✅' if s.ok else '❌ ' ~ (s.error or '') }} | {{ s.fetched }} | {{ s.new }} | {{ s.kept }} |
+{% endfor %}
+
+_생성: {{ brief.generated_at|date('%Y-%m-%d %H:%M KST') }}{% if brief.usage %} · 토큰 입력 {{ brief.usage.get('input_tokens', 0) }} / 출력 {{ brief.usage.get('output_tokens', 0) }}{% endif %}_

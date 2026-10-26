@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% block title %}{{ site_title }}{% endblock %}</title>
+<link rel="stylesheet" href="{{ root }}style.css">
+</head>
+<body>
+<header class="site-header">
+  <div class="wrap">
+    <a class="brand" href="{{ root }}index.html">{{ site_title }}</a>
+    <nav class="nav">
+      <details class="dropdown">
+        <summary>아카이브</summary>
+        <ul class="dropdown-list">
+          {% for d in dates[:60] %}<li><a href="{{ root }}archive/{{ d }}.html">{{ d }}</a></li>{% endfor %}
+        </ul>
+      </details>
+      <details class="dropdown">
+        <summary>주제별</summary>
+        <ul class="dropdown-list">
+          <li><a href="{{ root }}topics/insurance.html">건강보험·수가</a></li>
+          <li><a href="{{ root }}topics/workforce.html">의료인력</a></li>
+          <li><a href="{{ root }}topics/delivery.html">의료전달체계·공공의료</a></li>
+          <li><a href="{{ root }}topics/infectious.html">감염병·예방</a></li>
+          <li><a href="{{ root }}topics/pharma.html">약가·의약품·기기</a></li>
+          <li><a href="{{ root }}topics/digital.html">디지털헬스</a></li>
+          <li><a href="{{ root }}topics/finance.html">보건재정</a></li>
+          <li><a href="{{ root }}topics/ltc.html">돌봄·장기요양</a></li>
+          <li><a href="{{ root }}topics/mental.html">정신건강</a></li>
+          <li><a href="{{ root }}topics/governance.html">법제·거버넌스</a></li>
+          <li><a href="{{ root }}topics/global.html">국제보건</a></li>
+          <li><a href="{{ root }}topics/other.html">기타</a></li>
+        </ul>
+      </details>
+      <button class="search-toggle" type="button" data-search-toggle aria-label="검색">검색</button>
+    </nav>
+  </div>
+</header>
+<div class="search-panel" data-search-panel hidden>
+  <div class="wrap">
+    <input type="search" data-search-input placeholder="제목·요약·태그 검색 (최근 90일)" autocomplete="off">
+    <div class="search-results" data-search-results></div>
+  </div>
+</div>
+<main class="wrap">
+{% block content %}{% endblock %}
+</main>
+<footer class="site-footer wrap">
+  <p>자동 생성된 브리핑입니다. 요약은 AI가 작성했으며 원문 확인을 권장합니다.</p>
+</footer>
+<script>window.__ROOT__ = "{{ root }}";</script>
+<script src="{{ root }}app.js"></script>
+</body>
+</html>
