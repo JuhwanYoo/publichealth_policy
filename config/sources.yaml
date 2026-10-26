@@ -127,6 +127,8 @@ sources:
     lang: ko
     url: https://www.kjhpm.or.kr/rss/rss.xml
     lookback_hours: 720
+    enabled: false        # 2026-10-26 DNS 실패 — 주소 확인 필요
+
   - id: jpmph
     name: 예방의학회지 (JPMPH)
     profile: journal
@@ -134,6 +136,8 @@ sources:
     lang: en
     url: https://www.jpmph.org/rss/rss.xml
     lookback_hours: 720
+    enabled: false        # 2026-10-26 404 — RSS 주소 확인 필요
+
   - id: jkms
     name: JKMS (정책 논문)
     profile: journal
@@ -165,6 +169,8 @@ sources:
     name: 중앙일보 사회
     profile: media_general
     url: https://rss.joins.com/joins_society_list.xml
+    enabled: false        # 2026-10-26 연결 시간 초과 — 주소 확인 필요
+
   - id: donga
     name: 동아일보 사회
     profile: media_general
@@ -195,10 +201,14 @@ sources:
     name: 데일리메디
     profile: media_health
     url: https://www.dailymedi.com/rss/allArticle.xml
+    enabled: false        # 2026-10-26 404 — RSS 주소 확인 필요
+
   - id: medicaltimes
     name: 메디칼타임즈
     profile: media_health
     url: https://www.medicaltimes.com/rss/allArticle.xml
+    enabled: false        # 2026-10-26 404 — RSS 주소 확인 필요
+
   - id: rapportian
     name: 라포르시안
     profile: media_health
@@ -213,10 +223,14 @@ sources:
     url: https://www.yakup.com/rss/allArticle.xml
 
   # ── 정부·공공기관 보도자료 ─────────────────────────────────────────
+    enabled: false        # 2026-10-26 404 — RSS 주소 확인 필요
+
   - id: mohw_press
     name: 보건복지부 보도자료
     profile: gov
     url: https://www.mohw.go.kr/rss/news.xml
+    enabled: false        # 2026-10-26 404 — 보도자료 RSS 주소 확인 필요
+
   - id: kdca_press
     name: 질병관리청 보도자료
     profile: gov

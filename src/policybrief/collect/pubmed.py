@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import os
+import time
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 
@@ -14,6 +15,28 @@ from policybrief.prefilter import make_item_id
 from .http import DEFAULT_TIMEOUT, USER_AGENT
 
 EUTILS = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils"
+
+# NCBI 허용치: API 키 없이 초당 3회, 키가 있으면 10회. 소스가 많으므로 보수적으로 간격을 둔다.
+_MIN_INTERVAL = 0.4
+_last_request = 0.0
+
+
+def _get(client: httpx.Client, url: str, params: dict, retries: int = 4) -> httpx.Response:
+    """요청 간격을 지키고 429/5xx는 지수 백오프로 재시도한다."""
+    global _last_request
+    for attempt in range(retries + 1):
+        wait = _MIN_INTERVAL - (time.monotonic() - _last_request)
+        if wait > 0:
+            time.sleep(wait)
+        resp = client.get(url, params=params)
+        _last_request = time.monotonic()
+        if resp.status_code == 429 or resp.status_code >= 500:
+            if attempt < retries:
+                time.sleep(1.5 * (2 ** attempt))
+                continue
+        resp.raise_for_status()
+        return resp
+    raise RuntimeError("unreachable")
 
 _MONTHS = {
     "Jan": 1, "Feb": 2, "Mar": 3, "Apr": 4, "May": 5, "Jun": 6,
@@ -114,9 +137,10 @@ def collect_pubmed(source: Source, now: datetime) -> list[Item]:
     reldate = max(1, source.lookback_hours // 24)
     headers = {"User-Agent": USER_AGENT}
     with httpx.Client(timeout=DEFAULT_TIMEOUT, headers=headers) as client:
-        search = client.get(
+        search = _get(
+            client,
             f"{EUTILS}/esearch.fcgi",
-            params={
+            {
                 **_base_params(),
                 "term": build_term(source),
                 "reldate": str(reldate),
@@ -126,13 +150,12 @@ def collect_pubmed(source: Source, now: datetime) -> list[Item]:
                 "retmode": "json",
             },
         )
-        search.raise_for_status()
         ids = search.json().get("esearchresult", {}).get("idlist", [])
         if not ids:
             return []
-        fetch = client.get(
+        fetch = _get(
+            client,
             f"{EUTILS}/efetch.fcgi",
-            params={**_base_params(), "id": ",".join(ids), "retmode": "xml"},
+            {**_base_params(), "id": ",".join(ids), "retmode": "xml"},
         )
-        fetch.raise_for_status()
     return parse_efetch(source, fetch.content)
