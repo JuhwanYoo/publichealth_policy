@@ -1,0 +1,34 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "policybrief"
+version = "0.1.0"
+description = "보건의료정책 이슈 자동 브리핑: 저널·언론·정부자료 수집 → Claude 요약 → Markdown/웹 리포트"
+requires-python = ">=3.11"
+dependencies = [
+    "anthropic>=2.0",
+    "feedparser>=6.0",
+    "httpx>=0.27",
+    "pydantic>=2.5",
+    "jinja2>=3.1",
+    "pyyaml>=6.0",
+    "trafilatura>=1.8",
+    "python-dateutil>=2.8",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0"]
+
+[project.scripts]
+policybrief = "policybrief.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+policybrief = ["templates/*.j2", "templates/*.css", "templates/*.js"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

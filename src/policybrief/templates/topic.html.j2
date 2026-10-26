@@ -1,0 +1,20 @@
+{% extends "base.html.j2" %}
+{% from "_item.html.j2" import item_card %}
+{% block title %}{{ topic.value }} · {{ site_title }}{% endblock %}
+{% block content %}
+<section class="hero">
+  <p class="eyebrow">주제별 · 최근 {{ window }}일</p>
+  <h1>{{ topic.value }}</h1>
+  <p class="stats">{{ rows|length }}건</p>
+</section>
+{% if rows %}
+{% for date, group in rows|groupby(0)|reverse %}
+<h3 class="topic-head"><a href="{{ root }}archive/{{ date }}.html">{{ date }}</a></h3>
+<div class="items">
+{% for _, ai in group %}{{ item_card(ai, show_date=False) }}{% endfor %}
+</div>
+{% endfor %}
+{% else %}
+<p class="empty">최근 {{ window }}일 동안 이 주제의 항목이 없습니다.</p>
+{% endif %}
+{% endblock %}

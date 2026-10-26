@@ -1,0 +1,14 @@
+{% macro item_card(ai, show_date=True) %}
+<article class="item cat-{{ ai.item.category }}">
+  <div class="item-meta">
+    <span class="badge badge-{{ ai.item.category }}">{{ ai.item.category|category_label }}</span>
+    <span class="source">{{ ai.item.source_name }}</span>
+    {% if show_date %}<span class="date">{{ ai.item.published|date }}</span>{% endif %}
+    <span class="importance" title="중요도 {{ ai.analysis.importance }}/5">{{ ai.analysis.importance|stars }}</span>
+  </div>
+  <h4 class="item-title"><a href="{{ ai.item.url }}" target="_blank" rel="noopener">{{ ai.analysis.title_ko or ai.item.title }}</a></h4>
+  {% if ai.analysis.title_ko and ai.item.title != ai.analysis.title_ko %}<p class="orig-title">{{ ai.item.title }}</p>{% endif %}
+  {% if ai.analysis.summary_ko %}<p class="summary">{{ ai.analysis.summary_ko }}</p>{% endif %}
+  {% if ai.analysis.tags %}<p class="tags">{% for t in ai.analysis.tags %}<span class="tag">{{ t }}</span>{% endfor %}</p>{% endif %}
+</article>
+{% endmacro %}

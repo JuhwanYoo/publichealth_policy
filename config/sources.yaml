@@ -1,0 +1,242 @@
+# 수집 소스 정의.
+#   kind: rss | pubmed
+#   category: journal | media_general | media_health | gov
+#   prefilter: none | keywords   (keywords = config/keywords.yaml 매칭 통과 항목만 분석)
+#   lookback_hours: 이 시간 안에 발행된 항목만 수집
+#   fetch_fulltext: 기사 본문을 trafilatura로 보강 (best-effort)
+#
+# ※ RSS URL은 공개된 주소를 바탕으로 작성했으며, 매체 개편으로 바뀔 수 있다.
+#    `python -m policybrief check-feeds` 로 상태를 점검하고, 죽은 소스는 enabled: false 로 끈다.
+
+defaults:
+  journal:
+    kind: pubmed
+    category: journal
+    lang: en
+    lookback_hours: 336      # 14일 (PubMed 색인 지연 보정; 중복은 state로 제거)
+    prefilter: none
+    max_items: 40
+  media_general:
+    kind: rss
+    category: media_general
+    lang: ko
+    lookback_hours: 36
+    prefilter: keywords
+    fetch_fulltext: true
+    max_items: 300
+  media_health:
+    kind: rss
+    category: media_health
+    lang: ko
+    lookback_hours: 36
+    prefilter: none
+    fetch_fulltext: true
+    max_items: 80
+  gov:
+    kind: rss
+    category: gov
+    lang: ko
+    lookback_hours: 48
+    prefilter: none
+    fetch_fulltext: false
+    max_items: 60
+
+# 종합의학 저널에서 정책 관련 논문만 고르기 위한 PubMed 검색식
+policy_query: &policy_query >-
+  (health policy[tiab] OR health care reform[tiab] OR healthcare reform[tiab]
+  OR health insurance[tiab] OR Medicare[tiab] OR Medicaid[tiab]
+  OR health system[tiab] OR health systems[tiab] OR universal health coverage[tiab]
+  OR health financing[tiab] OR health expenditure[tiab] OR reimbursement[tiab]
+  OR drug pricing[tiab] OR health workforce[tiab] OR public health policy[tiab]
+  OR "Health Policy"[mh] OR "Health Care Reform"[mh] OR "Insurance, Health"[mh]
+  OR "Delivery of Health Care"[mh:noexp] OR "Health Expenditures"[mh])
+
+sources:
+  # ── 핵심 보건정책 저널 (PubMed) ─────────────────────────────────────
+  - id: health_affairs
+    name: Health Affairs
+    profile: journal
+    journal: "Health Aff (Millwood)"
+  - id: health_policy
+    name: Health Policy
+    profile: journal
+    journal: "Health Policy"
+  - id: milbank
+    name: The Milbank Quarterly
+    profile: journal
+    journal: "Milbank Q"
+  - id: jama_health_forum
+    name: JAMA Health Forum
+    profile: journal
+    journal: "JAMA Health Forum"
+  - id: lancet_public_health
+    name: The Lancet Public Health
+    profile: journal
+    journal: "Lancet Public Health"
+  - id: soc_sci_med
+    name: Social Science & Medicine
+    profile: journal
+    journal: "Soc Sci Med"
+    query: *policy_query
+  - id: health_econ
+    name: Health Economics
+    profile: journal
+    journal: "Health Econ"
+  - id: hepl
+    name: Health Economics, Policy and Law
+    profile: journal
+    journal: "Health Econ Policy Law"
+  - id: hpp
+    name: Health Policy and Planning
+    profile: journal
+    journal: "Health Policy Plan"
+  - id: bmc_hsr
+    name: BMC Health Services Research
+    profile: journal
+    journal: "BMC Health Serv Res"
+    query: *policy_query
+    max_items: 25
+
+  # ── 종합의학 저널 정책 섹션 (PubMed + 정책 검색식) ──────────────────
+  - id: nejm
+    name: NEJM
+    profile: journal
+    journal: "N Engl J Med"
+    query: *policy_query
+  - id: jama
+    name: JAMA
+    profile: journal
+    journal: "JAMA"
+    query: *policy_query
+  - id: bmj
+    name: BMJ
+    profile: journal
+    journal: "BMJ"
+    query: *policy_query
+  - id: lancet
+    name: The Lancet
+    profile: journal
+    journal: "Lancet"
+    query: *policy_query
+
+  # ── 국내 학술지 ────────────────────────────────────────────────────
+  - id: kjhpm
+    name: 보건행정학회지 (KJHPM)
+    profile: journal
+    kind: rss
+    lang: ko
+    url: https://www.kjhpm.or.kr/rss/rss.xml
+    lookback_hours: 720
+  - id: jpmph
+    name: 예방의학회지 (JPMPH)
+    profile: journal
+    kind: rss
+    lang: en
+    url: https://www.jpmph.org/rss/rss.xml
+    lookback_hours: 720
+  - id: jkms
+    name: JKMS (정책 논문)
+    profile: journal
+    journal: "J Korean Med Sci"
+    query: *policy_query
+  - id: hswr
+    name: 보건사회연구 (KIHASA)
+    profile: journal
+    kind: rss
+    lang: ko
+    url: https://www.kihasa.re.kr/hswr/rss
+    lookback_hours: 720
+    enabled: false        # RSS 주소 미확인 — check-feeds로 확인 후 활성화
+
+  # ── 일간지·통신사 (키워드 사전 필터) ────────────────────────────────
+  - id: yna_society
+    name: 연합뉴스 사회
+    profile: media_general
+    url: https://www.yna.co.kr/rss/society.xml
+  - id: yna_economy
+    name: 연합뉴스 경제
+    profile: media_general
+    url: https://www.yna.co.kr/rss/economy.xml
+  - id: chosun_national
+    name: 조선일보 사회
+    profile: media_general
+    url: https://www.chosun.com/arc/outboundfeeds/rss/category/national/?outputType=xml
+  - id: joongang
+    name: 중앙일보 사회
+    profile: media_general
+    url: https://rss.joins.com/joins_society_list.xml
+  - id: donga
+    name: 동아일보 사회
+    profile: media_general
+    url: https://rss.donga.com/national.xml
+  - id: hani_society
+    name: 한겨레 사회
+    profile: media_general
+    url: https://www.hani.co.kr/rss/society/
+  - id: khan_society
+    name: 경향신문 사회
+    profile: media_general
+    url: https://www.khan.co.kr/rss/rssdata/society_news.xml
+
+  # ── 보건의료 전문지 ─────────────────────────────────────────────────
+  - id: docdocdoc
+    name: 청년의사
+    profile: media_health
+    url: https://www.docdocdoc.co.kr/rss/allArticle.xml
+  - id: medigate
+    name: 메디게이트뉴스
+    profile: media_health
+    url: https://www.medigatenews.com/rss/news
+  - id: doctorsnews
+    name: 의협신문
+    profile: media_health
+    url: https://www.doctorsnews.co.kr/rss/allArticle.xml
+  - id: dailymedi
+    name: 데일리메디
+    profile: media_health
+    url: https://www.dailymedi.com/rss/allArticle.xml
+  - id: medicaltimes
+    name: 메디칼타임즈
+    profile: media_health
+    url: https://www.medicaltimes.com/rss/allArticle.xml
+  - id: rapportian
+    name: 라포르시안
+    profile: media_health
+    url: https://www.rapportian.com/rss/allArticle.xml
+  - id: medipana
+    name: 메디파나뉴스
+    profile: media_health
+    url: https://www.medipana.com/rss/allArticle.xml
+  - id: yakup
+    name: 약업신문
+    profile: media_health
+    url: https://www.yakup.com/rss/allArticle.xml
+
+  # ── 정부·공공기관 보도자료 ─────────────────────────────────────────
+  - id: mohw_press
+    name: 보건복지부 보도자료
+    profile: gov
+    url: https://www.mohw.go.kr/rss/news.xml
+  - id: kdca_press
+    name: 질병관리청 보도자료
+    profile: gov
+    url: https://www.kdca.go.kr/rss/press.xml
+    enabled: false        # RSS 주소 미확인
+  - id: nhis_press
+    name: 국민건강보험공단 보도자료
+    profile: gov
+    url: https://www.nhis.or.kr/rss/press.xml
+    enabled: false        # RSS 미제공 가능성 — HTML 파서 추가 예정
+  - id: hira_press
+    name: 건강보험심사평가원 보도자료
+    profile: gov
+    url: https://www.hira.or.kr/rss/press.xml
+    enabled: false        # RSS 미제공 가능성 — HTML 파서 추가 예정
+
+  # ── 보조: Google 뉴스 키워드 검색 (매체 RSS 장애 시 활성화) ──────────
+  - id: gnews_policy
+    name: Google 뉴스 (보건의료정책)
+    profile: media_general
+    prefilter: none
+    url: "https://news.google.com/rss/search?q=%EB%B3%B4%EA%B1%B4%EC%9D%98%EB%A3%8C%EC%A0%95%EC%B1%85+OR+%EC%9D%98%EB%A3%8C%EA%B0%9C%ED%98%81+OR+%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98&hl=ko&gl=KR&ceid=KR:ko"
+    enabled: false

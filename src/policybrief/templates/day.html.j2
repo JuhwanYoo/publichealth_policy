@@ -1,0 +1,77 @@
+{% extends "base.html.j2" %}
+{% from "_item.html.j2" import item_card %}
+{% block title %}{{ brief.date }} · {{ site_title }}{% endblock %}
+{% block content %}
+<section class="hero">
+  <p class="eyebrow">{{ brief.date }}{% if is_index %} · 최신{% endif %}</p>
+  {% if brief.synthesis.headline %}<h1>{{ brief.synthesis.headline }}</h1>{% else %}<h1>{{ brief.date }} 브리핑</h1>{% endif %}
+  <p class="stats">
+    수집 {{ counts.total }}건 → 관련 <strong>{{ counts.relevant }}</strong>건
+    <span class="dot">·</span> 저널 {{ counts.journal }} <span class="dot">·</span> 언론 {{ counts.media }} <span class="dot">·</span> 정부 {{ counts.gov }}
+    {% if not brief.model %}<span class="dot">·</span> <span class="warn">LLM 미사용</span>{% endif %}
+  </p>
+</section>
+
+{% if issues %}
+<section>
+  <h2>오늘의 핵심 이슈</h2>
+  <ol class="issues">
+  {% for issue in issues %}
+    <li class="issue">
+      <h3>{{ issue.title }}</h3>
+      <p>{{ issue.description }}</p>
+      <ul class="issue-links">
+      {% for ai in issue.linked %}
+        <li><a href="{{ ai.item.url }}" target="_blank" rel="noopener">{{ ai.analysis.title_ko or ai.item.title }}</a> <span class="source">{{ ai.item.source_name }}</span></li>
+      {% endfor %}
+      </ul>
+    </li>
+  {% endfor %}
+  </ol>
+</section>
+{% endif %}
+
+{% if brief.synthesis.policy_outlook %}
+<section class="outlook">
+  <h2>정책 동향</h2>
+  <p>{{ brief.synthesis.policy_outlook }}</p>
+</section>
+{% endif %}
+
+{% if papers %}
+<section>
+  <h2>주목할 논문</h2>
+  <div class="items">
+  {% for ai in papers %}{{ item_card(ai) }}{% endfor %}
+  </div>
+</section>
+{% endif %}
+
+<section>
+  <h2>주제별 항목</h2>
+  <nav class="topic-jump">
+  {% for topic, ais in topics %}<a href="#t-{{ topic|topic_slug }}">{{ topic.value }} <small>{{ ais|length }}</small></a>{% endfor %}
+  </nav>
+  {% for topic, ais in topics %}
+  <h3 id="t-{{ topic|topic_slug }}" class="topic-head">{{ topic.value }} <small>{{ ais|length }}</small> <a class="more" href="{{ root }}topics/{{ topic|topic_slug }}.html">최근 30일 →</a></h3>
+  <div class="items">
+  {% for ai in ais %}{{ item_card(ai) }}{% endfor %}
+  </div>
+  {% endfor %}
+</section>
+
+<section>
+  <details class="status">
+    <summary>수집 상태 ({{ brief.source_status|selectattr('ok')|list|length }}/{{ brief.source_status|length }} 정상)</summary>
+    <table>
+      <thead><tr><th>소스</th><th>구분</th><th>상태</th><th>수집</th><th>신규</th><th>분석</th></tr></thead>
+      <tbody>
+      {% for s in brief.source_status %}
+        <tr class="{{ 'ok' if s.ok else 'fail' }}"><td>{{ s.source_name }}</td><td>{{ s.category|category_label }}</td><td>{% if s.ok %}정상{% else %}오류: {{ s.error }}{% endif %}</td><td>{{ s.fetched }}</td><td>{{ s.new }}</td><td>{{ s.kept }}</td></tr>
+      {% endfor %}
+      </tbody>
+    </table>
+    <p class="fine">생성 {{ brief.generated_at|date('%Y-%m-%d %H:%M KST') }}{% if brief.model %} · 모델 {{ brief.model }}{% endif %}{% if brief.usage %} · 토큰 입력 {{ brief.usage.get('input_tokens', 0) }} / 출력 {{ brief.usage.get('output_tokens', 0) }}{% endif %}</p>
+  </details>
+</section>
+{% endblock %}

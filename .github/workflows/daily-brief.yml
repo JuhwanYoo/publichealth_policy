@@ -1,0 +1,97 @@
+name: Daily policy brief
+
+on:
+  schedule:
+    - cron: "0 22 * * *"        # 매일 07:00 KST
+  workflow_dispatch:
+    inputs:
+      no_llm:
+        description: "Claude 호출 없이 실행 (파이프라인 점검용)"
+        type: boolean
+        default: false
+      check_feeds:
+        description: "수집 대신 피드 상태만 점검"
+        type: boolean
+        default: false
+      limit:
+        description: "분석 항목 수 상한 (비워두면 제한 없음)"
+        type: string
+        default: ""
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: daily-brief
+  cancel-in-progress: false
+
+jobs:
+  brief:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: pyproject.toml
+
+      - name: Install
+        run: pip install -e .
+
+      - name: Check feeds
+        if: ${{ inputs.check_feeds }}
+        run: python -m policybrief check-feeds --include-disabled
+
+      - name: Run pipeline
+        if: ${{ !inputs.check_feeds }}
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
+          POLICYBRIEF_MODEL: ${{ vars.POLICYBRIEF_MODEL }}
+        run: |
+          ARGS=""
+          if [ "${{ inputs.no_llm }}" = "true" ]; then ARGS="$ARGS --no-llm"; fi
+          if [ -n "${{ inputs.limit }}" ]; then ARGS="$ARGS --limit ${{ inputs.limit }}"; fi
+          python -m policybrief run $ARGS
+
+      - name: Commit report
+        if: ${{ !inputs.check_feeds }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add reports data
+          if git diff --cached --quiet; then
+            echo "변경 없음"
+          else
+            git commit -m "brief: $(TZ=Asia/Seoul date +%Y-%m-%d)"
+            git pull --rebase origin "${GITHUB_REF_NAME}"
+            git push origin HEAD:"${GITHUB_REF_NAME}"
+          fi
+
+      - name: Build site
+        if: ${{ !inputs.check_feeds }}
+        run: python -m policybrief build-site --out site
+
+      - name: Upload Pages artifact
+        if: ${{ !inputs.check_feeds }}
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    needs: brief
+    if: ${{ !inputs.check_feeds }}
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
