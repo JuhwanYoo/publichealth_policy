@@ -165,7 +165,12 @@ sources:
     name: 중앙일보 사회
     profile: media_general
     url: https://rss.joins.com/joins_society_list.xml
-    enabled: false        # 2026-10-26 연결 시간 초과 — 주소 확인 필요
+    enabled: false        # 2026-10-26 확인: rss.joins.com '서비스 종료 안내' — RSS 제공 중단
+  - id: joongang_gnews
+    name: 중앙일보 (Google 뉴스)
+    profile: media_general
+    url: "https://news.google.com/rss/search?q=site:joongang.co.kr+(%EC%9D%98%EB%A3%8C+OR+%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98+OR+%EB%B3%B5%EC%A7%80%EB%B6%80+OR+%EB%B3%B4%EA%B1%B4)&hl=ko&gl=KR&ceid=KR:ko"
+    fetch_fulltext: false
 
   - id: donga
     name: 동아일보 사회
@@ -229,12 +234,21 @@ sources:
     kind: html_list
     url: "https://www.mohw.go.kr/board.es?mid=a10503010100&bid=0027"
     link_pattern: act=view
+  - id: mohw_press_gnews
+    name: 보건복지부 보도자료 (정책브리핑·Google 뉴스)
+    profile: gov
+    url: "https://news.google.com/rss/search?q=site:korea.kr+%22%EB%B3%B4%EA%B1%B4%EB%B3%B5%EC%A7%80%EB%B6%80%22&hl=ko&gl=KR&ceid=KR:ko"
   - id: kdca_press
     name: 질병관리청 보도자료
     profile: gov
     kind: html_list
     url: "https://www.kdca.go.kr/board/board.es?mid=a20501010000&bid=0015"
     link_pattern: act=view
+    enabled: false        # 2026-10-26 404 (mid=a20501010000/a20501020000 모두) — 아래 정책브리핑 경유 소스로 대체
+  - id: kdca_press_gnews
+    name: 질병관리청 보도자료 (정책브리핑·Google 뉴스)
+    profile: gov
+    url: "https://news.google.com/rss/search?q=site:korea.kr+%22%EC%A7%88%EB%B3%91%EA%B4%80%EB%A6%AC%EC%B2%AD%22&hl=ko&gl=KR&ceid=KR:ko"
   - id: nhis_press
     name: 국민건강보험공단 보도자료
     profile: gov

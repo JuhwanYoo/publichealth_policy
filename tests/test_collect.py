@@ -62,3 +62,16 @@ def test_rss_recovers_from_bare_ampersand(now):
     src = Source(id="x", name="X", kind="rss", category="gov", url="https://x.test", lookback_hours=48)
     items = parse_feed(src, raw, now)
     assert len(items) == 1 and items[0].title == "A & B"
+
+
+def test_html_list_prefers_shortest_title_for_same_link(now):
+    from policybrief.collect.html_list import parse_list
+    html = ('<ul><li><a href="./news_view.php?wr_id=1">건보공단, AI 고도화…업무시간 50% 단축 ﻿﻿국민건강보험공단이 약 107억원을</a>'
+            '<a href="./news_view.php?wr_id=1" class="subject">건보공단, AI 고도화…업무시간 50% 단축</a>'
+            '<span>2026-10-26 14:00</span></li></ul>')
+    src = Source(id="dm", name="데일리메디", kind="html_list", category="media_health",
+                 url="https://dailymedi.com/news/news_list.php", link_pattern="news_view", lookback_hours=48)
+    items = parse_list(src, html, now)
+    assert len(items) == 1
+    assert items[0].title == "건보공단, AI 고도화…업무시간 50% 단축"
+    assert items[0].url == "https://dailymedi.com/news/news_view.php?wr_id=1"

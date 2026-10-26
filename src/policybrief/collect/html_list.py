@@ -35,6 +35,14 @@ def _text(html: str) -> str:
     return _WS_RE.sub(" ", unexcape_safe(html)).strip()
 
 
+def _clean_title(text: str) -> str:
+    """일부 사이트는 제목 anchor 안에 BOM(U+FEFF)으로 구분된 요약문까지 넣는다. 첫 조각만 제목으로 쓴다."""
+    text = text.replace("\u200b", "")
+    if "\ufeff" in text:
+        text = text.split("\ufeff", 1)[0]
+    return text.strip()
+
+
 def unexcape_safe(html: str) -> str:
     return unescape(_TAG_RE.sub(" ", html))
 
@@ -57,15 +65,20 @@ def parse_list(source: Source, html: str, now: datetime) -> list[Item]:
     rows = _ROW_RE.findall(html)
     n_link = n_old = 0
     for _, row in rows:
-        link = None
+        # 같은 행에 같은 글로 가는 링크가 여럿이면(제목·부제·요약) 가장 짧은 텍스트를 제목으로 쓴다.
+        candidates: dict[str, str] = {}
         for href, inner in _LINK_RE.findall(row):
-            if pattern in href:
-                title = _text(inner)
-                if title:
-                    link = (href, title)
-                    break
-        if link is None:
+            if pattern not in href:
+                continue
+            title = _clean_title(_text(inner))
+            if len(title) < 4:
+                continue
+            if href not in candidates or len(title) < len(candidates[href]):
+                candidates[href] = title
+        if not candidates:
             continue
+        href, title = next(iter(candidates.items()))
+        link = (href, title)
         n_link += 1
         href, title = link
         url = normalize_url(urljoin(source.url or "", unescape(href)))
@@ -120,7 +133,7 @@ def _parse_flat(source: Source, html: str, cutoff: datetime, seen: set[str]) -> 
         href, inner = m.group(1), m.group(2)
         if pattern not in href:
             continue
-        title = _text(inner)
+        title = _clean_title(_text(inner))
         if not title or len(title) < 6:
             continue
         url = normalize_url(urljoin(source.url or "", unescape(href)))
