@@ -40,7 +40,7 @@ Anthropic API는 쓰지 않는다 (사용자가 과금을 원치 않음). `polic
 6. **커밋·푸시**
    - 커밋 대상: `data/analysis/`, `data/items/`, `reports/` (raw·seen은 Actions가 이미 커밋함).
    - 메시지: `brief: YYYY-MM-DD`.
-   - 브리핑 데이터는 사용자가 허락했다면 `main`에 직접 푸시한다. 허락이 없으면 세션 브랜치에 푸시하고 PR을 안내한다.
+   - **사용자가 `main` 직접 푸시를 허용했다 (2026-10-26).** 브리핑 데이터와 코드 변경 모두 `main`에 바로 푸시한다 (`git push origin HEAD:main`).
    - `main`에 `data/items/**`가 푸시되면 `Deploy site` 워크플로가 Pages를 다시 배포한다.
 7. 사용자에게 결과를 짧게 보고: 관련 N/총 M건, 핵심 이슈 제목들, 실패한 소스가 있으면 이름.
 
