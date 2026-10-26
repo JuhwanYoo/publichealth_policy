@@ -193,6 +193,7 @@ sources:
     name: 메디게이트뉴스
     profile: media_health
     url: https://www.medigatenews.com/rss/news
+    enabled: false        # 2026-10-26 확인: RSS가 로그인 페이지를 돌려줌
   - id: doctorsnews
     name: 의협신문
     profile: media_health
@@ -248,13 +249,15 @@ sources:
   - id: nhis_press
     name: 국민건강보험공단 보도자료
     profile: gov
-    url: https://www.nhis.or.kr/rss/press.xml
-    enabled: false        # RSS 미제공 가능성 — HTML 파서 추가 예정
+    kind: html_list
+    url: https://www.nhis.or.kr/nhis/together/wbhaea01600m01.do
+    link_pattern: brdScnBltNo
   - id: hira_press
     name: 건강보험심사평가원 보도자료
     profile: gov
-    url: https://www.hira.or.kr/rss/press.xml
-    enabled: false        # RSS 미제공 가능성 — HTML 파서 추가 예정
+    kind: html_list
+    url: https://www.hira.or.kr/bbsDummy.do?pgmid=HIRAA020041000100
+    link_pattern: brdBltNo
 
   # ── 보조: Google 뉴스 키워드 검색 (매체 RSS 장애 시 활성화) ──────────
   - id: gnews_policy

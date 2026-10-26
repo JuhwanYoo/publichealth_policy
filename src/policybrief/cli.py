@@ -388,6 +388,47 @@ def cmd_check_feeds(args: argparse.Namespace) -> int:
     return 1 if bad and args.strict else 0
 
 
+def cmd_probe(args: argparse.Namespace) -> int:
+    """URL을 받아 제목과 게시판 링크 후보를 보여준다 (RSS/목록 주소 찾기용)."""
+    import re as _re
+    from policybrief.collect.http import get_bytes
+
+    keyword = _re.compile(args.grep, _re.I) if args.grep else None
+    for url in args.urls:
+        print(f"=== {url}")
+        try:
+            raw = get_bytes(url)
+        except Exception as exc:
+            print(f"    fetch 실패: {type(exc).__name__}: {str(exc)[:200]}")
+            continue
+        text = raw.decode("utf-8", errors="replace")
+        title = _re.search(r"<title[^>]*>(.*?)</title>", text, _re.S | _re.I)
+        print(f"    {len(raw)} bytes · title: {(title.group(1).strip() if title else '-')[:120]}")
+        rss = _re.findall(r'<link[^>]+type=["\']application/(?:rss|atom)\+xml["\'][^>]*>', text, _re.I)
+        for tag in rss[:5]:
+            print(f"    <link rss>: {tag[:200]}")
+        anchors = _re.findall(r"<a\b([^>]*)>(.*?)</a>", text, _re.S | _re.I)
+        shown = 0
+        for attrs, inner in anchors:
+            label = _re.sub(r"\s+", " ", _re.sub(r"<[^>]+>", " ", inner)).strip()
+            hay = attrs + " " + label
+            if keyword and not keyword.search(hay):
+                continue
+            if not keyword and len(label) < 8:
+                continue
+            print(f"    - {label[:70]!r} :: {_re.sub(r'\\s+', ' ', attrs)[:220]}")
+            shown += 1
+            if shown >= args.limit:
+                break
+        if shown == 0:
+            print(f"    (조건에 맞는 링크 없음; 전체 anchor {len(anchors)}개)")
+            m = _re.search(r"list_no|brdBltNo|brdScnBltNo|nttId|boardId", text)
+            if m:
+                start = max(0, m.start() - 300)
+                print("    문맥: " + _re.sub(r"\s+", " ", text[start:m.start() + 300])[:600])
+    return 0
+
+
 def cmd_build_site(args: argparse.Namespace) -> int:
     p = paths()
     out = Path(args.out) if args.out else p.site
@@ -439,6 +480,12 @@ def main(argv: list[str] | None = None) -> None:
     p_chk.add_argument("--debug", action="store_true", help="실패/0건 소스의 응답 앞부분 출력")
     p_chk.add_argument("--strict", action="store_true", help="실패 소스가 있으면 종료 코드 1")
     p_chk.set_defaults(func=cmd_check_feeds)
+
+    p_probe = sub.add_parser("probe", help="페이지의 제목과 게시판 링크 후보 출력 (주소 찾기용)")
+    p_probe.add_argument("urls", nargs="+")
+    p_probe.add_argument("--grep", help="링크 속성/텍스트에서 찾을 정규식 (예: 'bid=|rss|보도')")
+    p_probe.add_argument("--limit", type=int, default=25)
+    p_probe.set_defaults(func=cmd_probe)
 
     p_site = sub.add_parser("build-site", help="data/items/*.json 으로 정적 사이트 생성")
     p_site.add_argument("--out")

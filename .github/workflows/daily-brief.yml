@@ -18,6 +18,14 @@ on:
         description: "항목 수 상한 (비워두면 제한 없음)"
         type: string
         default: ""
+      probe_urls:
+        description: "주소 탐색: 공백으로 구분한 URL 목록 (지정하면 다른 단계 대신 probe만 실행)"
+        type: string
+        default: ""
+      probe_grep:
+        description: "probe에서 찾을 링크 정규식"
+        type: string
+        default: "bid=|rss|보도|press|brd|list_no|nttId"
 
 permissions:
   contents: write
@@ -55,6 +63,7 @@ jobs:
           VAR_MODE: ${{ vars.POLICYBRIEF_MODE }}
         run: |
           MODE="${INPUT_MODE:-${VAR_MODE:-collect}}"
+          if [ -n "${{ inputs.probe_urls }}" ]; then MODE=probe; fi
           echo "mode=$MODE" >> "$GITHUB_OUTPUT"
           if [ "$MODE" = "full" ]; then echo "deploy=true" >> "$GITHUB_OUTPUT"; else echo "deploy=false" >> "$GITHUB_OUTPUT"; fi
           echo "mode: $MODE"
@@ -62,6 +71,10 @@ jobs:
       - name: Check feeds
         if: steps.mode.outputs.mode == 'check'
         run: python -m policybrief check-feeds --include-disabled --debug
+
+      - name: Probe URLs
+        if: steps.mode.outputs.mode == 'probe'
+        run: python -m policybrief probe ${{ inputs.probe_urls }} --grep '${{ inputs.probe_grep }}' --limit 40
 
       - name: Collect
         if: steps.mode.outputs.mode == 'collect'
@@ -85,7 +98,7 @@ jobs:
           python -m policybrief run $ARGS
 
       - name: Commit results
-        if: steps.mode.outputs.mode != 'check'
+        if: steps.mode.outputs.mode != 'check' && steps.mode.outputs.mode != 'probe'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
