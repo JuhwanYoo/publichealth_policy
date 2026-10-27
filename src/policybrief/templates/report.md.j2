@@ -21,10 +21,16 @@
 
 {% endfor %}
 {% endif %}
-{% if brief.synthesis.policy_outlook %}
+{% if brief.synthesis.policy_outlook or brief.synthesis.global_outlook %}
 ## 정책 동향
 
+{% if brief.synthesis.global_outlook %}
+**국내 흐름** {{ brief.synthesis.policy_outlook }}
+
+**해외 흐름** {{ brief.synthesis.global_outlook }}
+{% else %}
 {{ brief.synthesis.policy_outlook }}
+{% endif %}
 
 {% endif %}
 {% if papers %}

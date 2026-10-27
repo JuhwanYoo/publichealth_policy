@@ -341,6 +341,7 @@ def assemble_brief(batch: RawBatch, analysis: AnalysisFile, now: datetime,
         key_issues=issues,
         notable_papers=[i for i in analysis.synthesis.notable_papers if i in valid],
         policy_outlook=analysis.synthesis.policy_outlook,
+        global_outlook=analysis.synthesis.global_outlook,
         research_ideas=ideas,
     )
     brief = DailyBrief(
@@ -567,7 +568,7 @@ def main(argv: list[str] | None = None) -> None:
     p_show.add_argument("--category", choices=list(CATEGORY_LABELS))
     p_show.add_argument("--ids", help="이 id들만 출력 (쉼표 구분)")
     p_show.add_argument("--titles", action="store_true", help="본문 없이 한 줄씩 제목만 (1차 선별용)")
-    p_show.add_argument("--max-chars", type=int, default=1200, help="항목당 본문 출력 상한")
+    p_show.add_argument("--max-chars", type=int, default=600, help="항목당 본문 출력 상한 (기본 600자)")
     p_show.set_defaults(func=cmd_show)
 
     p_ren = sub.add_parser("render", help="raw + analysis → 리포트")

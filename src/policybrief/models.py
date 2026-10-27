@@ -107,7 +107,8 @@ class Synthesis(BaseModel):
     headline: str = ""
     key_issues: list[KeyIssue] = Field(default_factory=list)
     notable_papers: list[str] = Field(default_factory=list)   # item id
-    policy_outlook: str = ""
+    policy_outlook: str = ""                                  # 국내 정책 흐름
+    global_outlook: str = ""                                  # 해외(글로벌) 정책 흐름 — 비어 있으면 리포트에서 생략
     research_ideas: list[ResearchIdea] = Field(default_factory=list)
 
 

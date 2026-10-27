@@ -86,6 +86,7 @@ def test_weekly_show_and_render(tmp_path, fixtures_dir, monkeypatch, capsys):
     assert captured.out.count("[id=") == 1 and "없는 id: nope" in captured.err
 
     analysis = json.loads((fixtures_dir / "analysis.json").read_text(encoding="utf-8"))
+    analysis["synthesis"]["global_outlook"] = "미국 메디케이드 확대 논의가 이어졌다."
     path = tmp_path / "weekly.json"
     path.write_text(json.dumps(analysis, ensure_ascii=False), encoding="utf-8")
     assert _run(["render", "--week", "2026-10-30", "--from", "2026-10-27", "--analysis", str(path)]) == 0
@@ -93,6 +94,7 @@ def test_weekly_show_and_render(tmp_path, fixtures_dir, monkeypatch, capsys):
     report = (tmp_path / "reports" / "2026-10-30.md").read_text(encoding="utf-8")
     assert report.startswith("# 보건의료정책 주간 브리핑 — 2026-10-27 ~ 2026-10-30")
     assert "## 이번 주 핵심 이슈" in report
+    assert "**국내 흐름** 수가와 인력" in report and "**해외 흐름** 미국 메디케이드" in report
     brief = json.loads((tmp_path / "data" / "items" / "2026-10-30.json").read_text(encoding="utf-8"))
     assert brief["period_start"] == "2026-10-27" and brief["period_end"] == "2026-10-30"
     assert len(brief["items"]) == 9
@@ -101,4 +103,5 @@ def test_weekly_show_and_render(tmp_path, fixtures_dir, monkeypatch, capsys):
     assert _run(["render", "--date", "2026-10-27", "--analysis", str(path)]) == 0
     daily = json.loads((tmp_path / "data" / "items" / "2026-10-27.json").read_text(encoding="utf-8"))
     assert daily["period_start"] is None
+    assert daily["synthesis"]["global_outlook"].startswith("미국")
     assert (tmp_path / "reports" / "2026-10-27.md").read_text(encoding="utf-8").startswith("# 보건의료정책 데일리 브리핑 — 2026-10-27")

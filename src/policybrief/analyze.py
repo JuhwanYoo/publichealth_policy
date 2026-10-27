@@ -64,7 +64,8 @@ SYNTHESIS_SYSTEM = """당신은 보건의료정책 전문 애널리스트입니�
   - item_ids: 이 이슈를 뒷받침하는 항목 id 목록 (입력에 있는 id만, 1개 이상).
   같은 사건을 다룬 여러 기사는 하나의 이슈로 묶습니다. 중요도와 보도량이 큰 순서로 배열합니다.
 [notable_papers] 정책적 함의가 가장 큰 학술 논문 항목의 id 최대 5개 (논문이 없으면 빈 배열).
-[policy_outlook] 2~3문장. 오늘 흐름이 시사하는 중장기 정책 방향 또는 주목할 일정.
+[policy_outlook] 국내 흐름 2~3문장. 오늘 흐름이 시사하는 한국 보건의료정책의 중장기 방향 또는 주목할 일정.
+[global_outlook] 해외 흐름 2~3문장. 해외 저널·국제 뉴스에서 읽히는 글로벌 보건의료정책 동향과 한국에 주는 시사점. 해외 항목이 없으면 빈 문자열.
 [research_ideas] 오늘 자료에서 도출되는 보건의료정책 연구 주제 3~6개. 각각
   - title: 주제명, question: 검증 가능한 연구 질문 1~2문장,
   - rationale: 왜 지금 이 주제가 중요한지 — 오늘 항목(뉴스·보도자료·논문)과 연결해 설명,
@@ -84,6 +85,7 @@ class _SynthesisOut(BaseModel):
     key_issues: list[KeyIssue]
     notable_papers: list[str] = Field(default_factory=list)
     policy_outlook: str
+    global_outlook: str = ""
     research_ideas: list[ResearchIdea] = Field(default_factory=list)
 
 
@@ -277,6 +279,7 @@ class ClaudeAnalyzer:
             key_issues=issues,
             notable_papers=[i for i in parsed.notable_papers if i in valid_ids],
             policy_outlook=parsed.policy_outlook,
+            global_outlook=parsed.global_outlook,
             research_ideas=ideas,
         )
 
