@@ -30,7 +30,7 @@ TOPIC_SLUGS: dict[Topic, str] = {
     Topic.OTHER: "other",
 }
 
-SITE_TITLE = "보건의료정책 데일리 브리핑"
+SITE_TITLE = "보건의료정책 브리핑"
 MIN_IMPORTANCE = 3          # 이 미만은 본문에서 빼고 접힌 '참고 항목'으로만 남긴다
 KST = ZoneInfo("Asia/Seoul")
 
@@ -77,8 +77,13 @@ def _context(brief: DailyBrief) -> dict:
          "linked": [by_id[i] for i in r.item_ids if i in by_id]}
         for r in brief.synthesis.research_ideas
     ]
+    weekly = bool(brief.period_start and brief.period_end)
     return {
         "brief": brief,
+        "weekly": weekly,
+        "period": f"{brief.period_start} ~ {brief.period_end}" if weekly else None,
+        "kind_label": "주간 브리핑" if weekly else "데일리 브리핑",
+        "issues_heading": "이번 주 핵심 이슈" if weekly else "오늘의 핵심 이슈",
         "relevant": relevant,
         "shown": shown,
         "rest": rest,

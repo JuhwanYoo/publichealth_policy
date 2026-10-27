@@ -1,7 +1,8 @@
 name: Daily policy brief
 
 # 기본(collect): 매일 아침 소스를 수집해 data/raw/<date>.json 을 커밋한다. API 키 불필요.
-# 분석·요약은 Claude Code 세션에서 수행한다 (CLAUDE.md 참고).
+# 수집은 매일 돌려야 한다 — RSS 피드는 최근 50~100건만 담아 주 1회 수집으로는 주 초반 기사가 빠진다.
+# 분석·요약은 주 1회(월요일 아침) Claude Code 세션이 7일치 raw를 합쳐 수행한다 (CLAUDE.md 참고).
 # full: ANTHROPIC_API_KEY 시크릿이 있을 때만 — 수집·분석·리포트·배포까지 한 번에.
 
 on:

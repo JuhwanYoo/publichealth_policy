@@ -1,14 +1,14 @@
-# 보건의료정책 데일리 브리핑 — {{ brief.date }}
+# 보건의료정책 {{ kind_label }} — {{ period or brief.date }}
 
 {% if brief.synthesis.headline %}
 > **{{ brief.synthesis.headline }}**
 
 {% endif %}
-수집 {{ counts.total }}건 → 이슈 {{ counts.shown }}건 (저널 {{ counts.journal }} · 언론 {{ counts.media }} · 정부 {{ counts.gov }}){% if rest %} · 참고 {{ rest|length }}건{% endif %}{% if brief.model %} · 분석 `{{ brief.model }}`{% else %} · LLM 미사용{% endif %}
+수집 {% if weekly %}{{ period }} {% endif %}{{ counts.total }}건 → 이슈 {{ counts.shown }}건 (저널 {{ counts.journal }} · 언론 {{ counts.media }} · 정부 {{ counts.gov }}){% if rest %} · 참고 {{ rest|length }}건{% endif %}{% if brief.model %} · 분석 `{{ brief.model }}`{% else %} · LLM 미사용{% endif %}
 
 
 {% if issues %}
-## 오늘의 핵심 이슈
+## {{ issues_heading }}
 
 {% for issue in issues %}
 ### {{ loop.index }}. {{ issue.title }}

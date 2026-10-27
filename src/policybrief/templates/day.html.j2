@@ -1,10 +1,10 @@
 {% extends "base.html.j2" %}
 {% from "_item.html.j2" import item_card %}
-{% block title %}{{ brief.date }} · {{ site_title }}{% endblock %}
+{% block title %}{{ period or brief.date }} · {{ site_title }}{% endblock %}
 {% block content %}
 <section class="hero">
-  <p class="eyebrow">{{ brief.date }}{% if is_index %} · 최신{% endif %}</p>
-  {% if brief.synthesis.headline %}<h1>{{ brief.synthesis.headline }}</h1>{% else %}<h1>{{ brief.date }} 브리핑</h1>{% endif %}
+  <p class="eyebrow">{{ kind_label }} · {{ period or brief.date }}{% if is_index %} · 최신{% endif %}</p>
+  {% if brief.synthesis.headline %}<h1>{{ brief.synthesis.headline }}</h1>{% else %}<h1>{{ period or brief.date }} 브리핑</h1>{% endif %}
   <p class="stats">
     수집 {{ counts.total }}건 → 이슈 <strong>{{ counts.shown }}</strong>건
     <span class="dot">·</span> 저널 {{ counts.journal }} <span class="dot">·</span> 언론 {{ counts.media }} <span class="dot">·</span> 정부 {{ counts.gov }}
@@ -15,7 +15,7 @@
 
 {% if issues %}
 <section>
-  <h2>오늘의 핵심 이슈</h2>
+  <h2>{{ issues_heading }}</h2>
   <ol class="issues">
   {% for issue in issues %}
     <li class="issue">

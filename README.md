@@ -1,20 +1,22 @@
-# 보건의료정책 데일리 브리핑
+# 보건의료정책 브리핑
 
 해외·국내 보건의료정책 저널, 국내 주요 언론·보건의료 전문지, 정부·공공기관 보도자료에서
-보건의료정책 이슈를 **매일 아침 자동으로 수집하고 Claude로 한국어 요약·분류**해
+보건의료정책 이슈를 **매일 아침 자동으로 수집**하고, **매주 월요일 Claude Code 세션에서 한 주치를 한국어로 요약·분류**해
 Markdown 리포트(`reports/`)와 GitHub Pages 사이트로 게시합니다.
 
 ```
-수집 (RSS · PubMed) → 중복 제거 · 키워드 사전 필터 → 본문 보강 → Claude 분류·요약 → 하루 종합
-   → reports/YYYY-MM-DD.md  +  data/items/YYYY-MM-DD.json  →  정적 사이트 (GitHub Pages)
+매일   수집 (RSS · PubMed) → 중복 제거 · 키워드 사전 필터 → 본문 보강 → data/raw/YYYY-MM-DD.json
+매주   7일치 raw 병합 → Claude 분류·요약 → 주간 종합 + 연구 주제 제안
+       → reports/YYYY-MM-DD.md  +  data/items/YYYY-MM-DD.json  →  정적 사이트 (GitHub Pages)
 ```
 
 ## 동작 방식
 
 - **수집 (자동, 무료)**: GitHub Actions가 매일 07:00 KST에 모든 소스를 수집해 `data/raw/YYYY-MM-DD.json`을 커밋합니다. API 키가 필요 없습니다.
-- **분석·요약 (Claude Code 세션)**: 세션에서 *"10월 26일 브리핑 만들어줘"* 라고 하면 Claude가 수집 파일을 읽고
-  분류·요약·종합을 작성해 `reports/YYYY-MM-DD.md`와 `data/items/YYYY-MM-DD.json`을 만들어 푸시합니다 (절차는 `CLAUDE.md`).
-  구독 사용량에 포함되므로 별도 API 과금이 없습니다.
+  RSS 피드는 최근 글만 담으므로 수집은 매일 해 두어야 한 주치가 빠짐없이 쌓입니다.
+- **분석·요약 (Claude Code 세션, 주 1회)**: 월요일 아침 세션에서 *"이번 주 브리핑 만들어줘"* 라고 하면 Claude가 지난 7일치 수집 파일을 합쳐 읽고
+  분류·요약·주간 종합·연구 주제 제안을 작성해 `reports/<월요일>.md`와 `data/items/<월요일>.json`을 만들어 푸시합니다 (절차는 `CLAUDE.md`).
+  구독 사용량에 포함되므로 별도 API 과금이 없습니다. 하루치만 보고 싶으면 `--date`로 일간 브리핑도 만들 수 있습니다.
 - **사이트 (자동)**: `main`에 `data/items/**`가 푸시되면 `Deploy site` 워크플로가 GitHub Pages를 다시 배포합니다.
 
 ## 처음 설정 (한 번만)
@@ -36,14 +38,16 @@ pip install -e ".[dev]"
 
 python -m policybrief check-feeds                 # 소스 상태 점검
 python -m policybrief collect                     # 수집 → data/raw/<오늘>.json
-python -m policybrief show --date 2026-10-26      # 수집 항목 읽기
-python -m policybrief render --date 2026-10-26    # data/analysis/<date>.json + raw → 리포트
+python -m policybrief show --week 2026-11-02 --titles      # 7일치(10-27~11-02) 제목만 훑기
+python -m policybrief show --week 2026-11-02 --ids a1b2,c3d4 # 고른 항목만 본문 읽기
+python -m policybrief render --week 2026-11-02             # data/analysis/2026-11-02.json + 7일치 raw → 주간 리포트
+python -m policybrief show --date 2026-10-26               # (일간) 하루치 읽기 / render --date 도 같은 식
 python -m policybrief build-site --out site       # 사이트 생성 → site/index.html
 python -m policybrief run                         # (선택) Claude API로 수집~리포트 한 번에
 pytest
 ```
 
-공통 옵션: `--date`, `--sources id1,id2`, `--fixtures DIR`(네트워크 대신 `DIR/<source_id>.xml`),
+`show`/`render` 기간 옵션: `--date`(하루) 또는 `--week END [--from START]`(기본 7일). 수집 공통 옵션: `--date`, `--sources id1,id2`, `--fixtures DIR`(네트워크 대신 `DIR/<source_id>.xml`),
 `--no-fulltext`, `--limit N`, `--ignore-seen`, `--fresh`. `POLICYBRIEF_ROOT`로 데이터·리포트 출력 위치를 바꿀 수 있습니다.
 
 ## 소스 추가·수정

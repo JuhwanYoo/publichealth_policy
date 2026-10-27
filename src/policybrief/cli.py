@@ -18,7 +18,7 @@ import logging
 import os
 import sys
 from dataclasses import dataclass
-from datetime import datetime
+from datetime import datetime, timedelta
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
@@ -46,7 +46,7 @@ from policybrief.models import (
     Synthesis,
     Topic,
 )
-from policybrief.prefilter import ExcludeFilter, KeywordFilter, dedupe
+from policybrief.prefilter import ExcludeFilter, KeywordFilter, dedupe, title_key
 from policybrief.render import build_site, render_markdown
 from policybrief.state import SeenState
 
@@ -188,25 +188,112 @@ def _load_raw(p: Paths, date: str) -> RawBatch:
     return RawBatch.model_validate_json(raw_path.read_text(encoding="utf-8"))
 
 
+def _week_range(end: str, start: str | None) -> list[str]:
+    """주간 브리핑이 합칠 raw 날짜 목록. 기본은 end-6 … end (7일)."""
+    end_d = datetime.strptime(end, "%Y-%m-%d").date()
+    start_d = datetime.strptime(start, "%Y-%m-%d").date() if start else end_d - timedelta(days=6)
+    if start_d > end_d:
+        sys.exit(f"--from({start_d})이 --week({end_d})보다 늦습니다.")
+    return [(start_d + timedelta(days=i)).strftime("%Y-%m-%d") for i in range((end_d - start_d).days + 1)]
+
+
+def _load_raw_range(p: Paths, dates: list[str]) -> tuple[RawBatch, list[str], dict[str, int], set[str]]:
+    """여러 날의 raw를 하나로 합친다. (합친 배치, 없는 날짜 목록, 날짜별 건수, 중복으로 뺀 id)
+
+    id가 같은 항목은 한 번만 남기고, 정부·공공기관 자료는 기관 원본과 정책브리핑 전재본이 다른 날 들어올 수
+    있으므로 제목으로도 합친다. source_status는 마지막으로 존재하는 날의 것을 쓴다.
+    """
+    items: list[Item] = []
+    seen_ids: set[str] = set()
+    seen_gov_titles: set[str] = set()
+    missing: list[str] = []
+    per_day: dict[str, int] = {}
+    dropped: set[str] = set()
+    last: RawBatch | None = None
+    for date in dates:
+        raw_path = p.raw / f"{date}.json"
+        if not raw_path.exists():
+            missing.append(date)
+            continue
+        batch = RawBatch.model_validate_json(raw_path.read_text(encoding="utf-8"))
+        last = batch
+        n = 0
+        for it in batch.items:
+            if it.id in seen_ids:
+                dropped.add(it.id)
+                continue
+            if it.category == "gov":
+                key = title_key(it.title)
+                if key in seen_gov_titles:
+                    dropped.add(it.id)
+                    continue
+                seen_gov_titles.add(key)
+            seen_ids.add(it.id)
+            items.append(it)
+            n += 1
+        per_day[date] = n
+    if last is None:
+        sys.exit(f"수집 파일이 하나도 없습니다: data/raw/{dates[0]}.json … {dates[-1]}.json")
+    merged = RawBatch(date=dates[-1], collected_at=last.collected_at, items=items, source_status=last.source_status)
+    return merged, missing, per_day, dropped - seen_ids
+
+
+def _resolve_batch(p: Paths, args: argparse.Namespace, now: datetime) -> tuple[RawBatch, list[str], dict[str, int], set[str]]:
+    """--week 가 있으면 기간을 합친 배치를, 아니면 --date 하루치를 돌려준다.
+
+    반환: (배치, 날짜 목록, 날짜별 건수, 기간 병합 중 중복으로 뺀 id)
+    """
+    if getattr(args, "week", None):
+        dates = _week_range(args.week, getattr(args, "from_date", None))
+        batch, missing, per_day, dropped = _load_raw_range(p, dates)
+        for d in missing:
+            print(f"⚠ {d}: 수집 파일 없음 (건너뜀)", file=sys.stderr)
+        return batch, dates, per_day, dropped
+    date = _today(now, args.date)
+    batch = _load_raw(p, date)
+    return batch, [date], {date: len(batch.items)}, set()
+
+
+def _title_line(it: Item) -> str:
+    cat = CATEGORY_LABELS.get(it.category, it.category)
+    date = it.published.astimezone(KST).strftime("%m-%d") if it.published else "??-??"
+    return f"[id={it.id}] {date} {cat}/{it.source_name}: {it.title}"
+
+
 def cmd_show(args: argparse.Namespace) -> int:
     p = paths()
-    batch = _load_raw(p, args.date or datetime.now(KST).strftime("%Y-%m-%d"))
+    batch, dates, per_day, _ = _resolve_batch(p, args, datetime.now(KST))
     items = batch.items
     if args.category:
         items = [it for it in items if it.category == args.category]
+    if args.ids:
+        wanted = {i.strip() for i in args.ids.split(",") if i.strip()}
+        items = [it for it in items if it.id in wanted]
+        unknown = wanted - {it.id for it in items}
+        if unknown:
+            print(f"⚠ 없는 id: {', '.join(sorted(unknown))}", file=sys.stderr)
     order = {"journal": 0, "gov": 1, "media_health": 2, "media_general": 3}
     items = sorted(items, key=lambda it: (order.get(it.category, 9), it.source_name, it.title))
 
     counts: dict[str, int] = {}
     for it in batch.items:
         counts[it.category] = counts.get(it.category, 0) + 1
-    print(f"# {batch.date} 수집 항목 {len(batch.items)}건 "
+    label = f"{dates[0]} ~ {dates[-1]} ({len(dates)}일)" if len(dates) > 1 else batch.date
+    print(f"# {label} 수집 항목 {len(batch.items)}건 "
           + " · ".join(f"{CATEGORY_LABELS[c]} {n}" for c, n in counts.items()))
+    if len(dates) > 1:
+        print("# 날짜별: " + " · ".join(f"{d} {per_day.get(d, '없음')}" for d in dates))
     print(f"# 수집 시각 {batch.collected_at.astimezone(KST):%Y-%m-%d %H:%M KST}")
     failed = [s for s in batch.source_status if not s.ok]
     if failed:
         print("# 실패 소스: " + ", ".join(s.source_name for s in failed))
+    if args.category or args.ids:
+        print(f"# 출력 {len(items)}건")
     print()
+    if args.titles:
+        for it in items:
+            print(_title_line(it))
+        return 0
     for it in items:
         print(_item_block(it, max_chars=args.max_chars))
         print()
@@ -215,7 +302,8 @@ def cmd_show(args: argparse.Namespace) -> int:
 
 # ── 렌더 ────────────────────────────────────────────────────────────────────
 
-def assemble_brief(batch: RawBatch, analysis: AnalysisFile, now: datetime) -> tuple[DailyBrief, list[str]]:
+def assemble_brief(batch: RawBatch, analysis: AnalysisFile, now: datetime,
+                   period: tuple[str, str] | None = None) -> tuple[DailyBrief, list[str]]:
     """raw + analysis → DailyBrief. 경고 메시지 목록을 함께 돌려준다."""
     warnings: list[str] = []
     by_id = {it.id: it for it in batch.items}
@@ -258,6 +346,8 @@ def assemble_brief(batch: RawBatch, analysis: AnalysisFile, now: datetime) -> tu
     brief = DailyBrief(
         date=batch.date,
         generated_at=now,
+        period_start=period[0] if period else None,
+        period_end=period[1] if period else None,
         model=analysis.analyst,
         items=analyzed,
         synthesis=synthesis,
@@ -276,8 +366,9 @@ def _write_brief(p: Paths, brief: DailyBrief) -> None:
 def cmd_render(args: argparse.Namespace) -> int:
     p = paths()
     now = datetime.now(KST)
-    date = _today(now, args.date)
-    batch = _load_raw(p, date)
+    batch, dates, _, dropped = _resolve_batch(p, args, now)
+    date = batch.date
+    period = (dates[0], dates[-1]) if len(dates) > 1 else None
     analysis_path = Path(args.analysis) if args.analysis else p.analysis / f"{date}.json"
     if not analysis_path.exists():
         sys.exit(f"분석 파일이 없습니다: {analysis_path}")
@@ -285,14 +376,20 @@ def cmd_render(args: argparse.Namespace) -> int:
         analysis = AnalysisFile.model_validate_json(analysis_path.read_text(encoding="utf-8"))
     except ValidationError as exc:
         sys.exit(f"분석 파일 형식 오류:\n{exc}")
+    dup = [a.id for a in analysis.items if a.id in dropped]
+    if dup:
+        # 다른 날 raw에 같은 항목(또는 같은 제목의 정부 자료)이 먼저 있어 병합 때 빠진 id — 분석에서도 뺀다.
+        analysis.items = [a for a in analysis.items if a.id not in dropped]
+        print(f"⚠ 기간 병합에서 중복으로 제외된 id {len(dup)}개는 분석에서 무시했습니다: {', '.join(dup[:5])}")
     try:
-        brief, warnings = assemble_brief(batch, analysis, now)
+        brief, warnings = assemble_brief(batch, analysis, now, period=period)
     except ValueError as exc:
         sys.exit(str(exc))
     _write_brief(p, brief)
     for w in warnings:
         print(f"⚠ {w}")
-    print(f"✔ {date}: 관련 {len(brief.relevant_items())}/{len(brief.items)}건 → reports/{date}.md, data/items/{date}.json")
+    label = f"{period[0]} ~ {period[1]}" if period else date
+    print(f"✔ {label}: 관련 {len(brief.relevant_items())}/{len(brief.items)}건 → reports/{date}.md, data/items/{date}.json")
     return 0
 
 
@@ -440,6 +537,12 @@ def cmd_build_site(args: argparse.Namespace) -> int:
     return 0
 
 
+def _add_period_args(parser: argparse.ArgumentParser) -> None:
+    parser.add_argument("--date", help="일간: 브리핑 날짜 YYYY-MM-DD (기본: 오늘 KST)")
+    parser.add_argument("--week", metavar="END", help="주간: 마지막 날짜(월요일). 기본 7일(END-6 … END)의 raw를 합친다")
+    parser.add_argument("--from", dest="from_date", metavar="START", help="주간 시작 날짜 (기본: END-6)")
+
+
 def _add_collect_args(parser: argparse.ArgumentParser) -> None:
     parser.add_argument("--date", help="브리핑 날짜 YYYY-MM-DD (기본: 오늘 KST)")
     parser.add_argument("--sources", help="실행할 소스 id (쉼표 구분)")
@@ -460,13 +563,15 @@ def main(argv: list[str] | None = None) -> None:
     p_col.set_defaults(func=cmd_collect)
 
     p_show = sub.add_parser("show", help="수집 항목을 읽기 좋게 출력")
-    p_show.add_argument("--date")
+    _add_period_args(p_show)
     p_show.add_argument("--category", choices=list(CATEGORY_LABELS))
+    p_show.add_argument("--ids", help="이 id들만 출력 (쉼표 구분)")
+    p_show.add_argument("--titles", action="store_true", help="본문 없이 한 줄씩 제목만 (1차 선별용)")
     p_show.add_argument("--max-chars", type=int, default=1200, help="항목당 본문 출력 상한")
     p_show.set_defaults(func=cmd_show)
 
     p_ren = sub.add_parser("render", help="raw + analysis → 리포트")
-    p_ren.add_argument("--date")
+    _add_period_args(p_ren)
     p_ren.add_argument("--analysis", help="분석 파일 경로 (기본: data/analysis/<date>.json)")
     p_ren.set_defaults(func=cmd_render)
 

@@ -140,8 +140,10 @@ class AnalysisFile(BaseModel):
 
 
 class DailyBrief(BaseModel):
-    date: str                                  # YYYY-MM-DD (KST)
+    date: str                                  # YYYY-MM-DD (KST); 주간 브리핑이면 기간 마지막 날(월요일)
     generated_at: datetime
+    period_start: str | None = None            # 주간 브리핑: 합친 raw 파일의 첫 날짜. None이면 일간.
+    period_end: str | None = None
     model: str | None = None                   # None이면 --no-llm
     items: list[AnalyzedItem] = Field(default_factory=list)
     synthesis: Synthesis = Field(default_factory=Synthesis)
