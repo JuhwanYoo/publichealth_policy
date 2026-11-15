@@ -1,0 +1,896 @@
+{
+  "date": "2026-11-15",
+  "collected_at": "2026-11-15T10:27:07.263332+09:00",
+  "items": [
+    {
+      "id": "d79859958f23",
+      "source_id": "health_policy",
+      "source_name": "Health Policy",
+      "category": "journal",
+      "lang": "en",
+      "title": "Co-creating innovation through Health Community Labs: the case of Tuscany",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43025158/",
+      "published": "2026-11-10T00:00:00Z",
+      "summary": "BACKGROUND: Contemporary health systems face complex challenges that exceed the capacity of top-down governance models. Living Labs (LLs) and co-creation approaches offer promising pathways but often lack conceptual grounding, structured methodologies, and evaluation frameworks. The Health Community Lab (HCL) was developed to address these gaps by integrating LL principles with the Capability Approach (CA) and Sustainable Human Development (SHD), supporting participatory, agency-oriented innovation. OBJECTIVES: This study aims to develop, implement, and evaluate the HCL methodology as a structured approach to multi-stakeholder co-creation at the territorial level. It examines the model's capacity to foster collaborative governance, generate locally grounded health solutions, and strengthen individual and collective agency. METHODS: The HCL Guidelines were developed through a review of the academic and practitioner literature and stakeholder consultations. A multiple-case study design was used to test the Guidelines across eight HCLs implemented within the Tuscany Health Ecosystem programme in different thematic and territorial contexts. Each HCL followed a three-phase process-analysis, co-creation, and evaluation-assessed using mixed methods focusing on engagement, agency, and sustainability. RESULTS: The HCLs facilitated inclusive dialogue and collaborative problem-solving among institutions, professionals, researchers, civil society, and citizens at the territorial level. Participants reported increased agency and satisfaction. Stakeholders perceived the co-created solutions as relevant, although sustainability and replicability received lower scores, reflecting institutional constraints. Differences across cases highlighted the influence of methodological formats and territorial conditions on participation. CONCLUSIONS: Our findings suggest that the HCL offers a structured and theoretically grounded approach to co-creation with the potential to strengthen collaborative governance and support people-centred, context-sensitive health innovation.",
+      "authors": [
+        "Mario Biggeri",
+        "Elisa Betti",
+        "Dario Menicagli",
+        "Francesca Zagli",
+        "Maria Nannini"
+      ],
+      "journal": "Health policy (Amsterdam, Netherlands)",
+      "doi": "10.1016/j.healthpol.2026.105833"
+    },
+    {
+      "id": "b5456b8f4404",
+      "source_id": "health_policy",
+      "source_name": "Health Policy",
+      "category": "journal",
+      "lang": "en",
+      "title": "Impact of the COVID-19 visiting ban on behavioural and psychological symptoms of dementia in Swedish residential care: a register study",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43025157/",
+      "published": "2026-11-07T00:00:00Z",
+      "summary": "BACKGROUND: On April 1, 2020, during the COVID-19 pandemic, Sweden implemented a six-month national ban on visits to nursing homes to protect frail residents, raising concerns about potential trade-offs between infection control and residents' mental health. OBJECTIVE: To estimate the effect of the visiting ban on behavioural and psychological symptoms of dementia (BPSD) among nursing-home residents. METHOD: We treat the April - September 2020 visiting ban as a natural experiment. Using national register data, we compare Neuropsychiatric Inventory - Nursing Home (NPI-NH) scores during the ban with the corresponding months in 2018 and 2019. RESULTS: Mean NPI-NH scores are lower during the visiting ban, with an overall reduction of 0.64 - 0.77 points on the 1 - 144 scale. While statistically significant, the magnitude indicates limited clinical relevance at the population level. Reductions are more evident among women and the oldest residents, and results are robust in a reduced sample excluding municipalities with the highest rates of COVID-19 mortality. CONCLUSION: The beneficial effect of the visiting ban, although modest, without any indication of overall harm is somewhat unexpected and warrants further validation and investigation of underlying mechanisms. Rather than supporting general visiting restrictions, the findings highlight the potential value of targeted visiting guidelines that maintain contact with relatives while minimising environmental stressors and disruptions to routines. However, more evidence is needed before considering specific recommendations regarding visiting practices or revisions of guidelines.",
+      "authors": [
+        "Jennifer Zilling",
+        "Alexander Dozet",
+        "Ulf Gerdtham",
+        "Sofie Persson",
+        "Elisabet Londos",
+        "Johan Jarl"
+      ],
+      "journal": "Health policy (Amsterdam, Netherlands)",
+      "doi": "10.1016/j.healthpol.2026.105832"
+    },
+    {
+      "id": "260194edcddc",
+      "source_id": "soc_sci_med",
+      "source_name": "Social Science & Medicine",
+      "category": "journal",
+      "lang": "en",
+      "title": "Navigating pandemic trade-offs: Public preferences for crisis management and policy interventions in Switzerland",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43025121/",
+      "published": "2026-11-07T00:00:00Z",
+      "summary": "Public health crises require policymakers to balance competing goals - reducing mortality, protecting healthcare capacity, limiting economic disruption, and mitigating mental health consequences - and policy effectiveness depends on public compliance. We conducted a Discrete Choice Experiment among a quota-based sample of adults from the German- and French-speaking regions of Switzerland (N=2079), randomly assigning respondents to crisis scenarios of lower or higher severity and uncertainty and varying four policy dimensions: containment and mortality reduction, healthcare system strain, mental health impacts across age groups, and financial support design. Maintaining healthcare capacity emerged as the dominant concern, followed by reducing mental health impacts - especially among younger generations - while financial support design was valued least. Latent Class Analysis identified three preference profiles: a moderate majority (58.3%) focused on hospital capacity, a pro-intervention group (21.3%) favoring stringent measures, and a skeptical group (20.4%) opposed to severe restrictions. Class membership was strongly associated with respondents' assessment of previous COVID-19 management and linguistic background, with personal risk exposure also contributing to profile differences. We also find regional differences, with French-speaking respondents more accepting of strict measures and German-speaking respondents placing greater value on financial support design. These findings offer guidance for designing crisis policies that are both effective and publicly acceptable.",
+      "authors": [
+        "Jeanne Berche",
+        "Anna Nicolet",
+        "Joachim Marti"
+      ],
+      "journal": "Social science & medicine (1982)",
+      "doi": "10.1016/j.socscimed.2026.119966"
+    },
+    {
+      "id": "2e875cc0a113",
+      "source_id": "bmc_hsr",
+      "source_name": "BMC Health Services Research",
+      "category": "journal",
+      "lang": "en",
+      "title": "Development of the CARES model: a conceptual approach for responsive and equitable systems in cancer care delivery collaboratives",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43026551/",
+      "published": "2026-08-19T00:00:00Z",
+      "summary": "PURPOSE: Despite advances in treatment, patients continue to experience wide variations in cancer care quality, access, and outcomes. These disparities often stem from fragmented delivery and the lack of structured, system-level quality improvement (QI) frameworks. Conceptual models can help institutions align efforts, reduce inequities, and foster collaboration. To address this gap, we established the Illinois Cancer Collaborative (ILCC), a statewide multidisciplinary initiative, and developed a QI model to promote standardization, cross-institutional learning, and enhanced care across the cancer continuum. METHODS: We conducted iterative small-group interviews with oncology care professionals-including clinicians, administrators, and QI specialists-to identify gaps in cancer care delivery. Using their input and evidence-based frameworks, we developed a conceptual model for quality cancer care. Expert reviewers refined the model for use across six stages: prevention, screening, diagnosis, treatment, survivorship, and end-of-life care. RESULTS: The Conceptual Approach for Responsive and Equitable Systems (CARES) model emphasizes patient engagement, care coordination, and outcome evaluation across the six stages. It supports continuous learning through systematic data collection, benchmarking, and Plan-Do-Study-Act cycles. By tracking patient-centered outcomes (e.g., symptom burden, recurrence, quality of life) and system-level metrics (e.g., efficiency, safety, cost), CARES enables institutions to refine practices, streamline workflows, and achieve improvements such as adherence to guideline-concordant treatment or reduced delays in diagnostic workup. CONCLUSION: The CARES model provides a scalable framework for cancer care quality improvement. Through collaboration, data-driven decision-making, and continuous learning, it offers actionable guidance for implementation. Future efforts should evaluate its effectiveness in improving outcomes like timeliness, coordination, and patient quality of life, and assess adoption feasibility across diverse healthcare settings.",
+      "authors": [
+        "Raheem Bell",
+        "Catherine Valukas",
+        "Norah Zaza",
+        "Ryan Jacobs",
+        "Kristina Diaz",
+        "Julie Johnson"
+      ],
+      "journal": "BMC health services research",
+      "doi": "10.1097/00019514-199806040-00001"
+    },
+    {
+      "id": "cb1069e75756",
+      "source_id": "yna_society",
+      "source_name": "연합뉴스 사회",
+      "category": "media_general",
+      "lang": "ko",
+      "title": "울주군 영유아 양육 부모 대상 심폐소생술·응급처치 교육",
+      "url": "https://yna.co.kr/view/AKR20261113125200057",
+      "published": "2026-11-15T00:10:01Z",
+      "summary": "울주군보건소, 권역별 CPR·응급처치 교육\n영유아 양육 부모 대상 20일까지 진행\nCPR·AED·하임리히법 이론·실습 병행\n전체 내용을 이해하기 위해서는 기사 본문과 함께 읽어야 합니다.\n(울산=연합뉴스) 장영은 기자 = 울산 울주군보건소는 영양플러스 사업 참여 가구의 안전관리와 응급상황 대응 역량을 높이기 위해 20일까지 권역별 심폐소생술(CPR) 및 응급처치 교육을 실시한다고 15일 밝혔다.\n교육은 영·유아를 양육하는 부모와 보호자가 가정 내에서 발생할 수 있는 응급상황에 신속하고 적절히 대처하도록 돕기 위해 마련됐다.\n교육은 주민 접근성과 편의를 고려해 권역별로 진행한다. 중부권은 이날 범서읍보건지소에서 교육하며, 17일 서부권, 20일 남부권 순으로 교육을 이어간다.\n교육 내용은 응급구조사 전문강사를 초청해 심폐소생술(CPR) 중요성과 올바른 실시 방법, 자동 심장 충격기(AED) 사용법, 가정 내 기도 막힘 사고 시 필수적 영·유아 및 성인 대상 하임리히법 등 이론과 실습을 병행한 맞춤형 강의를 펼친다.\n울주군보건소 관계자는 \"영·유아 양육 가정에서는 응급상황 발생 시 보호자의 신속하고 정확한 초기 대응이 무엇보다 중요하다\"며 \"교육을 통해 부모와 보호자가 응급처치에 대한 자신감을 높이고, 위급상황 발생 시 침착한 대처 능력을 갖추길 바란다\"고 말했다.\n young@yna.co.kr\n제보는 카카오톡 okjebo <저작권자(c) 연합뉴스, 무단 전재-재배포, AI 학습 및 활용 금지> 2026년11월15일 09시10분 송고",
+      "authors": [
+        "장영은"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "0cbd857466dd",
+      "source_id": "yna_society",
+      "source_name": "연합뉴스 사회",
+      "category": "media_general",
+      "lang": "ko",
+      "title": "8살 때 내전 피해 한국이주 외국인, 19살 되면 건보료 내야 하나",
+      "url": "https://yna.co.kr/view/AKR20261114047600004",
+      "published": "2026-11-15T00:00:03Z",
+      "summary": "시리아 인도적 체류자, 19세 되자 건보료 부과\n\"소득 무시 획일 부과는 차별\" 불복 소송\n1심 \"과도한 부담\" 승소→2심서 공단 승소\n전체 내용을 이해하기 위해서는 기사 본문과 함께 읽어야 합니다.\n(서울=연합뉴스) 이영섭 기자 = 시리아인 A씨는 만 8세 때 내전을 피해 가족과 함께 한국에 왔다.\n이들 가족은 인도적 체류자 자격을 얻었지만, 본국에서 별다른 재산을 챙겨오지 못한 탓에 생활 형편이 매우 열악했다.\nA씨 아버지가 심장질환으로 건강이 나빠진 이후론 소득이 더욱 줄었다.\n5인 가족이 월 150만∼200만원으로 지내야 했다.\n이런 상황에서 A씨가 만 19세가 되자 매달 10만여원의 건강보험료를 따로 내라는 고지서가 날아왔다.\n국민건강보험공단에서 그간 피부양자(세대원)로 분류했던 A씨를 이제 독립된 세대주로 간주하고 건보료를 부과하기 시작한 것이다.\n이는 외국인 지역가입자의 보험료는 개인을 하나의 세대로 보고 산정하되 19세 미만 자녀까지만 세대원으로 둘 수 있다는 '장기체류 재외국민 및 외국인에 대한 건강보험 적용기준' 고시에 근거한 조처였다.\nA씨는 19세가 됐다고 따로 건강보험료를 부과하는 것은 헌법상 평등원칙에 반한다며 불복소송을 냈다.\n15일 법조계에 따르면 A씨는 1심 법정에서 \"해당 고시는 외국인 지역가입자의 세대원이었던 미성년 자녀가 성년이 되는 순간 실제 직업이나 소득 상황을 고려하지 않은 채 무조건 독립된 세대주로 간주해 건보료를 별도 납부하도록 규정한다\"며 \"같은 상황에서 여전히 세대원으로 인정되는 외국인 직장가입자의 성년 자녀 또는 내국인과 차별적으로 처우한다\"고 주장했다.\n 공단 측은 \"한정된 행정력으로 외국인 지역가입자 세대의 구체적 동거·부양·소득 현황을 파악하기 어려운 현실을 고려한 것으로 차별 취급에 합리적 이유가 있다\"고 맞섰다.\n1심은 A씨 손을 들어줬다.\n재판부는 공단의 조처가 저소득층 외국인 지역가입자 가족에 과도한 부담을 지운다며 \"같은 상황에 있는 외국인 직장가입자의 피부양자 및 내국인에 비해 합리적 이유 없이 과도하게 차별한다\"고 판단했다.\n그러면서 이런 위헌적인 상황을 막으려면 공단이 처분 근거로 든 고시 조항을 항상 기계적으로 적용해야 하는 '간주 규정'이 아니라 반증이 있으면 예외를 두는 '추정 규정'으로 봐야 한다고 짚었다.\n재판부는 A씨 가족이 처한 구체적 상황을 거론하며 \"A씨가 독립된 세대를 구성했다고 간주해 보험료를 부과하는 것은 경제적으로 감당하기 어려운 부담을 지우는 것으로, 사실상 A씨를 국민건강보험 적용에서 축출하는 것과 다름없다\"고 지적했다.\n이어 \"이런 처분은 대한민국 법질서상 도저히 용인될 수 없는 결과이므로 위법하다\"고 판단했다.\n하지만 2심은 이런 1심 판단에 오류가 있다고 보고 최근 공단 측 손을 들어줬다.\n서울고법 행정10-3부(원종찬 오현규 박혜선 고법판사)는 해당 고시 조항을 '예외를 둘 수 있는' 추정 규정으로 해석해선 안 된다고 봤다.\n재판부는 \"국민건강보험 법령과 관련 고시의 체제에 비춰보면 입법자의 객관적 의사는 외국인 지역가입자의 경우 실제 가족 구성이나 부양 관계를 조사·확인할 필요 없이 원칙적으로 개인을 하나의 세대로 봐 보험료를 산정하게 하려는 것\"이라며 \"이에 반하는 방향으로까지 고시 조항을 해석하는 것은 권력분립의 원칙 측면에서 바람직하지 않다\"고 지적했다.\n2심은 또 현행 외국인 등록제도상 외국인의 가족 구성원 범위를 정확하게 확인할 순 없고 공단의 행정력은 한정돼 있다고 짚었다.\n이를 고려하면 내국인처럼 외국인 지역가입자의 실제 소득·재산·부양 관계를 파악해 보험료를 산정하긴 현실적으로 어렵다고 설명했다.\n따라서 해당 고시 조항이 합리적인 이유 없이 외국인 지역가입자를 차별하진 않는다고 판단했다.\n2심은 여기에 \"고시 조항이 무효라고 선언하는 게 인도적 체류자의 불안정한 지위와 처우를 개선하기 위한 적절한 해결책이 될 수 없다\"고 덧붙였다.\n younglee@yna.co.kr\n제보는 카카오톡 okjebo <저작권자(c) 연합뉴스, 무단 전재-재배포, AI 학습 및 활용 금지> 2026년11월15일 09시00분 송고",
+      "authors": [
+        "이영섭"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "38e7c640787a",
+      "source_id": "yna_society",
+      "source_name": "연합뉴스 사회",
+      "category": "media_general",
+      "lang": "ko",
+      "title": "영아에 기한 하루 지난 백신 투여…대법 \"의사 면허정지 과해\"",
+      "url": "https://yna.co.kr/view/AKR20261114049300004",
+      "published": "2026-11-15T00:00:01Z",
+      "summary": "대법, 영아 기한 지난 백신 투여 의사 면허정지 파기\n\"품위 손상해도 심하게 손상하진 않아\" 판단\n직원 실수·즉시 보호자 연락·부작용 없음 참작\n전체 내용을 이해하기 위해서는 기사 본문과 함께 읽어야 합니다.\n(서울=연합뉴스) 이영섭 기자 = 생후 6개월 영아에게 유효기간이 하루 지난 백신을 투여한 의사의 면허를 정지한 처분은 과하다는 대법원판결이 나왔다.\n15일 법조계에 따르면 대법원 1부(주심 천대엽 대법관)는 소아청소년과 의사 A씨가 보건복지부 장관을 상대로 \"의사 면허자격 정지 처분을 취소하라\"며 낸 소송에서 원심의 원고 패소 판결을 파기하고 최근 사건을 서울고법으로 돌려보냈다.\nA씨는 2023년 1월 생후 6개월 영아에게 유효기간이 하루 지난 B형간염 백신 주사를 놨다.\n그해 7월 복지부는 A씨가 비도덕적 진료행위를 했다는 이유로 의사면서 자격정지 3개월 처분을 했다.\n의료인의 품위를 심하게 손상하는 행위를 했을 때 면허자격을 정지할 수 있다는 의료법 조항에 근거한 조처였다.\nA씨는 이에 불복소송을 내 최종 승소했고, 복지부는 다시 면허 자격을 정지하되 기간을 1개월 15일로 줄였다.\nA씨는 재차 불복 소송을 내 1심과 2심에서 패했다.\n1·2심은 \"의사가 유효기간이 지난 의약품을 처방하는 것은 그 자체만으로도 이용자 건강에 큰 악영향을 미칠 위험성을 내포할 뿐 아니라, 의사의 지도에 따라 안전한 범위 내에서 의약품을 이용할 수 있으리라는 신뢰를 현저히 배신한다\"고 지적했다.\n그러면서 \"고도의 전문성과 직업윤리로 뒷받침되는 의사의 직업적 위신을 크게 실추시키는 행위\"라며 면허 정지 사유에 해당한다고 판단했다.\n그러나 대법원은 \"A씨의 행위가 의료인 품위를 손상한다고 볼 순 있어도 사회 통념상 일반인의 기대와 신뢰에 상당히 어긋날 정도로 의료인 품위를 '심하게' 손상한다고 평가하긴 어렵다\"며 A씨 손을 들어줬다.\n대법원은 실제로 A씨가 투약한 후 환아에게 특별한 건강상 문제나 부작용이 일어나지 않았고, A씨가 투여로부터 2시간 후 바로 보호자에게 연락해 사건 경위를 설명한 후 재접종을 안내했다고 지적했다.\n보건소의 사실조사 과정에서 A씨가 사건 경위를 숨기지 않고 상세히 진술했다고도 짚었다.\nA씨가 고의로 유효기간이 지난 약을 접종한 게 아니라 의약품 관리 직원의 실수로 발생한 사정에도 주목했다.\n재판부는 이런 점을 종합해 \"원심 판단은 의료법상 의료인 품위를 '심하게' 손상하는 행위에 관한 법리를 오해한 잘못이 있다\"고 판단했다.\n younglee@yna.co.kr\n제보는 카카오톡 okjebo <저작권자(c) 연합뉴스, 무단 전재-재배포, AI 학습 및 활용 금지> 2026년11월15일 09시00분 송고",
+      "authors": [
+        "이영섭"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "9448e8753b1d",
+      "source_id": "yna_society",
+      "source_name": "연합뉴스 사회",
+      "category": "media_general",
+      "lang": "ko",
+      "title": "신약 개발 앞당긴다…세계 각국 임상시험 '속도전'",
+      "url": "https://yna.co.kr/view/AKR20261113128700017",
+      "published": "2026-11-14T23:33:01Z",
+      "summary": "세계 각국, 신약 임상시험 규제 혁신 경쟁\n미 FDA, 자료 순차 제출·실시간 공유 추진\n한국, IND 승인기간 30일→10일 단축 방침\n전체 내용을 이해하기 위해서는 기사 본문과 함께 읽어야 합니다.\n(서울=연합뉴스) 박상현 기자 = 미국과 중국을 비롯한 세계 각국이 신약 임상시험 소요 기간을 줄이기 위해 경쟁적으로 규제 혁신을 모색하고 있다.\n신속한 신약 개발과 도입을 염두에 두고 안전성은 유지하면서도 효율적 심사·협의와 절차 간소화 등을 통해 임상시험 속도를 높이는 것이 시대적 흐름이 됐다.\n 우리나라도 사전 검토 결과가 적합한 경우 임상시험계획(IND) 승인 처리 기간을 기존 30일에서 10일로 줄이는 방안을 추진하고 있다.\n◇ 미국, 중국 임상시험 급증에 연구 가속화 모색\n15일 제약업계 등에 따르면 식품의약품안전평가원은 최근 펴낸 '주요국 의약품 규제 동향 브리프'에서 미국 정부가 IND 제출 전후 절차의 효율화를 꾀하고 있다고 전했다.\n미국 보건복지부는 올해 6월 임상시험과 신약 개발을 촉진하기 위한 혁신 정책을 발표했고, 이에 식품의약국(FDA)이 임상 연구를 가속하기 위한 조치를 내놨다.\n중국이 임상시험을 급격히 늘리며 신약 개발의 핵심 거점으로 부상하자 위기감을 느낀 미국이 임상시험 속도전에 나선 것이다.\nFDA는 지난달 30일까지 신속 IND 시범사업에 참가할 업체를 모집했다.\n이 사업은 IND 자료 준비와 제출에 걸리는 시간을 줄이기 위해 적격 연구기관(QRI)이 기업과 협력하도록 한 점이 특징이다.\n의료와 관련된 다양한 기관이 참여하는 적격 연구기관은 자료가 제출되기 전에 과학적 근거와 자료 적절성을 먼저 검토해 보완 사항을 제시하는 역할을 맡는다.\n또 기존에는 비임상, 임상, 제조·품질관리(CMC) 자료를 한꺼번에 FDA에 제출해야 했지만, 시범사업 참가 업체는 완성한 자료부터 순차적으로 내도록 했다.\n평가원은 \"신속 IND 시범사업에서는 적격 연구기관의 전문적·실질적 지원을 바탕으로 개별 구성요소가 준비되는 대로 FDA에 순차적으로 제출하고 검토받게 된다\"며 FDA가 12월 중순께 시범사업에 참여할 업체·적격 연구기관 조합을 8∼10개 선정해 통보할 예정이라고 전했다.\nFDA는 임상 신청 기업과 주요 평가 변수, 안전성 신호 등 정보를 빠르게 공유하는 '실시간 임상시험'도 추진하고 있다. 이 제도에서는 안전성·유효성 관련 중요 정보 등이 사실상 실시간으로 FDA에 전달된다.\nFDA는 아스트라제네카의 외투세포림프종 치료제, 암젠의 소세포폐암 치료제 임상을 실시간 임상시험 대상으로 정해 제도를 시범적으로 운용하기로 했다.\n FDA는 전통적 임상시험의 경우 핵심 자료가 전달되기까지 몇 년이 걸려 의사결정과 신약 개발이 지연될 수 있다는 점을 고려해 진행 상황을 실시간으로 확인하는 체계를 도입하려 하는 것으로 알려졌다.\n◇ 초기 임상 심사 기간 단축 추세…영국·덴마크, 14일 이내 결론\n임상시험 규제 개선과 절차 효율화는 다른 나라에서도 이뤄지고 있다.\n영국은 위험도가 낮은 임상 1상의 심사 목표 기간을 기존 30일에서 14일로 단축하는 방안을 추진하고 있다.\n한국바이오협회는 중국도 규제 기관이 임상시험을 검토하는 데 걸리는 시간을 줄여 신약 개발을 가속할 방법을 꾸준히 모색하고 있다고 전했다.\n중국은 혁신 의약품의 임상시험 심사·승인 기간을 기존 60일에서 30일로 줄이는 신속 심사 체계를 도입한 것으로 전해졌다.\n인구 대비 임상시험 횟수가 많은 나라인 덴마크도 지난해 8월 초기 단계 임상시험의 경우 14일 이내에 승인 여부를 통보하기로 했다.\n식품의약품안전처는 '의약품 등의 안전에 관한 규칙'을 개정해 사전 검토 결과가 적합한 경우에는 IND 승인에 필요한 기간을 30일에서 10일로 줄일 방침이다.\n평가원은 \"글로벌 신약 개발 환경에서는 유망한 후보물질을 얼마나 신속하게 초기 임상시험 단계로 진입시킬 것인지가 경쟁력을 좌우하는 요소 중 하나로 부각되고 있다\"고 분석했다.\n이어 \"국내에서도 임상시험 진입에 필요한 행정 절차를 효율화하고, 신약 개발을 지원하는 규제 환경을 마련하려는 움직임이 이어지고 있다\"고 덧붙였다.\n psh59@yna.co.kr\n제보는 카카오톡 okjebo <저작권자(c) 연합뉴스, 무단 전재-재배포, AI 학습 및 활용 금지> 2026년11월15일 08시33분 송고",
+      "authors": [
+        "박상현"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "5a4dcbbd04ca",
+      "source_id": "yna_society",
+      "source_name": "연합뉴스 사회",
+      "category": "media_general",
+      "lang": "ko",
+      "title": "노인일자리 참여자 10명 중 8명 \"건강 유지·의료비 절감 도움\"",
+      "url": "https://yna.co.kr/view/AKR20261113149200530",
+      "published": "2026-11-14T21:05:00Z",
+      "summary": "노인일자리 참여자 83% \"신체기능 약화 예방\"\n93% \"하루 30분 이상 더 걷거나 움직여\"\n참여자 44% 의료비 부담…지원 연계 필요\n전체 내용을 이해하기 위해서는 기사 본문과 함께 읽어야 합니다.\n(서울=연합뉴스) 김잔디 기자 = 노인일자리 사업 참여자 10명 중 8명은 일자리가 신체적·정신적 기능 저하를 예방하고 의료비 부담을 줄이는 데 도움이 된다고 평가했다.\n15일 한국노인인력개발원에 따르면 노인일자리 참여자 2천985명을 대상으로 수행한 '2025년 노인일자리 및 사회활동 지원사업 실태조사'를 분석한 결과 이같이 나타났다.\n노인일자리 참여자는 건강상 긍정적 변화를 폭넓게 체감하는 것으로 확인됐다.\n신체기능 약화 예방에 동의한 참여자는 전체의 83.7%였고, 정신기능 약화 예방은 83.0%다. 의료비 절감 효과에 대해서도 79.0%가 동의해 세 지표 모두 긍정적인 응답이 대다수였다.\n노인일자리 사업 참여 후 건강행태도 개선됐다.\n참여 이후 하루 30분 이상 더 걷거나 움직이게 됐다는 응답은 93.0%, 식사를 규칙적으로 하게 됐다는 응답은 89.5%, 깊은 잠을 잘 수 있게 됐다는 응답은 85.4%로 나타났다.\n이러한 긍정적 변화를 더욱 넓히기 위해서는 의료서비스 지원이 함께 이루어질 필요가 있다고 개발원은 짚었다.\n노인일자리 참여자의 44.2%는 의료비를 부담스럽게 느낀 적이 있었다.\n또 의학적 치료 또는 검사가 필요했던 참여자 중 6.8%는 필요한 의료를 이용하지 못한 경험이 있었고, 그 주된 사유는 경제적 이유(44.2%)와 증상이 가벼워서(34.0%)였다.\n개발원은 \"노인일자리가 소득 보충을 넘어 노년기 건강한 일상을 지원하는 사회참여 정책으로 기능하고 있음을 보여준다\"면서도 \"의료비 지원 연계를 통해 건강한 참여를 뒷받침할 필요가 있다\"고 밝혔다.\n 이어 \"(노인일자리 사업) 수행기관은 참여자 상담 시 의료비 부담과 미충족 의료 여부를 확인하고 본인부담상한제, 재난적 의료비 지원, 지자체 의료비 지원 등 이용 가능한 제도를 안내·연계하는 절차를 마련할 필요가 있다\"고 제안했다.\n jandi@yna.co.kr\n제보는 카카오톡 okjebo <저작권자(c) 연합뉴스, 무단 전재-재배포, AI 학습 및 활용 금지> 2026년11월15일 06시05분 송고",
+      "authors": [
+        "김잔디"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "83718a2f6987",
+      "source_id": "yna_society",
+      "source_name": "연합뉴스 사회",
+      "category": "media_general",
+      "lang": "ko",
+      "title": "센터급 이상 응급실 환자 작년 432만명…30%는 경증·비응급",
+      "url": "https://yna.co.kr/view/AKR20261113123600530",
+      "published": "2026-11-14T21:04:00Z",
+      "summary": "작년 센터급 이상 응급실 환자 432만명\n이 중 약 30%는 경증·비응급 환자\n자해·자살 응급실 방문 2만9천여건\n전체 내용을 이해하기 위해서는 기사 본문과 함께 읽어야 합니다.\n(서울=연합뉴스) 김영신 기자 = 지난해 전국 센터급 이상 응급의료기관에 방문한 환자가 432만여명으로 집계됐다.\n이 가운데 경증이나 비응급 환자가 차지하는 비중은 약 30%였다.\n15일 국립중앙의료원 중앙응급의료센터가 공개한 '2025 응급의료 현황통계' 보고서에 따르면 지난해 182개 센터급 이상 응급의료기관을 이용한 환자는 432만784명(건)이었다.\n중앙응급의료센터는 전체 응급의료기관 중 국가응급진료정보망(NEDIS)을 구축·운영하는 센터급 이상 기관의 진료 자료를 수집해 응급의료 현황통계를 발간하고 있다.\n전체 응급실 내원 환자를 최초 중증도 분류(KTAS)별로 보면 ▲ 생명이 위중한 1등급(소생)이 8만1천293건 ▲ 생명에 잠재적 위협이 있어 빠른 치료가 필요한 2등급(긴급) 41만6천27건 ▲ 잠재적 가능성을 고려해 치료가 필요한 3등급(응급) 243만7천987건이었다.\n▲ 4등급(준응급·경증응급)은 109만2천582건 ▲ 5등급(비응급) 18만1천90건으로 각각 집계됐다. 응급실 내원 환자 중 약 30%는 경증·비응급 환자인 것이다.\n응급실 내원 사유별로 보면 질병이 327만1천453건으로 약 76%를 차지했다.\n질병 외 이용은 93만5천44건이고 그중 비의도적 사고가 86만7천882건, 자해·자살이 2만8천983건이었다.\n119 구급차를 타고 응급실로 간 사례는 97만1천274건, 기타 구급차 15만575건, 의료기관 구급차 2만6천774건, 항공 이송 3천137건 등이다.\n응급실 재실 시간별로 보면 2시간 미만이 204만3천741건으로 가장 많았고, 2∼4시간 139만5천367건, 4∼6시간 41만4천644건 순이었다.\n응급실에 갔으나 사망한 사례는 2만9천737건으로 집계됐다.\n주요 응급 질환인 심근경색 환자는 3만5천781건, 출혈성 뇌졸중 환자는 3만713건, 허혈성 뇌졸중 환자는 9만172건이었다.\n손상 중증도가 높은 중증 외상 환자는 8만1천437건이었다.\n작년 말 기준 전국 응급의료기관·시설은 530곳, 응급의학 전문의는 2천802명으로 집계됐다. 인구 10만명당 응급의학 전문의 수는 5.5명이다.\n shiny@yna.co.kr\n제보는 카카오톡 okjebo <저작권자(c) 연합뉴스, 무단 전재-재배포, AI 학습 및 활용 금지> 2026년11월15일 06시04분 송고",
+      "authors": [
+        "김영신"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "4e02497c905b",
+      "source_id": "yna_society",
+      "source_name": "연합뉴스 사회",
+      "category": "media_general",
+      "lang": "ko",
+      "title": "요양병원·동네의원 항생제 내성 심화…관리 사각지대 우려",
+      "url": "https://yna.co.kr/view/AKR20261113151400530",
+      "published": "2026-11-14T21:03:02Z",
+      "summary": "요양병원·동네의원 항생제 내성률 상승\n요양병원 황색포도알균 내성 84%, 의원 32%\n항생제 처방 70%가 의원급…관리 확대 필요\n전체 내용을 이해하기 위해서는 기사 본문과 함께 읽어야 합니다.\n(서울=연합뉴스) 고유선 기자 = 요양병원과 동네의원 등 중소 의료기관에서 주요 감염 원인균의 항생제 내성률이 높아지는 것으로 나타났다.\n정부가 항생제 내성 문제에 대응해 종합병원을 중심으로 항생제 적정사용 관리 사업을 추진하고 있지만, 전체 항생제 처방량의 70% 이상이 의원급 의료기관에 집중돼 있어 관리 대상을 확대해야 한다는 지적이 나온다.\n15일 질병관리청의 2024 국가 항균제 내성균 조사연보를 살펴보면 2024년 1∼12월 임상시험검체분석기관에 의뢰된 검체 중 병원균이 분리된 사례(중소병원 14만5천740건·요양병원 5만8천568건·의원 24만1천937건)를 대상으로 분석한 결과 이같이 나타났다.\n세부적으로 보면 폐렴막대균의 경우 요양병원에서 세팔로스포린 계열 항균제인 세포탁심 내성률이 86.6%로 2023년보다 1.4%포인트(p) 높아졌고, 세프타지딤 내성률은 80.8%로 전년과 같았다.\n면역력이 떨어진 환자가 잘 감염되는 폐렴막대균은 폐렴과 요로감염 등의 주요 원인균으로, 하부호흡기와 소변 등에서 자주 발견된다.\n다제내성균 치료에 쓰이는 광범위 항균제인 카바페넴 계열 이미페넴과 얼타페넴에 대한 폐렴막대균 내성률은 요양병원에서 52.3%, 56.8%, 의원에서 10.4%, 11.3%로 나타났는데, 의원에서 내성률이 2023년(각 6.5%와 9.8%)에 비해 크게 증가했다.\n황색포도알균 가운데 메티실린 내성 황색포도알균(MRSA)이 차지하는 비율은 중소병원 51.4%, 요양병원 84.0%, 의원 32.1%로 나타나면서 2023년(49.7%·83.2%·29.2%)과 비교해 모두 높아졌다.\n내성률이 높아 보건당국이 지속해서 감시하는 장알균(EFM)의 경우 일반적으로 사용되는 항균제인 암피실린 내성률이 요양병원과 의원에서 각 97.1%, 82.8%로 2023년(97.1%·80.6%)과 비슷하게 높은 수준을 유지했다.\n2023년 국내 항생제 사용량(DID·인구 1천명당 하루 항생제 사용량)은 튀르키예에 이어 경제협력개발기구(OECD) 2위다. 주요 감염병 병원체에 대한 항생제 내성률 또한 OECD 국가 가운데 최상위권 수준이다.\n이에 정부는 종합병원에서 전담관리팀이 항생제 처방의 적정성을 점검하는 '항생제 적정사용 관리'(ASP) 시범사업을 시작했다. 그러나 항생제 처방의 상당 부분을 차지하는 의원급 의료기관은 사업 대상에 포함되지 않아 관리 체계를 확대하고 일반 국민의 항생제 사용에 대한 인식도 개선해야 한다는 지적이 나온다.\n질병청 관계자는 \"종합병원급은 감염 관리가 어느 정도 되고 있고 ASP도 시행되고 있지만 ASP는 수년이 지나야 효과를 볼 수 있는 사업\"이라며 \"올해 발표한 제3차 국가 항생제 내성 관리대책을 통해 항생제 사용 최적화, 내성균 발생 예방, 인식 개선 등을 함께 추진할 것\"이라고 전했다.\n cindy@yna.co.kr\n제보는 카카오톡 okjebo <저작권자(c) 연합뉴스, 무단 전재-재배포, AI 학습 및 활용 금지> 2026년11월15일 06시03분 송고",
+      "authors": [
+        "고유선"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "2914ba888d0a",
+      "source_id": "yna_economy",
+      "source_name": "연합뉴스 경제",
+      "category": "media_general",
+      "lang": "ko",
+      "title": "\"ESG 지배구조 개선 이끈 주주권리…배당·자사주 득점 늘었다\"",
+      "url": "https://yna.co.kr/view/AKR20261114022300008",
+      "published": "2026-11-14T21:20:00Z",
+      "summary": "기업 ESG 종합점수 37.1점…0.6점 상승\n배당·자사주 득점 늘며 주주권리 4.4점↑\n자사주 소각 규모 급증·상법 규율도 강화\n전체 내용을 이해하기 위해서는 기사 본문과 함께 읽어야 합니다.\n(서울=연합뉴스) 강수지 기자 = 올해 기업 ESG(환경·사회·지배구조) 평가에서는 지배구조 영역의 점수가 오른 가운데, 주주권리 부문의 개선이 두드러졌다. 배당정책 공시와 자기주식(자사주) 매입·소각 관련 문항에서 득점 기업이 늘어난 영향이라는 분석이다.\n15일 아주기업경영연구소의 '2026 ESG 평가 결과 리뷰' 보고서에 따르면 평가 대상 1천35개 사의 평균 종합점수는 37.1점으로 지난해보다 0.6점 올랐다. 평균 등급은 지난해와 같은 BB였다.\n최하위인 종합 C등급 비중은 18.2%에서 15.8%로 낮아졌지만, BB등급 이하 기업은 631개 사(61.0%)로 여전히 과반이었다.\n영역별 평균 점수는 지배구조가 42.6점에서 44.6점으로, 환경이 25.6점에서 26.2점으로 올랐다. 사회는 35.9점에서 35.2점으로 소폭 하락했다.\n영역별 특징도 달랐다. 환경과 사회 영역은 C등급에 기업이 가장 많이 몰렸다. C등급 비중은 환경 55.5%, 사회 31.2%였다. 반면 지배구조는 BB등급이 29.4%로 가장 높은 비중을 보였고, C등급 비중은 1.5%에 그쳤다.\n 연구소는 보고서에서 \"금년도 지배구조 평가에서는 주주권리 부문의 개선이 두드러졌고, 특히 배당정책 공시와 자기주식 매입·소각 계획, 소각 이행 문항의 상승이 주주권리 부문의 개선을 견인하였다\"고 밝혔다.\n지배구조 영역에서 A등급 이상 기업 비중은 30.7%에서 32.9%로 2.2%포인트 늘었다. 중분류별로는 이사회가 27.8점에서 28.4점으로 0.6점, 감사기구가 51.6점에서 53.9점으로 2.3점 올랐다. 주주권리는 51.0점에서 55.4점으로 4.4점 올라 세 중분류 중 상승 폭이 가장 두드러졌다.\n연구소는 농심[004370], NHN[181710] 등 주요 기업의 전후 사업보고서를 비교한 결과, 이들 기업의 배당정책이 목표 비율과 적용 기간 제시, 산정지표 명확화, 제한 조건과 결정 배경 설명 등으로 구체화됐다고 밝혔다.\n별도 순이익 기준 배당 성향과 주당 최소 배당액을 제시하거나 정책 검토 주기를 명시한 사례, 연결 상각 전 영업이익(EBITDA)을 기준으로 배당과 자기주식에 함께 적용할 재원을 제시한 사례가 확인됐다고 설명했다.\n연구소는 \"배당의 예측가능성은 정책의 내용과 실제 배당 절차가 함께 뒷받침해야 한다\"며 \"정부는 2023년 배당절차 개선 추진 이후 분기배당 기준을 분기말로 고정하던 규정을 삭제하고, 결산배당과 분기·중간배당을 구분해 절차와 실제 일정을 설명하도록 하고 있다\"고 설명했다.\n자기주식 분야에서는 시장 전체의 소각 규모도 커졌다. 보고서가 인용한 금융위원회 집계에 따르면 상장회사 자기주식 소각 금액은 2024년 약 13조9천억원에서 2025년 약 21조4천억원으로 늘었고, 2026년 1∼5월에는 약 43조1천억원에 이르렀다.\n제도적 규율도 강화됐다. 개정 상법은 자기주식을 취득 후 1년 내 원칙적으로 소각하도록 했다. 또한, 자기주식 정기공시 대상은 보유 비중 기준이 5%에서 1%로 낮아졌다. 올해 6월 후속 개정으로 공시는 자기주식을 보유한 모든 상장회사로 확대됐다.\n연구소는 \"기업은 배당과 자기주식을 성장 투자와 재무 건전성을 고려한 자본 배분 정책의 일부로 검토해야 한다\"며 배당은 재원과 적용 기간, 조정 조건을 구체적으로 제시하고, 자기주식은 소각과 보유·처분 예정 물량을 구분해 목적별 수량과 처리 일정을 계획에 담아야 한다고 제언했다.\n연구소는 지배구조 전반의 개선이 지속되려면 기업이 배당과 자기주식에 관한 정책과 이행을 주주에게 명확히 설명하는 관행을 정착시켜야 한다고 강조했다.\n skang@yna.co.kr\n제보는 카카오톡 okjebo <저작권자(c) 연합뉴스, 무단 전재-재배포, AI 학습 및 활용 금지> 2026년11월15일 06시20분 송고",
+      "authors": [
+        "강수지"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "0810d8c7fb26",
+      "source_id": "yna_economy",
+      "source_name": "연합뉴스 경제",
+      "category": "media_general",
+      "lang": "ko",
+      "title": "씨 마른 강남권 분양에…서울 1순위 청약자 4년만에 최저",
+      "url": "https://yna.co.kr/view/AKR20261114036200003",
+      "published": "2026-11-14T21:15:00Z",
+      "summary": "올해 서울 1순위 청약자 4년 만에 최저\n강남3구 일반분양 73가구, 88.8% 급감\n강남3구 경쟁률 870대 1로 1년새 3배로\n전체 내용을 이해하기 위해서는 기사 본문과 함께 읽어야 합니다.\n(서울=연합뉴스) 오예진 기자 = 올해 서울 전체 1순위 청약 신청자 수가 4년 만에 가장 적은 것으로 나타났다.\n분양 자금 조달이 어느 때보다 어려워진 가운데 강남권 아파트 일반 공급이 크게 줄어든 것이 결정적인 영향을 미친 것으로 분석된다.\n15일 부동산 전문 리서치업체 리얼투데이가 한국부동산원 청약홈을 분석한 결과 이달 11일 기준으로 올해 강남3구(서초·강남·송파) 아파트 일반분양은 2개 단지, 73가구로 지난해 같은 기간(652가구)보다 88.8% 감소했다.\n서초구 잠원동 오티에르 반포(43가구)와 서초동 아크로드서초(30가구)가 이에 해당한다.\n강남구와 송파구에서는 새로 공급된 단지가 없었다.\n강남권 일반 공급은 '제로'(0건)를 기록한 2022년 이후 4년 만에 가장 적다.\n강남3구를 제외한 서울 나머지 지역에서는 총 21개 단지, 2천292가구가 공급돼 작년 동기(1천292가구)보다 77.4% 증가했다.\n서울 전체로는 23개 단지, 2천365가구가 공급돼 전년 동기(1천944가구) 대비 21.7% 늘었다.\n서울의 일반공급 물량은 늘었지만 1순위 청약 신청자 수는 30만3천218명에서 15만5천890명으로 48.6% 감소했다.\n2022년(6만8천746명) 이후 4년 만에 가장 적다.\n분양가 상한제 적용으로 청약에 성공하면 큰 시세차익을 볼 수 있어 일명 '로또 청약'이라 불리는 강남권 공급에 가뭄이 들다시피 하면서 청약 시장 수요가 제한된 영향으로 풀이된다.\n분양가가 높아진 가운데 전반적인 대출규제가 강화되면서 청약이 돼도 자금 조달이 어려운 점도 일반분양의 매력을 감소시키는 요인으로 꼽힌다.\n 다만 1순위 청약 경쟁률은 강남3구와 나머지 지역에서 극명한 차이가 드러났다. \n공급 단지가 희소해진 만큼 강남3구의 1순위 청약 평균 경쟁률은 870.0대 1로 작년 동기(285.5대 1)의 3배로 높아졌다.\n아크로드서초는 4월 1순위 30가구 모집에 3만2천973명의 신청자가 몰리며 평균 1천99.1대 1의 경쟁률을 기록했다.\n2015년 이후 서울에서 분양한 민간 아파트 단지 중 역대 최고 경쟁률이다.\n오티에르 반포도 710.2대 1이라는 높은 경쟁률로 분양을 마무리했다.\n강남3구를 제외한 나머지 지역의 1순위 평균 경쟁률은 40.3대 1로 전년 동기(90.6대 1)의 절반에도 못 미쳤다.\n서울 전체 1순위 경쟁률(65.9대 1) 역시 지난해 같은 기간(156.0대 1)의 절반을 밑돌았다.\n전문가들은 올해 분양 시장 상황이 녹록지 않았지만 정부의 공급 정책에 따라 상황이 나아질 가능성이 있다고 진단했다.\n남혁우 우리은행 부동산연구원은 \"강남뿐 아니라 전반적으로 분양·건설 경기가 힘들어졌는데 정부가 공공 공급과 함께 민간 정책 지원을 통해 투트랙으로 공급에 기여한다면 내년 상황은 지금보다는 나아질 것\"이라고 전망했다.\n 구자민 리얼투데이 연구원은 \"서울 시장의 특성상 대기 수요는 꾸준하겠으나 단지별 분양가 수준과 입지 등에 따른 온도 차는 지속될 전망\"이라고 내다봤다.\n ohyes@yna.co.kr\n제보는 카카오톡 okjebo <저작권자(c) 연합뉴스, 무단 전재-재배포, AI 학습 및 활용 금지> 2026년11월15일 06시15분 송고",
+      "authors": [
+        "오예진"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "415a539e477b",
+      "source_id": "yna_economy",
+      "source_name": "연합뉴스 경제",
+      "category": "media_general",
+      "lang": "ko",
+      "title": "\"파격가에 의료통역 지원까지\"…비만약 원정처방 마케팅 확산",
+      "url": "https://yna.co.kr/view/AKR20261113174400017",
+      "published": "2026-11-14T04:30:00Z",
+      "summary": "비만약 해외 처방 반입 허용에 일본 유치 본격화\n마운자로 일본 한달치 6만원, 한국의 5분의 1\n접근성 위해 국내 약가 인하 요구 목소리도\n전체 내용을 이해하기 위해서는 기사 본문과 함께 읽어야 합니다.\n(서울=연합뉴스) 신선미 기자 = \"일본 정품 마운자로. 파격적이고 합리적인 가격.\"\n\"친절한 한국인 스태프들이 있으니 안심하세요!\"\n정부가 12일 해외에서 처방 받은 비만치료제를 가지고 들어올 수 있도록 허용하자 일본에서 한국인 환자 유치가 본격화됐다.\n일본 의료기관들은 현지 비만치료제 가격이 한국보다 저렴하다는 강점을 내세워 환자 '발길 잡기'에 나섰다.\n 사회관계망서비스(SNS)를 통해 한국어 광고를 게시하고 인포그래픽을 활용해 구체적인 가격을 안내하는 식이다.\n◇ 마운자로 일본서 한달치 6만원…한국 가격 5분의 1 수준\n한 일본 의료기관의 SNS 광고를 보면 마운자로 2.5㎎ 1개월분 가격은 7천엔(약 6만원), 5㎎이 1만3천엔(약 11만원)이다.\n국내에서 2.5㎎ 제품을 처방받아 구매하려면 약 30만원이 드는데, 이의 5분의 1 수준이다.\n일본 의료기관들은 가격 경쟁력뿐 아니라 한국어 진료와 비대면 진료가 가능하고 체류 중인 호텔로 약을 배송해준다는 점도 강조한다.\n최근에는 일본 후쿠오카의 한 클리닉이 대마도 숙소로도 마운자로를 보내준다고 광고해 온라인에서 주목을 받기도 했다.\n여행업계에서는 정부의 비만치료제 휴대 반입 허용 조처에 현지 마케팅 영향 등이 맞물려 일본 여행 수요가 늘 것으로 보고 있다.\n한 여행업계 관계자는 \"국내보다 상대적으로 가격이 저렴한 일본 현지 의료기관에 대해 관심이 높아지는 것으로 보인다\"고 말했다.\n또 다른 관계자는 \"최근 엔저(엔화 약세) 현상이 지속되고 동계 시즌 일본행 항공 공급석이 확대되면서 일본행 수요는 뚜렷한 증가세가 이어질 것\"이라고 내다봤다.\n인터넷 커뮤니티 등에서는 비만치료제 처방과 구매를 위해 일본행 대신 중국행을 고민하는 사례도 어렵지 않게 찾을 수 있다.\n국내보다 저렴하게 마운자로를 구매할 수 있을뿐 아니라, 펜 하나에 4주분이 들어 있는 '퀵펜' 형태 제품을 구할 수 있기 때문이다.\n해외에서 마운자로를 구매하는 사람들 사이에서는 일본과 중국에서 구매하는 마운자로를 각각 '스시자로', '마라자로'로도 부른다.\n비만치료제를 구하기 위해 해외로 향하는 발길이 늘자, 일각에서는 국내 약가 인하를 통해 환자의 치료 접근성을 높여야 한다는 목소리도 나온다.\n한국릴리는 가격 관련 질의에 \"제품의 전반적인 가치와 유효성·안전성 프로파일, 각국 시장·규제 환경 등을 종합적으로 고려해 마운자로 공급가를 결정한다\"고 답했다.\n이어 \"환자가 치료에 접근할 수 있도록 다양한 방법을 모색하고 있다\"며 \"정부, 이해관계자와 소통·협력을 통해 마운자로가 건강보험에 등재되도록 최선을 다할 것\"이라고 덧붙였다.\n◇ 위고비·마운자로 휴대 반입은 허용…해외직구는 금지\n정부는 해외 의료기관에서 직접 처방받은 의약품을 가품 가능성이 높은 해외 직접구매(직구) 의약품과 동일한 기준으로 규제해서는 안 된다는 지적에 따라 처방 의약품을 최대 3개월분까지 가지고 입국할 수 있도록 허용했다.\n이에 따라 해외에서 처방받아 구매한 마운자로와 위고비 등 글루카곤 유사 펩타이드-1(GLP-1) 계열 비만치료제 역시 휴대 반입할 수 있게 됐다.\n정부의 이 같은 규제 개선 자체는 긍정적이지만, 제도 변경을 '기습 발표'한 것에 대해서는 아쉽다는 평가도 나온다.\n이만희 국회 보건복지위원장은 13일 열린 복지위 전체회의에서 \"식품의약품안전처는 11일 17시 보도자료를 배포하고 그동안 반입을 막아왔던 것을 갑자기 풀었다\"며 \"잠깐이라도 유예 기간이 있었으면 (현장) 혼선을 줄일 수 있지 않았나 싶다\"고 말했다.\n이에 오유경 식약처장은 \"국민 편의를 위한 것이라고 생각해 신속하게 추진하게 됐다\"고 답변했다.\n마운자로와 위고비 휴대 반입은 허용됐지만 화물이나 우편 등을 통한 해외 직구는 기존처럼 제한된다.\n제품의 제조·유통 과정을 확인하기 어렵고, 문제가 있을 때 회수나 피해 보상 등 환자가 법적 보호를 받기 어렵다는 이유에서다.\n관세청에 따르면 올해 1∼8월 마운자로와 위고비를 국제우편으로 불법 반입하다 적발된 사례는 3천913건으로, 지난해 연간 적발 건인 1천46건의 약 4배에 달했다.\n같은 기간 특송화물을 통한 불법 반입 적발 건수는 20건으로, 지난해 9건의 두 배를 넘어섰다.\n sun@yna.co.kr\n제보는 카카오톡 okjebo <저작권자(c) 연합뉴스, 무단 전재-재배포, AI 학습 및 활용 금지> 2026년11월14일 13시30분 송고",
+      "authors": [
+        "신선미"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "2015cad99c8d",
+      "source_id": "chosun_national",
+      "source_name": "조선일보 사회",
+      "category": "media_general",
+      "lang": "ko",
+      "title": "미국 생활 10년… 건강과 전재산 잃고 레시피 5000개 남아",
+      "url": "https://chosun.com/national/people/2026/11/15/PG6HT34JEVEOFL3GNXWFWB2URE",
+      "published": "2026-11-14T18:00:00Z",
+      "summary": "요리사의 꿈을 펼치려고 미국으로 건너갔다. 좋은 재료로 제대로 된 음식을 만들면 손님들이 알아줄 것이라고 믿었다. 그러나 미국에서 식당을 운영하는 일은 요리 실력만으로 감당할 수 있는 일이 아니었다. 손님을 상대하고 직원을 관리하는 일부터 임대료와 각종 비용을 부담하는 일까지, 매일 새로운 문제가 기다리고 있었다. 여기에 코로나19와 대규모 수해까지 겹치면서 재산뿐 아니라 건강까지 잃을 뻔했다. 미국에서 보낸 10년은 내가 세상을 얼마나 단순하게 생각했는지 깨닫게 한 시간이었다.",
+      "authors": [
+        "김원일 셰프"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "0257fe086a0f",
+      "source_id": "docdocdoc",
+      "source_name": "청년의사",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "'낙태약' 비급여 35만~60만원 예상…\"임신중지 전 과정 급여화해야\"",
+      "url": "http://docdocdoc.co.kr/news/articleView.html?idxno=3044569",
+      "published": "2026-11-14T19:50:06Z",
+      "summary": "산부인과학회 학술대회서 비급여 도입 우려 제기\n“의료비 부담에 진료 질 관리 한계…수가 개선 필요”\n국내 도입이 추진되는 임신중지약이 비급여로 출시되면 환자의 비용 부담과 진료의 질 관리에 한계가 있다는 지적이 나왔다. 예상 비급여 가격은 35만~60만원으로, 임신중지 진료 전 과정에 건강보험을 적용해야 한다는 주장이다.\n서울대 보건대학원 예방의학교실 오정원 교수는 14일 마곡코엑스에서 개최된 대한산부인과학회 국제학술대회에서 '인공임신중절의 급여화, 현행 보험체계에서 문제점과 대안'을 주제로 발표하며 이같이 말했.\n정부가 도입을 추진하는 임신중지약은 현대약품이 품목허가를 신청한 ‘미프지미소정’이다. 미페프리스톤 1정과 미소프로스톨 4정으로 구성된 복합제로, 정부는 2027년 1분기 내 도입을 목표로 하고 있다. 다만 아직 국내 품목허가를 받지 않았으며 건강보험 적용 여부도 결정되지 않았다.\n오 교는 미프지미소정이 비급여로 출시될 경우 가격이 35만~60만원 수준에 이를 것으로 예상했다. 국내 미소프로스톨 판매가는 정제당 약 150원이고 미페프리스톤 원가는 1만원 이하다.\n오 씨는 현재도 국내 임신중지 의료비가 의료기관마다 큰 차이를 보이고 있으며, 이러한 비용 부담이 의료 접근성에 영향을 미치고 있다고 지적했다.\n그는 \"임신중지 당사자를 지원하는 상담기관과 함께 의료기관을 조사한 결과, 임신중지 의료비는 초기의 경우 약 100만원, 24주를 넘어서면 400만~600만원 수준인 것으로 확인됐다\"며 \"최근에는 1,500만원을 요구한 사례도 있었다\"고 말했다.\n이어 \"병원마다 진료비뿐 아니라 진료 방침도 달랐는데 현금 결제를 요구하거나 환자의 파트너와 부모까지 동행하도록 요구한 사례도 확인됐다\"며 \"이처럼 임신중지 의료가 의료기관별 판단과 개별 당사자의 경제력에 의존하는 상황\"이라고 지적했다.\n오 교수는 임신중지약물이 비급여로 도입되면 이러한 문제가 해소되지 않을 것이라 지적했다.\n오 교수 \"일본 사례를 보면 지역에 따라 도쿄 등에서는 300만원까지 요구하는 의료기관이 있는 것으로 볼 때 굉장히 고가로 유통될 우려가 있다\"며 \"약이 있어도 비용을 감당할 수 없거나 제공기관을 찾을 수 없다면 그 약은 누군가에게 없는 것과 다르지 않다\"고 강조했다.\n이어 \"임신중지는 시간에 민감한 의료행위인 만큼 비용을 마련하는 동안 임신 주수가 늘어나면 이용 가능한 의료기관이 줄고 비용 부담도 커진다\"며 \"특히 저소득층과 청소년, 장애인, 미등록 이주민과 난민 등은 더 큰 장벽에 직면할 수 있다\"고 지적했다.\n\"비급여로는 진료 질 관리 한계…수가 재설계도 필요\"\n오 교수는 건강보험 적용이 의료비 부담을 낮추는 것뿐 아니라 임신중지 의료의 질과 안전성을 관리하기 위해서도 필요하다고 강조했다.\n정부는 임신중지약 도입 초기 2년간 안전성과 부작용 등을 모니터링할 계획이다. 그러나 오 교수는 관련 진료가 비급여로 이뤄지면 이용 규모와 제공기관, 지역별 접근성 등을 체계적으로 파악하기 어렵다고 지적했다.\n오 교수는 \"비급여 가격을 공개하는 것은 투명성을 확보하는 수단이지 의료의 질을 모니터링하는 수단은 아니다\"라며 \"비급여 상태에서는 표준 진료지침이 현장에서 어떻게 적용되는지도 평가하기 어렵다\"고 말했다.\n이어 \"임신중절약물 처방 후 출혈이나 감염, 불안전 임신 중지 등과 같은 합병증 치료까지 비급여로 남게 되면 환자에게 추가적인 비용 부담이 발생할 뿐 아니라 의료진이 관련 진료를 기피하는 요인으로 작용할 수 있다\"며 \"임신중지 전 과정에 대한 건강보험 적용을 통해 적절한 사후 관리와 합병증 치료가 이뤄질 수 있도록 해야 한다\"고 강조했다.\n급여 범위 역시 약물 처방이나 시술 등 일부 항목에 한정하지 않고 진료 전 과정을 포괄해야 한다고 제안했다.\n오 교수는 \"약물 처방이나 시술 등 일부 항목만 급여화하는 방향이 아니라 사전 상담과 설명·동의부터 약물 처방·시술, 사후 관리와 합병증 치료, 필요시 의뢰·전원까지 전체 진료 과정을 포괄해야 한다\"고 말했다.\n이어 \"현재 건강보험이 적용되는 인공임신중절 사유만으로 급여 범위를 한정하면 전체 임신중지의 5~10%에 불과한 대상만 혜택을 받을 수 있기 때문에 폭넓게 인정해야 한다\"며 \"사유를 기준으로 급여를 적용하면 환자가 성폭력 피해나 경제적 어려움 등을 의료진에게 설명하고 증빙해야 하는 부담이 생긴다\"고 지적했다.\n의료기관이 적절한 진료를 제공할 수 있도록 수가 체계도 개선해야 한다고도 강조했다.\n오 교수는 \"분만 수가는 위험성을 지속적으로 강조해 최근 많이 개선됐지만 임신중지는 수면 아래에 있었기 때문에 수가를 개선하려는 시도가 많이 없었다\"며 \"위험은 점점 증가하고 있지만 의료진과 환자 개인만 위험을 책임지는 구조\"라고 강조했다.\n이어 \"건강보험에서 정한 인공임신중절 수술 수가가 실제 의료기관에서 요구하는 진료비 수준을 충분히 반영하지 못하는 만큼, 의료진의 인력과 소요 시간, 진료 난이도, 추적 관리 등을 반영해 수가를 재설계해야 한다\"고 말했다.\n그는 \"임신중지약물 도입은 약물의 안전성과 처방 조건을 정하는 데 그치지 않고 임신중지 의료체계 전반을 재정비하는 계기가 돼야 한다\"며 \"개인의 경제력과 자원에 의존해 온 임신중지 의료를 국가가 공적으로 보장하고 책임지는 체계로 전환해야 한다\"고 강조했다.",
+      "authors": [
+        "임수민 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "269d6309b0a3",
+      "source_id": "doctorsnews",
+      "source_name": "의협신문",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "부산시의사회 \"건보공단 특사경법 국회 본회의 처리 즉각 중단\"",
+      "url": "http://doctorsnews.co.kr/news/articleView.html?idxno=167305",
+      "published": "2026-11-14T19:23:01Z",
+      "summary": "\"보험사업자에 강제수사권 부여 시 의료계 종속·의료 시스템 붕괴 초래\"\n건보공단 특사경 \"기본권 침해\" 반발…\"기존 경찰 수사 전문성 강화 해법\"\n부산광역시의사회가는 13일 성명을 내고 국민건강보험공단(건보공단)에 특별사법경찰권(특사경)을 부여하는 법안의 국회 본회의 처리 중단을 공식 촉구했다.\n부산시의사회는 보험사업자이자 직접적 이해 당사자인 건보공단에 강제 수사권까지 부여할 경우 수사 주체의 객관성이 훼손되는 것은 물론 권한 집중과 수사권 남용으로 이어져 국민의 기본권이 침해되고 의료 시스템 전반에 심각한 혼란이 초래될 수 있다고 우려했다.\n부산시의사회는 \"보험사업자로서 직접적 이해 당사자인 건보공단에 특별사법경찰권을 부여하는 법안에 절대 반대한다\"면서 \"국회는 건보공단 특사경법의 본회의 처리를 즉각 중단하라\"고 밝혔다.\n특사경은 특정 전문 분야의 단속 효율성을 높이기 위해 관련 기관에 제한적인 수사권을 부여하는 제도다. 의료기관 개설 자격이 없는 비의료인이 의료인의 면허를 빌려 개설·운영하는 이른바 '불법 사무장병원'의 폐해를 막고 근절하겠다는 입법 취지로 해당 법안이 추진되고 있으나, 의료계는 수사 주체의 공정성과 권한 비대화 문제를 제기하며 강하게 반발하고 있다.\n부산시의사회는 먼저 건보공단의 기관 성격과 구조적 이해관계 충돌 문제를 핵심 반대 근거로 제시했다. 건보공단은 의료공급자에게 건강보험급여를 지급하고 부당 청구 여부 등을 심사해 급여를 환수하는 업무를 주 임무로 하는 보험사업자다. 이 때문에 환수 처분의 적절성을 두고 의료공급자와 필연적으로 이해관계가 부딪힐 수밖에 없는 위치에 있다는 지적이다.\n부산시의사회는 \"건보공단이 건강보험 수가 조정과 환수 조정 과정에서 이미 막강한 행정 권한을 휘두르고 있다\"면서 \"여기에 특사경 도입으로 강제 수사권까지 부여된다면 보험사업자와 의료공급자 간의 동등한 위치는 사라지고 의료공급자가 보험사업자에 종속될 것이 자명하다\"고 우려했다.\n일선 의료기관이 직면할 경영 위축과 의료 체계 전반의 붕괴 위험성도 경고했다.\n부산시의사회는 \"현재의 제도 하에서도 건보공단의 환수 조사가 개시되면 해당 의료기관의 존폐가 좌우될 만큼 막대한 타격을 입는다\"고 설명했다. 행정 처분 성격의 조사만으로도 경영 전반이 흔들리는 현실에서, 형사적 처벌을 전제로 한 강제 수사권까지 건보공단이 행사하게 되면 의료 현장의 불안과 혼란이 극대화돼 결과적으로 의료 시스템 전체의 붕괴를 초래할 것이라는 우려다. 아울러 특정 기관으로의 과도한 권한 집중이 수사권 남용으로 이어져 헌법상 보장된 국민의 기본권을 침해할 소지가 크다는 점도 분명히 했다.\n부산시의사회는 \"불법 사무장병원의 폐해를 막기 위해서라는 입법 취지에는 매우 공감하며, 그간 의료계에서도 이에 대한 철저한 수사와 근절 대책을 정부에 지속적으로 요구해 왔다\"고 강조했다.\n그러나 그 해결 수단으로 건보공단에 특사경 권한을 부여하는 방식에는 결코 동의할 수 없다는 입장이다.\n부산시의사회는 \"빈대를 잡기 위해 초가삼간을 태우자는 어리석은 법안\"이라고 강하게 비판하며, \"입법 목적의 정당성이 과도한 수사권 부여라는 수단의 문제를 정당화할 수는 없다\"고 지적했다.\n부산시의사회는 건보공단 특사경 도입 대신 기존 형사사법 체계를 보완하는 합리적 대안을 제시했다. 기존 경찰의 수사 역량에 의료·보건 분야의 전문성을 더하는 다양한 제도적 방법이 존재한다는 설명이다.\n부산시의사회는 \"불법 사무장병원 적발과 수사를 위해 의료계의 전문적 자문이나 협조가 필요하다면 적극적인 협조에 나설 것\"이라며 \"새로운 강제 수사 기구를 신설해 이해 당사자에게 수사권을 쥐여주기보다 기존 경찰 수사의 전문성을 강화하고 의료계와 협력하는 방식이 부작용을 최소화할 수 있다\"고 밝혔다.\n이와 함께 현재 건보공단이 행사하고 있는 행정조사권의 문제점을 지적하며 \"제도적 통제 장치 마련이 선행되어야 한다\"면서 \"건보공단이 이미 방대한 행정조사 권한을 보유하고 있음에도 이에 대한 견제 장치가 미흡하다. 강제적 형사수사권을 추가로 부여할 것이 아니라, 현행 행정조사 과정에서 발생하는 권한 남용을 견제할 수 있는 실효성 있는 장치가 우선 논의되어야 한다\"고 제안했다.\n부산시의사회는 \"이미 행정조사권 남용에 대한 통제 장치가 필요한 상황에서 강제적 형사수사권 부여는 절대 있어서는 안 될 것\"이라고 선을 그었다.\n국회와 관계 당국을 향해 두 가지 핵심 요구사항을 엄중히 촉구했다.\n부산시의사회는 건보공단에 특별사법경찰권을 부여하는 법안의 처리를 당장 중지하고, 실효성 있는 불법 사무장병원 근절을 위해 의료계와 성의 있는 논의에 나설 것을 요구했다. 아울러 현재도 진행되고 있다고 지적한 건보공단의 '폭력적인 행정조사권 남용'을 통제할 수 있는 실효성 있는 방안을 조속히 논의할 것을 거듭 촉구했다.",
+      "authors": [
+        "송성철 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "b364ecb1e82d",
+      "source_id": "dailymedi",
+      "source_name": "데일리메디",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "국립대병원 저금리 융자 지원…醫 “민간도 검토해야”",
+      "url": "https://dailymedi.com/news/news_view.php?ca_id=22&wr_id=942596",
+      "published": null,
+      "summary": "지방 국립대병원에 저금리 융자를 지원하는 이른바 ‘정책 금융’에 대해 정부와 의료계 모두 취지에 공감했지만 방법에 있어서는 다른 시각을 피력했다.\n의료계는 “같은 기능을 수행 중인 민간·소규모 의료기관도 지원 대상으로 검토해야 한다”는 의견을 냈고, 정부는 “이미 확정된 회계로 지원할 수 있는지 우선 검토해야 한다”고 입장을 피력했다.\n국회 보건복지위원회는 13일 전체회의에 지난달 박용갑 더불어민주당 의원이 대표발의한 ‘필수의료 강화 지원 및 지역 간 의료격차 해소를 위한 특별법(필수의료특별법)’ 일부개정안을 상정하고 심사에 돌입했다.\n개정안은 지방 국립대병원 적자 해소를 위해 필수의료 거점의료기관 신·증·개축 및 시설·장비 확충·운영, 필수의료 제공 시설, 기반시설 확보·강화 비용을 국가·지자체가 장기 저금리로 융자할 수 있도록 하는 게 골자다.\n“민간병원·의원급, 불합리하게 배제 안돼”…“국립대병원, 선정 대상 미포함될 수도”\n대한의사협회(의협)와 보건복지부는 개정안 필요성에 공감했다. 그러나 지원 대상 및 예산 출처 등에 대해서는 일부 우려 의견을 제시했다.\n의협은 “지역필수의료는 거점의료기관뿐 아니라 지역 내 응급·소아·분만·중증환자 진료 등 민간의료기관이나 의원급 의료기관 협력으로 유지되고 있다”고 말했다.\n이어 “지역별 여건과 의료기관별 기능 및 필수의료 제공 상황 등을 고려해 지원 대상을 합리적으로 설정해야 한다”며 “실제 지역필수의료에 기여하는 의료기관이 불합리하게 배제되지 않아야 한다”고 주장했다.\n지원 대상 선정 기준과 지원 기간 또한 세심하게 설정할 것을 의협은 주문했다.\n의협은 “재무적 건전성만이 아닌 지역 필수의료 제공 필요성, 공익적 기여도 또한 함께 고려해야 한다”며 “시설·장비 투자에 장기간이 소요되는 필수의료 특성을 고려해 충분한 융자 기간 및 상환 유예 기준도 검토해야 한다”고 피력했다.\n실제 지원 선정 대상이 개정안 취지와 달라질 수 있다는 지적도 나왔다. 개정안은 필수의료 거점의료기관만 지원 대상으로 규정하고 있다.\n복지부는 “아직 필수의료특별법이 시행되지 않아 거점의료기관이 지정되지 않은 상황이기에 책임의료기관인 국립대병원이 제외될 수도 있다”고 전망했다.\n예산 출처도 문제다. 복지위 전문위원실은 기능 중복을 우려하면서 “내년 3월 시행되는 필수의료특별법에서 거점의료기관 지원 경비를 ‘지역필수의료특별회계’ 세출사항에 포함돼 있어, 지원 범위에 개정안이 제시하는 방안이 포함될 수 있는지 먼저 검토해야 한다”고 제언했다.\n복지부는 “필수의료특별법상 지역필수의료 특별회계로 지원하는 방안은 면밀한 검토가 필요하다”며 “이미 국립대병원 시설·설비 경비 및 차관 원리금 상환 경비에 대해 정부가 보조할 수 있는 근거가 ‘국립대병원 설치법’에 마련돼 있기도 하다”고 설명했다.\n한편, 복지부 자료에 따르면 지방 국립대병원의 2025년 말 기준 금융부채는 약 1조6667억원에 이른다.\n???\n.\n, .\n13 () .\n, , .\n, ,\n() . .\n. .\n. 3 , .\n, 2025 16667 .",
+      "authors": [],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "fb6aa615b64f",
+      "source_id": "dailymedi",
+      "source_name": "데일리메디",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "10개 국립대병원 “이자 부담 허덕, 500억 추가 지원”",
+      "url": "https://dailymedi.com/news/news_view.php?ca_id=22&wr_id=942542",
+      "published": null,
+      "summary": "전국 10개 국립대학병원이 금융부채 이자 부담을 덜기 위해 내년도 정부 예산에 이차보전 지원금 500억원을 추가 반영해 달라고 요구했다.\n국립대학병원협회에 따르면 전국 10개 국립대병원 원장과 상임감사들은 지난 12일 각각 건의서와 결의문을 내고 2027년도 예산안 심의 과정에서 금융부채 이자에 대한 3% 이내 이차보전 예산 500억원을 증액해 달라고 정부와 국회에 요청했다.\n이번 건의에는 서울대병원을 비롯해 강원대병원, 경북대병원, 경상국립대병원, 부산대병원, 전남대병원, 전북대병원, 제주대병원, 충남대병원, 충북대병원이 참여했다.\n협회가 공개한 자료에 따르면 2025년 말 기준 이들 10개 국립대병원 누적 적자는 약 1조7374억원, 누적 차입금은 1조6677억원에 달한다.\n국립대병원들은 “전공의 집단행동에 따른 진료 차질과 필수의료 분야 만성적자, 지방 근무 기피에 따른 인력난 등이 겹치면서 경영난이 심화됐다”고 밝혔다.\n이들은 건의서에서 “지역 필수의료 책임기관으로서 역할을 다하려면 의료시설과 장비, 인력 확충이 필수적이지만 전공의 파업 등 예측하기 어려운 위기와 필수의료 분야 만성 적자로 개원 이래 최악의 경영 위기를 겪고 있다”고 밝혔다.\n이어 누적 차입금과 이자 부담을 언급하며 “정상적인 병원 운영마저 위협받고 있다”고 호소했다.\n특히 정부가 국립대병원의 지역·필수·공공의료 책임을 확대하고 있는 만큼 이에 걸맞은 재정지원도 필요하다는 입장이다.\n정부는 지난 8월 20일 지역 국립대병원 9곳의 소관 부처를 교육부에서 보건복지부로 이관했다.\n내년 3월에는 국립대병원의 지역 필수의료 거점 역할을 뒷받침할 ‘필수의료 강화 지원 및 지역 간 의료격차 해소를 위한 특별법’ 시행도 앞두고 있다.\n국립대병원들은 지역 진료협력체계를 구축하고 중증질환 최종 치료기관 역할을 수행하려면 안정적인 시설·장비 투자와 의료인력 확보가 뒷받침돼야 한다고 강조했다.\n이에 2027년도 ‘책임의료기관 중심 지역·필수의료 역량 강화 패키지 지원사업’에 금융부채 이차보전 예산 500억원을 추가 편성해 달라고 요구했다.\n해당 사업의 2027년도 정부 예산안은 2550억7500만원이다. 협회 요구가 전액 반영되면 관련 사업 예산은 3050억7500만원으로 늘어난다.\n국립대병원들은 “경영상 어려움을 딛고 지속가능한 지역완결적 의료체계 구축에 매진할 수 있도록 국회에서 요구한 원안대로 예산을 반영해 달라”고 요청했다.\n저금리 융자 법안 발의…정책금융 논의 확대\n국립대병원에 대한 금융지원 논의는 지난달부터 국회를 중심으로 이어지고 있다.\n국회 보건복지위원회 소속 박용갑 의원(더불어민주당)은 지난달 12일 필수의료 거점 의료기관 시설·장비 확충에 필요한 자금을 장기 저금리로 융자할 수 있도록 하는 내용의 필수의료특별법 개정안을 대표발의했다.\n같은 달 27일 복지부 종합국정감사에서도 박 의원은 국립대병원 재정 부담을 지적하며 이차보전 등 금융지원 필요성을 강조했다. 이에 정은경 복지부 장관은 “이차보전 방식 금융 지원과 관련해서 예산 확보 방안을 예산당국과 협의하겠다”고 답했다.\n이달 10일 국회 보건복지위원회의 2027년도 예산안 심사에서는 정부 협의 진행 상황이 공개됐다.\n복지부는 정책금융 지원 필요성에 공감하며 재정·금융당국과 실무협의를 진행하고 있다고 설명했다. 다만 협의 상황이 아직 긍정적이지는 않다며 논의를 이어가겠다는 입장을 밝혔다.\n현재 국회 예산결산특별위원회에는 박 의원이 요구한 500억원의 이차보전 예산 증액안이 제출돼 있다.\n박 의원은 이번 협회 보도자료에서 “일본과 미국 등에서는 병원에 대한 장기 저금리 금융을 제공하고 있다”며 “당장 직접 금융이 여의치 않다면 기존 금융부채 이자에 대한 이차보전이라도 지원해 인력과 시설, 장비 확충에 도움이 되도록 하자는 것”이라고 밝혔다.\n한편, 국립대병원 상임감사들은 이번 결의문에서 장기 저금리 융자 근거를 담은 특별법 개정안의 국회 논의도 요청했다.\n상임감사들은 “국민 생명과 직결된 필수의료에도 장기 저금리 융자나 이차보전 같은 금융지원이 필요하다”며 “지원되는 재원이 필수의료 현장에 공정하고 투명하게 지출될 수 있도록 내부 통제와 감사 역할을 충실히 하겠다”고 밝혔다.\n? 10            500    .\n10 12 2027 3% 500 .\n, , , , , , , , .\n2025 10 17374, 16677 .\n“ , ” .\n“ ” .\n.\n8 20 9 .\n3 ‘ ’ .\n2027 ‘ ’ 500 .\n2027 25507500. 30507500 .\n() 12 .\n27 . “ ” .\n10 2027 .\n. .\n500 .\n“ ” “ , ” .\n, .\n“ ” “ ” .",
+      "authors": [],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "2867a5df7c43",
+      "source_id": "dailymedi",
+      "source_name": "데일리메디",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "유니메드제약 49개 품목 CSO 수수료 ‘인하’ 주목",
+      "url": "https://dailymedi.com/news/news_view.php?ca_id=22&wr_id=942549",
+      "published": null,
+      "summary": "정부 약가제도 개편을 앞두고 유니메드제약이 내년부터 의약품 판매대행업체(CSO)에 지급하는 수수료를 대폭 인하키로 결정하면서 영업 현장에 적잖은 파장이 예상. 유니메드제약은 총 51개 품목 수수료율을 조정할 계획으로 알려졌는데 49개 품목은 인하하고 2개 품목은 인상이 유력. 인하 폭은 최소 2%p에서 최대 30%p에 달하는 상황.\n특히 고혈압 치료제 ‘올탄디핀정’ 3개 품목은 기존 80%에서 50%로, 근골격계 치료제 ‘본에디칼정 10/100mg’은 40%에서 10%로 각각 30%p 인하할 것으로 알려져 추이가 주목. 다만 기존 수수료율이 60~80%에 달하는 품목도 다수 포함돼 있어 그동안 고율 수수료를 지급해 온 것으로 파악.\n이와 관련, 업계 관계자는 “내년 약가인하를 앞두고 유니메드제약이 판매 비용 절감에 나선 것으로 보이지만 기존 수수료율 자체가 높았다는 점에서 이번 조정 파급 효과가 적잖은 파장을 낳을 수 있을 것”이라고 전망. 한편, 금년 국정감사에서 공개된 CSO 위탁계약 446개 품목 평균 수수료율은 42.9%, 최고 수수료율은 60%.\n정부 약가제도 개편을 앞두고 유니메드제약이 내년부터 의약품 판매대행업체(CSO)에 지급하는 수수료를 대폭 인하키로 결정하면서 영업 현장에 적잖은 파장이 예상. 유니메드제약은 총 51개 품목 수수료율을 조정할 계획으로 알려졌는데 49개 품목은 인하하고 2개 품목은 인상이 유력. 인하 폭은 최소 2%p 30%p .\n‘' 3 80% 50%, ’ 10/100mg' 40% 10% 30%p . 60~80% .\n, “ ” . , CSO 446 42.9%, 60%.",
+      "authors": [],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "f556780763fc",
+      "source_id": "dailymedi",
+      "source_name": "데일리메디",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "바이오노트, 3분기 매출 321억·영업이익 80억",
+      "url": "https://dailymedi.com/news/news_view.php?ca_id=22&wr_id=942574",
+      "published": null,
+      "summary": "바이오노트가 동물진단 제품 판매 확대와 비용 효율화에 힘입어 올해 3분기 외형 성장과 수익성 개선을 동시에 달성했다.\n바이오노트(대표 조병기)는 12일 잠정실적 공시를 통해 올해 3분기 연결 기준 매출액 321억원, 영업이익 80억원을 기록했다고 밝혔다. 전년 동기 대비 매출은 9%, 영업이익은 66% 증가했다.\n올해 1~3분기 누적 매출액은 1010억원으로 전년 동기보다 약 12% 늘었다. 같은 기간 영업이익은 228억원으로 44% 증가하며 수익성 개선 흐름을 이어갔다.\n실적 성장에는 기존 동물용 진단제품 판매 증가와 신규 진단 플랫폼 시장 확대가 영향을 미쳤다.\n주력 제품인 신속진단키트(Rapid)와 형광면역분석 장비 ‘Vcheck F’ 판매가 늘어난 가운데 현장형 분자진단 ‘Vcheck M’, 생화학진단 ‘Vcheck C’, 혈액학진단 ‘Vcheck H’, 요검사 진단 ‘Vcheck U’ 등 신규 제품군도 성장세를 보였다.\n회사는 다양한 검사 영역을 아우르는 동물진단 제품군을 확대하면서 종합 진단 플랫폼 경쟁력을 강화하고 있다.\n수익성 개선에는 원가 구조 개선과 경영 효율화 작업도 기여했다. 바이오노트는 “전사적인 비용 관리와 운영 효율성 제고를 통해 매출 증가와 함께 영업이익 확대를 이끌었다”고 밝혔다.\n해외 공략에도 속도를 내고 있다. 특히 글로벌 동물진단 시장에서 40% 이상을 차지하는 것으로 알려진 미국을 핵심 성장 시장으로 설정하고, 현지 법인 영업조직과 유통망을 확충하고 있다.\n바이오노트는 미국 내 판매 기반을 확대, 신규 진단제품 시장 침투율을 높이고 중장기 성장동력을 확보한다는 계획이다.\n바이오노트 관계자는 “신규 진단 플랫폼이 시장에 안착하면서 중장기 성장 기반이 강화되고 있다”며 “제품 포트폴리오 확대와 지속적인 경영 효율화를 통해 글로벌 동물진단 시장에서 경쟁력을 높여 나가겠다”고 말했다.\n 3 .\n( ) 12 3 321, 80 . 9%, 66% .\n1~3 1010 12% . 228 44% .\n.\n(Rapid) ‘Vcheck F’ ‘Vcheck M’, ‘Vcheck C’, ‘Vcheck H’, ‘Vcheck U’ .\n. “ ” .\n. 40% , .\n, .\n“ ” “ ” .",
+      "authors": [],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "1ed8b01ff93e",
+      "source_id": "medipana",
+      "source_name": "메디파나뉴스",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "오스코텍 김성연 \"지분 팔아도 일반주주보다 유리한 조건 안 받겠다\"",
+      "url": "https://medipana.com/news/articleView.html?idxno=421844",
+      "published": "2026-11-15T09:48:45Z",
+      "summary": "폐암 신약 '렉라자'의 원개발사 오스코텍이 이사회 재편을 둘러싼 갈등을 겪고 있는 가운데, 최대주주인 김성연 제노스코 전략기획실장이 향후 보유 지분을 매각하더라도 일반주주보다 유리한 조건을 받지 않겠다는 입장을 밝혔다.\n오는 30일 임시주주총회를 앞두고 경영권 프리미엄을 둘러싼 논란이 제기되자 최대주주로서 전체 주주의 이익을 우선하겠다는 원칙을 재확인한 것이다.\n김성연 최대주주는 15일 '주주 여러분께 드리는 두 번째 글'이라는 제목의 서한을 통해 \"향후 제 지분을 처분하는 경우가 있더라도 다른 주주보다 유리한 조건을 요구하거나 수용하지 않겠다\"고 밝혔다.\n이어 경영권 이전이 논의되더라도 모든 주주의 이익이 공정하게 보호되는 방식이어야 한다며, 이는 새롭게 제시하는 약속이 아니라 처음부터 유지해 온 입장이라고 설명했다.\n이번 서한은 오스코텍의 이사회 재편과 미국 관계사 제노스코의 완전자회사 편입을 둘러싸고 최대주주 측과 기존 이사진 사이의 갈등이 이어지는 가운데 나왔다.\n오스코텍은 오는 30일 임시주총에서 초다수결의제 관련 정관 조항 폐지와 신규 이사 3명 선임을 논의할 예정이다.\n김성연 최대주주 측은 자신을 기타비상무이사로, 고종성 제노스코 연구개발(R&D) 부문 대표를 사내이사로, 박종철 미국 하버드 의대 교수를 독립이사로 선임하는 방안을 추진하고 있다. 현재 7명인 이사진에 3명을 추가해 이사회 정원 10명을 채우겠다는 구상이다.\n그러나 김규식 오스코텍 독립이사 등 기존 이사진 일부는 제노스코 지분 거래가 마무리되기 전에 관련 주주들이 이사회에 진입하면 이해충돌이 발생할 수 있다는 우려를 제기하고 있다.\n오스코텍은 제노스코를 완전자회사로 편입하기 위해 잔여 지분 인수를 추진하고 있다. 김성연 최대주주 역시 제노스코 지분을 보유하고 있어, 거래가격과 조건을 결정하는 과정에서 이해관계가 충돌할 수 있다는 것이 반대 측의 주장이다.\n일부 이사진은 김성연 측이 이사회 영향력을 확대해 향후 경영권 프리미엄을 확보하려는 것 아니냐는 의혹도 제기했다. 이에 김성연 최대주주는 앞선 주주서한에서 이사회 장악 의도가 없다고 반박했으며, 제노스코 가치평가와 완전자회사화 관련 안건의 심의·의결에도 참여하지 않겠다고 밝힌 바 있다.\n이번 두 번째 서한에서는 외부 투자 유치와 신주 발행 문제에 대해서도 입장을 구체화했다.\n김 최대주주는 오스코텍의 지속적인 연구개발과 이를 위한 자금 조달을 적극 지지하며 외부 투자 유치에도 반대하지 않는다고 밝혔다. 다만 투자가 특정 주주나 경영진의 지위를 유지하는 수단이 되어서는 안 된다고 강조했다.\n특히 지난 10월 윤태영 대표가 언론 인터뷰에서 제노스코 편입 계획과 함께 우호 지분을 제공할 전략적 투자자(SI) 유치 방침을 언급한 점을 거론했다.\n김 최대주주는 투자 유치의 목적이 기업가치 제고에 있어야 하며, 경영권 지지를 조건으로 한 투자로 기존 주주들이 지분 희석 부담을 떠안아서는 안 된다는 입장을 나타냈다.\n발행예정주식총수 확대와 제3자배정 신주 발행에 대해서도 이번 임시주총을 통해 이사회 구성이 정리된 이후 논의해야 한다고 주장했다. 자금 사용 목적과 신주 발행 조건을 사전에 충분히 공개하고 주주들이 판단할 기회를 가져야 한다는 것이다.\n반면 오스코텍 경영진은 제노스코 잔여 지분 인수와 연구개발 자금 확보를 위해 전략적 투자자 유치가 필요하다는 입장을 밝혀 왔다. 회사는 외부 가치평가를 바탕으로 제노스코의 적정 가치를 산정하고, 신주 발행 여력을 확대하기 위한 정관 변경도 검토하고 있다.\n이사회 구성에 대한 이견은 회사 내부로도 확산됐다. 최근 오스코텍 직원들은 윤태영 대표의 연구개발 리더십을 지지하는 성명을 발표했으며, 전체 직원의 약 74%가 참여한 것으로 알려졌다.\n김 최대주주는 이번 임시주총에서 초다수결 조항을 정관에서 삭제하고 이사회 공석 3석에 새 이사를 선임해야 한다는 입장을 거듭 밝혔다.\n초다수결의제는 이사 선임·해임 등에 일반적인 주주총회 결의보다 높은 찬성 비율을 요구하는 제도로, 오스코텍의 관련 정관 조항 일부는 1심에서 무효 판단을 받아 현재 항소심이 진행 중이다.\n김 최대주주는 자신이 기타비상무이사로 선임되더라도 제노스코 가치평가와 완전자회사화 관련 의사결정에서는 빠지겠다는 기존 약속을 재확인했다.\n임시주총을 보름 앞두고 최대주주가 지분 매각 조건과 투자 유치 원칙을 공개적으로 제시하면서, 오스코텍의 경영권 갈등은 이사회 구성뿐 아니라 향후 자본조달 방식과 주주가치 보호 문제로까지 확대되고 있다.",
+      "authors": [
+        "최봉선 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "048858e09852",
+      "source_id": "medipana",
+      "source_name": "메디파나뉴스",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "케이메디허브, 아·태 항노화 의료기술 협력 확대",
+      "url": "https://medipana.com/news/articleView.html?idxno=421843",
+      "published": "2026-11-15T09:33:24Z",
+      "summary": "케이메디허브(대구경북첨단의료산업진흥재단)가 아시아·태평양 지역의 항노화·미용 의료기기 전문가들과 교류하며 국내 의료기술의 해외 협력 기반 확대에 나섰다.\n케이메디허브는 지난 14일부터 이틀간 대구 엑스코에서 열린 '제9회 아시아·태평양 안티에이징 컨퍼런스 및 전시회(APAAC 2026)'에서 홍보관을 운영하고 의료기기 연구개발 지원 인프라와 기업지원 성과를 소개했다고 15일 밝혔다.\n행사 기간 홍보관에는 국내외 임상의와 연구자, 기업 관계자 등 100여 명이 방문했으며, 케이메디허브 첨단의료기기개발지원센터는 현장 기술상담을 통해 항노화 의료기술 공동연구와 기업지원 협력방안을 논의했다.\n특히 해외 피부과 의료진과 관계자들에게 지난 9월 개원한 의료기술시험연수원의 교육·훈련시설을 소개하고, 시술훈련과 시뮬레이션 시설을 활용한 의료진 교육 협력 가능성을 모색했다.\n케이메디허브는 이번 행사에서 구축한 해외 전문가 네트워크를 바탕으로 항노화·미용 의료기기 분야의 공동연구를 확대하고, 국내 기업의 기술 고도화와 해외시장 진출을 지원할 계획이다.\n박구선 케이메디허브 이사장은 \"국내는 물론 해외기관과 활발한 연구개발을 통해 새로운 가능성을 현실로 만들어가는 공공연구거점으로 성장해 나가겠다\"고 밝혔다.\n한편, APAAC 2026은 지난 13일부터 15일까지 대구 엑스코에서 열렸으며, 10개국 약 550명의 항노화 분야 전문가가 참가했다. 의료기기와 K-뷰티, 헬스케어 관련 기업들의 전시도 함께 진행됐다.\n케이메디허브는 앞서 지난 4일부터 7일까지 열린 '제13차 아시아·태평양 의용생체공학 학술대회(APCMBE 2026)'에서도 특별세션과 홍보부스를 운영하며 해외 연구기관과의 교류를 이어갔다.",
+      "authors": [
+        "최봉선 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "c7e551ed90e4",
+      "source_id": "medipana",
+      "source_name": "메디파나뉴스",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "췌장암 항암치료에 전기장 더했더니…통증 악화 늦추고 삶의 질 개선",
+      "url": "https://medipana.com/news/articleView.html?idxno=421841",
+      "published": "2026-11-15T09:23:38Z",
+      "summary": "수술이 어려운 국소 진행성 췌장암 환자에게 기존 항암화학요법과 함께 전기장 치료를 적용하면 통증 악화를 늦추고 삶의 질을 개선할 수 있다는 임상연구 결과가 나왔다.\n지난 13일 국제학술지 'JAMA Network Open'에 게재된 연구에 따르면 종양치료전기장(Tumor Treating Fields, TTFields)을 젬시타빈·냅파클리탁셀 항암화학요법과 병용한 환자들은 항암화학요법만 받은 환자들보다 통증과 삶의 질 관련 지표에서 개선된 결과를 보였다.\n이번 연구는 의료기기 전문기업 노보큐어(Novocure)가 진행한 글로벌 임상 3상 'PANOVA-3'의 사전 계획된 2차 분석이다. 앞서 발표된 전체생존기간과 치료 효과에 이어 환자들이 치료 과정에서 경험하는 통증과 일상생활의 변화를 평가했다.\n종양치료전기장은 낮은 강도의 교류 전기장을 종양 부위에 전달해 암세포의 분열과 증식을 방해하는 비침습적 치료기술이다. 환자의 신체에 부착하는 전극 배열을 통해 전기장을 전달하며, 이번 임상에서는 150kHz 주파수를 사용했다.\n연구에는 이전에 치료받지 않은 수술 불가능한 국소 진행성 췌장선암 환자 571명이 참여했다. 이 가운데 285명은 전기장 치료와 젬시타빈·냅파클리탁셀 병용요법을, 나머지 286명은 항암화학요법만 받도록 무작위 배정됐다.\n연구진은 유럽암연구치료기구(EORTC)의 삶의 질 평가도구를 이용해 환자의 전반적인 건강 상태와 소화기 증상, 통증 등을 분석했다.\n그 결과 일반적인 통증 지표에서 증상이 악화되기까지의 기간은 전기장 병용군 10.1개월, 항암화학요법 단독군 7.4개월로 나타났다. 전기장 병용군의 통증 악화 위험은 비교군보다 30% 낮았다(HR 0.70, p=0.003).\n췌장암 관련 통증에서도 차이가 확인됐다. 통증 악화까지의 기간은 전기장 병용군 14.7개월, 대조군 10.2개월로, 악화 위험이 31% 낮았다(HR 0.69, p=0.006).\n전반적인 건강 상태와 삶의 질이 악화되기까지의 기간 역시 전기장 병용군에서 7.1개월로, 항암화학요법 단독군의 5.7개월보다 길었다(HR 0.77, p=0.02).\n통증 조절을 위한 마약성 진통제 사용 시점도 늦춰졌다. 첫 사용까지의 기간은 전기장 병용군 9.3개월, 대조군 6.7개월로 나타났다(HR 0.72, p=0.01).\n연구진은 전기장 병용군에서 치료 시작 2개월 이후부터 소화기 증상과 통증 관련 지표의 개선이 관찰됐으며, 일부 지표에서는 추적관찰 기간에도 이러한 차이가 유지됐다고 설명했다.\n이번 분석에 앞서 발표된 PANOVA-3의 주요 임상 결과에서는 전기장 병용군의 전체생존기간 중앙값이 16.2개월로, 항암화학요법 단독군의 14.2개월보다 2개월 길었다(HR 0.82, p=0.04).\n안전성 측면에서는 전기장 치료와 관련된 새로운 이상반응 신호가 확인되지 않았으며, 의료기기 사용과 관련해서는 주로 경증에서 중등도의 피부 이상반응이 보고됐다.\n연구를 이끈 스페인 바르셀로나 클리닉병원의 테레사 마카룰라(Teresa Macarulla) 교수 연구팀은 전기장 치료를 항암화학요법에 추가하는 방식이 국소 진행성 췌장암 환자의 통증 조절과 삶의 질 개선에 임상적으로 유의미한 효과를 나타냈다고 평가했다.\n이번 연구는 항암제와 의료기기를 함께 사용하는 치료법이 생존기간뿐 아니라 치료 중 환자가 경험하는 통증과 삶의 질에도 영향을 미칠 수 있음을 보여준다.",
+      "authors": [
+        "최봉선 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "ba41ab4c983d",
+      "source_id": "medipana",
+      "source_name": "메디파나뉴스",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "'마운자로' 복용 중 피임약 괜찮을까…유럽, 추가 피임 권고",
+      "url": "https://medipana.com/news/articleView.html?idxno=421840",
+      "published": "2026-11-15T08:36:36Z",
+      "summary": "비만·당뇨병 치료제 '마운자로'(성분명 티르제파티드)를 사용하는 여성이 경구피임약을 함께 복용할 경우 추가적인 피임 조치가 권고된다. 마운자로가 경구피임약의 체내 흡수에 영향을 미칠 가능성이 제기되면서 유럽 규제당국이 의료진을 대상으로 관련 안전성 정보를 안내하기로 했다.\n유럽의약품청(EMA)은 지난 13일(현지시간) 공개한 약물사용자문위원회(CHMP) 회의 결과에서 마운자로와 경구피임약의 상호작용에 관한 의료전문가 대상 직접 안전성 안내문(DHPC)을 채택했다고 밝혔다.\n이번 조치는 마운자로를 사용하는 가임기 여성 가운데 경구피임약을 복용하는 환자를 대상으로 한다. EMA는 마운자로 투여를 시작한 뒤 4주 동안 추가적인 차단피임법을 사용하거나 경구용이 아닌 다른 피임법으로 전환하도록 권고했다.\n마운자로의 용량을 증량할 때도 같은 조치가 적용된다. 용량을 높일 때마다 이후 4주 동안 추가 피임 조치를 취하도록 한 것이다.\n마운자로는 미국 일라이 릴리가 개발한 GIP·GLP-1 수용체 이중작용제로, 제2형 당뇨병과 비만 치료에 사용된다. 혈당 조절과 체중 감소 효과를 나타내는 동시에 위 배출을 지연시키는 작용을 한다.\n이러한 위 배출 지연은 함께 복용하는 경구용 의약품의 흡수 속도에도 영향을 미칠 수 있다. 특히 경구피임약의 경우 유효성분이 체내에 흡수되는 양과 속도가 달라질 가능성이 있어 상호작용에 관한 평가가 진행돼 왔다.\n마운자로의 기존 제품정보에 따르면 티르제파티드 5mg을 단회 투여한 상태에서 복합 경구피임약을 복용했을 때 피임약 성분인 에티닐에스트라디올의 최고혈중농도(Cmax)는 59%, 전체 약물노출량(AUC)은 20% 감소했다.\n또 다른 피임약 성분인 노렐게스트로민의 최고혈중농도는 55%, 전체 약물노출량은 23% 낮아졌다. 다만 이러한 약동학적 변화가 실제 피임 실패로 이어진다는 사실이 확인된 것은 아니다. EMA 역시 비만이나 과체중, 제2형 당뇨병이 있는 여성에서 티르제파티드가 경구피임약의 약동학적 특성과 피임 효과에 미치는 영향에 관한 정보가 제한적이라고 설명했다.\n이번 권고는 이러한 불확실성을 고려해 경구피임약을 사용하는 여성에게 추가적인 피임 방법을 안내하는 내용이다. EMA가 채택한 안전성 안내문은 유럽연합 집행위원회의 관련 결정 이후 마운자로의 판매허가권자를 통해 의료전문가에게 배포될 예정이다. 이후 EMA 홈페이지와 유럽 각국의 의약품 관련 등록자료에도 공개된다.\n마운자로의 처방과 복약지도 과정에서는 경구피임약 병용 여부와 투여 시작·증량 시점에 따른 추가 피임 조치가 함께 안내될 예정이다.",
+      "authors": [
+        "최봉선 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "79317a215ed5",
+      "source_id": "medipana",
+      "source_name": "메디파나뉴스",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "쿠싱증후군 치료제 '이스투리사', 6세 이상 소아로 유럽 허가 확대 추진",
+      "url": "https://medipana.com/news/articleView.html?idxno=421839",
+      "published": "2026-11-15T08:29:19Z",
+      "summary": "희귀 내분비질환인 쿠싱증후군 치료제 '이스투리사'(Isturisa, 성분명 오실로드로스타트)가 유럽에서 성인에 이어 소아·청소년 환자로 치료 대상을 확대할 전망이다.\n유럽의약품청(EMA) 산하 약물사용자문위원회(CHMP)는 지난 12일(현지시간) 이스투리사의 적응증을 6세 이상 소아·청소년으로 확대하도록 권고했다.\n이번 권고 대상은 체중 30kg 이상인 6세 이상 소아·청소년과 기존 성인 환자로, 내인성 쿠싱증후군 치료에 사용하도록 허가 범위를 확대하는 내용이다. 이스투리사는 이탈리아 제약기업 레코르다티(Recordati)의 희귀질환 사업부가 판매하는 경구용 치료제로, 2020년 1월 유럽에서 성인 내인성 쿠싱증후군 치료제로 허가받았다.\n쿠싱증후군은 체내 코르티솔 호르몬이 과도하게 생성되면서 발생하는 질환이다. 코르티솔은 혈압과 혈당, 신진대사 등에 관여하는 호르몬으로, 과도하게 분비되면 체중 증가와 고혈압, 혈당 상승, 근육 약화 등 다양한 증상이 나타날 수 있다.\n소아 환자에서는 성장과 발달에도 영향을 미칠 수 있어 코르티솔 수치를 조절하는 치료가 중요하다. 이스투리사의 주성분인 오실로드로스타트는 부신에서 코르티솔 생성에 관여하는 효소인 11β-수산화효소를 억제한다. 이를 통해 체내 코르티솔 생성을 감소시키는 방식으로 작용한다.\n이번 소아 적응증 확대는 쿠싱병을 앓는 소아·청소년을 대상으로 진행한 임상 2상 연구를 근거로 추진됐다. 해당 연구는 6세 이상 18세 미만 환자에서 오실로드로스타트의 약동학적 특성과 약력학적 효과, 내약성을 평가하기 위한 다기관 공개 임상시험으로 진행됐다.\n레코르다티는 기존 성인 치료 경험에 이어 소아 환자를 대상으로 개발을 진행해 왔으며, 이번 CHMP의 긍정적 의견을 통해 유럽 내 치료 대상 확대를 위한 규제 절차를 이어가게 됐다.\n다만 이번 결정은 최종 판매허가가 아닌 CHMP의 허가 변경 권고다. 유럽연합 집행위원회가 최종 승인하면 구체적인 투여 방법과 주의사항 등이 반영된 제품정보가 공개될 예정이다.",
+      "authors": [
+        "최봉선 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "c59141223165",
+      "source_id": "medipana",
+      "source_name": "메디파나뉴스",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "중국 폐암 신약 2종, 유럽 허가 눈앞…취소된 허가도 재도전",
+      "url": "https://medipana.com/news/articleView.html?idxno=421838",
+      "published": "2026-11-15T08:26:22Z",
+      "summary": "중국에서 개발된 폐암 치료제 2종이 유럽의약품청(EMA) 산하 약물사용자문위원회(CHMP)의 허가 권고를 받았다. 이 가운데 한 제품은 올해 유럽에서 판매허가를 받았다가 규제상 문제로 취소된 이후 다시 긍정적인 평가를 받으면서 유럽시장 진출을 재추진하게 됐다.\nEMA는 지난 13일(현지시간) 공개한 11월 CHMP 회의 결과에서 비소세포폐암 치료제 '아움세카'(Aumseqa, 성분명 아우몰러티닙)와 '지브리보'(Zybrivo, 성분명 신틸리맙)의 판매허가를 권고했다고 밝혔다.\n두 제품은 모두 중국 제약기업이 개발했지만 작용기전과 치료 대상은 다르다. 아우몰러티닙은 EGFR 유전자 변이를 표적으로 하는 경구용 항암제이며, 신틸리맙은 면역세포의 항암 반응을 활성화하는 PD-1 억제제다.\n중국 한소제약(Hansoh Pharma)이 개발한 아우몰러티닙은 올해 2월 유럽연합(EU) 집행위원회로부터 비소세포폐암 치료제로 판매허가를 받았으나, 9월 25일 허가가 취소됐다.\n당시 유럽 규제당국은 허가신청에 사용된 자료 가운데 일부가 다른 의약품의 규제상 자료보호 기간에 해당한다고 판단했다. 의약품의 임상적 유효성이나 안전성 문제와는 구분되는 허가자료 사용에 관한 사안이었다.\n한소제약은 이후 10월 유럽 허가신청서를 다시 제출했으며, 이번 CHMP의 긍정적 의견에 따라 판매허가 재취득을 위한 절차를 이어가게 됐다.\n아우몰러티닙은 EGFR 티로신키나아제 억제제로, EGFR 엑손 19 결손이나 엑손 21 L858R 변이가 있는 진행성 비소세포폐암 환자의 1차 치료와 EGFR T790M 변이 양성 환자의 치료를 위해 개발됐다.\n유럽 허가신청사는 독일 SFL 파마슈티컬스(SFL Pharmaceuticals Deutschland GmbH)다.\n함께 허가 권고를 받은 신틸리맙은 중국 이노벤트 바이오로직스(Innovent Biologics)가 개발한 PD-1 면역관문억제제다. 유럽에서는 지브리보라는 제품명으로 허가를 신청했으며, 신청사는 포트비타 바이오로직스 아일랜드(Fortvita Biologics Ireland Limited)다.\nCHMP가 권고한 적응증은 EGFR 또는 ALK 유전자 변이가 없는 성인 비편평 비소세포폐암 환자의 1차 치료다. 근치적 수술이나 완치 목적의 화학방사선요법이 적합하지 않은 국소 진행성 환자와 전이성 환자가 대상이다.\n신틸리맙은 페메트렉시드 및 백금계 항암화학요법과 병용하는 방식으로 사용된다.\n이번 권고는 진행성 비편평 비소세포폐암 환자를 대상으로 진행한 무작위배정 임상시험에서 신틸리맙 병용군이 항암화학요법군보다 무진행생존기간(PFS)을 개선한 결과에 근거했다.\n주요 이상반응으로는 빈혈과 호중구감소증, 백혈구감소증, 혈소판감소증, 식욕 감소, 오심, 피로, 갑상선기능저하증 등이 보고됐다.\n두 제품은 서로 다른 치료영역을 겨냥하고 있지만, 중국에서 개발된 항암제가 유럽의 규제심사를 거쳐 글로벌 시장 진출을 추진하고 있다는 공통점이 있다.\n다만 이번 CHMP의 긍정적 의견은 최종 판매허가와는 구분된다. 두 제품 모두 유럽연합 집행위원회의 최종 결정이 남아 있으며, 실제 출시 시점은 허가 이후 각 기업의 상업화 계획에 따라 결정된다.",
+      "authors": [
+        "최봉선 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "d057228d65d0",
+      "source_id": "medipana",
+      "source_name": "메디파나뉴스",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "기존 약으로 안 잡히는 고혈압…AZ, 신약 유럽 허가 눈앞",
+      "url": "https://medipana.com/news/articleView.html?idxno=421837",
+      "published": "2026-11-15T08:17:00Z",
+      "summary": "기존 고혈압 치료제를 두 가지 이상 사용해도 혈압이 충분히 조절되지 않는 환자를 위한 새로운 기전의 치료제가 유럽 허가를 앞두고 있다.\n유럽의약품청(EMA) 산하 약물사용자문위원회(CHMP)는 지난 12일(현지시간) 빅파마 아스트라제네카(AZ)의 고혈압 치료제 '박스펜디'(Baxfendy, 성분명 박스드로스타트)의 판매허가를 권고했다.\n이번 권고는 최소 2종의 항고혈압제를 사용하고도 혈압이 충분히 조절되지 않는 성인 환자를 대상으로 한다. 유럽연합 집행위원회(EC)의 최종 승인 절차가 남아 있으며, 허가가 이뤄지면 유럽에서 최초의 알도스테론 합성효소 억제제가 된다.\n박스드로스타트는 혈압 상승에 관여하는 호르몬인 알도스테론의 생성을 억제하는 경구용 저분자 치료제다. 알도스테론은 신장에서 나트륨과 수분의 재흡수를 촉진해 혈액량을 증가시키고 혈압을 높이는 작용을 한다.\n기존 고혈압 치료제 가운데 알도스테론의 작용을 차단하는 약물은 있지만, 박스드로스타트는 알도스테론을 만드는 효소 자체를 선택적으로 억제한다는 점에서 차이가 있다.\n이번 허가 권고는 혈압 조절이 충분하지 않거나 저항성 고혈압을 가진 환자를 대상으로 진행한 두 건의 임상 3상 결과를 근거로 이뤄졌다.\n'BaxHTN' 임상 3상에서는 박스드로스타트 2mg 투여군의 12주 시점 평균 앉은 자세 수축기혈압이 치료 시작 전보다 15.7mmHg 감소했다. 위약군과 비교한 혈압 감소 차이는 9.8mmHg로 통계적으로 유의했다(p<0.001).\n저항성 고혈압 환자 218명을 대상으로 진행한 'Bax24' 임상 3상에서도 24시간 활동혈압 측정 결과가 개선됐다.\n박스드로스타트 2mg 투여군의 12주 시점 평균 수축기혈압은 치료 시작 전보다 16.6mmHg 낮아졌으며, 위약군 대비 추가 감소 폭은 14.0mmHg였다(p<0.0001).\n특히 24시간 평균 수축기혈압이 130mmHg 미만에 도달한 환자 비율은 박스드로스타트 투여군 70.6%, 위약군 16.7%로 나타났다.\n임상시험에서 전반적인 내약성은 양호했으며, EMA는 가장 흔한 이상반응으로 혈중 칼륨 농도가 높아지는 고칼륨혈증을 제시했다.\n박스펜디는 1mg과 2mg 필름코팅정으로 개발됐다. 아스트라제네카는 2023년 미국 신코어파마(CinCor Pharma)를 인수하면서 박스드로스타트를 확보했으며, 이를 심혈관·신장·대사질환 분야의 주요 개발 자산으로 육성하고 있다.\n회사는 현재 원발성 알도스테론증을 비롯해 만성 신장질환과 고혈압 환자에서 다파글리플로진과의 병용요법 등으로 개발 범위를 확대하고 있다.\n박스펜디는 미국 등에서 이미 허가를 받았으며, 일본과 중국에서도 허가 심사가 진행되고 있다. 유럽에서는 CHMP의 긍정적 의견에 따라 최종 판매허가 결정이 내려질 예정이다.",
+      "authors": [
+        "최봉선 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "b2d554736127",
+      "source_id": "medipana",
+      "source_name": "메디파나뉴스",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "신약 심사 1~2개월로 줄인다더니…美 FDA 초고속 허가제도 '표류'",
+      "url": "https://medipana.com/news/articleView.html?idxno=421835",
+      "published": "2026-11-14T20:40:40Z",
+      "summary": "미국 식품의약국(FDA)이 신약 심사기간을 1~2개월로 단축하기 위해 도입한 초고속 허가제도가 시행 1년여 만에 운영 차질을 빚고 있는 것으로 알려졌다. 일부 의약품의 허가기간을 크게 앞당기는 성과를 거뒀지만, 신규 대상 선정이 중단되고 심사를 조율하던 조직의 활동도 사실상 멈추면서 제도의 지속 여부가 불투명해지고 있다.\n로이터통신은 지난 12일(현지시간) FDA 내부 문서와 관계자 6명의 증언을 인용해 '국가우선심사 바우처'(Commissioner's National Priority Voucher·CNPV) 프로그램이 사실상 중단된 상태라고 보도했다.\n이 제도는 지난해 6월 당시 FDA 국장이었던 마티 마카리가 도입한 시범사업으로, 국가 보건정책상 우선순위가 높은 의약품의 심사기간을 기존 6개월 이상에서 1~2개월로 줄이는 것을 목표로 했다.\n미충족 의료수요가 큰 질환의 치료제나 혁신신약뿐 아니라 미국 내 의약품 생산 확대, 공급망 안정화, 약가 부담 완화 등에 기여하는 제품도 선정 대상에 포함됐다.\nFDA는 지금까지 22개 의약품에 바우처를 부여했으며, 이 가운데 12개 제품이 허가를 받았다. 일부 제품은 기존 일정과 비교해 허가 시점이 8개월 이상 앞당겨진 것으로 전해졌다.\n그러나 지난 5월 마카리 전 국장이 물러난 이후 신규 바우처 발급은 이뤄지지 않고 있다. 신약 심사 과정에서 주요 역할을 맡았던 고위 관계자 중심의 심사 협의체도 사실상 활동을 중단한 것으로 알려졌다.\n로이터에 따르면 FDA는 신규 신청을 접수하고 있지만 실제 선정 절차는 진행하지 않고 있는 것으로 전해졌다. 기존에 바우처를 받은 의약품의 심사는 담당 심사인력을 중심으로 이어지고 있다.\n제도 운영을 둘러싼 논란도 지속되고 있다. 국가적 우선순위에 따라 특정 의약품을 선정하는 방식이 정치적 판단에 영향을 받을 수 있다는 우려와 함께, 지나치게 짧은 심사기간이 과학적 검토의 독립성과 충분한 안전성 평가를 저해할 수 있다는 지적이 제기돼 왔다.\n다만 미국 보건복지부(HHS)는 프로그램이 중단됐다는 해석에 선을 그었다.\n보건복지부는 시범사업이 계속 운영되고 있으며, FDA가 지난 6월 공청회에서 접수한 의견을 검토해 제도를 보완하고 있다고 밝혔다. 기존 바우처를 부여받은 의약품에 대해서도 신속심사와 관련한 약속을 이행하고 있다는 입장이다.\n이에 따라 이번 논란은 공식적인 제도 폐지보다는 신규 대상 선정과 운영체계가 정체된 상황에 가깝다.\n당초 미국 시장에서 신약 허가기간을 획기적으로 단축할 수 있는 수단으로 기대를 모았던 만큼, 프로그램의 향후 운영 방향은 글로벌 제약기업들의 미국 허가전략에도 영향을 미칠 것으로 보인다.",
+      "authors": [
+        "최봉선 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "436d9b61b1db",
+      "source_id": "medipana",
+      "source_name": "메디파나뉴스",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "청소년 화농성 한선염에도 '코센틱스'…노바티스, 유럽 허가 확대 눈앞",
+      "url": "https://medipana.com/news/articleView.html?idxno=421834",
+      "published": "2026-11-14T20:33:30Z",
+      "summary": "스위스 제약기업 노바티스의 자가면역질환 치료제 '코센틱스'(세쿠키누맙)가 유럽에서 청소년 화농성 한선염 치료제로 사용 범위를 넓힐 전망이다.\n빅파마 노바티스는 유럽의약품청(EMA) 약물사용자문위원회(CHMP)가 12세 이상 중등도~중증 화농성 한선염 환자를 대상으로 코센틱스의 적응증 확대를 권고했다고 13일 밝혔다.\n화농성 한선염은 겨드랑이와 사타구니 등 피부가 접히는 부위에 염증성 결절과 농양이 반복적으로 발생하는 만성 염증성 피부질환이다. 통증과 흉터를 동반할 수 있으며, 청소년기에 발병하는 경우에도 장기간 치료가 필요한 것으로 알려져 있다.\n코센틱스는 염증반응에 관여하는 인터루킨-17A(IL-17A)를 선택적으로 억제하는 단일클론항체다. 건선과 건선성 관절염, 강직성 척추염 등 여러 염증성 질환에 사용되고 있으며, 유럽에서는 성인 중등도~중증 화농성 한선염 치료제로도 승인받았다.\n이번 허가 권고는 기존 성인 환자 중심의 화농성 한선염 치료영역을 청소년으로 확대하기 위한 것이다. 청소년 환자에게 사용할 수 있는 표적 치료제의 선택지가 넓어질 수 있다는 점에서 관심을 모으고 있다.\nCHMP의 권고는 유럽연합 집행위원회(EC)의 최종 허가 결정에 앞선 절차다. 최종 승인되면 코센틱스는 유럽에서 12세 이상 청소년 화농성 한선염 환자에게도 사용할 수 있게 된다.",
+      "authors": [
+        "최봉선 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "741128016b6a",
+      "source_id": "medipana",
+      "source_name": "메디파나뉴스",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "혈우병 치료제도 월 1회 주사…노보 노디스크, 유럽 승인",
+      "url": "https://medipana.com/news/articleView.html?idxno=421831",
+      "published": "2026-11-14T17:21:54Z",
+      "summary": "덴마크 제약기업 노보 노디스크가 혈우병 A 치료제 '프레헴고'(FREHEMGO, 성분명 데네시미그)의 유럽 판매허가를 획득했다. 환자 상태와 치료 필요에 따라 주 1회부터 월 1회까지 투여 간격을 선택할 수 있어 혈우병 환자의 치료 편의성이 확대될 전망이다.\n노보 노디스크는 13일(현지시간) 유럽연합 집행위원회(EC)가 성인과 소아 혈우병 A 환자의 출혈 예방을 위한 프레헴고의 판매를 승인했다고 밝혔다. 이번 승인은 지난 9월 유럽의약품청(EMA) 약물사용자문위원회(CHMP)의 허가 권고에 따른 것이다.\n프레헴고는 혈액응고인자 VIII(FVIII)의 기능을 모방하도록 설계된 차세대 이중특이성 항체 치료제다. 피하주사 방식으로 투여하며, 주 1회와 2주 1회, 월 1회 가운데 투여 간격을 선택할 수 있다. 투여에는 일회용 사전충전펜을 사용한다.\n혈우병 A는 혈액응고인자 VIII이 부족하거나 제대로 작용하지 않아 출혈이 쉽게 발생하는 유전성 희귀질환이다. 프레헴고는 혈액응고인자 VIII에 대한 억제항체가 있는 환자와 없는 환자 모두에서 사용할 수 있다. 다만 억제항체가 없는 환자는 중증 또는 예방치료가 필요한 중등증 환자로 허가 대상이 한정된다.\n이번 승인은 임상시험 'FRONTIER' 프로그램 결과를 바탕으로 이뤄졌다. 주요 임상인 FRONTIER2에서 프레헴고는 기존 혈액응고인자 예방요법 및 필요 시 투여하는 치료와 비교해 연간 출혈률을 유의하게 낮췄다. 12세 미만 소아를 대상으로 한 FRONTIER3에서도 청소년과 성인에서 관찰된 효과와 일관된 결과가 확인됐다.\n빅파마 노보 노디스크는 향후 1년 동안 유럽 주요 국가에서 프레헴고를 순차적으로 출시할 계획이다. 현재 미국에서도 허가심사가 진행 중이다.\n이번 승인으로 노보 노디스크는 비만·당뇨병 치료제에 이어 기존에 사업을 영위해 온 희귀 혈액질환 분야에서도 새로운 치료제를 확보하게 됐다.",
+      "authors": [
+        "최봉선 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "aee8facbe354",
+      "source_id": "medipana",
+      "source_name": "메디파나뉴스",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "방광암 수술 전후 치료 달라진다…美 FDA, 임핀지·패드세브 병용 승인",
+      "url": "https://medipana.com/news/articleView.html?idxno=421830",
+      "published": "2026-11-14T17:13:50Z",
+      "summary": "미국 식품의약국(FDA)이 근침윤성 방광암 환자의 수술 전후 치료에 새로운 면역항암제 병용요법을 승인했다. 기존 시스플라틴 기반 항암화학요법을 받기 어렵거나 이를 거부한 환자들에게 새로운 치료 선택지가 마련됐다.\nFDA는 13일(현지시간) 아스트라제네카의 면역항암제 '임핀지'(더발루맙)와 아스텔라스·화이자의 항체약물접합체(ADC) '패드세브'(엔포투맙 베도틴) 병용요법을 근침윤성 방광암 성인 환자 치료에 승인했다고 밝혔다.\n이번에 승인된 요법은 방광절제술에 앞서 임핀지와 패드세브를 병용 투여하고, 수술 이후에는 임핀지를 단독으로 투여하는 방식이다. 패드세브는 수술 전 치료에만 사용된다.\n근침윤성 방광암은 암세포가 방광의 근육층까지 침범한 상태로, 수술을 받더라도 재발 위험이 높다. 특히 신장기능 저하나 동반 질환 등으로 시스플라틴 항암화학요법을 받을 수 없는 환자는 치료 선택지가 제한적이었다.\n이번 승인은 근침윤성 방광암 환자 695명을 대상으로 진행한 임상 3상 'VOLGA' 연구 결과를 근거로 이뤄졌다.\n임상시험에서 임핀지·패드세브 병용요법을 받은 환자군은 방광절제술 단독 치료군보다 무사건생존기간(EFS)이 유의하게 개선됐다. 질병 진행이나 재발, 수술 미실시 또는 사망 등의 사건 발생 위험은 49% 감소했다(HR 0.51).\n무사건생존기간 중앙값은 병용요법군에서 아직 도달하지 않았으며, 수술 단독군은 12.1개월이었다.\n전체생존기간(OS)에서도 유의한 개선 효과가 확인됐다. 병용요법군은 수술 단독군에 비해 사망 위험이 42% 낮았으며(HR 0.58), 두 군 모두 전체생존기간 중앙값에는 도달하지 않았다.\n임핀지는 암세포가 면역체계의 공격을 피하는 데 관여하는 PD-L1을 차단하는 면역항암제다. 패드세브는 암세포 표면의 넥틴-4를 표적으로 항암 약물을 전달하는 ADC 치료제로, 서로 다른 작용기전을 결합한 것이 특징이다.\n안전성 측면에서는 간효소 수치 상승과 발진, 가려움증, 피로, 말초신경병증 등 기존 약물에서 알려진 이상반응이 관찰됐다. FDA는 면역 관련 이상반응과 주입 관련 반응 등에 대한 주의사항도 허가정보에 포함했다.\n이번 승인으로 시스플라틴 기반 항암화학요법을 사용할 수 없는 근침윤성 방광암 환자에서도 수술 전 항암치료와 수술 후 면역항암치료를 연계하는 치료가 가능해졌다.\n특히 ADC와 면역항암제의 병용 전략이 전이성 방광암을 넘어 완치를 목표로 하는 수술 전후 치료 영역으로 확대됐다는 점에서 향후 방광암 치료 환경에도 변화가 예상된다.",
+      "authors": [
+        "최봉선 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "7301730169d4",
+      "source_id": "medipana",
+      "source_name": "메디파나뉴스",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "호스피스 돌봄의 가치, 수가에도…심평원장 \"적정 보상 필요\"",
+      "url": "https://medipana.com/news/articleView.html?idxno=421829",
+      "published": "2026-11-14T13:24:18Z",
+      "summary": "호스피스·완화의료에서 환자의 증상을 조절하고 가족의 의사결정을 돕는 과정에 투입되는 의료진의 시간과 노력이 건강보험 보상체계에서도 합당한 가치를 인정받아야 한다는 의견이 제시됐다.\n생애말기 돌봄은 의학적 처치뿐 아니라 환자와 가족에 대한 충분한 설명, 심리·사회적 지원, 여러 직종의 협력을 필요로 하는 만큼 이러한 활동을 안정적으로 제공할 수 있는 제도적 여건이 중요하다는 취지다.\n건강보험심사평가원 홍승권 원장은 지난 12일 서울 서초동 가톨릭대학교 의생명산업연구원 대강당에서 열린 '2026년 CMC 호스피스 생명존중 학술세미나'에 참석해 호스피스·완화의료의 가치와 적정 보상의 필요성을 언급했다.\n홍 원장은 축사에서 CMC 8개 병원과 가톨릭 호스피스 기관 관계자들의 노고를 격려하며, 의사와 간호사, 사회복지사, 자원봉사자, 성직자 등 다양한 직종의 협력이 환자와 가족을 지탱하는 기반이라고 평가했다.\n호스피스·완화의료의 보상 문제와 관련해서는 의료행위뿐 아니라 환자와 가족을 위한 돌봄 과정 전반을 고려해야 한다는 점을 짚었다.\n세심한 증상 조절과 충분한 설명, 환자와 가족이 어려운 결정을 함께 숙고하도록 지원하는 활동 역시 중요한 의료의 영역이며, 여러 직종이 협력하는 데 필요한 시간과 전문성이 제도 안에서 존중받아야 한다는 것이다.\n홍승권 원장은 \"세심한 증상 조절과 충분한 설명, 환자와 가족이 어려운 결정을 함께 숙고할 수 있도록 돕는 과정 모두 중요한 의료의 내용\"이라며 \"환자 한 분의 삶을 이해하기 위해 여러 직종이 함께 들이는 시간과 노력도 그에 합당한 가치를 인정받아야 한다\"고 말했다.\n심평원이 추구하는 의료의 질과 적정성 역시 환자에게 필요한 의료서비스가 적절하게 제공되는 데 목적이 있다는 점도 언급했다.\n호스피스 현장의 전문성을 존중하면서 환자와 가족에게 필요한 돌봄을 지속적으로 제공할 수 있도록 제도적 여건을 마련하는 것이 중요하다는 설명이다.\n홍 원장은 향후 호스피스 수가 개선과 관련한 현장의 의견을 지속적으로 청취하겠다는 의지도 나타냈다. 현장에서 필요한 개선 사항을 적극적으로 건의해 달라고 요청하면서 생애말기 돌봄과 죽음의 질을 높이기 위한 심평원의 역할을 언급했다.\n이번 세미나에서는 태아·신생아와 가족을 위한 완화의료, 인공지능(AI)을 활용한 돌봄 지원, 병원과 지역사회를 연결하는 통합돌봄 사례 등 생애 전반에 걸친 완화의료 발전 방향도 논의됐다.\n홍 원장은 이러한 주제들이 미래 의료를 준비하는 데 중요한 과제라고 평가하며, 학술적 논의와 현장의 경험이 환자 중심 돌봄의 질을 높이는 데 활용되기를 기대했다.\n홍승권 원장은 \"앞으로도 호스피스 현장에서 필요한 수가 개선 사항을 지속적으로 건의해 주시기 바란다\"며 \"심평원 역시 현장의 의견에 귀 기울이며, 국민의 생애말기 돌봄과 죽음의 질이 향상될 수 있도록 노력하겠다\"고 말했다.",
+      "authors": [
+        "박으뜸 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "a57a5e9d1c4d",
+      "source_id": "medipana",
+      "source_name": "메디파나뉴스",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "신약 기술을 살까, 회사째 품을까…빅파마 10월 거래 33건의 선택",
+      "url": "https://medipana.com/news/articleView.html?idxno=421828",
+      "published": "2026-11-14T11:48:54Z",
+      "summary": "글로벌 제약기업들이 차세대 신약 기술을 확보하기 위한 투자와 인수합병(M&A)을 이어가고 있다. 항체약물접합체(ADC)와 이중특이성 항체, 인공지능(AI) 기반 신약개발 플랫폼 등에 대규모 자금이 몰리는 한편, 이미 허가된 의약품이나 후기 임상 단계의 후보물질을 보유한 기업을 통째로 인수하는 움직임도 나타나고 있다.\n신약개발의 불확실성을 안고 미래 성장동력을 확보하는 기술이전과 비교적 상업화에 가까운 자산을 직접 확보하는 M&A가 나란히 진행되는 모습이다.\n14일 메디파나뉴스가 국가신약개발사업단(KDDF)이 공개한 '2026년 10월 신약개발 관련 주요 거래' 자료를 분석한 결과, 기술이전·파트너십 계약은 25건, M&A는 8건으로 집계됐다.\n이번 자료는 각 기업의 발표와 글로벌 제약·바이오 전문매체, 산업 데이터베이스 등을 토대로 주요 거래를 정리한 것으로, 글로벌 시장에서 발생한 전체 계약을 집계한 것은 아니다.\n기술이전과 파트너십에서는 새로운 치료기술과 신약개발 플랫폼을 확보하려는 빅파마의 움직임이 두드러졌다. 가장 규모가 큰 거래는 스위스 로슈와 중국 한소제약의 ADC 협력 계약이다. 양사는 10월 19일 여러 항암제 후보물질을 공동 개발하는 계약을 체결했으며, 계약 규모는 최대 155억1000만달러에 달한다.\n로슈는 한소제약이 보유한 전임상 단계 ADC 후보물질 2개와 한소제약의 기술을 활용한 추가 ADC 프로그램을 확보하게 된다. 한소제약은 계약금 4억달러와 1주년 지급금 1억1000만달러를 받으며, 개발·허가·상업화 성과에 따라 추가 마일스톤과 판매 로열티를 수령할 수 있다.\nADC 분야에서 이미 경쟁력을 확보한 로슈가 중국 기업의 기술을 활용해 차세대 항암제 포트폴리오를 확대한다는 점에서 관심을 끄는 거래다.\n면역질환 분야에서는 사노피와 리제네론의 협력 확대가 눈에 띈다. 양사는 기존 협력관계에 장기지속형 항체 후보물질 4개를 추가하는 계약을 체결했다. 계약 규모는 최대 80억달러로, 사노피가 지급하는 선급금은 10억달러다.\n노바티스도 중국 아보젠으로부터 CD19와 CD3를 동시에 표적으로 하는 T세포 인게이저 후보물질을 도입했다. 계약 규모는 최대 77억7500만달러로, B세포 비호지킨림프종을 비롯한 항암 분야의 치료기술 확보에 나섰다.\n이들 거래는 대규모 계약이라는 공통점이 있지만 실제 지급되는 금액의 구조는 다르다. 발표되는 최대 계약금액에는 임상개발과 허가, 판매 성과에 따라 지급되는 조건부 마일스톤이 포함돼 있어 계약 체결과 동시에 해당 금액이 모두 오가는 것은 아니다.\n기술이전 대상도 개별 신약 후보물질에서 신약개발 플랫폼으로 확대되고 있다. 길리어드 사이언스는 Vir 바이오테크놀로지와 차세대 T세포 인게이저 개발을 위한 협력을 체결했다. AI 기반 최적화와 종양 내 선택적 활성화 기술을 결합해 고형암 치료제를 개발하는 방식이다.\n아스트라제네카는 인시트로의 AI 기반 신약개발 플랫폼을 활용해 대사이상 관련 지방간염(MASH)과 심근병증 치료제 개발을 추진하고, 일라이 릴리는 메티스 테크바이오와 지질나노입자(LNP) 기술 협력에 나섰다.\n개별 후보물질뿐 아니라 새로운 약물을 설계하고 전달하는 기술 자체가 글로벌 제약기업의 주요 거래 대상으로 자리 잡고 있는 셈이다. 반면 M&A에서는 이미 시장에 진입한 제품이나 임상개발이 상당 부분 진행된 신약 후보물질을 확보하려는 움직임이 나타났다.\n일본 시오노기제약은 10월 5일 미국 인트라바이오를 약 20억달러에 인수하는 계약을 발표했다. 인트라바이오는 희귀 신경질환인 니만-픽병 C형 치료제 '아크뉴르사'를 보유한 기업으로, 시오노기는 이번 거래를 통해 희귀질환 치료제 사업을 확대할 계획이다.\n비아트리스도 약 16억5000만달러 규모의 파시라 바이오사이언스 인수 계약을 체결했다. 파시라는 비마약성 통증 치료제 '엑스파렐'과 무릎 골관절염 통증 치료제 '질레타'를 판매하고 있어, 비아트리스는 인수를 통해 기존 사업에 전문의약품 포트폴리오를 추가하게 된다.\n독일 머크 KGaA는 영국 사일런스 테라퓨틱스를 약 13억달러의 지분가치로 인수하는 계약을 발표했다. 사일런스가 개발 중인 진성적혈구증가증 치료제 '디베시란'은 임상 3상 진입을 준비 중인 siRNA 후보물질로, 머크는 이를 통해 희귀질환 신약 파이프라인을 강화할 계획이다.\n세 기업의 거래는 확보하려는 자산의 개발 단계에서는 차이가 있지만, 기존 연구개발 조직에서 신약을 처음부터 개발하기보다 외부에서 확보한 제품과 기술을 성장동력으로 활용한다는 공통점을 갖고 있다.\n국내 제약기업도 이번 글로벌 거래 목록에 이름을 올렸다.\n한미약품과 GC녹십자는 10월 29일 미국 바이오마린과 파브리병 치료제 후보물질에 대한 기술이전 계약을 체결했다. 계약 규모는 최대 4억7500만달러로, 선급금 7000만달러와 개발·허가·상업화 단계에 따른 마일스톤이 포함됐다.\n한미약품과 GC녹십자가 공동 개발한 장기지속형 효소대체요법 후보물질이 글로벌 희귀질환 전문기업의 개발 포트폴리오에 편입됐다는 점에서 국내 신약개발 기술의 해외 사업화 사례로 볼 수 있다.\n이번 10월 주요 거래에서는 글로벌 제약기업들이 새로운 항암·면역 치료기술과 AI 기반 플랫폼에 투자하는 동시에, 허가 제품이나 후기 임상 자산을 보유한 기업을 인수하는 전략을 병행하고 있는 것으로 나타났다.\n기술이전은 연구개발 성과에 따라 지급금이 달라지는 구조인 반면, 기업 인수는 제품과 개발 자산, 사업 기반을 함께 확보할 수 있다는 차이가 있다. 거래 대상과 계약 구조는 서로 다르지만, 외부에서 확보한 기술과 자산을 통해 신약 포트폴리오를 확대하려는 움직임이라는 점에서는 맞닿아 있다.\n국내 기업의 글로벌 기술수출이 이어지는 가운데, 앞으로는 개별 후보물질의 경쟁력뿐 아니라 플랫폼 기술과 개발 단계, 상업화 가능성이 해외 제약기업과의 협력 방식에 어떤 차이를 만들어낼지도 관심을 모은다.",
+      "authors": [
+        "최봉선 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "07228e5121f4",
+      "source_id": "medipana",
+      "source_name": "메디파나뉴스",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "KDDF, 성과교류회(12/15)",
+      "url": "https://medipana.com/news/articleView.html?idxno=421826",
+      "published": "2026-11-14T10:57:28Z",
+      "summary": "국가신약개발사업단(KDDF)은 오는 12월 15일 서울 페어몬트 앰배서더 서울 그랜드볼룸에서 '2026 국가신약개발사업 성과교류회'를 개최한다.\n이번 행사는 한 해 동안 국가신약개발사업을 통해 거둔 우수 연구성과를 공유하고, 신약개발 현장의 경험과 협력 기회를 확대하기 위해 마련됐다.\n행사에서는 우수한 성과를 창출한 주관연구개발기관의 연구성과를 소개하고, 2027년도 신규과제 공모 계획과 지원 방향도 안내할 예정이다.\n성과교류회는 오전 10시부터 오후 3시 30분까지 진행되며, 국가신약개발사업 주관연구개발기관과 지원기관, 제약·바이오업계 관계자 등 약 300명이 참석할 예정이다.",
+      "authors": [
+        "메디파나뉴스"
+      ],
+      "journal": null,
+      "doi": null
+    }
+  ],
+  "source_status": [
+    {
+      "source_id": "health_affairs",
+      "source_name": "Health Affairs",
+      "category": "journal",
+      "ok": true,
+      "fetched": 20,
+      "new": 0,
+      "kept": 0,
+      "error": null
+    },
+    {
+      "source_id": "health_policy",
+      "source_name": "Health Policy",
+      "category": "journal",
+      "ok": true,
+      "fetched": 14,
+      "new": 2,
+      "kept": 2,
+      "error": null
+    },
+    {
+      "source_id": "milbank",
+      "source_name": "The Milbank Quarterly",
+      "category": "journal",
+      "ok": true,
+      "fetched": 0,
+      "new": 0,
+      "kept": 0,
+      "error": null
+    },
+    {
+      "source_id": "jama_health_forum",
+      "source_name": "JAMA Health Forum",
+      "category": "journal",
+      "ok": true,
+      "fetched": 16,
+      "new": 0,
+      "kept": 0,
+      "error": null
+    },
+    {
+      "source_id": "lancet_public_health",
+      "source_name": "The Lancet Public Health",
+      "category": "journal",
+      "ok": true,
+      "fetched": 1,
+      "new": 0,
+      "kept": 0,
+      "error": null
+    },
+    {
+      "source_id": "soc_sci_med",
+      "source_name": "Social Science & Medicine",
+      "category": "journal",
+      "ok": true,
+      "fetched": 5,
+      "new": 1,
+      "kept": 1,
+      "error": null
+    },
+    {
+      "source_id": "health_econ",
+      "source_name": "Health Economics",
+      "category": "journal",
+      "ok": true,
+      "fetched": 4,
+      "new": 0,
+      "kept": 0,
+      "error": null
+    },
+    {
+      "source_id": "hepl",
+      "source_name": "Health Economics, Policy and Law",
+      "category": "journal",
+      "ok": true,
+      "fetched": 1,
+      "new": 0,
+      "kept": 0,
+      "error": null
+    },
+    {
+      "source_id": "hpp",
+      "source_name": "Health Policy and Planning",
+      "category": "journal",
+      "ok": true,
+      "fetched": 3,
+      "new": 0,
+      "kept": 0,
+      "error": null
+    },
+    {
+      "source_id": "bmc_hsr",
+      "source_name": "BMC Health Services Research",
+      "category": "journal",
+      "ok": true,
+      "fetched": 25,
+      "new": 1,
+      "kept": 1,
+      "error": null
+    },
+    {
+      "source_id": "nejm",
+      "source_name": "NEJM",
+      "category": "journal",
+      "ok": true,
+      "fetched": 2,
+      "new": 0,
+      "kept": 0,
+      "error": null
+    },
+    {
+      "source_id": "jama",
+      "source_name": "JAMA",
+      "category": "journal",
+      "ok": true,
+      "fetched": 6,
+      "new": 0,
+      "kept": 0,
+      "error": null
+    },
+    {
+      "source_id": "bmj",
+      "source_name": "BMJ",
+      "category": "journal",
+      "ok": true,
+      "fetched": 1,
+      "new": 0,
+      "kept": 0,
+      "error": null
+    },
+    {
+      "source_id": "lancet",
+      "source_name": "The Lancet",
+      "category": "journal",
+      "ok": true,
+      "fetched": 1,
+      "new": 0,
+      "kept": 0,
+      "error": null
+    },
+    {
+      "source_id": "jpmph",
+      "source_name": "예방의학회지 (JPMPH)",
+      "category": "journal",
+      "ok": true,
+      "fetched": 10,
+      "new": 0,
+      "kept": 0,
+      "error": null
+    },
+    {
+      "source_id": "jkms",
+      "source_name": "JKMS (정책 논문)",
+      "category": "journal",
+      "ok": true,
+      "fetched": 3,
+      "new": 0,
+      "kept": 0,
+      "error": null
+    },
+    {
+      "source_id": "yna_society",
+      "source_name": "연합뉴스 사회",
+      "category": "media_general",
+      "ok": true,
+      "fetched": 120,
+      "new": 120,
+      "kept": 7,
+      "error": null
+    },
+    {
+      "source_id": "yna_economy",
+      "source_name": "연합뉴스 경제",
+      "category": "media_general",
+      "ok": true,
+      "fetched": 54,
+      "new": 54,
+      "kept": 3,
+      "error": null
+    },
+    {
+      "source_id": "chosun_national",
+      "source_name": "조선일보 사회",
+      "category": "media_general",
+      "ok": true,
+      "fetched": 54,
+      "new": 50,
+      "kept": 1,
+      "error": null
+    },
+    {
+      "source_id": "joongang_gnews",
+      "source_name": "중앙일보 (Google 뉴스)",
+      "category": "media_general",
+      "ok": false,
+      "fetched": 0,
+      "new": 0,
+      "kept": 0,
+      "error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://news.google.com/rss/search?q=site:joongang.co.kr+(%EC%9D%98%EB%A"
+    },
+    {
+      "source_id": "donga",
+      "source_name": "동아일보 사회",
+      "category": "media_general",
+      "ok": false,
+      "fetched": 0,
+      "new": 0,
+      "kept": 0,
+      "error": "ReadTimeout: The read operation timed out"
+    },
+    {
+      "source_id": "hani_society",
+      "source_name": "한겨레 사회",
+      "category": "media_general",
+      "ok": true,
+      "fetched": 30,
+      "new": 30,
+      "kept": 0,
+      "error": null
+    },
+    {
+      "source_id": "khan_society",
+      "source_name": "경향신문 사회",
+      "category": "media_general",
+      "ok": true,
+      "fetched": 22,
+      "new": 21,
+      "kept": 0,
+      "error": null
+    },
+    {
+      "source_id": "docdocdoc",
+      "source_name": "청년의사",
+      "category": "media_health",
+      "ok": true,
+      "fetched": 12,
+      "new": 3,
+      "kept": 1,
+      "error": null
+    },
+    {
+      "source_id": "doctorsnews",
+      "source_name": "의협신문",
+      "category": "media_health",
+      "ok": true,
+      "fetched": 12,
+      "new": 1,
+      "kept": 1,
+      "error": null
+    },
+    {
+      "source_id": "dailymedi",
+      "source_name": "데일리메디",
+      "category": "media_health",
+      "ok": true,
+      "fetched": 33,
+      "new": 18,
+      "kept": 4,
+      "error": null
+    },
+    {
+      "source_id": "rapportian",
+      "source_name": "라포르시안",
+      "category": "media_health",
+      "ok": true,
+      "fetched": 15,
+      "new": 3,
+      "kept": 0,
+      "error": null
+    },
+    {
+      "source_id": "medipana",
+      "source_name": "메디파나뉴스",
+      "category": "media_health",
+      "ok": true,
+      "fetched": 50,
+      "new": 21,
+      "kept": 14,
+      "error": null
+    },
+    {
+      "source_id": "mohw_press",
+      "source_name": "보건복지부 보도자료",
+      "category": "gov",
+      "ok": true,
+      "fetched": 10,
+      "new": 0,
+      "kept": 0,
+      "error": null
+    },
+    {
+      "source_id": "mohw_press_gnews",
+      "source_name": "보건복지부 보도자료 (정책브리핑·Google 뉴스)",
+      "category": "gov",
+      "ok": false,
+      "fetched": 0,
+      "new": 0,
+      "kept": 0,
+      "error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://news.google.com/rss/search?q=site:korea.kr+%22%EB%B3%B4%EA%B1%B4"
+    },
+    {
+      "source_id": "kdca_press_gnews",
+      "source_name": "질병관리청 보도자료 (정책브리핑·Google 뉴스)",
+      "category": "gov",
+      "ok": false,
+      "fetched": 0,
+      "new": 0,
+      "kept": 0,
+      "error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://news.google.com/rss/search?q=site:korea.kr+%22%EC%A7%88%EB%B3%91"
+    },
+    {
+      "source_id": "hira_press",
+      "source_name": "건강보험심사평가원 보도자료",
+      "category": "gov",
+      "ok": true,
+      "fetched": 10,
+      "new": 1,
+      "kept": 0,
+      "error": null
+    }
+  ]
+}
