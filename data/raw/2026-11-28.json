@@ -1,0 +1,2008 @@
+{
+  "date": "2026-11-28",
+  "collected_at": "2026-11-28T12:39:32.200641+09:00",
+  "items": [
+    {
+      "id": "02680327e1eb",
+      "source_id": "health_policy",
+      "source_name": "Health Policy",
+      "category": "journal",
+      "lang": "en",
+      "title": "Declining hospital length of stay and trends in readmissions and post-discharge mortality in Belgium from 2008 to 2022: an observational analysis of administrative data",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43097761/",
+      "published": "2026-11-19T00:00:00Z",
+      "summary": "BACKGROUND: Policy initiatives such as DRG-based payment systems as well as patient preferences have incentivized hospitals to shorten length of stay (LOS), raising questions about potential trade‑offs for patient safety after discharge. Belgium provides a pertinent setting, with DRG‑linked incentives to reduce LOS. OBJECTIVE: To examine national trends in LOS and post‑discharge outcomes. METHODS: A population‑based analysis of administrative hospital data covering 2008-2022. Admissions were grouped using APR‑DRG (v31); outcomes included 30‑day unplanned all-cause readmission and all-cause mortality (for 2016-2022), and a composite (readmission/death). LOS was risk‑adjusted via zero‑truncated negative binomial models; binary outcomes via logistic regression with Firth's correction. Risk-adjustment included patient covariates, was stratified by study period (2008-2014 and 2016-2022) and service lines (Major Diagnostic Categories: MDC), and was calibrated on 3‑year baseline periods. Associations between annual risk‑adjusted LOS and risk‑adjusted outcomes were assessed descriptively and with Ordinary Least Squares (OLS) models using robust standard errors. RESULTS: Among 18,070,584 eligible inpatient stays, LOS declined from 6.1 to 4.6 days (risk‑adjusted) between 2008 and 2022; reductions were greatest in older and multimorbid patients. Over the same period, risk‑adjusted 30‑day readmissions fell from 5.6% to 4.9% (2008-2022), while risk‑adjusted 30‑day mortality remained stable around 0.9% (2016-2022). In 2016-2022, a one‑day decrease in risk‑adjusted LOS was associated with a 0.54 percentage point reduction in risk‑adjusted readmissions. No systematic association was observed with 30‑day mortality. Composite trends mirrored those of readmissions. CONCLUSION: National LOS reductions were not associated with higher post‑discharge risks. Rather, readmissions modestly declined while post-discharge mortality remained stable. Hospital efficiency gains appear achievable without compromising measured outcomes supporting continued emphasis on process optimization and discharge practices.",
+      "authors": [
+        "Nicolas Bouckaert",
+        "Isabelle Savoye",
+        "Renate Zeevaert",
+        "Lorena San-Miguel",
+        "Koen Van den Heede"
+      ],
+      "journal": "Health policy (Amsterdam, Netherlands)",
+      "doi": "10.1016/j.healthpol.2026.105843"
+    },
+    {
+      "id": "fa4887e2820c",
+      "source_id": "health_policy",
+      "source_name": "Health Policy",
+      "category": "journal",
+      "lang": "en",
+      "title": "Equity in national integrated plans for prevention and control of non-communicable diseases: A policy analysis",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43097760/",
+      "published": "2026-11-17T00:00:00Z",
+      "summary": "BACKGROUND: The United Nations High-Level Meetings (UNHLM) on Non-Communicable Diseases (NCDs) have consistently promoted equity. OBJECTIVE: To assess equity considerations within national integrated NCD plans of WHO member states. METHODS: We analysed integrated NCD plans published in English since 2014 by 193 WHO Member States across 13 PROGRESS-Plus equity domains for four aspects: objectives, strategy, monitoring and evaluation, and budget. We adapted the UNDP Gender Results Effectiveness Scale score to score each plan across four aspects as either negative (-1), blind (1), targeted (2), responsive (3), or transformative (4). A summative overall score was calculated. Standalone disease-specific plans were not included. RESULTS: We analysed 65 integrated NCD plans (64 national plans and 1 consolidated European Union (EU) plan which covered 25 countries). Our analysis represents 89 of 193 WHO Member States. Overall, equity was poorly considered in most domains. When considered, plans were usually targeted. Policies lacked internal consistency across the four aspects. Plans were blind to internal migrants and pastoral communities (100%, 65 plans), LGBTQIA+ (95.4%, 62), Indigenous people (93.9%, 61), migrants and refugees (84.6%, 55), ethnic minorities (73.8%, 48), and people with disabilities (67.7%, 44). Responsive approaches were seen most frequently in relation to adolescents (20.0%, 13 plans), followed by gender and economic status (16.9%,11 each). Only one plan was transformative for gender, and another for adolescents. CONCLUSION: The study establishes a novel methodology for comprehensively evaluating equity in health policy formulation. The study demonstrates that global equity commitments need to be operationalised within national NCD plans.",
+      "authors": [
+        "Bhanushree Soni",
+        "Inika Sharma",
+        "Emma Feeny",
+        "Soumyadeep Bhaumik"
+      ],
+      "journal": "Health policy (Amsterdam, Netherlands)",
+      "doi": "10.1016/j.healthpol.2026.105840"
+    },
+    {
+      "id": "ef4e017dfedc",
+      "source_id": "health_econ",
+      "source_name": "Health Economics",
+      "category": "journal",
+      "lang": "en",
+      "title": "Paying Our Way to Better Health? The Impact of a Large Pay-for-Performance Scheme on Mortality in Brazil",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43102877/",
+      "published": "2026-11-27T00:00:00Z",
+      "summary": "Pay-for-performance schemes are widely used to address incentive problems in healthcare, yet there is limited evidence on their impact on health outcomes. We study the effect of Brazil's PMAQ program-widely considered one of the largest pay-for-performance schemes in the world-on mortality, antenatal-care utilisation and avoidable hospitalisations. Exploiting its staggered introduction across 5444 municipalities, we implement an event-study difference-in-differences design. The PMAQ program increased public spending on primary care by approximately 5%. We find no evidence for reductions in infant, under-five, or adult mortality during the study period. As mortality is a distal outcome, the available follow-up may be too short for some mortality effects to emerge. However, we also find no evidence of increased antenatal-care utilisation or reduced avoidable hospitalisations. These findings suggest that performance-based incentives, when accompanied by additional resources, did not generate measurable improvements in population health in Brazil, at least in the short-term.",
+      "authors": [
+        "Roxanne Kovacs",
+        "Jorge O Maia Barreto",
+        "Everton Nunes da Silva",
+        "Letícia Xander Russo",
+        "Thomas Hone",
+        "Timothy Powell-Jackson"
+      ],
+      "journal": "Health economics",
+      "doi": "10.1002/hec.70186"
+    },
+    {
+      "id": "989456811526",
+      "source_id": "health_econ",
+      "source_name": "Health Economics",
+      "category": "journal",
+      "lang": "en",
+      "title": "The Impact of National Health Insurance on Health Services Utilization in the Lao People's Democratic Republic",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43102867/",
+      "published": "2026-11-27T00:00:00Z",
+      "summary": "In many low- and middle-income countries, health insurance coverage remains low and largely excludes the informal sector, leaving many without access to health care and financial protection. In settings where informality is high and enrollment is low, non-contributory insurance models could help close coverage gaps and boost health services utilization. In 2016, Lao PDR introduced a non-contributory National Health Insurance (NHI) scheme to cover the large informal sector population. We sought to examine the impact of this national reform on health services utilization in Lao PDR. Using longitudinal health administrative data covering 116 district hospitals and 920 health centers in 129 districts from October 2015 to September 2017, a staggered difference-in-differences analysis was performed comparing changes in health services utilization between districts that adopted NHI earlier and those that adopted it later. The results indicate that NHI significantly increased outpatient visits among individuals aged ≥ 5 and children aged < 5 in the intervention group relative to the comparison group. NHI also notably increased inpatient admissions among individuals aged ≥ 5. A non-contributory health insurance model has the potential to rapidly expand population coverage and increase health services utilization in low-resource settings with large informal sector populations. This approach may be particularly relevant for countries transitioning from contributory models or embarking on universal health coverage reforms.",
+      "authors": [
+        "Sekeun Daniel Yu",
+        "Michel Grignon",
+        "G Emmanuel Guindon",
+        "Jean-Éric Tarride"
+      ],
+      "journal": "Health economics",
+      "doi": "10.1002/hec.70175"
+    },
+    {
+      "id": "f4bcbf60ce28",
+      "source_id": "hepl",
+      "source_name": "Health Economics, Policy and Law",
+      "category": "journal",
+      "lang": "en",
+      "title": "Adopting legal frameworks for public health: a toolkit for physical activity and nutrition policy, implementation, and evaluation",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43100128/",
+      "published": "2026-11-27T00:00:00Z",
+      "summary": "Public health challenges such as physical inactivity and unhealthy diets demand policy responses that operate upstream of individual choice. Our perspective connects exposure-response evidence for physical activity (PA) and lifestyle factors with legal levers shaping environments. We argue that coherent legal frameworks are indispensable tools for shaping healthier environments at population scale while protecting autonomy through least-restrictive and equity-oriented design. Drawing on international evidence and illustrative examples, we synthesise legal strategies that shift price signals, availability, marketing exposure, procurement standards, and built environment in ways that make routine PA and healthy diets easier defaults. We then frame these elements as strategic considerations for public-health proponents and policymakers: equity and proportionality, transparency and safeguards against undue influence, enforceability, intersectoral coordination through Health in All Policies, and built-in monitoring and evaluation to improve legitimacy, adaptation, and durability. Finally, we outline an evaluation pathway grounded in legal epidemiology and policy surveillance: systematic approaches for specifying, coding, comparing, and monitoring laws and their implementation over time, enabling jurisdictions to identify gaps, learn from others, and link legal change to health and equity outcomes. These elements form a practical 'legal toolkit' for jurisdictions seeking measurable reductions in exposure to inactivity and unhealthy food environments.",
+      "authors": [
+        "Per Morten Fredriksen",
+        "Knut Erik Gaustad",
+        "Asgeir Mamen",
+        "Nandu Goswami"
+      ],
+      "journal": "Health economics, policy, and law",
+      "doi": "10.1017/S1744133126100826"
+    },
+    {
+      "id": "3d1b5414cbd3",
+      "source_id": "lancet",
+      "source_name": "The Lancet",
+      "category": "journal",
+      "lang": "en",
+      "title": "Urgent Medicaid exceptions for refugees in the USA",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43098146/",
+      "published": "2026-11-28T00:00:00Z",
+      "summary": "",
+      "authors": [
+        "Mustafa Rfat"
+      ],
+      "journal": "Lancet (London, England)",
+      "doi": "10.1016/S0140-6736(26)02161-6"
+    },
+    {
+      "id": "13b12dd159cc",
+      "source_id": "yna_society",
+      "source_name": "연합뉴스 사회",
+      "category": "media_general",
+      "lang": "ko",
+      "title": "응급구조사 등 보건의료인 국시서도 전파탐지기·전신가리개",
+      "url": "https://yna.co.kr/view/AKR20261128028700530",
+      "published": "2026-11-28T02:43:04Z",
+      "summary": "보건의료인 국시에 전파탐지기·전신가리개 적용\n응급구조사 등 4천명 응시, 전자기기 완전 수거\n정은경, 치과기공사 시험장서 대책 이행 점검\n전체 내용을 이해하기 위해서는 기사 본문과 함께 읽어야 합니다.\n(서울=연합뉴스) 고유선 기자 = 최근 스마트안경·초소형 카메라 등 첨단기기를 활용한 각종 시험 부정행위가 논란이 되면서 보건의료인 국가시험도 전파탐지기와 가운형 전신가리개 등 방지 대책이 적용된 가운데 치러진다.\n보건복지부는 28일 전국 9개 시·도, 23개 시험장에서 약 4천명이 응시하는 1·2급 응급구조사, 치과기공사, 의지·보조기기사 시험에서 이전보다 강화된 부정행위 관리 대책을 적용한다고 밝혔다.\n복지부와 한국보건의료인국가시험원(국시원)은 이날 각 시험장에서 전자기기를 완전히 수거하고 전파탐지기를 비치·운용하는 한편, 응시자에 대한 무작위 전화 연락으로 전자기기 소지 여부를 확인했다.\n최근 수요 증가로 품귀현상을 빚는 가운형 전신 가리개의 경우 컴퓨터 기반 시험(CBT)부터 우선 적용하기로 했다.\n이날 정은경 복지부 장관도 제54회 치과기공사 국가시험이 치러지는 서울 용산철도고등학교를 찾아 시험 준비 상황과 스마트기기 부정행위 관리 대책 이행 실태를 점검했다.\n정 장관은 감독관 교육을 참관하고 시험본부와 고사장 등을 둘러보며 전파탐지기 작동 여부와 통신·전자기기 수거·보관 체계를 확인했다.\n복지부와 국시원은 내년 초 시행하는 의사·한의사·간호사 등 주요 국가시험에 대비해 현장에서 미흡하다고 확인된 사항이 있으면 즉시 보완하고, 시험 결과를 정밀하게 분석해 부정행위 의심 사례를 철저히 조사할 계획이다.\n정 장관은 \"작은 의심 상황도 지체 없이 시험본부로 전달해 필요한 조치가 이루어질 수 있도록 협조해달라\"며 \"아울러 응시생이 선의의 피해를 입지 않도록 세심하게 배려하고, 현장에서 느끼는 애로사항과 개선 의견도 가감 없이 전해 달라\"고 당부했다.\n cindy@yna.co.kr\n제보는 카카오톡 okjebo <저작권자(c) 연합뉴스, 무단 전재-재배포, AI 학습 및 활용 금지> 2026년11월28일 11시43분 송고",
+      "authors": [
+        "고유선"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "78c70ad07c7e",
+      "source_id": "yna_society",
+      "source_name": "연합뉴스 사회",
+      "category": "media_general",
+      "lang": "ko",
+      "title": "[로컬의 재발견] 화산·강·꽃이 만든 심포니…철원 한탄강 관광 벨트",
+      "url": "https://yna.co.kr/view/AKR20261127117300062",
+      "published": "2026-11-27T22:11:03Z",
+      "summary": "철원, 한탄강 중심 관광 벨트로 전국 관광객 유치\n주상절리길·물윗길·고석정 꽃밭 흥행 지역경제 활력\n'머무는 관광' 추진…포천∼철원 고속도로 개통 총력\n전체 내용을 이해하기 위해서는 기사 본문과 함께 읽어야 합니다.\n [※ 편집자 주 = 저출산·고령화와 청년 유출로 지역 소멸 위기가 커지는 가운데 연합뉴스는 발상의 전환을 통해 각 지역의 숨은 자랑거리와 이야깃거리를 재발견하는 기획을 시작합니다. 문화·경제·사회 전반에서 인물, 음식, 문화재, 특산물, 관광지 등은 물론 차별화된 경쟁력을 지닌 다양한 아이템을 발굴해 매주 토요일 송고할 예정입니다. 이를 통해 지역의 자부심 제고, 관광 활성화, 새로운 성장동력 발굴 등을 추진함으로써 지역 경제에 활력을 불어넣는 계기를 마련하고자 합니다.]\n(철원=연합뉴스) 양지웅 기자 = 강원 철원군은 수십만 년 전 화산활동이 선물한 평야 덕분에 전통적인 농업지역으로 꼽힌다.\n거기에 북한과 경계를 맞대는 지리적 특징과 협곡을 따라 수려하게 흐르는 한탄강, 겨울이면 무리 지어 날아드는 철새 등을 활용해 안보·생태·체험형 관광을 추진해왔다.\n하지만 남북관계 영향과 계절적 한계로 인해 많은 관광객을 모으기에는 다소 벅찼다.\n철원군은 한계를 뛰어넘고자 한탄강을 중심으로 관광 벨트를 조성, 안보·생태·체험형 관광을 엮어 전국 관광객을 불러 모으고 있다.\n◇ 유네스코 세계지질공원 따라 걸으니 주상절리 비경 눈앞에\n군은 2020년 7월 한탄강이 유네스코로부터 세계지질공원 인증을 받은 것을 지역관광 사업 도약의 계기로 삼았다.\n이에 한탄강을 하나의 관광권역으로 묶고자 갈말읍 상사리와 동송읍 장흥리에 거점시설인 은하수교를 개통했다.\n은하수교는 한탄강 절경과 철원 용암대지를 한눈에 바라볼 수 있는 지역 대표 현수교로 주상절리길과 고석정 꽃밭을 잇는 주요 시설이다.\n재작년 11월에는 은하수교 상부 광장에 한탄강 관광 벨트의 새 랜드마크인 횃불전망대를 조성했다.\n평화 통일의 소망을 담은 53ｍ 높이의 횃불전망대는 세계지질공원을 인증받은 한탄강의 아름다운 절경과 어우러지는 복합 문화공간으로 꾸며졌다.\n2021년 11월 개장한 주상절리길은 한탄강 관광의 한 축을 담당하고 있다.\n이 길은 순담계곡에서 한탄강 협곡을 따라 드르니 쉼터까지 3.6㎞ 구간을 잇는 잔도(절벽에 선반처럼 달아 만든 길)다.\n깊이 수백ｍ의 현무암 협곡 7부 높이에 설치된 철제 잔도를 걸으면 발밑으로는 한탄강, 강 건너편으로는 화산 활동이 만든 주상절리를 선명하게 관찰할 수 있다.\n주상절리길은 개장 4년 4개월여 만인 올해 초 누적 탐방객 300만명을 넘기며 입장권 수입 224억여원을 거둬들였다.\n특히 입장료 중 절반가량을 철원사랑상품권으로 관광객에게 환원하면서 지역경제에 활력을 불어넣었다.\n혹한으로 유명한 철원의 겨울 추위는 한탄강 관광에 또 다른 매력을 선물했다.\n시베리아로부터 내려오는 찬 공기는 한탄강을 꽁꽁 얼게 만들고, 군은 그 위에 부교를 깔아 '한탄강 물윗길' 트레킹 코스를 만들었다.\n총길이 8.5㎞의 해당 구간에서는 평소 근접하기 힘든 한탄강의 자연경관을 꽁꽁 언 강 위에서 온전히 감상할 수 있다.\n강 위의 부교를 따라 걸으면 협곡 기암괴석과 웅장한 수직 절벽의 장관이 손에 잡힐 듯하다.\n지난겨울에는 누적 방문객 22만여명을 기록하며 철원 겨울철 여행의 진면모를 보였다.\n◇ 포성 울리던 땅이 형형색색 꽃밭으로…핫플레이스 된 고석정\n철원 장흥리 일원은 2015년 이전까지 전차가 기동훈련을 하고 포를 쏘던 군(軍) 훈련장이었다.\n하지만 지금은 봄·가을마다 전국에서 관광객이 모여드는 대형 꽃밭이 됐다.\n고석정 꽃밭은 전체 면적 24㏊ 중 꽃밭만 15㏊ 규모로 축구장(0.714㏊) 34개 규모의 대단위 정원이다.\n특히 가을철마다 넓게 펼쳐진 맨드라미 군락을 비롯해 가우라, 안젤로니아, 천일홍, 핑크뮬리, 코키아 등이 본연의 색을 드러내며 장관을 연출한다.\n이는 시각적 즐거움을 중요시하는 MZ세대의 관심을 끌기 충분한 매력이다.\n드넓은 공간에 친환경적으로 만든 고석정 꽃밭은 각종 사회관계망서비스(SNS)를 통해 추천 여행지로 거듭 소개되며 젊은 관광객들의 발길이 끊이지 않고 있다.\n유명 SNS에 '고석정 꽃밭'을 검색하면 2만5천개가 넘는 방문 인증 게시물이 그 인기를 증명하고 있다.\n고석정 꽃밭 개장을 기다리는 이는 관광객뿐만이 아니다.\n밀려드는 발걸음이 지역 상권으로 이어지는 까닭에 상인들도 꽃이 만발하길 고대한다.\n군에 따르면 지난해 꽃밭 누적 관람객은 62만7천590명을 기록했고, 입장권 등 수익은 22억여원을 거뒀다.\n아울러 올 9월에는 누적 관람객 300만명을 돌파하기도 했다.\n◇ '머무는 관광'으로 생활인구 증가 도모…고속도로 개통 총력\n1940년대 철원군은 인구 10만명이 넘는, 도내 두 번째로 규모 큰 도시였지만, 접경지역이라는 이유로 각종 규제를 받으며 발전은 더뎌졌고 고령화와 저출산, 국방개혁 등 복합적인 요인으로 인구는 급격히 감소해 3만9천명대로 떨어졌다.\n이에 군은 지방소멸 위기에 맞서 관광산업 활성화를 통한 '생활인구' 증가를 도모하고 있다.\n생활인구란 정주 인구뿐 아니라 지역에 체류하면서 지역의 활력을 높이는 사람까지 지역의 인구로 보는 개념이다.\n통근·통학·관광 등 목적으로 주민등록지 이외의 지역을 방문해 하루 3시간 이상 머무는 횟수가 월 1회 이상인 경우를 기준으로 한다.\n이를 위해 유명 관광지를 방문하는 여행이 아니라 '와서 머무는' 숙박형 관광으로의 변신을 꾀하고 있다.\n먼저 화강쉬리캠핑장 등 관광객이 머물며 즐길 수 있는 숙박시설을 확충하고, 한탄강 지오스테이·화강 체류형 복합문화공간 조성 등을 통해 다양한 숙박 수요에 대응하고 있다.\n아울러 노동당사 야간 미디어아트, 삼부연 오룡굴, 횃불전망대 야간개장 특색 있는 야간관광 콘텐츠와 인프라를 확충해 관광객의 체류시간 연장과 숙박 수요를 창출하고 있다.\n아울러 비무장지대(DMZ)와 한탄강 세계지질공원 등 주요 관광자원과 지역 특색을 살린 체험 콘텐츠를 연해 외국인 관광객 유치 확대 및 체류형 관광 활성화를 도모할 계획이다.\n특히 군은 지역 관광의 체질 개선을 위해 포천∼철원 고속도로 개통에 온 힘을 쏟",
+      "authors": [
+        "양지웅"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "e517d19e72e5",
+      "source_id": "chosun_national",
+      "source_name": "조선일보 사회",
+      "category": "media_general",
+      "lang": "ko",
+      "title": "미국·독일서 시작된 척추 내시경… 이제 한국이 주도한다",
+      "url": "https://chosun.com/national/welfare-medical/2026/11/28/SCTWUDR7P5A4JAB5XSMAHBJPUI",
+      "published": "2026-11-27T15:35:00Z",
+      "summary": "27일 오전 인천 송도컨벤시아 제1홀. 김현성 청담해리슨병원 원장이 척추 모형을 놓고 내시경으로 수술 부위에 접근하는 방법을 설명하자, 140여 석을 꽉 채운 의사들 중 상당수가 손동작 하나라도 놓치지 않으려고 스마트폰을 꺼내 촬영하거나 자리에서 일어났다. 절반 이상이 미국·영국·프랑스·스페인뿐 아니라 중동 등 해외에서 온 의사들이었다. 같은 시간 나머지 3개 홀의 상황도 비슷했다.",
+      "authors": [
+        "인천=조성호 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "3f99a172ba91",
+      "source_id": "chosun_national",
+      "source_name": "조선일보 사회",
+      "category": "media_general",
+      "lang": "ko",
+      "title": "학교 비정규직 전국 파업에 급식·돌봄 차질",
+      "url": "https://chosun.com/national/education/2026/11/27/NDBP2M3RMRAHVLFHXEFMOUREDA",
+      "published": "2026-11-27T07:00:22Z",
+      "summary": "학교 급식 조리원과 초등 돌봄 교실 종사자 등이 소속된 민노총 전국학교비정규직노동조합(학비노조)이 27일 전국 동시 파업에 나서면서 급식과 돌봄에 차질이 빚어졌다. 학부모와 학생, 교사들 사이에서는 “가뜩이나 ‘AI 커닝’으로 학교 분위기가 안 좋은데 학생을 볼모로 잡느냐” “무슨 연례 행사도 아니고 매년 이게 뭐냐”라는 불만이 나왔다.",
+      "authors": [
+        "장윤 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "dd9aeea57276",
+      "source_id": "chosun_national",
+      "source_name": "조선일보 사회",
+      "category": "media_general",
+      "lang": "ko",
+      "title": "학교 급식·돌봄 노동자 집회…아이들 점심은 급식 대신 빵",
+      "url": "https://chosun.com/national/national_general/2026/11/27/LHWAAV6SIBAXXDZ4RBJ6UTIM7M",
+      "published": "2026-11-27T06:39:31Z",
+      "summary": "“교육재정 사수하고 차별 해소 예산 쟁취하자! 투쟁!”",
+      "authors": [
+        "한영원 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "18ce860202f6",
+      "source_id": "chosun_national",
+      "source_name": "조선일보 사회",
+      "category": "media_general",
+      "lang": "ko",
+      "title": "내년부터 맹장 수술 본인부담 35만원 줄어든다",
+      "url": "https://chosun.com/national/welfare-medical/2026/11/27/OU2L4SMPLBDQHLNO2EE7LPRQRI",
+      "published": "2026-11-27T07:32:58Z",
+      "summary": "내년 1월부터 맹장 수술이나 자궁적출술 등을 받는 환자의 의료비 부담이 줄어든다. 그동안 환자가 비용의 80%를 부담해야 했던 일부 수술용 치료재료에 건강보험 적용이 확대되기 때문이다.",
+      "authors": [
+        "김지원 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "82ae0964d57f",
+      "source_id": "chosun_national",
+      "source_name": "조선일보 사회",
+      "category": "media_general",
+      "lang": "ko",
+      "title": "건보 직장가입자 허위 등록하면 가산금 4배… 신고 포상금 최대 30억원",
+      "url": "https://chosun.com/national/welfare-medical/2026/11/27/GWC3MJLJ2FG3VJE3RHINCHGX3E",
+      "published": "2026-11-27T05:15:21Z",
+      "summary": "건강보험료를 줄이기 위해 실제로 근무하지 않는 사람을 직장 가입자로 허위 등록한 사업주에게 부과하는 가산금이 4배로 늘어난다. 이를 신고한 사람에게는 최대 30억원의 포상금이 지급된다.",
+      "authors": [
+        "김지원 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "02a6dd0fa6c0",
+      "source_id": "chosun_national",
+      "source_name": "조선일보 사회",
+      "category": "media_general",
+      "lang": "ko",
+      "title": "역대 최대라던 지난겨울보다 24% 더… 노로바이러스 ‘비상’",
+      "url": "https://chosun.com/national/welfare-medical/2026/11/27/IHXGEDWKMBGVVMBTE7WFTINZBQ",
+      "published": "2026-11-27T04:28:02Z",
+      "summary": "겨울철 대표 감염병인 노로바이러스 감염증 환자가 3주 연속 늘고 있다. 특히 올해는 노로바이러스가 역대 최대 규모로 유행했던 지난겨울보다 같은 시기 환자가 24%가량 많은 것으로 나타났다.",
+      "authors": [
+        "조성호 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "7c8cfa8ed41f",
+      "source_id": "joongang_gnews",
+      "source_name": "중앙일보 (Google 뉴스)",
+      "category": "media_general",
+      "lang": "ko",
+      "title": "케이메디허브, 올해 460억원 규모 ‘의료기기 DX·AX’ 수행",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HejBVVTM2NnJCaTBHZHQ0NnRyZjNTLXpxLXk4OU5SWURhVXRJS0F4cFlNcVl0RHFydktRRjEwUTRuSTNqcUsxZVRNSmRUQ3JPS3hFMzlB?oc=5",
+      "published": "2026-11-27T06:00:00Z",
+      "summary": "케이메디허브, 올해 460억원 규모 ‘의료기기 DX·AX’ 수행 중앙일보",
+      "authors": [],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "42bffba6a9b9",
+      "source_id": "donga",
+      "source_name": "동아일보 사회",
+      "category": "media_general",
+      "lang": "ko",
+      "title": "정은경, 치과기공사 국시 시험장 점검…“부정행위 차단”",
+      "url": "https://donga.com/news/Society/article/all/20261128/135107288/1",
+      "published": "2026-11-28T03:36:05Z",
+      "summary": "응급구조사·치과기공사 등 23개 시험장 4000명 응시\n전파탐지기·전신가리개 도입…무작위 전화 확인도\n정은경 보건복지부 장관이 28일 서울 용산철도고를 방문해 제54회 치과기공사 국가시험 준비 상황과 스마트기기 부정행위 관리 대책 이행 실태를 점검했다. 이번 현장 점검은 최근 주요 국가시험에서 스마트안경·초소형 카메라 등 첨단기기를 활용한 부정행위가 적발됨에 따라 보건의료인 국가시험의 공정성 확보를 위해 마련됐다. 이날 전국 9개 시·도의 23개 시험장에서는 약 4000명이 1·2급 응급구조사, 치과기공사, 의지·보조기기사 4종의 국가시험을 치렀다.\n이번 시험부터는 ▲전자기기 완전 수거 ▲전파탐지기 비치·운용 ▲응시자 무작위 전화 연락 확인 ▲가운형 전신 가리개 시범 도입 등 강화된 부정행위 관리 대책이 적용된다. 다만 가운형 전신 가리개는 최근 수요 증가로 품귀 현상을 빚고 있어 컴퓨터 기반 시험(CBT)부터 우선 적용한다고 밝혔다. 이날 정 장관은 시험감독관 교육을 참관하고 시험본부와 고사장 등을 둘러봤다. 시험감독관 및 스마트기기 전담인력 교육, 전파탐지기 작동, 통신·전자기기 수거·보관 체계 등 강화 대책 이행 상황을 중점적으로 확인했다. 정 장관은 “신종 부정행위 대응을 위해 마련한 각종 대책에 더해 감독관의 꼼꼼함이 공정한 시험을 지키는 가장 확실한 방패다. 작은 의심 상황도 지체 없이 시험본부로 전달해 필요한 조치가 이뤄질 수 있도록 협조 부탁드린다”며 “응시생이 선의의 피해를 입지 않도록 세심하게 배려하고 현장에서 느끼는 애로사항과 개선 의견도 가감 없이 전해 달라”고 요청했다.\n정 장관은 “현장에서 미흡하다고 확인된 사항이 있으면 즉시 보완하고 관리 체계를 공고히 해 달라”며 “시험 결과를 정밀 분석해 부정행위 의심 사례를 철저히 조사하고 적발 시 엄정하게 처리하는 등 사후 관리 체계를 빈틈없이 가동해 달라”고 밝혔다. [세종=뉴시스]",
+      "authors": [],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "215d956bf435",
+      "source_id": "donga",
+      "source_name": "동아일보 사회",
+      "category": "media_general",
+      "lang": "ko",
+      "title": "李, 성형 후기 조작에 “국민 기만해 돈 벌어…엄정 대응”",
+      "url": "https://donga.com/news/Politics/article/all/20261128/135107272/2",
+      "published": "2026-11-28T03:14:00Z",
+      "summary": "이재명 대통령은 28일 해킹된 계정으로 성형수술 후기를 조작한 데 대해 “국민을 기만해 돈을 버는 범죄에 엄정 대응하겠다”고 밝혔다.이 대통령은 이날 오전 X(엑스·옛 트위터)에 “해킹된 계정을 구매해 실제 환자인 것처럼 성형 후기를 조작했다니 기가 막힌다”며 허위 후기를 만드는 병원과 광고업체 직원들이 무더기로 경찰에 붙잡혔다는 보도 내용을 공유했다. 이 대통령은 이에 대해 “개인정보를 악용해 국민을 속이고 부당한 이익을 챙긴 중대한 불법행위”라며 “끈질긴 수사로 범죄의 실체를 밝혀낸 경찰 사이버수사대 여러분, 수고 많으셨다”고 전했다.앞서 서울경찰청 사이버수사과는 정보통신망법·의료법 위반, 컴퓨터등장애업무방해 등 혐의를 받는 52명을 검거해 지난달 29일 송치했다. 이들은 2021년 8월부터 올해 7월까지 중국 해킹조직으로부터 타인 명의의 포털 계정 800여 개를 구매해 포털 유명 카페와 미용 의료 정보 플랫폼 등에 허위 후기와 댓글 등 8400여 건을 게시한 혐의를 받는다.",
+      "authors": [],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "3fb364625b8b",
+      "source_id": "donga",
+      "source_name": "동아일보 사회",
+      "category": "media_general",
+      "lang": "ko",
+      "title": "“맡겨둔 노후자금 왜 안줘”…친언니 살해 70대 징역 23년",
+      "url": "https://donga.com/news/Society/article/all/20261128/135107008/1",
+      "published": "2026-11-28T00:39:35Z",
+      "summary": "노후자금을 돌려받지 못해 갈등을 빚던 70대 여성이 친언니를 살해해 징역 23년을 선고받았다.28일 법조계에 따르면 대구지법 영덕지원은 살인 혐의로 기소된 A(70·여)씨에게 징역 23년을 선고했다.재판부는 “피고인은 금전적 피해 의식에 사로잡혀 친언니를 잔혹한 방법으로 살해했다”며 “유가족의 피해 회복을 위한 노력도 하지 않았다”고 양형 이유를 밝혔다.A씨는 25년 전 남편과 사별한 뒤 자녀 없이 홀로 생활했다.노후에 요양병원에 들어갈 비용을 마련하기 위해 화장실 청소와 공사 현장 일 등을 하며 돈을 모았다.어렵게 마련한 현금은 친언니 B(75)씨에게 맡겼다.그러나 B씨가 이 돈을 자신의 첫째 아들에게 빌려주면서 문제가 불거졌다.아들이 일부를 갚았지만 나머지 돈은 돌려받지 못했다.A씨는 수차례 돈을 돌려달라고 요구했지만 갈등은 해결되지 않았다.결국 A씨는 지난해 1월 18일 오후 경북 울진군 매화면에 있는 B씨의 집을 찾아갔다.돈을 돌려달라고 요구하는 과정에서 다",
+      "authors": [],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "da54cc25f026",
+      "source_id": "donga",
+      "source_name": "동아일보 사회",
+      "category": "media_general",
+      "lang": "ko",
+      "title": "수능 부정행위 적발 1년새 70% 급증, 스마트기기 악용 31→112건",
+      "url": "https://donga.com/news/Society/article/all/20261127/135106150/2",
+      "published": "2026-11-27T16:40:00Z",
+      "summary": "AI커닝 3.6배로 늘어 단속 비상\n신고-제보 빗발, 20일간 306건\n임용시험-LEET 부정 행위자도… 응시자격 제한 10년까지 연장\n6개 국시 관리 수능 수준 강화\n2027학년도 대학수학능력시험(수능)에서 적발된 부정행위가 지난해보다 약 70% 늘어난 것으로 나타났다. 특히 스마트기기 관련 부정행위는 1년 만에 3.6배로 급증했다. 올해와 같은 강력한 부정행위 방지 대책이 없었던 지난해엔 실제 부정행위 시도가 더 많았을 것이란 지적도 나온다. 정부는 수능과 대입 대학별고사에 이어 유·초중등 임용시험과 법학적성시험(LEET)에서도 스마트기기를 활용한 부정행위자의 응시 자격 제한 기간을 최대 10년까지 연장할 계획이다. ● 스마트기기 부정행위 31건→112건 증가 27일 교육부에 따르면 올해 수능에서 적발된 부정행위는 총 474건으로 지난해 279건보다 195건(69.9%) 늘었다. 이 중 스마트기기 관련 부정행위는 같은 기간 31건에서 112건으로 3.6배로 늘었다.\n부정행위 신고도 빗발쳤다. 교육부가 국회에 제출한 ‘수능 부정행위 관련 제보·신고 접수 현황’에 따르면 5∼25일 수능 부정행위 신고센터에 접수된 신고 및 제보는 306건이다. 신고 창구가 국민권익위원회로 일원화되기 전 교육부 신고센터로 들어온 건이다. 신고 유형은 ‘부정행위 암시 및 장비 거래 방법 공유 등 온라인 게시’가 128건으로 가장 많았다. 다음은 ‘부정행위 의심 정황 제보’는 78건, ‘제도 개선 건의, 우려 전달’ 44건이었다. 이재명 대통령은 수능 이틀 전 전자장비를 이용한 수능 부정행위를 신고하면 1억 원 이상의 포상 지급을 검토하라고 지시했다. 이어 정부는 수능이 끝난 뒤 적발 인원에 따라 포상금이 1억 원씩 늘어 최대 5억 원까지 포상한다고 발표했다. 다만 현재까지 들어온 신고 내용 중엔 스마트기기 사용 등 중대한 부정행위로 판단할 만한 사례는 없었다. 교육부는 스마트기기 단순 소지가 아니라 실제로 사용한 경우를 부정행위로 판단한다. ● 임용시험-LEET도 부정행위자 10년 응시 제한 수능과 학교 내신 외에 교육부 소관 국가시험 6개에 대해서도 부정행위자 처분을 강화할 방침이다. 이날 교육부는 국회 교육위원회 현안보고에서 “수능 등 8개 시험과 관련한 입법 과제가 신속히 개정될 수 있도록 협조해 달라”고 요청했다.\n검정고시와 독학학위 취득시험은 응시자가 주로 취약계층임을 고려해 응시 제한 기간을 현재 각각 2년, 3년에서 최대 5년으로 늘릴 예정이다. 검정고시 부정행위 세부 조사는 다음 달 진행할 계획이다. 한국어능력시험(TOPIK)은 제한 기간을 2년에서 10년, 한국사능력검정시험은 연속 3회 금지에서 5년으로 상향하는 방안도 검토한다. 해외에서 치러지는 TOPIK도 재외공관과 협력해 국내 시험장 수준으로 감독을 강화할 방침이다. 교육부는 6개 국가시험 관리를 수능 수준으로 강화한다. 고사장별로 스마트기기 전담 인력을 1명 이상 배치하고, 복도 감독관을 추가해 응시자의 소지품 검사도 할 계획이다.",
+      "authors": [],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "72ffecc3e071",
+      "source_id": "hani_society",
+      "source_name": "한겨레 사회",
+      "category": "media_general",
+      "lang": "ko",
+      "title": "정은경, ‘AI 부정행위 대책’ 첫 적용 보건의료 국가시험 현장 점검",
+      "url": "https://hani.co.kr/arti/society/rights/1289525.html",
+      "published": null,
+      "summary": "정은경 보건복지부 장관이 28일 인공지능(AI)을 이용한 시험 부정행위 관리 대책이 처음으로 적용된 제54회 치과기공사 국가시험장을 찾아 현장 상황을 점검했다.\n정 장관은 이날 오전 치과기공사 국가시험이 치러지는 서울 용산철도고등학교를 방문해 시험 준비 상황과 스마트기기 부정행위 관리 대책의 이행 실태를 점검했다. 보건복지부 관계자는 “최근 주요 국가시험에서 스마트안경·초소형 카메라 등 첨단기기를 활용한 부정행위가 적발됨에 따라, 정 장관은 국민 생명과 건강에 직결되는 보건의료인 국가시험의 공정성을 확보하기 위해 현장을 직접 찾았다”고 전했다.\n이날 전국 9개 시·도 23개 시험장에서는 4천여명이 응시하는 1·2급 응급구조사, 치과기공사, 의지·보조기기사 등 4종의 국가시험이 치러졌다. 이 시험부터 강화된 부정행위 관리 대책이 적용됐다. 시험장에서는 응시자의 전자기기를 모두 수거하고, 전파탐지기를 비치해 운용한다. 응시자에게 무작위로 전화를 걸어 기기를 실제로 제출했는지 확인하는 절차도 새로 생겼다. 몸 전체를 덮는 가운형 전신 가리개도 시범 도입하기로 했지만, 최근 수요가 늘어 물량을 구하기 어려운 탓에 컴퓨터 기반 시험(CBT)부터 우선 적용하기로 했다.\n정 장관은 이날 감독관 교육을 참관한 뒤 시험본부·고사장을 둘러보며 시험감독관과 스마트기기 전담인력이 교육을 제대로 받았는지, 전파탐지기가 정상 작동하는지, 통신·전자기기를 거둬 보관하는 체계가 갖춰졌는지 등을 확인했다. 정 장관은 감독관들에게 “신종 부정행위에 대응하려고 마련한 각종 대책에 더해 감독관의 꼼꼼함이 공정한 시험을 지키는 가장 확실한 방패”라며 “작은 의심 상황도 지체 없이 시험본부로 전달해 필요한 조치가 이뤄질 수 있도록 협조해 달라”고 당부했다. 정 장관은 또한 내년 초 치러지는 의사·한의사·간호사 국가시험에도 대비할 것을 주문했다.\n장나래 기자 wing@hani.co.kr",
+      "authors": [],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "80bc483294ac",
+      "source_id": "khan_society",
+      "source_name": "경향신문 사회",
+      "category": "media_general",
+      "lang": "ko",
+      "title": "맹장·자궁·제왕절개 수술 환자 부담 줄어든다···맹장은 122만원에서 87만원으로",
+      "url": "https://khan.co.kr/article/202611271639001",
+      "published": "2026-11-27T07:39:00Z",
+      "summary": "맹장·자궁 수술 환자와 제왕절개 산모가 내는 진료비 부담이 내년부터 크게 줄어든다. 환자가 수술비를 내고도 일부 수술 재료값의 80%를 부담하던 방식을 맹장·자궁 수술은 20%만, 제왕절개는 아예 내지 않도록 바꾸는 것이다. 이에 따라 복강경 맹장 수술 환자 부담은 35만원, 복강경 자궁적출술은 47만원 줄어든다.\n27일 보건복지부는 건강보험정책심의위원회(건정심)를 열고 7개 질병군에 적용하는 포괄수가를 6년 만에 전면 개정해 내년 1월부터 시행하기로 했다. 포괄수가는 검사·처치 비용을 하나씩 계산하지 않고 수술 종류에 따라 입원 진료비를 묶어 정하는 방식이다.\n개정 내용은 수술에 따라 크게 두 갈래로 나뉜다. 수정체 수술, 편도·아데노이드 절제술, 탈장 수술, 항문 수술은 그동안 바뀐 진료 비용 등을 반영해 병원이 받는 수가를 조정한다. 맹장·자궁 수술과 제왕절개는 수가 조정에 더해 환자가 별도로 부담하던 일부 재료값을 입원 진료비에 포함하기로 했다. 복지부는 이번 개정에 따라 건강보험 재정이 연간 1132억원 더 들 것으로 추산했다.\n구체적으로 맹장 수술은 절삭기 값을 따로 내지 않게 된다. 절삭기는 조직을 자를 때 쓰는 기구로, 지금은 환자가 그 값(65만~78만원)의 80%를 부담한다. 예를 들어, 배에 작은 구멍을 내 맹장을 떼어내는 복강경 수술을 할 경우 환자는 입원 진료비 350만원 중 20%인 70만원을 내고, 절삭기 값 65만원 중 80%인 52만원을 따로 내 모두 122만원을 부담한다. 그러나 내년 1월부터는 수가 인상분과 절삭기 값을 더한 입원 진료비 435만원 중 20%인 87만원만 내면 된다.\n자궁 수술은 절삭기와 함께 유착방지제 값도 따로 낼 필요가 없어진다. 유착방지제는 수술 뒤 장기나 조직이 서로 들러붙지 않게 하는 재료로, 지금은 환자가 그 값(1만4000~51만원)의 80%를 낸다. 복강경으로 자궁을 들어내는 수술을 할 경우 환자는 입원 진료비로 97만원, 재료값으로 72만원을 내 모두 169만원을 부담하고 있다. 내년부터는 수가 인상분과 재료값을 더한 입원 진료비 610만원 중 20%인 122만원만 내면 된다. 제왕절개는 입원 진료비 본인부담률이 이미 0%인 상황에서 유착방지제 값도 입원 진료비에 포함되며 산모가 따로 내는 돈(아이 한 명 기준 16만원)이 완전히 없어진다.\n비대면진료 때 일률적으로 붙던 30% 가산도 내년 1월부터 없어진다. 다음 달 24일 개정 의료법 시행으로 비대면진료가 제도화되면서 2023년 6월부터 이어온 시범사업을 끝내고 정식 건강보험 수가를 적용하기로 했다. 앞으로는 대면 진료처럼 야간·공휴일·토요일에 진료를 받거나 소아 환자가 진료를 받는 등 해당 조건에 따라 가산이 붙는다. 여러 조건에 해당하면 가산을 중복 적용할 수 있다. 환자 한 명이 같은 의료기관에서 비대면진료로 건강보험을 적용받을 수 있는 횟수는 월 최대 2회로 유지한다.\n도수치료는 내년 1월부터 추가 치료가 필요한 환자의 건강보험 인정 횟수가 늘어난다. 지난 7월 정부가 가격과 진료 기준을 정하는 ‘관리급여’로 전환한 뒤 의료현장 의견을 반영해 기준을 조정했다. 새로 수술을 받거나 골절을 입으면 그해 치료 횟수와 별도로 15회(관절이 굳은 소견이 뚜렷하면 의사 판단에 따라 9회 추가)까지 더 받을 수 있다. 6세 미만 사경(머리가 한쪽으로 기우는 증상) 환자는 연간 48회까지 인정된다. 마비 등으로 움직이기 어려운 환자는 도수치료를 재활치료와 함께 받아도 둘 다 건강보험을 적용받는다. 1회 가격은 내년 수가 조정과 상관없이 모든 의료기관에서 4만3850원으로 유지된다.\n복지부는 “앞으로도 의료환경 변화에 맞춰 수가를 제때 조정하고, 적정 보상과 환자 부담 경감이 함께 이뤄지도록 포괄수가제를 개선해 나가겠다”고 밝혔다.",
+      "authors": [
+        "김찬호 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "674aec2414ff",
+      "source_id": "khan_society",
+      "source_name": "경향신문 사회",
+      "category": "media_general",
+      "lang": "ko",
+      "title": "학교 비정규직 노동자 2만3562명 파업 참여…임금차별 해소 촉구",
+      "url": "https://khan.co.kr/article/202611271624001",
+      "published": "2026-11-27T07:24:00Z",
+      "summary": "학교에서 급식과 돌봄 등을 담당하는 비정규직 노동자들이 27일 총파업에 나섰다. 이날 오전 11시 기준 전체 교육공무직원의 13.0%인 2만3562명이 파업에 참여한 것으로 집계됐다.\n교육부는 이날 총파업에 16개 시도교육청과 국립학교 소속 교육공무직원 18만722명 중 2만3562명이 참여했다고 밝혔다.\n교육공무직원은 학교에서 급식과 돌봄, 특수교육 지원, 청소, 경비 등을 담당하는 비정규직 노동자들이다. 이들은 장기근속에도 임금 상승이 제한되는 임금체계 개선과 복리후생 차별 해소 등을 요구하고 있다. 전국학교비정규직연대회의(연대회의)는 지난 9월부터 교육부 및 16개 시도교육청과 집단 임금교섭을 벌였지만 합의에 이르지 못했다.\n파업 여파로 일부 학교에서는 급식과 돌봄 운영에 차질이 빚어졌다. 교육부에 따르면 급식을 운영하는 학교 1만2597곳 가운데 8583곳은 정상적으로 급식을 제공했다. 급식이 중단된 4014곳은 빵과 우유 등 대체식을 제공했다. 163곳은 기말고사 등의 일정으로 이날 급식을 실시하지 않았다.\n초등 돌봄교실을 운영하는 학교 6044곳 가운데 655곳에서 파업 참여자가 발생했지만 대체인력 등을 투입해 돌봄을 정상 운영했다. 201곳은 돌봄교실을 운영하지 않았다. 전체 돌봄교실 1만3101개 가운데 운영이 중단된 교실은 753개로 집계됐다.\n유치원 방과후 과정은 전체 3987곳 가운데 27곳에서 운영이 중단됐다. 특수학교는 전체 154곳 중 2곳이 재량휴업일 지정 등으로 학사일정을 조정했다.",
+      "authors": [
+        "우혜림 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "8360c157a66a",
+      "source_id": "khan_society",
+      "source_name": "경향신문 사회",
+      "category": "media_general",
+      "lang": "ko",
+      "title": "물 많고 비 잦던 아마존마저 ‘쩍쩍’···역대급 더위에 전 세계 강과 호수가 말랐다",
+      "url": "https://khan.co.kr/article/202611271431001",
+      "published": "2026-11-27T05:31:00Z",
+      "summary": "지구가 기록적으로 뜨거워진 2023~2024년, 강과 호수의 물도 전례 없이 줄어든 것으로 나타났다. 평소 비가 많이 내리는 아마존 같은 습윤 지역도 예외는 아니었다.\n중국과학원 등이 참여한 국제 연구진은 26일(현지시간) 국제학술지 사이언스에 발표한 ‘2023~2024년 기록적 온난화 기간 중 지표수 급감’ 논문에서 이 같이 밝혔다. 연구진은 1991~2025년 150개 주요 유역의 하천 유량 관측 자료와 120만개 이상 수역의 위성 관측 자료 등을 활용해 변화를 분석했다.\n2023~2024년 전 세계 하천 유량은 1991~2020년 평균보다 5.7%, 호수와 저수지의 저장량은 9.5% 감소했다. 특히 남미 지역의 하천 유량은 17.8%, 지표수 저장량은 16.5% 감소해 변화가 두드러졌다. 남미는 전 세계 하천 유량 감소분의 70.4%를 차지했으며, 아마존 유역 하천 유량은 최근 40년 중 최저 수준을 기록했다.\n이는 연구진이 분석한 35년간의 변화 중 최대 감소폭이다. 1991~2006년에는 하천 유량과 지표수 저장량이 증감을 반복했고, 2007~2022년에는 상대적으로 안정적인 흐름을 보였다. 2023~2024년에는 두 지표가 함께 급격히 감소했다.\n연구진은 하천 유량 감소의 가장 큰 원인이 강수량 감소라고 분석했다. 하천 유량 감소에 대한 강수량 감소의 기여도는 48%, 증발산은 31%, 육상 물 저장량 변화는 21%를 차지했다. 남미에서는 강수량 감소의 기여도가 82%에 달했다.\n연구진은 일부 지역에서는 폭우와 홍수가 발생했지만, 전 세계 하천과 호수·저수지에서 이용할 수 있는 물은 크게 줄어들었다고 설명했다. 물 순환이 더욱 불규칙하고 극단적으로 나타나고 있다는 분석이다.\n남미 지역의 급격한 변화는 엘니뇨로 아마존 지역 강수량이 감소한 상황에서 열대 북대서양의 이례적인 고수온 현상이 겹치며 대기 순환을 변화시키고, 남미에서 외부로 수증기가 빠져나가는 현상이 강화된 데서 비롯한 것으로 연구진은 분석했다.\n연구진은 대기가 더 많은 수분을 머금고 전 세계 강수량이 늘어난다고 해서 육지에서 이용할 수 있는 물의 양이 증가하는 것은 아니라는 점을 이번 연구가 보여준다고 밝혔다. 2023~2024년의 급격한 감소는 고온뿐 아니라 여러 기후 현상이 복합적으로 작용한 결과지만, 온난화가 이 같은 극심한 가뭄을 악화시킬 수 있다는 것이다.\n연구에 참여한 오스트리아 빈공과대학의 귄터 블뢰슐 교수는 “모든 지역이 매년 점점 더 건조해지는 것은 아니”라면서도 “이용 가능한 물의 양이 더 크게 출렁일 수 있다는 게 진짜 문제다. 이전에는 물이 풍부하다고 여겨졌던 지역조차 갑자기 심각한 가뭄을 겪을 수 있다”고 했다.",
+      "authors": [
+        "오경민 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "11112df9c2a8",
+      "source_id": "docdocdoc",
+      "source_name": "청년의사",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "소아암에서 간암·췌장암까지…국립암센터 양성자 치료 20년, 달라진 질문",
+      "url": "http://docdocdoc.co.kr/news/articleView.html?idxno=3044862",
+      "published": "2026-11-28T07:10:39Z",
+      "summary": "[인터뷰] 국립암센터 문성호 양성자치료센터장\n내년 소형 장비 반입…2028년 환자 치료 시작\n20년 전만 해도 양성자 치료를 받으려 미국이나 일본으로 향하는 환자들이 있었다. 지난 2007년 국내 첫 양성자치료센터를 연 국립암센터는 이제 환자마다 양성자 치료로 얻을 수 있는 이득을 따진다. 어떤 환자에게, 어떤 방식으로 치료할 때 이득이 가장 큰지가 개소 20주년을 앞둔 국립암센터의 과제다.\n국립암센터는 오는 2027년 소형 양성자 치료기를 들여와 2028년 환자 치료를 시작한다는 목표를 세웠다. 소아암과 희귀암에서 간암·췌장암 등으로 치료 대상이 넓어진 만큼 환자별 치료 방법을 뒷받침할 임상 연구도 강화할 계획이다.\n국립암센터 양성자치료센터가 지난 2007년 6월 문을 열었을 때 주요 치료 대상은 소아암과 두개저 종양, 안구 흑색종 등이었다. 이후 간암과 췌장암 등 복부암을 비롯해 두경부암과 식도암으로도 치료 대상이 넓어졌다.\n문성호 양성자치료센터장은 최근 청년의사와 만나 치료 대상 확대와 치료 기술의 정교화, 임상 근거 축적을 지난 20년간의 주요 변화로 꼽았다. 도입 초기에는 국내에서도 양성자 치료를 안전하게 시행할 수 있음을 입증하는 데 집중했다. 치료 경험이 쌓이면서 환자별로 어떤 치료 방법이 적합한지 판단할 근거를 마련하는 일이 중요해졌다는 설명이다.\n문 센터장은 “이제는 치료가 가능한가, 안전한가보다 ‘환자에게 어떻게 치료를 하는 것이 이득인가’로 질문이 바뀌었다”고 말했다.\n국립암센터는 진료 현장에서 쌓은 경험을 국가 연구과제와 기관 자체 연구로 이어 왔다. 대한방사선종양학회 내 입자방사선치료 관련 연구 분과가 만들어지는 데도 기여했다.\n문 센터장은 “처음에는 해외 자료에 의존하는 측면이 있었지만 지금은 우리가 직접 치료 결과를 데이터와 근거로 만들어내고 있다”며 “간암 치료 가이드라인에도 국립암센터가 축적한 근거가 반영되고 있다”고 설명했다.\n가속기 한 대에 치료실 하나…소형 장비 도입 준비\n국립암센터는 새 양성자 치료 시설 구축을 마무리하고 있다. 2027년 장비를 반입해 시험과 빔 데이터 측정 등을 거친 뒤 2028년 환자 치료를 시작할 계획이다.\n기존 시설은 가속기 한 대에서 여러 치료실로 빔을 공급한다. 새 시설은 가속기 한 대에 치료실 하나를 연결하는 구조로, 기존 시설보다 규모가 작다.\n문 센터장은 “양성자 치료 장비의 소형화는 앞으로도 중요한 과제”라며 “장비 규모를 줄이면 시설 구축 비용과 공사 비용도 낮출 수 있다”고 말했다.\n새 장비 도입과 함께 임상 연구도 강화한다. 문 센터장은 소아암과 희귀암 등 고난도 환자를 치료하며 쌓은 경험과 진료과 간 협력 체계를 국립암센터의 강점으로 꼽았다. 공공기관으로서 진료에서 얻은 근거를 정책에 연결하는 역할도 강조했다.\n문 센터장은 “국립암센터가 국내 양성자 치료의 첫 단계를 열었다면 이제 차세대 장비 도입을 계기로 양성자 치료 2기 시대를 열어갈 수 있을 것”이라며 “차세대 치료 환경을 갖추고 임상 연구를 강화해 더 많은 근거를 만들어내겠다”고 했다.\n해외 치료 부담 줄이고, 장비 운영할 인력도 길렀다\n양성자치료센터를 세운 배경에는 난치암 치료 역량을 확보하고 환자와 가족의 해외 치료 부담을 줄이려는 목적이 있었다. 소아 환자는 부모가 함께 출국해야 해 부담이 더 컸다.\n문 센터장은 “치료비뿐 아니라 해외 체류 비용과 가족들의 생활 부담까지 고려하면 경제적인 부담이 상당했다”며 “특히 소아 환자는 부모가 치료를 위해 함께 움직여야 하기 때문에 부담이 더 컸다”고 말했다.\n국립암센터는 센터 개소에 앞서 2005년 3월 의학물리아카데미를 열었다. 방사선 치료 장비의 운영과 품질 관리, 환자 안전을 맡을 의학물리학자를 양성하기 위해서였다.\n문 센터장은 “양성자 치료는 의사만으로 운영할 수 있는 분야가 아니다. 의학물리학자와 방사선사, 간호사 등 다양한 전문 인력이 필요하다”며 “특히 의학물리학자는 장비를 인수하고 가동하는 것부터 품질 관리와 환자 안전까지 여러 측면에서 중요한 역할을 한다”고 설명했다.\n국내에서 쌓은 운영 경험을 공유해 달라는 요청도 들어오고 있다. 문 센터장은 카자흐스탄을 비롯한 중앙아시아와 동남아시아 국가에서 양성자 치료 관련 자문을 요청하고 있다며 앞으로도 전문 인력 양성과 국제 협력을 이어가겠다고 했다.",
+      "authors": [
+        "김정현 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "60f4107fe716",
+      "source_id": "docdocdoc",
+      "source_name": "청년의사",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "식약처, 의료기기 사용적합성 안내서 2종 마련",
+      "url": "http://docdocdoc.co.kr/news/articleView.html?idxno=3045000",
+      "published": "2026-11-28T07:07:24Z",
+      "summary": "식품의약품안전처가 의료기기 사용 오류를 예방하기 위해 자가검사용 체외진단의료기기와 디지털의료기기의 사용적합성 평가·심사 기준을 구체화했다.\n식약처 소속 식품의약품안전평가원은 '자가검사용 체외진단의료기기 사용적합성 평가 가이드라인'을 제정하고, '디지털의료기기 사용적합성 심사 질의응답집'을 개정했다고 지난 27일 밝혔다.\n사용적합성 평가는 일반인이나 비전문가가 사용설명서 등 제공된 자료만으로 제품을 적절히 사용할 수 있는지 확인하는 시험이다.\n자가검사용 체외진단의료기기는 비전문가가 다양한 환경에서 사용하는 특성상 제품을 잘못 쓰거나 검사 결과를 올바르게 해석하지 못할 가능성이 높다는 게 식약처의 설명이다. 이에 제품 출시 전 실제 사용 조건을 모의해 사용자가 의도된 목적대로 쓸 수 있는지 확인하는 평가가 요구된다.\n이번에 제정된 평가 가이드라인에는 업계가 평가를 준비하는 데 필요한 자료 인정 요건과 평가 계획서·결과 보고서 작성 방법과 사례가 담겼다. 평가 절차와 결과 분석 방법도 함께 안내한다.\n함께 개정된 디지털의료기기 질의응답집은 현장에서 제기된 주요 질의와 실제 심사 과정의 보완 사례를 반영했다. 의료기관 내 다양한 시스템과 연동되는 제품의 사용적합성 평가 필요성과 소프트웨어의 결과 해석 제공 방법, 소프트웨어 버전 변경 시 제출해야 할 자료 등을 구체적으로 다뤘다.\n식약처 관계자는 \"이번 안내서가 의료기기 산업계의 사용적합성에 대한 이해도를 높여 제품의 사용 과정에서 발생할 수 있는 잠재적 오류를 발견하고 개선하는 데 기여할 것으로 기대한다\"면서 \"앞으로도 국민이 의료기기를 더욱 정확하고 안전하게 사용할 수 있도록 합리적인 심사 및 평가 방안을 지속적으로 마련해 나갈 계획\"이라고 했다.",
+      "authors": [
+        "권민선 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "7e4f99fb9a1c",
+      "source_id": "docdocdoc",
+      "source_name": "청년의사",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "치료 중에도 배움은 계속…병원학교에서 키운 간호사의 꿈",
+      "url": "http://docdocdoc.co.kr/news/articleView.html?idxno=3044987",
+      "published": "2026-11-27T19:02:54Z",
+      "summary": "개교 21주년 맞은 한양대병원 병원학교 '누리봄교실' \n입·퇴원 반복에도 맞춤형 수업으로 중학교 졸업\n새로운 수업 공간 마련·미술치료 재개…교육 지원 확대\n한양대병원이 개교 21주년을 맞은 병원학교 '누리봄교실'의 교육 공간을 확충하고 환아 맞춤형 교육 프로그램을 확대한다.\n한양대병원은 지난 25일 본관 HY이음홀에서 '스물한 번째 우리들의 희망 이야기'를 주제로 누리봄교실 개교 21주년 기념식을 개최했다.\n지난 2023년부터 2025년까지 누리봄교실에서 수업을 받은 김하영 졸업생은 이날 기념식에서 병원학교에서의 경험을 공유했다.\n김 양은 \"입·퇴원을 반복하며 학업 중단 위기에 놓였지만 1대1 맞춤형 교과 수업과 미술 수업 덕분에 무사히 중학교를 졸업할 수 있었다\"며 \"병원학교에서 얻은 힘으로 간호사의 꿈을 품고 고등학교 진학에 도전하게 됐다\"고 말했다.\n누리봄교실은 올해 원내 도서관에 새로운 수업 공간을 마련하고 중단됐던 미술치료 프로그램도 재개했다. 앞으로 환아의 건강 상태에 맞춘 대면·참여형 수업을 확대하고 부모교육과 진로·진학 컨설팅 등 환아와 보호자를 위한 정서·학습 지원도 이어갈 계획이다.\n양승 병원학교장(소아청소년과)은 \"병원학교 수업은 아이들에게 지식 습득을 넘어 일상의 즐거움과 내일을 향한 희망을 키우는 시간\"이라며 \"아이들이 치료 중에도 건강하게 성장할 수 있도록 최선을 다하겠다\"고 말했다.\n이형중 원장은 \"입원으로 또래와 단절되기 쉬운 아이들이 병원학교에서 관계를 맺고 상호작용하는 과정은 매우 중요하다\"며 \"앞으로도 누리봄교실이 아이들에게 희망과 용기를 전하는 공간으로 더욱 발전해 나가길 바란다\"고 했다.\n한편 지난 2005년 개교한 누리봄교실은 장기 입원이나 통원 치료로 학교 교육을 받기 어려운 소아청소년 환자들에게 학습 기회를 제공하고 학교와 사회 복귀를 지원하고 있다.\n성동광진교육지원청 지정 병원학교로 한양대 중앙동아리 '한양어린이학교' 소속 대학생 교사들과 소아혈액종양부모회 '한마음회'가 교육 활동에 참여하고 있다.",
+      "authors": [
+        "김은영 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "26b4c1eecb8b",
+      "source_id": "docdocdoc",
+      "source_name": "청년의사",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "놀텍플러스 1년 새 처방 205%↑…일양약품, '미니'로 판 키운다",
+      "url": "http://docdocdoc.co.kr/news/articleView.html?idxno=3044998",
+      "published": "2026-11-27T19:01:05Z",
+      "summary": "놀텍플러스 1~10월 누적 처방액 84억원\n일라프라졸·탄산수소나트륨 함량 절반 제품 선보여\n일양약품이 국산신약 14호 '놀텍(성분명 일라프라졸)'의 제품군을 넓히고 있다. 놀텍 단일제와 복합제 '놀텍플러스'에 이어 저용량 복합제 '놀텍플러스미니정10/250mg'을 허가받았다. 위식도역류질환 치료제 시장에서 놀텍 제품군의 경쟁력을 키우겠다는 전략이다.\n놀텍플러스미니는 일라프라졸 10mg과 탄산수소나트륨 250mg을 결합한 복합제다. 기존 놀텍플러스정(일라프라졸 20mg/탄산수소나트륨 500mg)보다 두 성분의 함량을 각각 절반으로 낮췄다. 1회 2정을 복용하며 정제 크기를 기존 제품보다 줄였다.\n일양약품은 이번 제품 추가로 의료진의 처방 선택 폭이 넓어질 것으로 기대했다. 환자의 복용 특성에 맞춰 용량과 제형을 고를 수 있도록 놀텍 단일제, 놀텍플러스, 놀텍플러스미니로 이어지는 제품군을 갖췄다는 것이다.\n먼저 나온 놀텍플러스는 처방액이 빠르게 늘고 있다. 2025년 6월 출시 초기 약 3억원이던 월 처방액은 1년 뒤인 올해 6월 8억6,000만원으로 늘었다. 전년 동월 대비 약 205% 증가한 수치다.\n올해 1~10월 누적 처방액은 84억원(UBIST 기준)으로, 연간 처방액 100억원 돌파를 앞두고 있다.\n일양약품은 놀텍플러스로 복합제 시장에서 성장 기반을 마련한 데 이어, 놀텍플러스미니로 제품 다변화 전략을 이어간다는 계획이다.\n일양약품 관계자는 \"놀텍은 일양약품의 연구개발 역량과 기술력을 대표하는 국산신약으로, 오랜 기간 축적해 온 시장 경쟁력을 바탕으로 성장을 이어가고 있다\"고 말했다. 이어 \"놀텍플러스에 이어 놀텍플러스미니까지 라인업을 확대해 의료진에게 다양한 처방 옵션을 제공하고, 놀텍 제품군 전체의 경쟁력을 강화해 나갈 것\"이라고 했다.",
+      "authors": [
+        "박기택 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "f6c0dde4ef14",
+      "source_id": "docdocdoc",
+      "source_name": "청년의사",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "한미약품 최인영 부사장, ‘국민훈장 목련장’ 수훈",
+      "url": "http://docdocdoc.co.kr/news/articleView.html?idxno=3044995",
+      "published": "2026-11-27T18:44:41Z",
+      "summary": "한미약품 최인영 미래성장부문장(부사장)이 ‘2026 보건산업 성과교류회’ 보건의료기술진흥 유공자 정부포상 시상식에서 국민훈장 목련장을 받았다. 1998년 연구원으로 입사해 30년 가까이 신약 연구개발을 이끌며 ‘롤론티스(미국 제품명 롤베돈)’ 미국 식품의약국(FDA) 허가와 글로벌 기술수출 성과를 낸 공로를 인정받았다.\n국민훈장 목련장은 정치·경제·사회·교육·학술 분야에서 국민 복지 향상과 국가 발전에 기여한 공적이 뚜렷한 인물에게 수여하는 훈장이다.\n1998년 한미약품 연구원으로 입사한 최 부사장은 비만·대사질환과 희귀질환, 항암 등 다양한 분야에서 혁신신약 개발을 주도해 왔다. 연구개발 성과를 글로벌 기술수출과 신약 상용화로 연결하며 한미약품의 R&D 경쟁력 강화에도 기여했다.\n최 부사장은 스펙트럼, 머크 등 글로벌 제약사와의 기술수출을 이끌어 왔다. 올해에는 일라이릴리와 단장증후군 치료제 ‘소네페글루타이드’의 기술수출 과정에서도 주요 역할을 맡았다.\n신약 상용화 과정에서도 성과를 냈다. 최 부사장은 호중구감소증 치료 바이오신약 롤론티스 개발에 기여해 지난 2022년 국내 항암 분야 바이오신약 최초로 미국 식품의약국(FDA) 허가와 상용화를 이끌었다. 롤론티스는 기술 혁신성과 사업화 성과를 인정받아 올해 국내 최고 권위의 산업기술상인 ‘IR52 장영실상’을 수상했다.\n최 부사장은 “이번 국민훈장 목련장은 한미의 모든 연구원들이 오랜 기간 함께 축적해 온 연구개발 역량과 혁신을 향한 도전의 결과라고 생각한다”며 “앞으로도 한미의 R&D 경쟁력을 더욱 고도화하고 글로벌 시장에서 가치를 인정받는 혁신신약을 지속 창출해 대한민국 보건의료기술 발전과 제약바이오 산업의 글로벌 경쟁력 강화에 기여하겠다”고 말했다.",
+      "authors": [
+        "권민선 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "f81f9cb32ef3",
+      "source_id": "docdocdoc",
+      "source_name": "청년의사",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "신약은 팔고 플랫폼은 남긴다…이노보테라퓨틱스의 IPO 전략",
+      "url": "http://docdocdoc.co.kr/news/articleView.html?idxno=3044993",
+      "published": "2026-11-27T18:34:26Z",
+      "summary": "자체 AI 플랫폼 '딥제마'로 후보물질 발굴해 조기 기술이전\nAI 신약개발 기업 이노보테라퓨틱스가 코스닥 상장을 앞두고 '기술이전 중심' 성장 전략을 내놨다. 자체 AI 플랫폼 '딥제마(DeepZema)'로 후보물질을 빠르게 발굴해 조기 기술이전과 재기술이전으로 수익을 내고, 2030년에는 연구개발비 대부분을 사업 수익으로 충당하는 구조를 만들겠다는 구상이다.\n이노보테라퓨틱스 박희동 대표는 27일 서울 여의도 63빌딩에서 기업공개(IPO) 기자간담회를 열고 이같이 밝혔다. 올해 5월 대웅제약에 궤양성대장염 치료제 'INV-008'을 최대 6,625억원 규모로 기술이전한 경험을 발판 삼아 이 모델을 다른 파이프라인으로 넓히겠다는 것이다.\n지난 2019년 설립된 이노보테라퓨틱스는 자체 AI 신약개발 플랫폼 '딥제마'를 활용해 면역·염증, 섬유증, 암 질환 등을 대상으로 저분자 합성 신약을 연구개발하는 바이오 기업이다. 다양한 영역의 파이프라인을 구축하고 있으며, 임상개발 성과와 기술이전 실적으로 경쟁력을 입증해 왔다.\n이노보테라퓨틱스의 경쟁력은 딥제마다. 신약후보물질 발굴을 위한 AI 플랫폼으로, 머신러닝(Machine Learning) 기반 타깃 발굴과 ADMET 예측이 가능하다. 이 때문에 신속한 선도물질 발굴이 가능하다는 게 이노보테라퓨틱스의 설명이다. 이에 대한 근거로는 ADC 페이로드 INV-010, 궤양성대장염 치료제 INV-008, 흉터 치료제 INV-001의 개발 속도를 강조했다.\n박 대표는 \"일반적으로 선도물질 발굴에는 1년이라는 시간이 필요한데 INV-010 ADC 페이로드 과제는 5개월 만에 발굴했다\"면서 \"통상 5년의 시간이 필요한 일인 INV-008 궤양성대장염 치료제 개발은 1년 반 만에 해냈다\"고 말했다.\n이어 \"2상 임상에 일반적으로 10년이 소요되는 데 반해 이노보테라퓨틱스는 4.6년 만에 INV-001 2상을 성공적으로 완료했다\"면서 \"딥제마 AI 플랫폼이 연구 생산성을 높이고 있다는 것을 방증하는 것\"이라고 했다.\n딥제마를 활용한 신약 개발 속도로 타사 대비 진행 중인 파이프라인 연구가 많다는 게 박 대표의 설명이다.\n이노보테라퓨틱스에 따르면, 다른 기술특례상장사 대비 보유한 신약개발 과제 수는 약 1.7배, 임상 과제 수는 2.6배 많다. 임상 연구는 4건, 후보물질 탐색과 전임상 단계에 있는 연구는 5건으로 총 9개의 파이프라인을 가진다. 면역·염증 치료제 4개, 섬유증 치료제 3개, 항암제는 2개로 구성됐다.\n가장 개발이 앞선 물질은 섬유증 분야의 흉터 치료제인 INV-001이다. 콜라겐 특이적 분자 샤페론(Chaperone) 단백질인 HSP47을 저해하면서 과도한 콜라겐 형성과 흉터 형성을 억제한다. 지난 6월 식약처로부터 3상 임상시험계획(IND) 승인을 받아 내년 3~4월 중 첫 환자 투약이 예정된 상태다.\n2상에 들어선 물질로는 궤양성대장염 치료제인 INV-101이 있다. 글리코겐 인산화효소(Glycogen Phosphorylase, PYG)를 저해하며 면역대사를 조절해 염증을 완화하는 기전을 가진다. INV-101은 미국 식품의약국(FDA)으로부터 지난해 7월 2상 IND 승인을 받았으며, 오는 2028년 2a상 완료를 목표로 한다.\n1상 단계에 진입한 물질은 궤양성대장염 치료제 INV-008과 퇴행성관절염 치료제인 INV-004다.\n대웅제약에 기술이전된 INV-008은 장 점막 치유 기전의 first-in-class 약물이다. 15-PGDH(15-hydroxyprostaglandin dehydrogenase)를 저해해 장 점막 재생을 촉진한다. 15-PGDH는 조직 재생과 상처 치유를 돕는 프로스타글란딘 E2(PGE2)를 분해해 점막 재생 촉진을 방해한다.\n한 차례 기술이전된 만큼, 박 대표는 INV-008의 시장 가치에 대해 자신했다.\n박 대표는 \"INV-008과 같은 타깃을 연구했던 미국 바이오텍 로데오 테라퓨틱스(Rodeo Therapeutics)가 지난 2021년에 글로벌 제약사 암젠(Amgen)에 선급금 5,500만 달러(당시 약 623억원)에 인수합병된 예도 있다\"고 했다.\nINV-004는 인플라마좀 저해 기전의 first-in-class 계열 치료제로 개발 중이다. 이노보테라퓨틱스에 따르면, INV-004는 골관절염 질환 동물 모델에서 통증 완화와 연골 손상 억제 효능이 확인됐다.\n이외에도 섬유증 치료제 INV-002, ADC(항체약물접합체) 페이로드 INV-010, 특발성폐섬유증 치료제 INV-005, 항암제인 INV-009, 천식 치료제 INV-007 등의 연구가 진행 중이다.\n이노보테라퓨틱스는 이처럼 많은 후보물질들을 바탕으로 '합성 신약 사업 모델'과 'ADC 페이로드 플랫폼 사업 모델'을 성장 전략으로 제시했다.\n합성 신약 사업 모델은 조기 기술이전 후 재기술이전을 통한 이익 극대화와 자체 임상개발을 통한 글로벌 기술이전에 방점을 뒀다. 재기술이전 가능성이 있는 후보물질로는 궤양성대장염 치료제 INV-008과 섬유증 치료제 INV-002를 들었다. 글로벌 기술이전 대상은 흉터 치료제 INV-001, 궤양성대장염 치료제인 INV-101, 퇴행성관절염 치료제 INV-004를 꼽았다.\nADC 페이로드 플랫폼 사업의 후보물질은 INV-010이다. 이는 국내외 제약사의 신규 ADC 수요 증가로 고안된 사업이다. 이노보테라퓨틱스는 ADC 영역에서 항체별로 비독점 기술이전하는 사업 모델을 구상하고 있다.\n이노보테라퓨틱스는 현재 진행 중인 과제들의 연구가 끝나는 시점부터 수익이 날 것이라고 예상했다. 그 전까지는 공모자금과 독자적으로 개발한 탈모완화 기능성화장품 모티풀(Motifull)을 통한 수익으로 연구개발을 이어간다.\n박 대표는 \"오는 2028년부터는 임상적으로 효능이 확인되는 과제 중심으로 글로벌 리스크를 줄이면서 수익 안정화를 이룰 것\"이라며 \"오는 2030년부터 연구개발비의 대부분이 사업 수익으로 선순환되는 구조로 성장하겠다\"고 밝혔다.\n이노보테라퓨틱스는 내달 7일부터 이틀간 공모주 청약을 받는다.",
+      "authors": [
+        "권민선 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "8b93c4d407cc",
+      "source_id": "docdocdoc",
+      "source_name": "청년의사",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "도수치료 급여기준 손질했지만…의료계 핵심 요구는 빠졌다",
+      "url": "http://docdocdoc.co.kr/news/articleView.html?idxno=3044984",
+      "published": "2026-11-27T17:22:03Z",
+      "summary": "새 수술·골절 시 인정 횟수 재산정 등 적용\n재활기능치료 중복 산정 일부 허용…기존 수가 유지\n정부가 지난 7월 관리급여로 전환한 도수치료의 급여기준을 시행 6개월 만에 일부 완화한다. 새로운 수술이나 골절이 생기면 연간 인정횟수(15회)를 다시 산정하고, 마비 환자 등은 재활기능치료와 중복 산정도 허용한다. 하지만 의료계가 줄곧 문제 삼아 온 회당 4만3,850원 가격과 '부위 불문 연간 15회' 원칙은 손대지 않았다.\n보건복지부는 27일 국제전자센터에서 열린 건강보험정책심의위원회(이하 건정심)에서 이 같은 내용의 '도수치료 상대가치점수 및 급여기준 개정안'을 심의·의결했다고 밝혔다.\n복지부는 지난 7월 1일부터 도수치료를 관리급여로 전환하면서 가격을 회당 4만3,850원(본인부담률 95%)으로 정하고, 부위 불문 주 2회·연간 15회를 원칙으로 했다. 수술·골절로 관절 구축·강직이 뚜렷한 경우에는 연간 최대 24회까지 인정했다. 이후 의료계와 현장 의견을 수렴해 급여기준 보완을 추진해 왔다.\n앞으로는 같은 해라도 새로운 수술이나 골절로 추가 치료가 필요하면 연간 인정횟수 15회를 다시 산정한다. 관절 구축·강직이 뚜렷한 경우 의사의 의학적 판단에 따라 9회를 추가로 인정하는 기존 기준은 유지된다.\n6세 미만 사경 환자의 도수치료 인정 횟수는 연간 최대 48회까지 확대한다. 사경은 영유아의 머리가 한쪽으로 기울어지고 턱이 머리의 반대 방향으로 향하는 특징적인 자세를 말한다.\n재활기능치료와의 중복 산정 제한도 일부 푼다. 기존에는 도수치료와 재활기능치료를 같은 날 함께 산정할 수 없었다. 앞으로는 마비 환자 등 근골격계 통증이나 관절 구축·강직으로 이동이나 보행이 어려운 경우 두 치료를 중복 산정할 수 있다.\n가격은 기존 4만3,850원을 유지한다. 관리급여 도입 취지에 따라 2027년 환산지수가 바뀌어도 의료기관 종별에 관계없이 같은 가격이 적용되도록 상대가치점수를 조정했다.\n복지부는 연내 고시 개정을 거쳐 내년 1월부터 개정된 도수치료 급여기준을 적용할 예정이다.\n복지부는 “이번 개정을 통해 도수치료의 급여기준을 합리적으로 보완하고 운영 현황을 지속적으로 점검하면서 제도를 보완해 나가겠다”고 밝혔다.",
+      "authors": [
+        "곽성순 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "e1ac914a8377",
+      "source_id": "docdocdoc",
+      "source_name": "청년의사",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "비대면 진료 30% 가산 사라진다…내년 1월부터 본수가 적용",
+      "url": "http://docdocdoc.co.kr/news/articleView.html?idxno=3044982",
+      "published": "2026-11-27T16:57:36Z",
+      "summary": "야간·공휴·토요·소아 등 대면 진찰료 가산체계 적용\n동일 의료기관 환자당 월 최대 2회 급여 유지\n비대면 진료 제도화에 따라 오는 2027년 1월부터 비대면 진료 본수가가 적용된다. 기존 시범사업에서 적용하던 일률적인 30% 가산은 폐지하고 대면 진찰료에 적용하는 각종 가산체계를 도입한다.\n보건복지부는 27일 국제전자센터에서 건강보험정책심의위원회를 열어 이같은 내용을 담은 ‘비대면 진료 제도화에 따른 수가 적용 방안’을 심의·의결했다고 밝혔다.\n비대면 진료는 코로나19 확산으로 한시적으로 허용됐으며 감염병 위기 단계 하향 이후인 지난 2023년 6월부터 시범사업으로 운영돼 왔다. 정부는 오는 12월 24일 개정 의료법 시행으로 비대면 진료가 제도화됨에 따라 시범사업을 종료하고 본수가를 적용할 예정이다.\n이에 따라 의원에는 초·재진 비대면 진찰료를, 약국에는 비대면 약제비를 적용한다. 특히 기존 시범사업에서 적용하던 비대면 진료 가산 30%를 폐지하는 대신 대면 진찰료와 마찬가지로 야간, 공휴, 토요, 소아 등 각종 가산을 적용한다. 가산은 중복 적용도 가능하다.\n급여 적용 횟수는 기존 시범사업과 동일하게 환자당 동일 의료기관에서 월 최대 2회로 유지한다. 복지부는 연내 관련 고시를 개정해 내년 1월부터 비대면 진료 본수가를 적용할 예정이다.\n복지부는 “법 개정에 따라 국민들이 안전하고 편리하게 비대면 진료를 이용할 수 있도록 하겠다”며 “비대면 진료 시행 후 상황을 지속적으로 관찰·점검하여 수가체계를 보완해 나가겠다”고 밝혔다.",
+      "authors": [
+        "곽성순 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "276fc327dc09",
+      "source_id": "docdocdoc",
+      "source_name": "청년의사",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "수가는 오르고 본인부담은 줄고…7개 질병군 포괄수가 전면 개정",
+      "url": "http://docdocdoc.co.kr/news/articleView.html?idxno=3044980",
+      "published": "2026-11-27T16:53:35Z",
+      "summary": "절삭기·유착방지제 포괄수가에 포함…본인부담 완화\n충수절제술 환자 부담 35만원 경감…내년 1월 시행\n정부가 6년 만에 건강보험 7개 질병군 포괄수가를 전면 개정한다. 환자가 비용의 80%를 별도 부담했던 일부 치료재료를 포괄수가에 포함해 의료비 부담을 줄이고 적정 보상체계를 마련한다.\n보건복지부는 27일 국제전자센터에서 열린 건강보험정책심의위원회에서 이 같은 내용을 담은 ‘7개 질병군 포괄수가 개정안’을 심의·의결했다고 밝혔다.\n7개 질병군 포괄수가제는 입원진료 시 개별 의료행위별로 보상하는 대신 질병군별로 정해진 수가를 지급하는 제도로 적정 진료 유도와 환자 보장성 강화를 목적으로 한다. 대상은 수정체 절개술, 편도 및 아데노이드 절제술, 충수절제술, 서혜 및 대퇴부 탈장 수술, 항문 수술, 자궁 및 자궁부속기 수술, 제왕절개술이다.\n오는 2027년 1월 시행되는 이번 개정은 지난 2020년 이후 6년 만에 이뤄지는 전면 개정으로 지금까지의 진료비용과 진료행태 변화를 반영해 적정 보상체계를 마련하는 데 목적이 있다.\n개정안에는 지난 10월 건정심에서 의결된 제왕절개 고위험분만 가산 신설이 반영됐다. 지역필수의료 강화를 위한 건강보험 수가 구조혁신과 연계해 분만, 수술·처치, 야간·공휴 수가 인상과 지역 우대 수가 신설도 담았다.\n특히 충수절제술과 자궁 및 자궁부속기 수술에 사용되는 절삭기, 자궁 및 자궁부속기 수술과 제왕절개술에 사용되는 유착방지제를 포괄수가에 포함한다. 그동안 환자가 해당 치료재료 비용의 80%를 별도로 부담했지만 앞으로는 포괄수가에 포함돼 본인부담이 줄어든다.\n복지부가 제시한 사례에 따르면 복강경을 이용한 충수절제술은 포괄수가가 350만원에서 435만원으로 인상되지만 환자 본인부담금은 122만원에서 87만원으로 35만원 줄어든다.\n복강경을 이용한 자궁적출술도 포괄수가가 485만원에서 610만원으로 인상되는 반면 환자 본인부담금은 169만원에서 122만원으로 47만원 줄어든다.\n단태아 제왕절개분만의 경우 포괄수가가 305만원에서 365만원으로 인상되고 기존 치료재료 비용으로 발생했던 환자 본인부담금 16만원은 없어진다.\n복지부는 2028년 이후에도 의료환경과 진료행태 변화를 적시에 반영할 수 있도록 행위별 수가와 함께 포괄수가를 정기적으로 개정하고 필요시 상시 조정도 병행할 계획이다.\n복지부는 “이번 7개 질병군 포괄수가 개정은 적정 보상체계를 마련하고 지역필수의료를 강화하면서 건강보험의 보장성을 강화하는 데 의미가 있다”며 “앞으로도 의료환경 변화에 맞춰 수가를 적시에 조정하고, 지속적으로 적정 보상과 환자 부담 경감이 이루어질 수 있도록 포괄수가제를 개선해 나가겠다”고 밝혔다.\n한편 복지부는 이번 개정에 따른 추가 소요 재정은 연간 1,132억원이다.",
+      "authors": [
+        "곽성순 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "243b662e1c64",
+      "source_id": "docdocdoc",
+      "source_name": "청년의사",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "국립암센터, 암지식정보 동행단 1기 수료식 진행",
+      "url": "http://docdocdoc.co.kr/news/articleView.html?idxno=3044990",
+      "published": "2026-11-27T16:49:17Z",
+      "summary": "암지식정보 동행당 2기 모집 예정\n국립암센터가 암정보 관련 콘텐츠 개발 성과를 공유했다.\n국립암센터는 지난 25일 서울 컨퍼런스하우스달개비에서 ‘암지식정보 동행단 1기 수료식’을 개최했다고 27일 밝혔다.\n암지식정보 동행단은 지난 4월부터 5월까지 공개 모집을 통해 총 109명의 지원자 중 20명을 선발했다. 이들은 7개월 가량 국가암지식정보센터 홈페이지와 SNS를 통해 암정보 확산 등의 활동을 진행했다.\n이번 활동의 주요 성과는 이용자 관점에서 제안된 개선 의견이 실제 콘텐츠 개선으로 이어진 점이라고 국립암센터 측은 평가했다. 국가암지식정보센터는 동행단의 의견을 반영해 개인별 암검진 대상 여부를 확인할 수 있는 맞춤형 암검진 계산기를 도입했다. 이어 홈페이지 이용 안내와 암 관련 용어 설명 콘텐츠를 확대했다.\n국립암센터는 이번 1기 운영 성과를 바탕으로 암지식정보 동행단 2기를 운영할 계획이다.\n국립암센터 양한광 원장은 “이번 동행단 활동은 기존 의료진 중심의 정보 전달 방식에서 벗아나 암정보 사용자인 환자 가족들의 시각과 의견을 적극 반영하려는 취지”라며 “국민의 다양한 의견과 시각이 실제 암정보 개선으로 이어졌다는 점에서 의미가 크다”고 밝혔다.",
+      "authors": [
+        "김정현 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "af9e31270238",
+      "source_id": "docdocdoc",
+      "source_name": "청년의사",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "의약품 품절 사태 막을까…국가필수의약품 민관협의회 가동",
+      "url": "http://docdocdoc.co.kr/news/articleView.html?idxno=3044981",
+      "published": "2026-11-27T16:47:37Z",
+      "summary": "정부가 국가필수의약품의 공급망 안정화를 위해 팔을 걷어붙였다. 민관 공동 대응 체계를 구축해 공급망 안정에 필요한 대책 마련에 나선다는 계획이다.\n식품의약품안전처와 보건복지부는 27일 '제3차 국가필수의약품 안정공급 협의회(이하 협의회)'를 개최했다고 밝혔다. 이 자리에서는 민관 공동 대응체계를 통한 국가필수의약품 공급망 안정성 강화 방안이 논의됐다.\n협의회는 지난 12일 시행된 약사법 개정에 따라 구성됐다. 정부 중심 협의체에서 벗어나 민간 이해관계자들까지 참여하는 민관협의체가 출범한 것이다.\n협의회 공동의장은 식약처 차장과 복지부 보건의료정책실장이 맡았다. 아울러 중앙행정기관의 정부위원 8명과 의료·약업계, 제조·수입·유통업계, 환자단체 및 의·약학 전문가 등 민간위원 19명도 참여해 다양한 이해관계자 의견 수렴이 가능한 구조가 마련됐다.\n이번 회의는 민관 협의체 설립 후 처음 가진 전체 회의다. 이 자리에서 협의회는 향후 세부 구성·운영 방향을 공유하고, 의약품 수급문제에 신속히 대응할 수 있도록 통합 논의체계를 구축하는 방안을 논의했다.\n앞으로 협의회는 국가필수의약품뿐 아니라 갑작스러운 수요 증가로 공급망이 일시적으로 불안정해진 의약품도 살핀다. 기존 국가필수의약품 지정·관리와 더불어 공급망 안정에 필요한 대응방안과 제도개선 사항 등도 통합적으로 토의한 이유다.\n이번 회의에서 협의회의 참여 위원들은 다양한 의약품 수급 현안에 대해 긴밀한 협력을 강화하고, 필수의약품 안정공급을 위한 공동 대응에 적극 참여해 나가기로 했다.\n복지부 정경실 보건의료정책실장은 “의약품의 안정적인 공급은 환자의 치료 연속성과 직결되는 중요한 과제”라며 “의료현장의 수요와 의약품 유통상황을 면밀히 살피고, 관계기관 간 협력을 통해 의료현장에 불편이 없도록 만전을 기하겠다”고 말했다.\n식약처 김용재 차장은 “의약품 안정공급 이슈에 효과적으로 대응하기 위해서는 정부뿐 아니라 공급망 단계별·분야별 기관·단체와의 긴밀하고 폭넓은 협력이 중요하다”면서 “이번 협의회 개편을 계기로 의료현장 수요를 조기에 파악하고, 필수의약품이 적시에 안정적으로 공급될 수 있도록 관계 기관과 함께 대응해 나가겠다”고 했다.",
+      "authors": [
+        "권민선 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "d87097c794e0",
+      "source_id": "docdocdoc",
+      "source_name": "청년의사",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "길병원 엄중식 교수, 감염병 예방·관리 공로로 녹조근정훈장",
+      "url": "http://docdocdoc.co.kr/news/articleView.html?idxno=3044991",
+      "published": "2026-11-27T16:24:30Z",
+      "summary": "가천대 길병원 감염내과 엄중식 교수가 국가 감염병 대응과 의료기관 감염관리 강화에 기여한 공로로 녹조근정훈장을 받았다.\n엄 교수는 지난 26일 제주국제컨벤션센터에서 질병관리청 주최로 열린 ‘2026년 감염병 관리 콘퍼런스’에서 감염병 예방·관리 유공자로 포상받았다.\n엄 교수는 지난 2012년부터 중소병원 감염관리 네트워크를 구축해 운영했다. 지난 2016년에는 감염예방관리료 건강보험 수가 신설에 참여해 중소병원과 요양병원이 자체 감염관리 체계를 갖출 수 있는 기반을 마련하는 데 기여했다.\n코로나19 팬데믹 당시에는 길병원 기획조정실장과 감염관리실장을 겸임하며 치료 병상을 확보하고 원내 감염관리 체계를 구축했다. 중증 환자를 진료하는 한편 정부의 코로나19 대응지침 개발에 참여하고 생활치료센터 운영을 제안했다.\n엄 교수는 질병관리청과 보건복지부 등 정부 부처의 감염병 관련 전문위원과 자문위원으로도 활동해 왔다. 2015년 메르스 국내 유행 때부터 코로나19 팬데믹까지 언론을 통해 감염병 정보와 예방수칙을 알렸다.\n엄 교수는 “감염병 위기 때마다 국민의 건강과 안전을 지키기 위해 함께 헌신해 온 의료진과 방역 관계자들을 대신해 받는 상이라고 생각한다”며 “앞으로도 감염병 진료와 연구는 물론 국가 감염병 대응체계 발전과 의료기관의 감염관리 역량 강화를 위해 최선을 다하겠다”고 말했다.",
+      "authors": [
+        "송수연 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "ac7acdf2b721",
+      "source_id": "docdocdoc",
+      "source_name": "청년의사",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "노원을지대병원 은병욱 교수, 감염병 관리 공로로 근정포장",
+      "url": "http://docdocdoc.co.kr/news/articleView.html?idxno=3044988",
+      "published": "2026-11-27T16:13:30Z",
+      "summary": "노원을지대병원 소아청소년과 은병욱 교수가 국가 감염병 관리 정책 수립에 기여한 공로로 근정포장을 받았다.\n수여식은 지난 26일 제주국제컨벤션센터에서 열린 ‘2026 감염병 관리 콘퍼런스’에서 진행됐다.\n은 교수는 지난 2012년부터 노원을지대병원에서 소아 감염병을 진료하고 연구해 왔다. 지난 2017년 당시 질병관리본부 항생제 내성 전문위원회에 참여했으며, 2021년부터 의료관련감염 전문위원회 위원으로 활동해 왔다. 지난해에는 제8기 예방접종전문위원회에 합류했다.\n현재 대한소아감염학회 법제이사, 대한소아청소년과학회 감염위원, 대한의료관련감염관리학회 연수이사를 맡고 있다.\n은 교수는 “의료 현장에 있는 의료인의 한 사람으로서 감염병에 신속하게 대처하는 것은 물론, 앞으로도 국가 차원의 감염병 감시 체계가 원활히 작동할 수 있도록 제 역할을 다하겠다”고 말했다.",
+      "authors": [
+        "송수연 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "9097c6916bf2",
+      "source_id": "docdocdoc",
+      "source_name": "청년의사",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "인천사랑병원, 2관 증축·1관 리모델링 마치고 '새 집' 공개",
+      "url": "http://docdocdoc.co.kr/news/articleView.html?idxno=3044985",
+      "published": "2026-11-27T15:45:02Z",
+      "summary": "스마트 무균 수술실·인공신장센터 소개\n주민과 '무엇이든 물어보세요'…의견은 운영에 반영\n인천사랑병원(이사장 김태완)이 2관 증축과 1관 리모델링을 마치고 개원 28주년을 맞아 환자·지역주민과 함께하는 기념행사를 열었다.\n인천사랑병원은 지난 23일부터 27일까지 닷새간 'Brand new day : 새 집 맞이의 날' 행사를 진행했다고 밝혔다. 공사 기간 불편을 감수하며 병원을 찾은 환자와 지역주민에게 감사를 전하고, 새 진료환경과 병원의 비전을 공유하기 위해 마련한 자리다.\n행사 기간 병원 곳곳에서는 내원객이 참여하는 프로그램이 운영됐다. 환자와 보호자에게 차를 대접하는 '차 나눔', 건강과 쾌유의 소망을 적는 '소원트리', '시설 라운딩', '무엇이든 물어보세요' 등이다.\n시설 라운딩에는 지역주민을 초청했다. 병원은 주요 진료공간과 시설·장비를 소개했다. 스마트 무균 수술실, 중환자실, 확장 이전한 인공신장센터 등이 환자 안전과 치료, 이용 편의에 어떻게 도움이 되는지도 설명했다.\n행사 마지막 날인 27일에는 2관 11층 사랑마루에서 경영진과 직접 대화하는 '무엇이든 물어보세요'가 열렸다. 김태완 이사장과 이창희 부원장 등 경영진이 사전 신청자와 현장 참여자의 질문에 답했다. 질문은 병원 이용, 건강·질환 등에 관한 것이었다. 경영진은 불편사항과 개선 의견도 들었다.\n병원은 이 자리에서 달라진 진료환경과 시설 개선 취지를 설명하고 이용자 관점에서 보완할 점을 논의했다. 수렴한 의견은 병원 운영과 서비스 개선에 반영할 계획이다.\n김태완 이사장은 \"새 집에 소중한 이웃을 초대하는 마음으로 마련한 이번 행사를 통해 공사 기간에도 변함없이 병원을 찾아주신 환자와 지역주민께 직접 감사 인사를 전할 수 있어 좋았다\"고 말했다. 이어 \"달라진 병원을 함께 둘러보며 나눈 의견과 병원 이용 중 느낀 불편을 꼼꼼히 살펴, 공간의 변화가 진료와 이용 편의의 개선으로 이어지도록 하겠다\"고 했다.",
+      "authors": [
+        "박기택 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "62c243cf23b2",
+      "source_id": "docdocdoc",
+      "source_name": "청년의사",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "건보료 덜 내려 직장가입 꼼수?…가산금 4배·포상금 30억원",
+      "url": "http://docdocdoc.co.kr/news/articleView.html?idxno=3044979",
+      "published": "2026-11-27T15:32:44Z",
+      "summary": "건보공단, 27일부터 가산금 상향·신고 포상금 제도 시행\n시행일 이후 행위만 대상…당사자·공모자 신고는 제외\n건강보험 직장가입자 자격을 허위로 취득하도록 거짓 신고한 사업주에 대한 가산금이 기존 10%에서 40%로 상향된다. 직장가입자 자격 허위취득 사실을 신고한 사람에게는 최대 30억원의 포상금이 지급된다.\n국민건강보험공단은 직장가입자 자격 허위 취득 등 부정행위를 근절하기 위해 27일부터 가산금 상향과 직장가입 허위 취득자 신고 포상금 제도를 시행한다고 밝혔다.\n이번 제도는 거짓 신고에 대한 경제적 제재를 강화하고 국민의 공익신고를 활성화해 건강보험 재정 건전성을 확보하기 위해 도입됐다. 관련 법 개정안은 지난 4월 국회 본회의를 통과했다.\n이에 따라 직장가입자가 될 수 없는 사람을 직장가입자로 거짓 신고한 사업주에게 부과하는 가산금이 기존 10%에서 40%로 4배 인상된다. 직장가입자 자격 허위취득 사실을 신고한 사람에게는 신고 내용과 관련해 공단이 징수한 금액에 따라 포상금을 차등 지급한다. 지급 한도는 최대 30억원이다.\n징수금이 2,000원 이상 3만4,000원 이하인 경우 포상금은 1만원이며, 3만4,000원 초과 1억원 이하인 경우 징수금의 30%를 지급한다. 1억원을 초과하면 징수금 구간에 따라 포상금 산정 비율을 차등 적용한다.\n신고자는 해당 사업장의 허위취득 사실을 확인할 수 있는 구체적인 사실관계와 문서, 사진, 근로계약서 등 객관적인 증거자료를 첨부해 신고할 수 있다. 신고자의 신원과 신고 내용은 공익신고자 보호법에 따라 보호된다.\n포상금 지급 대상은 제도 시행일인 27일 이후 발생한 허위 취득 행위에 대한 신고로 한정된다. 시행 전 발생한 행위는 지급 대상에서 제외되며 허위 취득 행위 당사자나 공모자가 신고한 경우에도 포상금을 지급하지 않는다. 조사와 징수 절차에 따라 포상금 지급까지 1년 이상 소요될 수 있다.\n신고는 공단 홈페이지와 모바일 앱을 통해 할 수 있으며 사업장 관할 지사나 지역본부 방문, 우편, 팩스 접수도 가능하다.\n서경숙 징수상임이사는 “이번 포상금제도 시행 및 가산금 상향이 직장가입자 허위 취득을 근절하는 강력한 계기가 될 것으로 기대한다”며 “앞으로도 공정하고 투명한 자격관리를 통해 건강보험 재정 누수를 방지하는 데 최선을 다하겠다”고 말했다.",
+      "authors": [
+        "곽성순 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "99cd61950528",
+      "source_id": "docdocdoc",
+      "source_name": "청년의사",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "의사 국시 실기 2491명 합격…합격률 93.6%",
+      "url": "http://docdocdoc.co.kr/news/articleView.html?idxno=3044978",
+      "published": "2026-11-27T15:10:13Z",
+      "summary": "제92회 의사 국시 실기시험 합격자 발표\n2027년도 제92회 의사 국가시험 실기시험에서 2,491명이 합격했다. 합격률은 93.6%로 직전 회차(93.5%)와 비슷했다. 응시자는 2,660명으로 직전 회차보다 881명 늘었다.\n한국보건의료인국가시험원은 27일 제92회 의사 국시 실기시험 합격자를 발표했다. 이번 시험은 지난 9월 1일부터 11월 3일까지 국시원 실기시험센터에서 총 40일간 진행됐다.\n직전 제91회 실기시험은 의정 사태 여파로 복귀가 늦어진 의대생에게 응시 기회를 주기 위해 추가로 시행됐다. 지난 3월 4일부터 4월 22일까지 치러진 시험에는 1,779명이 응시해 1,664명(93.5%)이 합격했다.\n합격 여부는 국시원 홈페이지에서 확인할 수 있다. 이의가 있을 경우 합격자 발표일로부터 5일 이내 이의제기를 할 수 있다.",
+      "authors": [
+        "김정현 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "faabc1865a1c",
+      "source_id": "doctorsnews",
+      "source_name": "의협신문",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "안과계 반발에도…수정체 절개술 현행 수가 대비 90% 수준 인하",
+      "url": "https://doctorsnews.co.kr/news/articleView.html?idxno=200300",
+      "published": "2026-11-27T17:00:00Z",
+      "summary": "7개군 질병군 포괄수가가 개정된 가운데, 안과의사들의 반발에도 백내장 수술의 수가가 현행의 90% 수준으로 낮춰질 전망이다. 백내장 수술의 수가 인하와 관련해 안과계에서 \"검증없는 근거로 수가를 인하하려고 한다\"고 반발한 만큼 추후 정부와 갈등이 예상된다.\n보건복지부는 27일 제21차 건강보험정책심의위원회를 개최했다.\n안건으로는 ▲7개 질병군 포괄수가 개정(안) ▲비대면진료 제도화에 따른 수가 적용 방안 ▲'관리-1 도수치료' 상대가치점수 및 급여기준 개정(안) 등이다.\n포괄수가제는 포괄적인 행위가 적용되는 각 질병군으로 입원진료를 받은 경우, 개별 의료행위별로 보상하는 대신 질병군별로 정해진 수가를 지급하는 제도다. 이를 통해 적정진료 유도와 환자 보장성 강화를 목적으로 한다.\n7개 질병군에는 안과·이비인후과·외과·산부인과가 포함되어 있다.\n안과의 경우 수정체 절개술이, 이비인후과는 편도 및 아데노이드 절제술, 외과는 충수절제술과 서혜 및 대퇴부 탈장 수술, 항문 수술 등이 들어간다. 산부인과에는 자궁 및 자궁부속기 수술과 제왕절개술이 포함된다.\n보건복지부는 \"2027년 1월에 시행되는 이번 개정은 2020년 이후 6년 만에 이뤄지는 전면 개정\"이라며 \"그간의 진료비용 및 진료행태 변화를 반영해 연간 1132억원이 추가 소요될 예정으로, 적정 보상체계를 마련하기 위해 추진됐다\"고 설명했다.\n건정심 논의에 따르면 수정체 절개술, 즉 백내장의 경우 현행 수가의 90% 수준으로 인하하는 방안을 추진한다. 안과계에서 우려했던 내용이 현실화된 것.\n대한안과학회와 대한안과의사회는 지난 23일 공동 기자회견을 통해 수가 인하에 대한 문제점을 제기, \"이미 국제적으로 낮은 수준인 백내장 수술 수가를 더 내리려면 그 근거가 실제 진료현장을 대표해야 하고 누구나 검증할 수 있어야 한다\"며 \"우리나라에서 가장 많이 시행되는 수술 중 하나인 백내장 수술을 검증되지 않은 근거로 수가를 낮추면 그 영향은 수술을 받은 환자와 지역의 진료현장에 미친다\"고 꼬집었다.\n이외에도 환자가 비용의 80%를 별도로 부담했던 절삭기(충수절제술, 자궁 및 자궁부속기 수술)와 유착방지제(자궁 및 자궁부속기 수술, 제왕절개술)를 포괄수가에 반영해 적정 비용을 보상하고, 환자 부담을 20%로 완화된다.\n보건복지부는 \"이번 7개 질병군 포괄수가 개정은 적정 보상체계를 마련하고 지역필수의료를 강화하면서 건강보험의 보장성을 강화하는데 의마기 있다\"며 \"앞으로도 의료환경 변화에 맞춰 수가를 적시에 조정하고 지속적으로 적정 보상과 환자 부담경감이 이뤄질 수 있도록 포괄수가제를 개선해나가겠다\"고 말했다.\n한편, 보건복지부는 2028년 이후에도 의료환경과 진료행태 변화를 적시에 포괄수가에 반영할 수 있도록 행위별 수가와 함께 정기적인 수가 개정과 더불어 필요시 상시 조정도 병행한다는 계획이다.\n■도수치료 급여기준 개정도…추가 치료 인정 횟수 확대 등\n이날 건정심에서는 관리급여로 전환된 도수치료에 대한 상대가치 점수 및 급여기준 개정도 이뤄졌다.\n추가 치료가 필요한 경우 인정 횟수를 확대하고 다른 치료와 중복 산정 제한을 완화하는 등 의료 현장 운영 상황을 살피며 합리적으로 보완한 것.\n구체적으로 ▲새로운 수술·골절로 추가적인 치료가 필요한 경우 연간 인정 횟수를 재산정 가능(관절의 구축·강직의 뚜렷한 소견이 있는 경우 의사의 의학적 판단에 따라 9회 추가) ▲6세 미만 사경환자는 인정횟수를 연간 최대 48회까지 확대 ▲마비 환자 등 근골격계 통증이나 관절 구축·강직으로 이동·보행이 어려운 경우 재활기능치료와 중복산정 가능 등의 내용이 포함됐다.\n상대가치점수는 2027년 환산지수 변동에도 기존 결정 가격인 4만 3850원이 의료기관 종별에 관계없이 동일하게 적용된다.\n보건복지부는 \"연내 고시개정을 통해 내년 1월부터 시행될 예정\"이라며 \"이번 개정을 통해 도수치료의 급여기준을 합리적으로 보완하고 운영현황을 지속적으로 점검하면서 제도를 보완해 나가겠다\"고 밝혔다.",
+      "authors": [
+        "박승민 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "0e046e62ae95",
+      "source_id": "doctorsnews",
+      "source_name": "의협신문",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "단순 염좌에 2주 이상 장기 입원 한방병원 '된서리'",
+      "url": "https://doctorsnews.co.kr/news/articleView.html?idxno=200298",
+      "published": "2026-11-27T16:30:00Z",
+      "summary": "건강보험심사평가원(이하 심평원)이 진료기록부에 환자의 입원 필요성을 뒷받침할 구체적이고 객관적인 의학적 소견을 남기지 않은 채 단순 염좌 환자들을 장기간 입원시킨 한방병원에 내린 1억 3820만원 규모의 요양급여비용 감액조정처분이 적법하다는 법원 판단이 나왔다.\n춘천지방법원은 최근 광주시 북구에서 B한방병원을 운영하는 A씨가 심평원을 상대로 제기한 두 건의 요양급여비용 감액조정처분 취소 청구 소송에서 원고의 청구를 모두 기각했다.\nA씨는 2025년 6∼7월 허리·어깨 통증 등을 호소하며 내원한 총 103명(6월 57명, 7월 46명)을 입원 진료한 뒤 심평원에 요양급여비용을 청구했다. 심평원은 B한방병원이 제출한 진료기록부 등을 검토한 결과, 일상생활에 지장을 초래할 정도의 심한 통증이라고 판단할 구체적 기록이 미비하고, 지속적인 치료와 관찰이 필요한 경우로 확인되지 않는다며 6월 진료분 7546만원과 7월 진료분 6273만원 등 총 1억 3820만원을 감액 처분했다.\nA씨가 처분에 불복해 이의신청을 제기하자 심평원은 식대·경방오적산연조엑스 약제비·입원비 가운데 극히 일부분만 수용하고 나머지 이의신청을 기각했다.\nA씨는 심평원이 '진료기록부상 기록 미비'라고만 처분사유를 안내해 구체적인 사유를 알 수 없어 방어권 행사에 지장을 초래했으므로 행정절차법 제23조 제1항이 정한 이유제시의무를 위반한 절차적 하자가 있다며 소송을 제기했다. 의학적 판단권을 침해해 처분사유가 부존재하고, 최소한의 급성기 관찰을 위한 입원기간조차 인정하지 아니한 채 입원료 전액을 일률적으로 감액 조정한 것은 지나치게 가혹해 비례의 원칙을 위반한 재량권 일탈·남용이라고도 주장했다.\n재판부는 절차적 하자가 있다는 주장에 대해 \"요양급여비용 감액조정은 요양기관의 기존 청구권을 삭감하는 것이 아니라 적정한 급여비용의 범위를 확인하는 처분\"이라면서 \"A씨가 이의신청서에 이미 심평원의 심사기준과 부합한다는 취지의 반박을 기재했고 정상적으로 불복 절차를 밟은 점 등을 볼 때, 처분 당시 이유를 충분히 인지하고 있어 방어권 행사에 지장이 없었다\"고 판단했다.\n핵심 쟁점인 처분사유 존부 및 입원 필요성 인정 여부와 관련해 재판부는 국민건강보험 요양급여의 기준에 관한 규칙 및 보건복지부 고시(입원료 일반원칙)를 근거로 입원은 단순한 피로회복이나 통원 불편이 아닌 임상적·의학적 필요성이 있을 때만 실시해야 하며, 이를 뒷받침할 임상적 소견이 반드시 진료기록부에 기재되어야 한다고 판시했다.\n\"이미 심평원은 2022년 홈페이지를 통해 척추의 염좌 및 긴장, 배부동통 상병의 경우 단기간 내 회복이 가능하므로 객관적 기록 없이 일률적으로 입원료를 청구하면 불인정한다는 심의사례를 공고했다\"고 지적했다.\n\"2025년 5월에도 A씨에게 입원료 심사 관련 안내문을 발송해 주의를 당부했다\"고 밝힌 재판부는 \"진료기록부에는 심한 통증을 입증할 검사 결과가 없고, 환자 대부분이 14일 이상 장기 입원했음에도 그에 합당한 특별한 사정이 기재되지 않았다\"고 진료기록부 미기재를 짚었다.\nA씨가 이의신청 당시 입원의 필요성이 있다고 주장하면서 해당 수진자들에 대해 모두 동일한 내용의 사유를 제출한 점도 문제 삼았다.\n재판부는 \"수진자들의 연령·상병·증상 발현 경위와 정도·입원기간 등이 각기 다름에도 그 입원 필요성에 관해서는 동일한 내용으로 소명했다\"면서 \"이의신청사유에 '통증척도, 진찰소견 등을 통해 확인 가능하다'고 했음에도 이와 관련한 자료를 제출하지 않아 개별 환자의 입원 근거를 추가로 입증하지 못했다\"고 지적했다.\n재량권 일탈·남용 주장에 대해서도 재판부는 \"원고조차 각 수진자별 입원의 필요성을 구체적으로 주장하지 못하는 상황에서 피고가 진료기록부에 없는 내용을 바탕으로 개별 판단을 내리는 것은 현실적으로 불가능하다\"면서 \"무분별한 입원 진료를 방지해 정작 입원이 시급한 환자의 적시 치료를 보장하고 건강보험 재정 건전성을 확보하려는 공익이 원고가 입는 재산상 불이익보다 결코 작지 않다\"고 기각 사유를 밝혔다.\n한편, 정부는 건강보험 재정 누수와 실손 및 자동차 보험금 과잉 청구 문제를 바로잡기 위해 경증질환자의 불필요한 입원과 장기 치료를 억제하는 대책을 잇달아 시행하고 있다.\n국토교통부는 자동차손해배상 보장법을 개정, 지난 9월 10일 이후 발생한 교통사고 경상환자(상해등급 12∼14급)부터 이른바 '8주 룰'을 적용하고 있다. 단순 염좌나 타박상 등 경미한 부상을 입은 환자가 사고 후 8주를 초과해 치료를 계속하려면, 7주 차에 의사의 진단서 등 치료 필요성을 입증할 객관적 증빙서류를 제출해 자동차손해배상진흥원의 심사를 거쳐야 한다. 경증 환자가 수주간 입원해 합의금을 부풀리는 관행을 막겠다는 취지다.\n심평원 역시 보건복지부 고시(제2021-4호 입원료 일반원칙)과 심사지침을 내세워 단순 피로회복이나 통원 불편을 이유로 한 입원을 급여 대상에서 배제하고 있다. 특히 척추 염좌·긴장이나 배부동통 등은 일상생활에 지장을 줄 정도의 심한 통증과 지속적인 관찰 필요성을 뒷받침하는 구체적 임상 소견을 진료기록부에 기재하지 않으면 입원료 전액을 감액 조정하고 있다. 심평원은 내년 1월부터 12월 입원 진료분을 대상으로 '3차 입원일수 적정성 평가'를 실시, 입원 적정성 관리를 강화할 방침이다.\n금융위원회는 지난 5월 5세대 실손보험을 출시, 중증과 비중증 보장을 분리했다. 비중증 질환의 병의원 입원 보상한도를 회당 300만원(연간 1000만원)으로 제한하고, 비급여 입원 자기부담률을 기존 30%에서 50%로 높였다. 도수치료·체외충격파·증식치료 등 근골격계 비급여 치료는 보장 대상에서 제외했다. 11월 23일부터는 기존 1·2세대 초기 실손 가입자가 5세대로 전환하면 보험료를 3년간 50% 할인해 주는 제도를 통해 이동을 유도하고 있다.",
+      "authors": [
+        "송성철 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "f33a6dfed57e",
+      "source_id": "doctorsnews",
+      "source_name": "의협신문",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "건보공단 특사경법, 법사위 상정 미뤄져…의협 설득전 총력",
+      "url": "https://doctorsnews.co.kr/news/articleView.html?idxno=200296",
+      "published": "2026-11-27T16:14:00Z",
+      "summary": "국회가 국민건강보험공단에 특별사법경찰권을 부여하는 법안 심사를 미루고 숙의에 들어갔다. 보이콧 기조를 유지하던 국민의힘 의원들이 법무부 장관 후보자 인사청문회 참여를 결정하면서 국회 법제사법위원회 회의에 참석한 것이 주효하게 작용했다.\n대한의사협회는 여야를 불문하고 법사위 소속 위원들을 직접 찾아 법안의 문제점을 적극 설득하고 있다.\n국회 법제사법위원회는 27일 열린 전체회의에서 건보공단을 비롯해 정부 부처에 특사경 권한을 부여하거나 특사경 수사 범위를 확대하는 법안들을 심사 안건으로 상정하지 않았다.\n바로 전날 열린 법제사법위원회 법안심사제1소위원회에서 지식재산처, 산업통상부, 식품의약품안전처, 과학기술정보통신부 및 한국인터넷진흥원에 특사경 권한을 부여하거나 수사 범위를 확대하는 내용을 담은 '사법경찰관리의 직무를 수행할 자와 그 직무범위에 관한 법률 일부개정법률안' 8건을 심사·의결 했다.\n법사위 전체회의에 계류 중인 특사경 법안과 법안소위를 거친 법안을 모두 합쳐 27일 전체회의에서 다뤄질 것으로 예상됐지만, 1소위 위원들은 숙려 기간을 거치자는 데 의견을 모았다.\n법사위 관계자는 \"그동안 보이콧을 하던 야당 의원들이 법사위 1소위에 참석해 정부 부처들이 앞다퉈 특사경 권한을 요구하는 현 상황 등의 문제점을 제기하며 반대 입장을 분명히 표시해 전체회의까지 이어지지 않았다\"고 설명했다. 실제 1소위에서 다뤄진 특사경 법안들은 결과적으로 '의결'됐지만 국민의힘 의원들이 표결 절차까지 거치며 강하게 반대 입장을 표명한 것으로 알려졌다.\n여당도 정부부처 앞다퉈 특사경 권한 챙기기에 우려\n정부 부처의 특사경 권한 갖기 문제가 단순히 야당의 반대뿐만 아니라 여당에서도 문제의식이 이미 제기된 상황이다.\n더불어민주당 중진인 박지원 의원은 지난 16일 법사위 전체회의에서 특사경 제도의 남발 문제를 지적했다.\n박 의원은 현재 9개 정부 부처에서 특사경 권한을 달라는 내용의 법안이 계류하고 있다는 점을 짚으며 \"행정기관마다 특사경을 도입하는 것은 행정 편의를 위한 것이지 국민 인권은 어디로 가는 것인지 묻지 않을 수 없다\"고 비판했다.\n그는 \"사법경찰관이 있는데 왜 특사경이 국민 인권을 제한하면서 그렇게까지 필요한지 의문\"이라며 \"특사경에 수사권을 넘긴다면 사법경찰관은 줄여야 하는데 경찰도 늘리고 특사경도 늘리면 나중에는 특사경 국가가 되는 것\"이라고 꼬집었다.\n특사경 관련 법안에 대한 법제사법위원회 검토보고서에 따르면 2025년 기준 중앙행정기관에는 약 1만 5000명, 지방자치단체가 약 6000명의 특사경을 운영하고 있다. 관세청, 국세청, 교정본부, 범죄예방정책국, 국군방첩사령부, 병무청, 소방청 등 15개 정부 기관에서 1만 4359명의 특사경 인력을 운영할 수 있다.\n식품의약품안전처도 식품, 약사, 보건범죄 위반 범죄 수사에 나설 특사경으로 46명이 지명돼 있다. 여기에다 관련 법률 개정을 위해 담배 유해성 범죄 수사로까지 범위 확대를 추진하고 있다.\n보건복지부 역시 공중위생관리법 및 의료법 등 위반 범죄 수사에 대한 특사경으로 9명이 지명돼 있다. 이 때문에 불법 사무장병원 및 면허대여 약국 등의 문제는 보건복지부 특사경을 통해서도 충분히 해결할 수 있다는 주장도 나오고 있다.\n더불어민주당 김한규 의원은 \"불법 사무장병원 적발 등의 분야에 있어서 전문성이 갖춰져야 한다는 것은 맞는데 꼭 건보공단에서 갖춰져야 하나\"라고 반문하며 \"일반 경찰에서 전담부서를 둔다든지 해서 전문성을 배양할 방법도 있다\"고 대안을 제시하기도 했다.\n대한의사협회를 필두로 의료계는 전방위로 법사위원을 직접 찾아 건보공단 특사경법안의 문제점을 설득하고 있다. 동시에 장외에서는 릴레이 1인 시위와 궐기대회를 이어가며 법안 문제점을 지적하고 있다.\n의협은 \"국민건강보험법상 보험자이자 수가계약 당사자인 건보공단에 사법경찰권을 부여하는 것은 초법적인 조사권을 주는 것으로 법리적으로 큰 문제를 낳는다\"라며 \"건보공단은 의료기관과 동등한 계약 당사자이자 사기죄의 피해자로, 수사의 주체가 될 수 없다\"고 단언했다.\n의협은 ▲경찰청 전담수사팀 등 기존 수사 인프라의 올바른 활용 및 의료계와 긴밀한 협조체계 구축 ▲의료인단체 중앙회를 통한 개설단계 검증절차 마련 ▲사무장병원 단속을 위한 '대한의사협회 전문가평가단'의 법적 근거 마련 ▲리니언시(자진신고자 감면) 제도 도입을 통한 자진 신고 유도 등의 대안도 함께 제시하고 있다.",
+      "authors": [
+        "박양명 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "b06afb04ae50",
+      "source_id": "doctorsnews",
+      "source_name": "의협신문",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "국가필수의약품 안정공급 강화 위해 민·관협의체 가동",
+      "url": "https://doctorsnews.co.kr/news/articleView.html?idxno=200295",
+      "published": "2026-11-27T16:09:00Z",
+      "summary": "정부가 국가필수의약품 안정공급을 강화하기 위한 민·관 공동 대응체계를 구축하고 협의회 운영 방향 등을 논의했다.\n보건복지부는 27일 식품의약품안전처와 함께 '2026년 제3차 국가필수의약품 안정공급 협의회'를 개최했다고 밝혔다.\n이번 회의는 지난 12일 시행된 약사법 개정에 따라 그동안 정부 중심으로 운영해 온 협의회를 민·관 협의체로 확대·개편한 후 처음 개최됐다.\n개편된 협의회는 보건복지부 보건의료정책실장과 식약처 차장을 공동의장으로 하고 중앙행정기관의 정부위원 8명과 의료·약업계, 제조·수입·유통업계, 환자단체 및 의·약학 전문가 등 민간위원 19명을 포함해 구성된다.\n보건복지부는 \"이번 개편으로 의약품 제조·수입부터 유통, 처방·조제 및 사용에 이르기까지 공급망 전반의 관계 전문가가 참여함으로써 의료현장과 산업계, 환자의 다양한 의견이 정책에 폭넓게 반영될 수 있다\"고 의무를 부여했다.\n협의회가 확대됨에 따라 논의 범위도 커질 전망이다.\n국가필수의약품뿐 아니라 일시적인 수요 증가로 안정적인 공급이 필요한 의약품까지 확대된다. 아울러, 기존 국가필수의약품 지정·관리와 더불어 공급망 안정에 필요한 대응방안과 제도개선 사항 등도 통합적으로 논의할 예정이다.\n첫 회의에서는 그 간 협의회 운영 이력과 향후 세부 구성·운영 방향을 공유하고, 의약품 수급문제에 보다 신속하고 전문적으로 대응할 수 있도록 통합 논의체계를 구축하는 방안을 논의한 것으로 전해진다.\n정경실 보건복지부 보건의료정책실장은 \"의약품의 안정적인 공급은 환자의 치료 연속성과 직결되는 중요한 과제\"라며 \"의료현장의 수요와 의약품 유통상황을 면밀히 살피고 관계기관 간 협력을 통해 의료현장에 불편이 없도록 만전을 기하겠다\"고 밝혔다.\n김용재 식약처 차장은 \"의약품 안정공급 이슈에 효과적으로 대응하기 위해서는 정부뿐 아니라 공급망 단계별·분야별 기관·단체와의 긴밀하고 폭넓은 협력이 중요하다\"며 \"이번 협의회 개편을 계기로 의료현장 수요를 조기에 파악하고 필수의약품이 적시에 안정적으로 공급될 수 있도록 관계 기관과 함께 대응해 나가겠다\"고 말했다.",
+      "authors": [
+        "박승민 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "278f0b84204c",
+      "source_id": "doctorsnews",
+      "source_name": "의협신문",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "비대면진료 수가 일률 30% 가산 폐지한다 \"야간·공휴일은 가산\"",
+      "url": "https://doctorsnews.co.kr/news/articleView.html?idxno=200293",
+      "published": "2026-11-27T15:03:00Z",
+      "summary": "비대면진료 수가체계가 기존 일률적인 30% 가산 방식에서 대면진찰료 체계와 연동하는 방식으로 개편된다. 야간·공휴일·토요일·소아 등 대면진료에 적용하는 각종 가산을 비대면진료에도 적용하는 것이 핵심이다.\n보건복지부는 27일 제21차 건강보험정책심의위원회를 개최하고, '비대면 진료 제도화에 따른 수가 적용방안'을 심의·의결했다.\n이번 수가 개편은 비대면진료의 법적 근거를 마련한 의료법 개정안이 오는 12월 24일 시행됨에 따라 추진됐다.\n비대면진료는 코로나19 감염병 확산 당시 한시적으로 허용된 이후 감염병 위기 단계 하향에 따라 2023년 6월부터 시범사업으로 운영돼 왔다. 정부는 의료법 개정에 따른 제도화에 맞춰 기존 시범사업을 종료하고, 본 수가체계를 적용하기로 했다.\n개편안의 가장 큰 변화는 기존 비대면진료 시범사업에서 적용하던 일률적인 30% 가산을 폐지하는 것이다.\n기존 시범사업에서는 의원급 의료기관의 초·재진 진찰료에 비대면진료 가산 30%를 일괄 적용했다.\n본 수가체계에서는 별도의 비대면진료 가산을 두지 않는 대신, 대면진찰료 체계에서 적용하는 야간·공휴일·토요일·소아 등 각종 가산을 비대면진료에도 적용하도록 했다. 가산 항목 간 중복 적용도 가능하다.\n의원급 의료기관의 수가는 초·재진 비대면 진찰료로, 약국은 비대면 약제비로 구분해 적용한다.\n급여 산정기준은 기존 시범사업과 동일하게 유지한다. 환자 1명당 동일 의료기관에서 월 최대 2회까지 건강보험 급여를 적용받을 수 있도록 했다.\n보건복지부는 이날 건정심 의결에 따라 연내 관련 고시를 개정하고, 2027년 1월부터 개편된 비대면진료 본 수가를 시행할 계획이다.\n보건복지부는 \"의료법 개정에 따라 국민들이 안전하고 편리하게 비대면진료를 이용할 수 있도록 하겠다\"며 \"향후 비대면진료 시행 이후 상황을 지속적으로 관찰·점검해 수가체계를 보완해 나가겠다\"고 밝혔다.",
+      "authors": [
+        "홍완기 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "b8cbf5ce4d96",
+      "source_id": "doctorsnews",
+      "source_name": "의협신문",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "AI 부정행위 여파…레지던트 시험장에 '앞치마' 등장",
+      "url": "https://doctorsnews.co.kr/news/articleView.html?idxno=200292",
+      "published": "2026-11-27T14:58:00Z",
+      "summary": "인공지능(AI) 등을 활용한 국가자격시험 부정행위 파장이 의료계에도 미치고 있다. 당장 다음달에 있을 2027년도 레지던트 필기시험을 치러야 하는 전공의는 양쪽 귀를 노출하고 앞치마를 착용해야 한다.\n대한병원협회 수련환경본부는 내년 상반기 인턴·레지던트 1년차 모집 공고를 내며 스마트기기 사용 부정행위 관련 유의사항을 안내했다.\n내년 상반기 레지던트 1년차는 3289명, 인턴은 3374명 모집한다. 레지던트 지원자는 다음달 4일 오후 5시까지 원서를 접수하고 필기시험과 면접, 실기시험을 거쳐 같은 달 18일 합격자를 최종 발표한다. 후기모집 병원 합격자 발표일은 내년 1월 4일이다.\n내년 전공의 모집 과정에서 예년과 달라진 점이 있다. 스마트기기와 생성형 AI를 활용한 국가자격시험 부정행위 의혹이 팽배한 사회적 분위기에서 시험을 치러야 한다는 점이다.\n실제 일부 보건의료인 국가시험에서 만점자가 급증했다며 부정행위 의혹이 나왔고, 보건복지부는 한국보건의료인국가시험원 소관 34개 시험의 최근 3년 결과를 전수조사했지만 특이점은 발견되지 않았다고 밝혔다.\n그렇다 보니 당장 코앞에 닥친 레지던트 필기시험부터 신경쓰지 않을 수 없는 상황.\n수련환경본부는 스마트기기 사용 등 중대한 부정행위가 확인되면 해당 시험 무효 처리 및 2027년도 전공의 모집 응시자격이 제한되고 업무방해 및 공무집행방해 혐의로 고발한다는 방침이다.\n필기시험 당일 후드티, 단추가 많은 옷 착용은 가급적 자제하고 시험 중 목걸이, 반지, 모자, 목도리 등 장신구 및 시계 착용도 제한한다. 시험실 입실 후에는 스마트기기 사용 방지를 위한 앞치마를 착용해야 하고 감독관 안내에 따라 스마트안경 착용, 옷소매 등 확인 절차를 진행한다.\n개인 소지품인 가방은 시험 시작 전 시험실 외부 지정 장소에 보관해야 한다. 양쪽 귀도 노출해야 한다. 감독관이 스마트기기 관련 이어폰 착용 여부 등을 확인할 예정이기 때문이다. 시험 중에는 양쪽 귀가 항상 외부로 노출된 상태를 유지해야 하고, 긴 머리는 머리를 묶거나 귀 뒤로 넘겨야 한다.\n휴대폰, 스마트워치, 스마트안경, 터치펜을 비롯한 모든 전자기기 등을 제출하지 않고 갖고 있거나 이용해도 부정행위자로 간주한다. 이들 전자기기를 전원이 꺼진 채로 갖고 있거나, 켜진 상태로 제출했을 때도 마찬가지다.\n불과 1년 전 응시자 유의사항에는 없었던 의사로서의 전문직업성과 윤리적 책무도 더했다. 의사는 국민 생명과 건강을 책임지는 전문직으로서 높은 수준의 윤리의식과 정직성, 책임감을 바탕으로 국민과 사회의 신뢰를 받는 직업이고 이런 전문직업성은 의료현장에서 진료뿐만 아니라 의사로서 모든 행동과 판단에서 일관되게 실천해야 할 기본가치라고 했다.\n수련환경본부는 \"정직하고 공정한 자세로 시험에 임하는 것 또한 의사로서의 전문직업성을 실천하는 중요한 과정이고 동료 의료인에 대한 존중과 사회적 신뢰의 기반이 된다\"라며 \"의료전문직 일원으로서 자긍심과 책임감을 갖고 시험에 임해주길 바란다\"고 강조했다.",
+      "authors": [
+        "박양명 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "1e488cd1fe43",
+      "source_id": "doctorsnews",
+      "source_name": "의협신문",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "타요가 병원에 떴다…서울의료원 '싱어롱쇼' 성황",
+      "url": "https://doctorsnews.co.kr/news/articleView.html?idxno=200291",
+      "published": "2026-11-27T14:07:00Z",
+      "summary": "서울특별시 서울의료원에 인기 애니메이션 캐릭터 '꼬마버스 타요'가 등장해 어린이와 가족들에게 특별한 하루를 선물했다.\n서울의료원은 지난 25일 의료원 공연장에서 '꼬마버스 타요 싱어롱쇼'를 열었다. 이번 공연은 서울의료원이 사회공헌 활동으로 꾸준히 이어온 '어린이 가족공연'의 하나로, '꼬마버스 타요' 공식 공연주관사인 ㈜플레이스원(대표 최진식)이 힘을 보태 마련됐다.\n서울의료원은 병원이라는 낯선 공간을 친근한 문화의 장으로 바꾸기 위해 2016년부터 지역사회 공헌형 어린이 문화공연을 열어왔다. 이 취지에 공감한 ㈜플레이스원은 서울의료원 공연장 규모와 환경에 맞춘 특별 싱어롱쇼를 준비했다.\n공연에서는 친숙한 캐릭터들의 율동과 신나는 음악이 어우러져, 객석을 가득 메운 아이들의 환호와 웃음이 이어졌다.\n공연은 사전 추첨을 거쳐 지역주민에게 전석 무료로 제공됐다. 신청 경쟁률은 역대 공연 중 가장 높았다. '꼬마버스 타요'는 서울 시내버스를 모티브로 탄생한 국산 대표 캐릭터다.\nEBS 방영 당시 최고 시청률을 기록했고, 완구와 다양한 콘텐츠로 제작되며 영유아와 어린이들 사이에서 꾸준히 큰 인기를 얻고 있다.\n이현석 의료원장은 \"뜨거운 호응 속에 진행된 이번 공연으로 꼬마버스 타요의 인기를 다시 한번 실감했다\"며 \"앞으로도 서울시민과 지역주민이 병원이라는 공간에서 친근하게 소통하며 즐겁고 건강한 삶을 이어갈 수 있도록 사회공헌과 건강 증진 활동을 지속적으로 추진하겠다\"고 말했다.\n서울시 대표 공공병원인 서울의료원은 양질의 의료 서비스 제공과 함께 의료 취약계층 지원, 서울시 공공보건 정책 수행, 지역사회 밀착형 사회공헌 활동 등 공공병원의 역할을 해오고 있다.\n지역주민과 아이들에게 큰 호응을 얻고 있는 '어린이 가족공연'은 2027년에도 두 달에 한 번씩 정기적으로 열릴 예정이다.",
+      "authors": [
+        "이정환 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "5eb7abe01533",
+      "source_id": "doctorsnews",
+      "source_name": "의협신문",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "대법원·의협, 의료감정 및 전문심리위원 제도 개선 머리 맞대",
+      "url": "https://doctorsnews.co.kr/news/articleView.html?idxno=200289",
+      "published": "2026-11-27T13:13:00Z",
+      "summary": "대한의사협회와 대법원이 전문심리위원 제도를 효율적으로 운영하고 의료감정 등 의료소송 절차 전반을 개선하는 방안을 함께 모색했다.\n의협은 지난 25일 오후 2시 법원행정처 604호에서 대법원과 '대법원-대한의사협회 간담회'를 개최했다고 밝혔다.\n이날 간담회에는 의협에서 박명하 상근부회장, 전성훈·한진 법제이사, 이한결 홍보이사 겸 정책이사가 참석했다. 대법원 법원행정처에서는 임선지 사법지원실장(부장판사), 김보현 사법지원총괄심의관(부장판사), 이유진 민사지원제1심의관(판사)이 자리했다.\n참석자들은 두 기관의 주요 관심사에 대해 폭넓게 의견을 나누고, 서로의 입장을 경청하며 공감대를 넓혔다.\n법원행정처는 의료분쟁을 공정하고 신속하게 해결하기 위해 감정절차 관리제도를 시행하고, 감정관리센터를 중심으로 의료기관과 업무협약을 체결하는 등 의료감정제도 개선에 힘써 왔다고 설명했다.\n앞으로도 제도를 지속적으로 보완해 나가겠다는 방침도 밝혔다. 또 의료소송 사안이 점차 복잡하고 세분화되는 만큼, 의료계가 전문심리위원과 감정인으로 보다 적극적으로 참여해 줄 것을 요청했다. 의협도 그 필요성에 공감했다.\n특히 두 기관은 의협이 법원에 추천한 의료계 전문심리위원 현황과 제도 운영 전반, 원활한 의료감정 절차 마련 방안 등을 함께 논의했다.\n이 자리에서 의협은 사건별로 적합한 전문가를 연결하는 것이 중요하다고 강조했다. 아울러 감정 절차를 전자화하고, 감정인이 안심하고 감정에 참여할 수 있도록 개인정보를 보호하는 방안이 필요하다는 의견을 냈다.\n이 밖에도 두 기관은 ▲의료기관 내 폭력 방지 및 안전한 진료환경 조성 ▲의료감정 관련 교육 및 지원의 필요성 ▲기타 의료소송 전반에 관한 제안 사항 등을 놓고 의견을 교환했다.\n의협과 대법원은 앞으로도 현안이 있을 때마다 수시로 의견을 나누고, 국민이 신뢰할 수 있는 의료소송 절차가 공정하고 신속하게 운영되도록 긴밀히 협력해 나가기로 뜻을 모았다.",
+      "authors": [
+        "이정환 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "1cdcdd3578a1",
+      "source_id": "doctorsnews",
+      "source_name": "의협신문",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "의사 국시 실기시험 2491명 합격 '합격률 93.6%'",
+      "url": "https://doctorsnews.co.kr/news/articleView.html?idxno=200288",
+      "published": "2026-11-27T13:12:00Z",
+      "summary": "2027년도 제92회 의사 국가시험 실기시험에서 응시자 2660명 가운데 2491명이 합격했다. 합격률은 93.6%다.\n한국보건의료인국가시험원은 27일 이 같은 내용의 '2027년도 제92회 의사 국가시험 실기시험 합격자'를 공고했다.\n이번 실기시험에는 총 2660명이 응시했으며, 이 가운데 2491명이 합격해 93.6%의 합격률을 기록했다. 불합격자는 169명이다.\n국시원은 합격자에게 결격사유가 확인될 경우 합격을 취소할 수 있다고 밝혔다.\n합격 결정에 이의가 있는 응시자는 국시원 홈페이지 고객소통 내 이의신청 메뉴를 통해 합격자 발표일로부터 5일 이내인 12월 1일 오후 6시까지 이의를 제기할 수 있다.\n이와 별도로 처분이 있음을 안 날부터 90일, 처분이 있었던 날부터 180일 이내에 처분청 또는 행정심판위원회에 행정심판을 청구하거나 법원에 행정소송을 제기할 수 있다.",
+      "authors": [
+        "홍완기 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "2b1e43af61de",
+      "source_id": "doctorsnews",
+      "source_name": "의협신문",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "'금고형 선고로 의사 면허취소'…헌재 심판대 오른다",
+      "url": "https://doctorsnews.co.kr/news/articleView.html?idxno=200278",
+      "published": "2026-11-26T16:15:00Z",
+      "summary": "",
+      "authors": [
+        "이정환 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "0bc43838ee39",
+      "source_id": "dailymedi",
+      "source_name": "데일리메디",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "허위 후기 8400건 게재 ‘성형외과 4곳’ 등 적발",
+      "url": "https://dailymedi.com/news/news_view.php?ca_id=22&wr_id=943076",
+      "published": null,
+      "summary": "중국 해킹 조직으로부터 계정을 사들여 허위 후기를 8400여 건 올린 성형외과와 광고업체들이 경찰에 적발. \n경찰은 최근 정보통신망법·의료법 위반 혐의로 국내 성형외과 4곳, 성형외과가 설립한 직영 광고업체 2곳, 광고대행사 1곳, 해킹조직 등 관계자들을 지난달 서울동부지방공소청에 송치. 경찰은 지난해 12월 해킹 사건 수사 중 피해자 계정으로 성형외과 수술 등의 후기가 올라온 것을 계기로 수사에 착수.\n적발된 성형외과 등은 지난 2021년부터 올해 7월까지 타인 계정 800여 개로 온라인 카페, 플랫폼에 허위로 성형 후기와 댓글을 작성한 것으로 드러났고 이 계정은 중국 해킹 조직으로부터 텔레그램을 통해 구매한 것으로 조사.\n중국 해킹 조직으로부터 계정을 사들여 허위 후기를 8400여 건 올린 성형외과와 광고업체들이 경찰 . \n4, 2, 1, . 12 .\n2021 7 800 , .",
+      "authors": [],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "501f8d9d4883",
+      "source_id": "dailymedi",
+      "source_name": "데일리메디",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "의사·간호사·약사 등 국시 10년치 결과 분석",
+      "url": "https://dailymedi.com/news/news_view.php?ca_id=22&wr_id=943100",
+      "published": null,
+      "summary": "최근 스마트기기와 인공지능(AI) 기술을 활용한 국가시험 부정행위 의혹이 잇따라 제기되는 가운데 의사·간호사 등 보건의료인 국가시험 10년치 결과가 분석된다.\n보건복지부 의료자원정책과는 AI 부정행위 근절을 위해 시험 현장 관리 및 시험 단계별 관리 감독 대응체계를 강화했다고 27일 밝혔다.\n복지부는 국시원과 스마트기기 등 첨단기기를 활용한 국가시험 부정행위를 근절하고 국가자격시험 신뢰도 회복을 위해 장관 주재 검검회의를 지난 19일, 20일, 25일 실시했다.\n특히 수능 직후인 지난 21일 실시된 위생사시험에서 ▲부직포 앞가리개 의무착용 ▲개인필기구 사용 제한 ▲매 교시 감독관이 전자기기 전원차단 육안확인 등을 실시했다.\n또 ▲관리 감독인력 증원 ▲복지부 실·국·과장과 국시원이 함께 시험관리 단계별 실태점검을 위한 합동 현장모니터링팀 운영 등 대책을 마련했다.\n28일 1·2급 응급구조사 등 4개 시험에서도 현장 모니터링 등을 통해 제시된 개선사항과 각종 국가시험에서 보완된 사항을 반영한다는 방침이다.\n아울러 ▲스마트기기 완전 수거 후 별도 장소 보관 ▲전파탐지기 배치 ▲응시생 핸드폰 대상 무작위 전화로 전원차단 확인 ▲관리 감독인력 추가 증원 ▲가운형 전신 가리개 시범 도입 등 AI 기기 등을 활용한 부정행위를 원천 차단하게 된다.\n보건의료인 국가시험(국시)에서도 일부 과목 만점자 급증 지적에 대해선 “증가는 사실이지만 시험 난이도 및 응시자 수 등 다양한 요인에 따른 것”이라며 “만점자 수 증가만으로는 AI활용 부정행위를 의심하기 어렵다고 판단된다”는 입장을 내놨다.\n올해 제66회 간호사 시험에서 ‘보건의약관계법규’ 과목과 같은 교시에 치러진 ‘기본간호학’ 및‘간호관리학’ 과목의 경우 만점자수가 상이하고, 전년 대비 오히려 감소한 과목도 있다는 사실을 근거로 제시했다.\n뿐만 아니라 의사, 치위생사 국가시험에서도 같은 교시에 치러지는 과목의 만점자 수는 상이한 것으로 확인돼, 부정행위를 단정하기는 어렵다는 설명이다.\n복지부는 AI 부정행위 논란이 발생한 직후 철저한 예방과 사후관리를 위해 국시원 소관 전 직종 34개 시험의 최근 3년간 결과에 대해 전수조사 했다.\n부정행위 의심사례 등 특이사항 여부를 점검하고, 만점자를 포함한 상위점수를 추출, 평균 및 표준편차와의 이탈 정도 및 합격률 추세 등을 면밀히 분석했다.\n하지만 합격률, 평균점수 등이 급증하거나 일관성 있게 상승하는 패턴 등이 발견되지 않은 것으로 알려졌다.\n의료자원정책과는 “철저한 사후검증을 통한 부정행위 근절을 위해 국시원 소관 전체 시험의 10년치 결과를 분석하는 등 면밀한 조사를 추가로 실시할 예정”이라고 계획을 전했다.\n이어 “보건의료 관련 국가자격시험을 엄격히 관리해 부정행위를 예방하고 부정행위자 조사 및 적발시 엄중조치 예정”이라며 “정부합동 국가시험 공정성 확보 TF 및 국가시험 시행기관 협의체와 연계해 단기·중장기 제도 및 인프라 개선도 추진해 나갈 것”이라고 강조했다.\nAI 27 .\n19, 20, 25 .\n21 .\n.\n28 12 4 .\nAI .\n() AI .\n66 , .\n, , .\nAI 34 3 .\n, .\n10 .\nTF .",
+      "authors": [],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "74b1af733945",
+      "source_id": "dailymedi",
+      "source_name": "데일리메디",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "중증 당뇨병 기기·소모품 ‘급여 기준’ 대폭 개선",
+      "url": "https://dailymedi.com/news/news_view.php?ca_id=22&wr_id=943089",
+      "published": null,
+      "summary": "내달 1일부터 연속혈당측정기와 인슐린자동주입기 등 당뇨병 관리기기 및 소모성 재료의 건강보험 요양비 급여 기준이 ‘췌장장애’와 ‘췌도부전’ 중심으로 재편된다.\n연속혈당측정기 등록 시 제조·수입업소에 제품 시연을 요구할 수 있는 근거를 마련하고, 부정수급이 적발된 준요양기관은 등록을 취소해 1년간 재등록을 제한하는 등 사후관리도 대폭 강화된다.\n국민건강보험공단은 보건복지부 고시(제2026-237호) 개정에 따라 이 같은 내용을 담은 ‘당뇨병 소모성 재료·관리기기 준요양기관 등록 및 운영 기준 등에 관한 세부사항’(보험급여실 공고 제2026-3호·제4호)을 27일 공고했다.\n이번 개정으로 연속혈당측정용 전극(센서)과 인슐린자동주입기의 급여 대상이 ‘장애 정도가 심한 췌장장애 환자’와 ‘1·2형 당뇨병 췌도부전 환자’로 명확히 체계화됐다.\n연속혈당측정용 전극은 1일당 1만 원의 기준금액 내에서 췌장장애 환자와 19세 미만 췌도부전 환자에게 90%를 지원한다. 19세 이상 췌도부전 환자는 80%, 인슐린을 투여하는 임신 중 당뇨병 환자는 70%가 적용되며, 총 처방기간은 최대 100일(최초 처방은 30일 이내)까지 가능하다.\n인슐린자동주입기는 60개월당 1개를 지원하는 지속주입형의 경우 기기 유형에 따라 기본형 170만 원, 센서연동형 250만원, 복합폐쇄회로형 450만원으로 기준금액이 세분화됐다.\n췌장장애 환자는 전(全) 연령대에서 90% 공단부담율이 적용되며, 췌도부전 환자는 19세 미만 90%, 19세 이상 70%를 지원받는다. 디지털펜형은 24개월당 1개(기준금액 44만 원)로 책정됐으며 지속주입형과 중복 급여는 불가하다.\n19세 미만 1형 당뇨병 환자 중 복합폐쇄회로형 인슐린자동주입기를 구입한 대상자는 관련 소모성 재료 기준금액이 1일당 4,500원(공단부담율 70%)으로 책정됐으며, 일반 1형 당뇨병 환자는 1일 2,500원(90%)을 지원받는다.\n공급업소(준요양기관)와 제품에 대한 검증 및 데이터 관리 기준도 한층 엄격해졌다.\n공단은 제조·수입업소가 연속혈당측정기나 전극 제품을 등록할 때 성능과 사용방법, 안전성을 확인하기 위해 제품제안서 제출과 제품 시연을 요구할 수 있도록 했다.\n또 정보제공에 동의한 지원대상자에 한해 준요양기관으로부터 연속혈당측정 데이터(혈당 변화내역)를 수집해 급여 관리와 효과 평가에 활용할 계획이다.\n시장 질서 확립을 위한 퇴출 규정도 명시됐다.\n거짓·부정 등록 시 등록을 즉시 취소해야 하며, 금품 제공 등 유인·알선 행위, 최근 3년간 부정수급 2회 이상 적발 또는 부정수급액 1000만원 이상, 자료 제출 3회 이상 거부 시에도 등록이 취소된다. 등록 취소 처분을 받은 업소는 1년간 재등록할 수 없다.\n공단은 이번 공고를 통해 “연속혈당측정기와 인슐린자동주입기 등에 보험급여를 적용해 중증 당뇨병 환자의 의료비 부담을 완화하고 건강보험 보장성을 강화하고자 한다”고 명시했다.\n한편, 공단은 이날 당뇨병 분야 외에도 자가도뇨·자동복막투석 소모성 재료와 산소치료·인공호흡기·기침유발기·양압기·중증 소아청소년 재가치료기기 등 총 9개 분야 준요양기관 운영 기준을 일괄 공고, 재가치료 전반의 급여 관리를 정비했다.\n 1 .\n, 1 .\n(2026-237) ( 2026-34) 27 .\n() 12 .\n1 1 19 90% . 19 80%, 70% , 100( 30 ) .\n60 1 170 , 250, 450 .\n() 90% , 19 90%, 19 70% . 24 1( 44 ) .\n19 1 1 4,500( 70%) , 1 1 2,500(90%) .\n() .\n, .\n( ) .\n.\n, , 3 2 1000 , 3 . 1 .\n, 9 , .",
+      "authors": [],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "110c70a34799",
+      "source_id": "dailymedi",
+      "source_name": "데일리메디",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "한의사 X-ray 사용 법안 ‘통과 무산’…한의계 반발",
+      "url": "https://dailymedi.com/news/news_view.php?ca_id=22&wr_id=943041",
+      "published": null,
+      "summary": "한의사에게 X-ray(엑스레이) 사용을 허용하는 법안이 국회 첫 심사에서 통과가 불발된 가운데 한의계 반발이 보건복지부 ‘보건의료인력 업무조정위원회’로 향했다. \n직역 갈등 해결과 업무범위 조정을 위해 출범했지만, 1년 이상 위원 구성조차 완료하지 않으면서 민감한 사안에 손놓고 있다는 지적이다.\n27일 대한한의사협회(한의협)는 지난 24일 국회 보건복지위원회 법안심사제1소위원회에서 ‘의료법’ 개정안이 계속심사 결정된 데 대해 유감을 표명했다.\n한의협은 “법안 통과에 제동을 건 보건복지부의 무책임하고 안일한 행태를 강력 규탄한다”며 “10년 이상 합리적 해결책을 마련하지 못한 복지부가 여전히 협의를 운운하는 것은 스스로 무능함을 자인하는 것”이라고 작심 비판했다.\n한의협이 지적하는 심각한 사안은 복지부가 앞서 “보건의료인력 업무조정위원회를 설치해 한의사 엑스레이 문제를 논의하겠다”는 입장을 밝힌 바 있지만 현재까지 아무 진전이 없다는 점이다.\n업무조정위원회는 올해 2월 시행된 ‘보건의료기본법’ 개정안에 근거해 운영되는 복지부 장관 자문기구로, 보건의료인 면허범위 및 업무영역을 다루기 위해 움직인다.\n복지부는 상반기 중 업무조정위원회 구성을 완료하겠다고 발표했지만 현재까지도 구성이 마무리되지 않았고 이로 인해 한 번도 회의가 열리지 않았다.\n한의협이 받은 공문에 따르면 실제 복지부는 지난 7월에서야 관련 단체에 업무조정위원회 위원 추천을 요청했고, 다시 지난 10월 말 같은 내용을 요청했다.\n한의협은 “시간을 허비하고 있다”며 “복지부 스스로 한의사 엑스레이 사용 문제를 직역 갈등 사안으로 치부하면서, 위원회가 출범한다고 해서 이 문제를 제대로 논의할 수 있을지 의문이다”고 지적했다.\n이어 “상반기에 구성하겠다던 위원회를 연말이 다 되도록 구성하지 못하고 사안 논의에 대한 구체적 일정조차 제시하지 못하면서 국회에 위원회를 통해 해결하겠다고 말하는 것은 국회를 기만하는 것”이라고 힐난했다.\n앞서 올해 종합국정감사에서 정은경 복지부 장관은 한의사 엑스레이 허용 문제를 “업무조정위원회를 통해 조정하겠다”고 답변한 바 있다.\n“업무조정위원회를 부처 책임 회피 수단으로 삼지 말라”\n복지부가 엑스레이 사용과 관련해 교통정리를 하지 않자 답답함을 느낀 한의협은 업무조정위원회 구성 전부터 적극적으로 복지부 문을 두드려 왔다.\n지난해 11월 복지부가 업무조정위원회 구성 및 운영 방안에 대한 의견을 묻자, 한의협은 “특정 직역 이해관계가 얽힌 사안을 위원회 논의 중이란 이유로 부처가 수행해야 할 판단과 처리를 지연하거나 회피할 수 있다”고 우려를 표명했다.\n지난해 12월 복지부와 면담에서도 같은 우려를 전달하기도 했다.\n한의협은 “업무조정위원회는 복지부가 마땅히 해야 할 일을 하지 않기 위한 방패막이가 아니다”며 “사전에 문제를 지적받고도 아무 해결책 없이 뒤에 숨으려는 행태는 책임회피이자 직무유기”라고 날을 세웠다.\n이어 “복지부가 해야 할 일은 변화된 사법부 판단에 부합토록 불합리한 법령과 제도를 정비하고 행정절차를 이행하는 것이지, 사법부 판단이 내려진 사안을 업무조정위원회에 넘겨 원점에서 재논의하는 것이 아니다”고 피력했다.\n현재까지 다수 소비자단체와 대한간호협회 등으로부터 공개 지지를 받은 한의협은 의사단체 비판에도 불구하고 한의사의 엑스레이 사용을 위해 적극 움직일 계획이다.\n한의협은 “임원진부터 엑스레이 사용을 위한 솔선 수범에 나설 것”이라고 밝혔다.\n X-ray()             ‘ ’ . \n, 1 .\n27 () 24 1 '' .\n“ ” “10 ” .\n“ ” .\n2 '' , .\n.\n7 , 10 .\n“ ” “ , ” .\n“ ”\n11 , “ ” .\n12 .\n“ ” “ ” .\n“ , ” .",
+      "authors": [],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "c5e610018288",
+      "source_id": "dailymedi",
+      "source_name": "데일리메디",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "네이버, 병·의원 내부 구축형 ‘의료 특화 AI’ 개발 대규모 언어모델 ‘KMed-31B’ 기술보고서 공개…고난도 상담 등 성능 개선",
+      "url": "https://dailymedi.com/news/news_view.php?ca_id=22&wr_id=943069",
+      "published": "2026-11-27T15:00:00Z",
+      "summary": "네이버가 병·의원 등 의료기관 내부 서버에서 운영할 수 있도록 설계한 의료 특화 인공지능(AI) 모델을 개발했다.\n환자정보 외부 전송이 제한되는 의료 환경을 고려해 비교적 적은 컴퓨팅 자원으로 의학 질의응답과 질환 추론, 의료 상담 등을 지원하는 것이 특징이다.\n27일 업계에 따르면 네이버 연구팀은 최근 논문 사전공개 플랫폼 아카이브(arXiv)를 통해 의료 특화 대규모언어모델(LLM) ‘KMed-31B’ 기술보고서를 공개했다.\nKMed-31B는 구글의 공개 가중치 모델 ‘Gemma-4-31B-IT’를 기반으로 개발됐으며 매개 변수는 310억개 규모다.\n연구팀은 학습 과제를 객관식 의학 질의, 주관식 의학 질의, 질환 추론, 의료 상담 등 4개 영역으로 구분했다. 각 영역에 특화된 AI 모델을 개별 학습시킨 뒤 하나의 모델로 통합하는 방식을 적용했다.\n특히 정해진 답이 없는 의료 상담에 대응하기 위해 일차의료에서 접할 수 있는 환자 사례를 바탕으로 일반인과 의료진의 상담 상황을 구현한 가상 학습 데이터를 구축했다.\n이번 연구에는 서울대병원 의료AI연구원 소속 연구진도 임상 자문으로 참여했다.\n고난도 의료 상담 능력을 측정하는 ‘헬스벤치 하드(HealthBench Hard)’ 평가에서 KMed-31B는 추론 모드 기준 51.48점을 기록했다. 기반 모델의 23.80점보다 두 배 이상 높은 수치다.\n의료 전문가 질의 대응 능력을 평가하는 ‘헬스벤치 프로페셔널(HealthBench Professional)’에서도 기반 모델의 41.97점에서 59.18점으로 성능이 개선됐다.\n의학 지식과 질환 추론 능력을 측정하는 4개 객관식 평가에서는 기반 모델과 대체로 유사한 성능을 유지했다.\nEMR·AI 에이전트 등 추가 연구 진행\n다만 연구팀은 실제 의료기관 내 업무 지원으로 연구 범위를 확대할 필요성도 언급했다.\n이번 평가에는 전자의무기록(EMR) 요약과 구조화된 환자 정보 기반 질의응답, 임상 환경에서 여러 도구를 활용하는 AI 에이전트의 업무 수행 능력 등이 포함되지 않았다.\n의료 상담 평가에서 답변이 길수록 높은 점수를 받는 경향이 있었으며 답변 길이를 보정할 경우 고난도 의료 상담 평가에서 모델 간 성능 순위가 달라진다는 점도 연구 한계로 명시했다.\n연구팀은 의료기관이 자체 전산 환경에 적합한 의료 특화 AI 모델을 개발할 수 있도록 학습 방법과 데이터 구축 과정 등을 기술보고서에 공개했다. 향후 KMed 모델 가중치도 공개할 계획이다.\n(AI) .\n, .\n27 (arXiv) (LLM) KMed-31B .\nKMed-31B Gemma-4-31B-IT 310 .\n, , , 4 . AI .\n.\nAI .\n(HealthBench Hard) KMed-31B 51.48 . 23.80 .\n(HealthBench Professional) 41.97 59.18 .\n4 .\nEMRAI\n(EMR) , AI .\nAI . KMed .",
+      "authors": [],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "6d67a5546513",
+      "source_id": "dailymedi",
+      "source_name": "데일리메디",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "메디오젠-진흥원, 장 건강 기능성식품 공동연구 한국식품클러스터진흥원에 사업 과제 기술이전 완료…상업화 협력 속도",
+      "url": "https://dailymedi.com/news/news_view.php?ca_id=22&wr_id=943074",
+      "published": "2026-11-27T15:00:00Z",
+      "summary": "지아이이노베이션 관계사인 메디오젠이 장(腸) 건강 관련 기능성 소재 연구 성과를 기반으로 상용화에 적극 나선다.\n프로바이오틱스 전문기업 메디오젠(대표 홍준호)은 한국식품산업클러스터진흥원과 기능성 식품소재 개발 및 사업화를 위한 업무협약(MOU)을 체결했다고 26일 밝혔다.\n메디오젠은 진흥원 공동기술개발사업에 참여해 포스트바이오틱스의 변비형 과민성대장증후군 개선 효능을 평가하는 연구를 진행, 이달 초 관련 연구에 대한 기술이전을 마무리했다.\n양측은 이번 협약을 계기로 ▲기능성 식품소재 공동 개발 ▲연구개발(R&D) 성과 상용화 ▲기술이전 협력체계 구축 등에 힘을 모으기로 했다.\n메디오젠은 포스트바이오틱스의 장 건강 개선 기능에 관한 후속 연구를 진행하면서 이를 활용한 제품 개발 및 시장 진입을 추진할 방침이다.\n메디오젠은 프로바이오틱스를 비롯한 건기식 원료 개발과 공급, 완제품 생산에 이르는 사업 인프라를 확보하고 있다. 독자 개발 원료를 활용한 제품 생산, 고객사 맞춤형 위탁개발생산(CDMO) 사업도 진행 중이다.\n홍준호 메디오젠 대표는 “공동 기술개발 과제를 통해 확보한 연구 성과가 기술이전과 업무협약으로 이어졌다는 점에서 의미가 크다”며 “이번 연구개발 성과를 실질적인 소재 상용화로 연결하고, 양 기관 협력을 기반으로 기능성 식품소재 분야 경쟁력을 강화해 나가겠다”고 말했다.\n한편, 메디오젠은 유한양행이 최대주주로 있는 건강기능식품 전문기업으로, 지아이이노베이션도 2대 주주로서 회사 지분을 보유하고 있다.\n지난 2023년 9월부터 홍준호 지아이이노베이션 대표가 메디오젠 대표를 겸직하고 있다.\n   ()          .\n( ) (MOU) 26 .\n, .\n(R&D) .\n.\n, . , (CDMO) .\n, , 2 .\n2023 9 .",
+      "authors": [],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "b12b3f73a229",
+      "source_id": "dailymedi",
+      "source_name": "데일리메디",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "박소영 한국병원약사회 대구·경북지부장(대의원총회 부의장) 시부상",
+      "url": "https://dailymedi.com/news/news_view.php?ca_id=3122&wr_id=943066",
+      "published": null,
+      "summary": "의사\n채용 \n\t\t\t\n\t\t\t\n\t\t \n\t\n박소영 한국병원약사회 대구·경북지부장(대의원총회 부의장) 시부상\n\t\n\t\n▲ 빈소 영남대병원 장례식장 301호\n▲ 발인 11월 29일(일) 오전 11시\n▲ 연락 010-3519-6058(박소영)\n▲ 빈소 영남대병원 장례식장 301호\n▲ 발인 11월 29일(일) 오전 11시\n  010-3519-6058()\n\t\n\t\t\n1년이 경과된 기사는 회원만 보실수 있습니다.",
+      "authors": [],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "34341bad168a",
+      "source_id": "rapportian",
+      "source_name": "라포르시안",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "7개 질병군 포괄수가 6년 만에 전면 개정…연간 1132억 추가 투입",
+      "url": "https://rapportian.com/news/articleView.html?idxno=243004",
+      "published": "2026-11-27T17:25:00Z",
+      "summary": "내년 1월부터 시행…절삭기·유착방지제 등 치료재료도 포괄수가에 반영\n복강경 충수절제술 환자 부담 35만원 경감\n[라포르시안] 정부가 내년 1월부터 7개 질병군 포괄수가를 전면 개정한다. 진료비용과 진료행태 변화를 반영해 보상 수준을 높이고, 환자가 비용의 80%를 별도로 부담했던 일부 치료재료를 포괄수가에 반영해 본인부담을 낮춘다.\n보건복지부는 27일 오후 제21차 건강보험정책심의위원회를 열고 '7개 질병군 포괄수가 개정안'을 심의·의결했다.\n7개 질병군 포괄수가제는 입원진료 시 개별 의료행위별로 비용을 보상하는 대신 질병군별로 정해진 수가를 지급하는 제도다. 적용 대상은 수정체 절개술, 편도 및 아데노이드 절제술, 충수절제술, 서혜 및 대퇴부 탈장 수술, 항문 수술, 자궁 및 자궁부속기 수술, 제왕절개술이다.\n이번 포괄수가 전면 개정은 2020년 이후 6년 만이다. 그간의 진료비용과 진료행태 변화를 반영한 것으로, 연간 1132억원의 건강보험 재정이 추가로 소요될 전망이다.\n지역·필수의료 강화를 위한 건강보험 수가 구조혁신과 연계해 분만, 수술·처치, 야간·공휴 수가 인상과 지역 우대 수가 신설도 반영했다. 지난 10월 건정심에서 의결한 제왕절개 고위험분만 가산 신설도 적용한다.\n환자의 치료재료 비용 부담도 줄어든다. 충수절제술과 자궁 및 자궁부속기 수술에 사용하는 절삭기, 자궁 및 자궁부속기 수술과 제왕절개술에 사용하는 유착방지제를 포괄수가에 반영한다. 이에 따라 해당 치료재료에 대한 환자 본인부담률은 기존 80%에서 20%로 낮아진다.\n복지부가 제시한 복강경 충수절제술 사례를 보면 기존에는 포괄수가 350만원과 별도 치료재료 비용 65만원을 합쳐 총 415만원의 진료비가 발생했다. 환자는 포괄수가의 20%인 70만원과 치료재료 비용의 80%인 52만원을 합쳐 총 122만원을 부담했다.\n개정 이후에는 기준수가를 380만원으로 30만원 인상하고, 치료재료 사용 빈도를 반영한 비용 55만원을 포함해 포괄수가를 435만원으로 책정한다. 환자는 포괄수가의 20%인 87만원만 부담하면 된다. 이 사례에서 의료기관이 받는 전체 진료비는 20만원 늘지만 환자의 본인부담금은 122만원에서 87만원으로 35만원(28.7%) 줄어든다.\n복지부는 2028년 이후에도 의료환경과 진료행태 변화를 적시에 포괄수가에 반영할 수 있도록 행위별 수가와 함께 정기적으로 수가를 개정하고, 필요시 상시 조정도 병행할 계획이다.\n복지부는 “이번 7개 질병군 포괄수가 개정은 적정 보상체계를 마련하고 지역필수의료를 강화하면서 건강보험의 보장성을 강화하는 데 의미가 있다”라며, “앞으로도 의료환경 변화에 맞춰 수가를 적시에 조정하고, 지속적으로 적정 보상과 환자 부담 경감이 이루어질 수 있도록 포괄수가제를 개선해 나가겠다”라고 밝혔다.",
+      "authors": [
+        "김상기 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "11b26d4ee41e",
+      "source_id": "rapportian",
+      "source_name": "라포르시안",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "‘레하·홈케어 2027’, 내년 7월 양재 aT센터서 개최",
+      "url": "https://rapportian.com/news/articleView.html?idxno=243002",
+      "published": "2026-11-27T17:09:09Z",
+      "summary": "에이지테크·재활 로봇·디지털 헬스케어 등 제품 전시 확대\n[라포르시안] 한국의료기기유통협회(이하 협회·회장 신상용)와 위엑스포(대표 김충진)는 지난 26일 협회 중앙회 사무국에서 홈케어·재활·복지전시회 ‘레하·홈케어’(Reha·Homecare) 제4차 추진위원회 회의를 개최했다.\n이 자리에서는 협회·한국장애인단체총연합회·위엑스포가 공동 주최해 지난달 21일부터 23일까지 코엑스에서 열린 ‘레하·홈케어 2026’ 개최 결과와 내년도 전시회 사업계획이 보고됐다. 특히 올해 전시회 운영 성과와 함께 2027년 전시 규모 확대 및 에이지테크(AgeTech)·바이오헬스케어 분야 활성화를 위한 추진 방향을 공유했다.\n위엑스포 결과 보고에 따르면 레하·홈케어 2026에는 일본·대만·중국·영국 등 해외 기업을 포함해 236개 사가 참가했으며 343개 부스가 운영됐다. 이 가운데 홈케어·재활·복지 분야 레하·홈케어 참가기업 165개 사, 동시 개최된 바이오헬스케어산업전에는 71개 사가 부스를 운영했다.\n참관객은 총 8385명으로 집계됐다. 날짜별로는 ▲21일 3129명 ▲22일 3069명 ▲23일 2187명이 전시장을 찾았다. 지난해 참관객 9475명과 비교하면 1090명(약 11.5%) 감소한 수치다.\n주최사는 참관객 감소에 대해 올해 전시회가 기존 5~6월에서 10월로 개최 시기가 변경되면서 중국국제의료기기전시회(CMEF)·부산 KIMES 등 유사 행사와 일정이 중복됐고, 대학 중간고사 기간과 맞물려 학생 참관객 유치에도 제약이 있었다고 분석했다. 다만 정부기관과 시설 운영자, 사회복지사, 물리·작업치료사, 제조·유통업계 종사자 등 시설 관련 종사자들의 참여 비중은 높았다.\n실제 참관객의 방문 목적은 ‘정보 수집 및 업계 동향 파악’이 31.6%로 가장 많았고, ‘협력·제휴업체 발굴과 구매 상담’이 각각 14.5%·11.3%로 뒤를 이었다. 제품과 기술에 대한 정보 교류 및 비즈니스 목적의 방문이 주를 이룬 셈이다.\n레하·홈케어 2026 기간 부대행사로 열린 국내외 비즈니스 상담회도 주요 성과로 제시됐다. 해외 바이어 수출상담회에는 홍콩·말레이시아·베트남·태국·카타르·싱가포르·인도네시아·호주·인도·대만·아랍에미리트·프랑스·칠레 등 13개국 바이어 45명이 참여했다.\n이들 바이어는 국내 기업들과 총 499건의 상담을 진행했으며, 상담액 9206만 달러·계약 추진 가능액 4876만 1000달러로 집계됐다. 이 과정에서 4건의 기업 간 업무협약도 체결됐다. 더불어 국내 비즈니스 상담회에는 36개 유통사와 38명의 바이어가 참여해 101개 사와 368건의 상담을 진행했다.\n이날 회의에서는 또한 레하·홈케어 2027 개최 계획을 공유했다. 내년 전시회는 코엑스 전시장 리모델링 공사로 인해 장소를 서울 양재 aT센터로 변경해 7월 7일부터 9일까지 사흘간 열린다. 전시장 규모는 8047㎡로 1전시장 3793㎡·2전시장 4254㎡에 각각 143개 부스씩 총 286개 부스가 마련된다.\n협회와 위엑스포는 내년 레하·홈케어 개최 계획으로 인공지능(AI)·IT 기반 에이지테크를 비롯해 ▲재활 로봇 ▲이동·보행 보조기기 ▲디지털 헬스케어 등 첨단기술을 적용한 제품을 적극 발굴하고, 연구개발과 실증을 거친 신제품 및 체험 품목을 전시한다는 구상이다.\n또한 전문기관과의 협력을 강화할 예정이다. 한국산업기술시험원·성남시니어산업혁신센터·한국보건산업진흥원 등을 중심으로 공동관을 구성하고, 한국AI의료헬스케어연구원 등 신규 후원기관 참여도 추진한다. 더불어 관련 기관과 학계·연구기관이 참여하는 전문 세미나와 콘퍼런스를 유치해 기술개발과 산업화, 통합돌봄 정책·시설 현대화 등 현장 중심의 정보를 공유할 계획이다.\n해외시장 진출을 위한 지원도 이어간다. 한국산업기술시험원과 협력해 수출상담회와 1:1 비즈니스 상담회를 운영하고, 출품기업의 상담 희망 분야와 제품 특성을 고려한 사전 매칭을 강화한다. 상담 이후에도 거래 진행 상황을 파악하는 등 사후관리를 내실화해 실질적인 수출 성과로 이어지도록 한다는 방침이다.\n이밖에 국내 비즈니스 상담회 역시 유통·소싱 분야 유력 바이어 발굴과 참가기업 간 맞춤형 매칭을 강화한다. 특히 요양·재활병원과 복지시설, 지방자치단체 관계자 등 시설 운영 및 구매 관계자의 참여를 확대하고, 전시장 내 제품 체험 기회를 늘려 참관객이 제품 기능과 편의성·안전성을 확인할 수 있도록 할 계획이다.\n신상용 한국의료기기유통협회장은 “레하·홈케어 2026은 전시 품질이 한층 높아지고 재활·복지·돌봄 전문 전시회로 발전하고 있다는 점을 확인할 수 있었다”며 “참관객들로부터 볼거리가 많았다는 긍정적인 평가도 받은 만큼 의미 있는 변화라고 생각한다”고 평가했다.\n이어 “올해 개최 결과를 면밀히 돌아보고 부족했던 부분은 보완해 내년 전시회를 더욱 내실 있게 준비하겠다”고 말했다.\n김충진 위엑스포 대표는 “레하·홈케어 2027은 고령 친화산업과 재활·복지 분야 변화에 대응해 AI·IT 기반 에이지테크와 재활 로봇·디지털 헬스케어 등 첨단기술을 접목한 제품·서비스를 폭넓게 전시·소개하고, 국내외 비즈니스 상담회도 한층 강화해 참가기업의 실질적인 판로 확대와 해외시장 진출을 지원하겠다”고 밝혔다.",
+      "authors": [
+        "정희석 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "e2cbf156d98e",
+      "source_id": "rapportian",
+      "source_name": "라포르시안",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "서울대병원, 심전도·맥파로 심박출량 추정 AI 의료기기 제조인증 획득",
+      "url": "https://rapportian.com/news/articleView.html?idxno=243000",
+      "published": "2026-11-27T16:55:00Z",
+      "summary": "[라포르시안] 서울대병원 융합의학기술원 전주기의료기기연구센터(센터장 조성용)는 인공지능(AI) 기반 심박출량 측정 소프트웨어 ‘NiCONet’이 지난 5일 식품의약품안전처로부터 2등급 디지털 의료기기 제조인증을 받았다고 27일 밝혔다.\n연구센터에 따르면 NiCONet은 AI 모델을 이용해 심전도와 광용적맥파(피부에 빛을 비춰 혈류 변화를 측정한 파형)로부터 일회박출량(심장이 한 번 뛸 때 내보내는 혈액량)과 심박출량(심장이 1분 동안 내보내는 혈액량)을 추정하고, 생체신호 파형과 분석값을 함께 보여주는 독립형 디지털 의료기기 소프트웨어다.\n기존에 심박출량을 연속적으로 측정하려면 동맥에 관을 삽입해 혈압 파형을 얻는 침습적 방법에 의존해야 했다. 이 때문에 심박출량 모니터링은 숙련된 인력이 시술할 수 있는 중환자실 등 제한된 환경에서만 이뤄져 왔다.\n서울대병원은 동맥혈압 파형을 이용한 심박출량 계산 소프트웨어 APCONet에 이어, 비침습적 신호만으로 심박출량을 추정하는 AI 모델 NiCONet을 개발했다. 해당 소프트웨어 역시 의료기기 개발·인허가 업무를 대행하는 임상시험수탁기관(CRO) 없이 병원 내부 역량만으로 2등급 제조인증을 받았다.\n서울대병원 중환자의학과 이상민·류호걸, 마취통증의학과 이형철 교수팀과 충남의대 양현림 교수팀이 전주기의료기기연구센터의 지원을 받아 소프트웨어를 공동 개발했다. NiCONet은 동맥관 삽입 없이 비침습적으로 일회박출량 및 심박출량을 측정할 수 있어 환자의 통증과 불편을 줄일 수 있으며, 환자의 심장 펌프 기능을 평가하는 데 참고할 수 있다. 이에 따라 심박출량 모니터링 대상을 일반병동, 응급실 등 다양한 분야로 넓힐 수 있을 것으로 기대된다.\n조성용 전주기의료기기연구센터장(비뇨의학과)은 “이번 인증을 통해 의료 AI 연구개발부터 의료기기 인허가까지 아우르는 서울대병원의 전주기 연구지원 역량을 다시 한번 보여줬다”며 “더 많은 원내 연구진의 우수한 연구성과가 기술 실용화까지 원활하게 이어질 수 있도록 앞장서서 지원하겠다”고 말했다.",
+      "authors": [
+        "이상섭 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "9c2bad616817",
+      "source_id": "rapportian",
+      "source_name": "라포르시안",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "기온 뚝 떨어지는 환절기…뇌경색 의심해야 할 전조증상은?",
+      "url": "https://rapportian.com/news/articleView.html?idxno=243003",
+      "published": "2026-11-27T16:31:09Z",
+      "summary": "기온이 급격히 떨어지는 환절기에는 뇌경색을 의심할 만한 신체 변화를 미리 알아두는 것이 중요하다. 뇌경색은 증상 발생부터 치료까지 걸리는 시간이 뇌 손상 범위와 후유증에 영향을 미치는 응급질환이기 때문이다.\n뇌경색은 뇌혈관이 막혀 혈액 공급이 줄어들면서 뇌 조직이 손상되는 질환이다. 기온이 낮아지면 체온을 유지하기 위해 혈관이 수축하고 혈압이 상승할 수 있다. 특히 고혈압이나 당뇨병, 이상지질혈증 등 뇌혈관질환 위험요인이 있는 사람은 급격한 기온 변화에 주의해야 한다.\n대표적인 증상은 갑작스러운 편측 마비와 언어장애다. 얼굴 한쪽이 처지거나 양팔을 들어 올렸을 때 한쪽 팔이 아래로 떨어지는 등의 변화가 나타날 수 있다. 발음이 어눌해지거나 상대방의 말을 이해하지 못하는 경우도 있다. 막힌 혈관의 위치에 따라 시야 일부가 보이지 않거나 몸의 균형을 잡기 어려워지기도 한다.\n이러한 증상이 잠시 나타났다가 사라지는 경우도 주의해야 한다. 뇌로 가는 혈류가 일시적으로 감소하는 일과성 허혈발작일 가능성이 있기 때문이다. 일과성 허혈발작은 이후 뇌경색 발생 위험이 높다는 신호일 수 있다. 증상이 사라졌더라도 안심하지 말고 즉시 119를 통해 뇌졸중 치료가 가능한 응급의료기관으로 이동해야 한다.\n응급 평가에서는 신경학적 진찰과 뇌 영상 검사를 통해 뇌졸중의 유형과 원인을 파악한다. 뇌 자기공명영상(MRI)은 뇌 조직의 손상 여부와 범위를 확인하는 데 활용된다. 뇌 자기공명혈관조영술(MRA)을 통해서는 뇌혈관이 막히거나 좁아진 부위를 살펴볼 수 있다.\n급성 뇌경색은 증상 발생 시각과 혈관 폐색 위치, 뇌 조직의 손상 정도 등에 따라 치료 방법이 달라진다. 환자 상태에 따라 혈전을 녹이는 정맥 내 혈전용해술이나 막힌 혈관의 혈전을 제거하는 혈관 내 혈전제거술을 고려할 수 있다.\n급성기 치료 이후에는 재발을 예방하기 위한 위험요인 관리가 이뤄져야 한다. 혈압과 혈당, 혈중 지질 수치를 정기적으로 확인하고 처방받은 약을 꾸준히 복용해야 한다. 기온이 낮은 날에는 외출 시 충분히 보온하고 실내외 온도 차에 갑자기 노출되지 않도록 주의하는 것이 좋다.\n참포도나무병원 뇌혈관센터 정진영 원장은 “뇌경색 환자의 응급 치료에서 증상이 처음 나타난 시각은 치료 방법을 결정하는 중요한 기준이 된다”며 “주변 사람이 뇌경색 의심 증상을 발견했다면 증상 발생 시각이나 마지막으로 정상 상태였던 시각을 기억해 의료진에게 전달하는 것이 치료에 도움이 된다”고 말했다.",
+      "authors": [
+        "이상섭 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "7a1506e37c4a",
+      "source_id": "rapportian",
+      "source_name": "라포르시안",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "\"항생제 내성균도 사람 간 전파가 될까?\"",
+      "url": "https://rapportian.com/news/articleView.html?idxno=242998",
+      "published": "2026-11-27T15:37:31Z",
+      "summary": "인하대병원, 올바른 항생제 사용 캠페인으로 내성균 위험성 알려\n[라포르시안] 인하대병원은 항생제 적정사용 관리 TF가 최근 세계 항생제 내성 인식주간(11월 18~24일)을 맞아 환자와 보호자, 교직원을 대상으로 ‘올바른 항생제 사용 캠페인’을 진행했다고 27일 밝혔다.\n항생제 내성은 세균 감염 치료를 어렵게 하고 사망 위험을 높이는 주요 공중보건 위협으로 꼽힌다. 질병관리청의 2025년 국내 항생제 내성 인식도 조사에 따르면 항생제가 세균 감염 치료에 쓰인다는 사실을 정확히 알고 있는 응답자는 22.6%에 그쳤다. 항생제가 감기 치료에 도움이 된다고 잘못 알고 있는 응답자는 72.0%에 달했다.\n질병관리청의 항생제 적정사용 관리 시범사업에 참여하고 있는 인하대병원은 항생제에 관한 잘못된 인식을 바로잡고 올바른 사용을 독려하고자 이번 캠페인을 마련했다. 병원 1층 로비에 항생제의 역할과 내성균의 위험성, 올바른 사용 수칙을 담은 배너를 설치하고 리플릿을 배포했다. QR코드를 활용한 OX 퀴즈 행사도 진행했다.\n캠페인 참여 건수는 총 445건으로, OX 퀴즈 전체 정답률은 93.7%를 기록했다. 지식 향상 체감도와 행사 만족도는 5점 만점에 각각 4.66점, 4.71점으로 나타났다. 상대적으로 정답률이 낮은 문항은 ‘항생제 내성균은 다른 사람에게 전파되지 않는다’(80.0%)와 ‘독감 바이러스를 없애기 위해 항생제를 먹어야 한다’(83.3%)였다.\n항생제 내성균은 사람 간 접촉이나 오염된 물건과 환경을 매개로 전파될 수 있어 손 위생 등 감염 예방 수칙을 지키는 것이 중요하다. 인플루엔자 바이러스가 일으키는 독감에는 항생제가 효과가 없다. 다만 세균 감염이 동반되면 의료진의 판단에 따라 항생제를 사용할 수 있다.\n이진수 인하대병원 항생제 적정사용 관리 TF장(감염내과 교수)은 “항생제 내성을 막으려면 환자와 보호자, 의료진 모두의 실천이 필요하다”며 “항생제는 꼭 필요한 경우에만 의료진이 처방한 대로 정해진 용량과 기간을 지켜 복용해 달라”고 말했다.",
+      "authors": [
+        "김상기 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "722908e2684b",
+      "source_id": "rapportian",
+      "source_name": "라포르시안",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "옵티팜, 유전자 변형 돼지 활용 ‘인공혈액’ 후속 개발 착수",
+      "url": "https://rapportian.com/news/articleView.html?idxno=242994",
+      "published": "2026-11-27T15:16:18Z",
+      "summary": "[라포르시안] 옵티팜(대표이사 김현일)이 유전자 변형 돼지를 활용한 수혈용 인공혈액 개발 사업의 1단계 연구를 성공적으로 마치고 사람 대상 임상시험 진입을 위한 후속 개발에 본격 착수한다.\n회사는 산업통상부·방위사업청 재원으로 민군협력진흥원이 전담하는 민·군기술협력사업을 통해 추진 중인 ‘유전자 조절 돼지 기반 수혈용 인공혈액 개발’ 사업의 1단계 응용연구를 완료하고, 2단계 시험개발에 돌입한다고 27일 밝혔다.\n이번 사업은 전쟁이나 대형 재난 등으로 대량의 혈액이 긴급하게 필요한 상황과 평상시 헌혈 부족 문제에 대응하기 위한 국가 연구과제다. 화학적으로 합성한 인공혈액이 아닌 유전자 조절을 통해 인체 면역 거부반응을 줄인 돼지 유래 수혈용 혈액제제를 개발하는 것이 목표다.\n2022년 7월부터 2028년 9월까지 약 6년간 183억 원이 투입되는 대형 프로젝트로 정부 지원금은 약 160억 원이다. 옵티팜을 비롯해 한림대학교, 가천대학교, 충남대학교 산학협력단과 국가독성과학연구소가 참여하고 있다.\n옵티팜 연구팀은 지난 51개월간 진행된 1단계 연구에서 유전자 변형 돼지 개발부터 혈액제제 제조공정 확립, 동물실험을 통한 수혈 효과 검증까지 핵심 기술을 확보했다.\n먼저 인체 면역체계가 다른 동물의 적혈구를 이물질로 인식해 공격하는 거부반응을 줄이기 위해 돼지 고유 유전인자를 제거하고, 면역반응을 조절할 수 있는 인간 유전자를 도입한 신규 유전자형 4종을 개발했다.\n돼지 혈액 채취와 가공 공정도 확립했다. 돼지의 경정맥을 통해 생명에 지장을 주지 않으면서 주기적으로 다량의 혈액을 채취하는 기술을 마련했으며, 이를 바탕으로 농축 적혈구 제조공정을 구축했다. 제조된 적혈구 제제의 주요 품질 지표를 평가한 결과 유럽(CE)·미국혈액은행협회(AABB)의 혈액제제 품질관리 기준에 부합하는 결과를 확보했다.\n동물실험에서는 수혈에 따른 치료 효과도 확인했다. 전체 혈액량의 25%를 제거한 영장류 대량 실혈 모델에 유전자 변형 돼지 유래 적혈구를 수혈한 결과 헤모글로빈 등 주요 혈액학적 지표가 회복되는 효과를 확인했다.\n수혈 후 72시간 동안 생존 여부와 임상 상태를 관찰해 이종적혈구 수혈의 유효성과 적용 가능성도 평가했다. 이러한 연구 성과를 바탕으로 특허 8건을 출원하고, 국제 학술지(SCI급)를 포함해 논문 22편을 게재하는 등 당초 목표를 웃도는 성과를 거뒀다.\n2026년 10월 시작된 2단계 시험개발에는 옵티팜·한림대·국가독성과학연구소 3개 기관이 참여한다. 해당 단계에서는 임상시험계획 승인(IND) 신청을 목표로 수혈용 이종 적혈구 제제의 유효성과 안전성을 평가하고 제조·품질관리 기술을 고도화한다.\n특히 적합한 유전자형을 선발하고 신선 적혈구의 수혈 유효성을 검증하는 데 중점을 두고 비임상 연구를 수행해 임상 진입에 필요한 자료를 확보할 계획이다.\n김현일 대표이사는 “응용연구 단계에서 기술력을 인정받아 우수한 평가를 받았다”며 “앞으로 식품의약품안전처와 긴밀히 협력해 2028년 국내 최초로 인체 대상 IND를 신청할 수 있도록 최선을 다하겠다”고 전했다.",
+      "authors": [
+        "정희석 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "9982fbaedfa2",
+      "source_id": "rapportian",
+      "source_name": "라포르시안",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "지역 필수의료 공백 막는다…상시 진료체계 유지에 '공공정책급여' 보상",
+      "url": "https://rapportian.com/news/articleView.html?idxno=243001",
+      "published": "2026-11-27T14:30:00Z",
+      "summary": "복지부, 건보법 하위법령 개정안 입법예고\n지역 필수의료 건강보험 보상체계 개편\n공공정책급여 도입·지역 가산 본인부담 면제\n[라포르시안] 정부가 환자가 적은 지역에서도 필수의료 진료체계를 유지할 수 있도록 건강보험 보상체계를 개편한다. 진료 건수에 따른 보상체계의 한계를 보완하기 위해 성과 평가에 따른 진료비 차등 지급과 공공정책급여 제도를 도입한다. 지역 의료기관에 지급하는 진료비 가산분이 환자의 의료비 부담 증가로 이어지지 않도록 해당 가산분의 본인부담을 면제한다.\n보건복지부는 이런 내용을 담은 '국민건강보험법 시행령' 및 '국민건강보험법 시행규칙' 일부개정령안을 27일부터 12월 21일까지 입법예고한다고 밝혔다. 이번 개정안은 지난 5월 공포한 국민건강보험법 개정에 따라 새로 도입하는 진료비 차등 지급과 공공정책급여의 세부 기준을 담았다.\n개정안에 따르면 건강보험 요양급여비용을 지역별 또는 요양기관별로 다르게 지급할 때는 의료 질 향상과 지역 간 의료 격차 해소 등 정책 목적 달성 여부를 평가하고, 그 결과에 따라 지급하는 것을 원칙으로 한다. 성과 평가를 적용하기 곤란한 경우에만 평가 없이 일정 비율이나 금액을 달리 정할 수 있다.\n필수진료체계 유지 등을 보상하는 공공정책급여의 범위와 지급 대상은 복지부가 정한다. 지급 대상 기관은 인력·시설·장비 확보 현황과 지역 의료여건 등을 고려해 건강보험정책심의위원회 심의를 거쳐 결정한다.\n국민건강보험공단은 지급 대상 요양기관과 5년 이내의 공공정책급여비용 계약을 체결한다. 건강보험심사평가원이 계약 대상 기관의 성과와 비용 등을 심사하면 공단이 급여비용을 지급하는 방식이다.\n공공정책급여는 필요한 인력·시설·장비를 갖춰 상시 진료가 가능한 상태를 유지하는 데 드는 비용과 진료 의뢰·회송 등 요양기관 간 협력, 진료한 환자의 지속 관리 등 성과에 따라 차등 지급한다.\n지역 의료기관에 대한 건강보험 보상 강화가 환자의 의료비 부담 증가로 이어지지 않도록 지역 가산분의 본인부담을 면제한다. 지역별로 달리 지급하는 진료비 중 복지부 장관이 고시하는 항목의 가산분이 면제 대상이며, 기본 진료비에 대한 본인부담은 종전과 같다.\n연간 외래진료 횟수에 따른 본인부담 차등 적용 기준도 보완한다. 내년부터 연간 외래진료 횟수가 300회(현재 365회)를 넘으면 초과분 진료비의 90%를 환자가 부담해야 한다. 다만 예외 적용 대상인 아동과 임산부는 18세가 되거나 출산 후 6개월이 지나더라도 해당 연도 12월 31일까지 예외를 인정받는다.\n내년 5월 1일부터는 희귀질환인 당원병 환자의 혈당검사 소모성 재료 구입비를 요양비로 지원한다. 지원 수준은 기준금액과 실제 구입가격 중 적은 금액의 80%이며, 19세 미만 환자는 90%를 지원한다. 건보공단에 등록한 의료기기판매업소는 환자를 대신해 요양비를 직접 청구할 수 있다.\n건강보험료 부과제척기간 6년을 적용하는 부정한 방법의 세부 기준도 마련했다. 보험료 부과·징수를 불가능하게 하거나 현저히 곤란하게 하는 자격·사업장 허위 신고 또는 고의적인 미신고, 보수·소득·재산 자료 허위 제출 또는 고의적인 미제출, 다른 사람 명의의 사업장 개설·운영 등이 해당한다.\n휴직 등으로 고지를 미룬 보험료의 분할납부 횟수를 기존 10회에서 12회로 확대하는 내용을 신청서식에 반영하고, 4대 사회보험 공통 신고서식도 정비한다.\n복지부는 입법예고 기간에 의견을 수렴하고 법제처 심사 등을 거쳐 연내 개정안을 공포할 계획이다. 공공정책급여와 진료비 차등 지급, 지역 가산분 본인부담 면제 등은 내년 1월 1일부터 시행할 예정이다.\n유주헌 복지부 건강보험정책국장은 “이번 개정은 환자가 적은 지역에서도 꼭 필요한 진료가 유지되도록 건강보험이 보상하는 길을 연다는 의미가 있다”라며, “지역 가산이 환자 부담으로 이어지지 않도록 하는 만큼, 입법예고 기간에 현장과 국민의 의견을 충분히 듣고 내년 1월 시행을 준비하겠다”라고 했다.",
+      "authors": [
+        "김상기 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "0c8ab7539361",
+      "source_id": "rapportian",
+      "source_name": "라포르시안",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "바이엘 ‘아뎀파스’, 12월부터 만성 혈전색전성 폐고혈압에 급여 적용",
+      "url": "https://rapportian.com/news/articleView.html?idxno=242988",
+      "published": "2026-11-27T14:30:00Z",
+      "summary": "[라포르시안] 바이엘 코리아(대표이사 이진아)가 폐동맥고혈압 치료제 '아뎀파스'(성분명 리오시구앗)가 오는 12월 1일부터 만성 혈전색전성 폐고혈압(CTEPH) 적응증에 요양급여를 인정받는다고 27일 밝혔다.\n아뎀파스는 2014년 6월 식약처로부터 CTEPH(WHO 그룹 4)와 WHO 기능분류 2~3단계 PAH(WHO 그룹 1) 성인 환자 운동능력 개선 치료제로 허가받았다. 보건복지부 고시에 따르면 아뎀파스는 3개월 이상 항응고제 투여 후 영상검사에서 혈전색전증이 확인되고 우심도자 검사로 폐고혈압이 확진된 CTEPH 환자 중에서 ▲평균 폐동맥압 20mmHg 초과하면서 폐동맥혈전제거술 및 풍선폐혈관성형술이 불가능한 경우 ▲수술 또는 풍선폐혈관성형술 시행 3개월 이후 평균 폐동맥압이 20mmHg를 초과하는 경우 급여 적용을 받는다.\n아뎀파스는 국내에서 CTEPH 적응증으로 허가받은 유일한 치료제다. 이번 급여 적용으로 수술이 어렵거나 수술 후에도 질환이 지속되는 환자의 치료 접근성이 높아질 전망이다.\n지난해 6월 폐동맥고혈압(PAH) 적응증 급여 적용에 이어 국내 허가된 두 적응증 모두 급여를 받게 됐다. CTEPH은 지난 24일 질병관리청 국가관리대상 희귀질환으로 신규 지정돼 향후 산정특례 등 국가 지원 정책과 연계될 경우 환자 부담 완화 효과도 더해질 것으로 보인다.\n이번 급여 적용은 글로벌 3상 임상연구 CHEST-1과 장기 연장 연구 CHEST-2 결과를 바탕으로 이뤄졌다. 26개국 89개 기관에서 수술 불가 또는 수술 후 지속·재발한 18~80세 CTEPH 환자 261명을 대상으로 진행한 CHEST-1 연구에서 아뎀파스군은 16주 시점 6분 보행거리가 평균 39m 늘어난 반면 위약군은 평균 6m 줄어 위약군 대비 46m 개선 효과를 보였다.\n폐혈관저항(PVR)과 심부전 지표 NT-proBNP에서도 개선이 확인됐다. CHEST-1 완료 환자 237명이 참여한 CHEST-2 연구에서는 1년 시점까지 6분 보행거리와 세계보건기구(WHO) 기능 등급 개선이 이어졌고 새로운 안전성 문제는 나타나지 않았다.\n김계훈 대한폐고혈압학회 차기회장(전남대병원 순환기내과 교수)은 “수술이 어렵거나 수술 후에도 폐고혈압이 지속되는 환자에게 약물 치료 역할이 중요하지만 그동안 쓸 수 있는 옵션이 없어 어려움이 컸다”며 “sGC를 직접 자극하는 기전의 아뎀파스가 운동능력 개선 효과를 입증한 만큼 급여 적용과 희귀질환 지정으로 치료 접근성이 넓어질 것”이라고 전망했다.\n이진아 바이엘 코리아 대표는 “CTEPH 적응증으로 허가받은 유일한 치료제인 아뎀파스의 급여 인정과 희귀질환 지정으로 환자 치료 접근성이 한층 높아졌다”며 “희귀질환 환자들이 치료 과정에서 소외되지 않고 적시에 치료받도록 최선을 다하겠다”고 했다.",
+      "authors": [
+        "김상기 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "9431a4896323",
+      "source_id": "rapportian",
+      "source_name": "라포르시안",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "엘앤씨바이오, 싱가포르서 인체조직 유래 ECM 임상 사례 발표",
+      "url": "https://rapportian.com/news/articleView.html?idxno=242992",
+      "published": "2026-11-27T14:10:00Z",
+      "summary": "[라포르시안] 세포외기질(ECM) 플랫폼 기업 엘앤씨바이오(대표 이환철)가 싱가포르 국제학술대회에서 인체조직 가공 기술력과 피부 ECM 제품의 임상 활용 사례를 소개하며 글로벌 학술교류 확대에 나섰다.\n회사는 이달 18일부터 22일까지 싱가포르 의료혁신센터에서 열린 PASM(Plastic Aesthetic Surgery Meeting) 2026과 NIMAS(Non-Invasive Medical Aesthetics Symposium) 2026에 참가했다고 밝혔다.\n올해 18회를 맞은 PASM은 싱가포르 주요 성형외과 관련 학술단체가 공동 주최하는 대표적인 국제학술대회다. 싱가포르를 비롯한 아시아와 세계 각국 의료 전문가들이 참여해 성형외과 분야 최신 수술 기법과 임상 경험·혁신 의료기술을 공유한다. 특히 올해는 기존 미용성형 분야에 재건성형 전문 세션을 신설해 학술적 범위를 확대했다.\n지난 22일 열린 NIMAS는 싱가포르성형외과학회(SAPS)가 주관한 비침습 미용의학 전문 학술대회로 올해 처음 개최됐다. 성형외과 전문의와 미용의학 분야 의료진 및 산업계 전문가들이 참석해 최신 미용의학 기술과 임상 동향을 공유하고 근거 중심 의료와 환자 안전을 바탕으로 미용의학 발전 방향을 논의했다.\n현지 의료진 200여 명이 참석한 이번 학술대회에서 리투오 자문의(ABM·Advisory Board Member)로 활동 중인 이영재 신상성형외과 대표원장은 NIMAS의 바이오스티뮬레이터 및 스킨부스터 관련 학술 세션 연자로 나서 ‘리투오의 안면 피부 개선 및 흉터 관련 임상 활용’(Usage of Re2O for Facial Rejuvenation and Scars)을 주제로 발표했다.\n이 원장은 메가덤(MegaDerm)을 비롯한 인체조직이식재의 재건 의료 분야 활용 경험과 이를 바탕으로 개발된 피부 ECM 제품 리투오(Re2O)의 소재적 특성, 피부 상태에 따른 임상 활용 사례를 공유했다. 특히 인체 피부의 구조적 특성과 ECM 역할을 중심으로 기존 미용의학 소재와 차별화되는 인체조직 유래 ECM의 특성과 활용 가능성을 설명했다.\n리투오는 기증받은 인체 피부에서 세포 성분을 제거한 무세포동종진피(hADM·human Acellular Dermal Matrix)를 미세입자 형태로 정밀 가공한 제품이다. 콜라겐·엘라스틴 등 인체 피부 구조를 이루는 다양한 ECM 구성 성분을 기반으로 한다는 점이 특징이다.\n학술대회에 참석한 현지 의료진은 리투오의 소재적 특성과 임상 활용 사례뿐 아니라 제품 적용 전후 피부 변화에 대한 객관적인 평가 방법에도 관심을 보였다. 기존 리투오와 리투오 파인(Re2O Fine)·신제품 리투오 V(Re2O V)를 비롯해 인체조직이식재 메가덤과 3D 인공지능(AI) 피부 분석 솔루션 루스킨 엑스(Luskin X) 등 엘앤씨바이오의 다양한 제품과 기술에도 관심이 이어졌다.\n엘앤씨바이오는 “메가덤에서 리투오로 이어지는 독자적인 인체조직 가공 기술과 임상 경험을 기반으로 글로벌 의료진과의 학술교류를 강화하고, K-ECM의 글로벌 경쟁력과 시장 입지를 확대해 나가겠다”고 밝혔다.",
+      "authors": [
+        "정희석 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "808df370edc0",
+      "source_id": "rapportian",
+      "source_name": "라포르시안",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "여드름흉터, 패인 형태에 따라 치료법 달라…유형별 맞춤 치료 중요",
+      "url": "https://rapportian.com/news/articleView.html?idxno=242990",
+      "published": "2026-11-27T14:05:03Z",
+      "summary": "여드름이 가라앉은 뒤에도 볼이나 관자놀이 등에 움푹 팬 흉터가 남아 고민하는 경우가 많다. 이러한 흉터는 화장으로 가리기 어렵고 조명이나 피부 상태에 따라 굴곡이 더욱 두드러져 보일 수 있다. 특히 겨울철에는 자외선 노출이 상대적으로 적어 여드름흉터 치료를 고려하는 이들이 있다.\n여드름흉터 치료에서 우선 확인해야 할 부분은 피부에 남은 흔적이 단순한 여드름 자국인지, 실제 피부 조직이 손상된 흉터인지 구분하는 것이다.\n여드름이 사라진 자리에 남는 붉은 자국이나 갈색 색소침착은 피부 표면이 패이지 않은 상태로, 시간이 지나면서 점차 옅어질 수 있다. 반면 피부가 움푹 꺼진 형태의 흉터는 염증으로 인해 피부 조직이 손상된 경우로, 자연적인 회복만으로 개선되기 어려울 수 있다.\n패인 여드름흉터는 형태에 따라 크게 아이스픽형, 박스형, 롤링형으로 구분된다. 각 유형은 흉터의 깊이와 경계, 피부 아래 조직의 손상 양상에서 차이를 보이기 때문에 치료 방법도 달라질 수 있다.\n아이스픽형은 송곳으로 피부를 찌른 것처럼 입구가 좁고 깊게 패인 형태다. 박스형은 흉터의 경계가 비교적 뚜렷하고 바닥이 평평한 상자 모양을 띤다. 롤링형은 피부 표면이 완만하게 물결치듯 꺼져 보이는 형태로, 피부 아래 섬유 조직이 표면을 잡아당기면서 발생하는 경우가 많다.\n이처럼 흉터의 형태와 발생 원인이 서로 다르기 때문에 모든 여드름흉터에 동일한 치료를 적용하기는 어렵다.\n깊고 좁은 아이스픽형 흉터에는 해당 부위에 약물을 국소적으로 적용해 피부 재생을 유도하는 방법이 활용될 수 있다. 박스형 흉터에는 프락셔널 레이저나 고주파 미세침 치료 등을 통해 피부의 재생 반응을 유도하는 방식이 고려된다.\n롤링형 흉터는 피부 아래에서 조직을 당기는 섬유성 유착이 원인인 경우가 있어, 이러한 조직을 분리하는 치료를 병행하기도 한다.\n실제 여드름흉터 환자들은 한 가지 유형만 나타나기보다 여러 형태의 흉터가 복합적으로 분포하는 경우가 많다. 이에 따라 흉터의 깊이와 범위, 피부 상태 등을 종합적으로 확인하고 유형별 치료를 조합하는 접근이 필요하다.\n또한 피부 조직이 재생되는 데 일정한 시간이 소요되는 만큼 단기간에 치료를 마무리하기보다는 적절한 간격을 두고 여러 차례 시술을 진행하는 경우가 일반적이다.\n여드름흉터 치료를 시작하기 전에는 현재 진행 중인 여드름이 있는지도 확인해야 한다. 염증성 여드름이 지속적으로 발생하면 새로운 흉터가 형성될 수 있어, 활동성 여드름을 먼저 조절하는 것이 중요하다.\n평소 여드름을 손으로 짜거나 반복적으로 자극하는 습관도 주의해야 한다. 이러한 행동은 염증을 악화시키고 피부 조직의 손상 위험을 높일 수 있다. 여드름 치료제를 복용하고 있다면 시술 전 의료진에게 복용 여부를 알리고 치료 시기를 상담하는 것이 좋다.\n시술 후 관리 역시 치료 과정에서 중요한 부분이다. 피부가 일시적으로 민감해질 수 있으므로 충분한 보습을 유지하고, 시술 부위에 생긴 각질이나 딱지를 무리하게 제거하지 않도록 주의해야 한다.\n겨울철에도 자외선 차단은 필요하다. 시술 후 자외선에 노출되면 색소침착이 발생하거나 기존 자국이 짙어질 수 있어 자외선 차단제를 꾸준히 사용하는 것이 권장된다.\n의료법인 정강의료재단 검단예쁨의원 엄태호 원장은 “여드름 흉터는 겉으로 비슷하게 패여 보여도 아이스픽형, 박스형, 롤링형에 따라 손상된 깊이와 원인이 다르다”며 “흉터 유형을 구분하지 않고 같은 레이저만 반복하면 비용과 시간에 비해 개선이 더딜 수 있어, 흉터 모양에 맞는 치료를 조합하는 것이 중요하다”고 설명했다.\n이어 엄 원장은 “여드름흉터 상담을 받는 분들께 자주 말씀드리는 부분인데, 여드름 흉터는 한두 번의 치료로 완전히 없어지기보다 여러 차례에 걸쳐 단계적으로 개선되는 경우가 많다”며 “현재 여드름 상태와 피부 타입, 일상 복귀 일정까지 함께 고려해 현실적인 치료 계획을 세우고, 치료 기간 동안 자외선 차단과 보습 관리를 꾸준히 이어가는 것이 좋다”고 조언했다.",
+      "authors": [
+        "이상섭 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "1b1d098916cd",
+      "source_id": "rapportian",
+      "source_name": "라포르시안",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "의협, 대법원과 간담회 열고 의료감정 절차 개선 방안 모색",
+      "url": "https://rapportian.com/news/articleView.html?idxno=242991",
+      "published": "2026-11-27T14:05:00Z",
+      "summary": "[라포르시안] 대한의사협회는 효율적인 전문심리위원 제도 운영과 의료감정 등 의료 소송 절차 전반의 개선 방안을 모색하고자 대법원과 지난 25일 오후 2시 법원행정처 604호에서 '대법원-대한의사협회 간담회'를 개최했다고 27일 밝혔다.\n이날 간담회에는 대한의사협회 박명하 상근부회장, 전성훈 법제이사, 한진 법제이사, 이한결 홍보이사 겸 정책이사가 참석하였으며, 대법원 법원행정처에서는 임선지 사법지원실장(부장판사), 김보현 사법지원총괄심의관(부장판사), 이유진 민사지원제1심의관(판사)이 참석했다.\n간담회에서는 대한의사협회와 대법원의 주요 관심사에 대하여 폭넓은 의견 교환이 이루어졌으며, 참석자들은 양 기관 각자의 입장을 경청하며 공감대를 넓혔다. 법원행정처는 의료분쟁의 공정하고 신속한 해결을 위해 감정절차 관리제도를 시행하고, 감정관리센터를 중심으로 의료기관과 업무협약을 체결하는 등 의료감정제도 개선을 위해 노력해 왔다. 앞으로도 의료감정제도를 지속적으로 보완해 나가겠다고 밝혔다. 아울러 의료소송 사안이 점차 복잡해지고 세분화됨에 따라 전문심리위원과 감정인으로서 의료계가 보다 적극적으로 참여해 줄 것을 요청했다.\n의협이 법원에 추천한 의료계 전문심리위원 현황과 제도 운영 전반, 원활한 의료감정 절차 모색 등에 관하여 양 기관은 함께 고민하고 의견을 공유했다. 의협은 사건별로 적합한 전문가를 연결하는 것이 중요하며, 감정 절차의 전자화와 함께 감정인이 안심하고 감정에 참여할 수 있도록 개인정보를 보호하는 방안이 필요하다는 의견을 제시했다.\n양 기관은 또 ▲ 의료기관 폭력 방지 및 안전한 진료환경 조성에 관한 사항, ▲ 의료감정과 관련한 교육 및 지원의 필요성, ▲ 기타 의료소송 전반적 사항을 비롯한 제안 사항들에 대해 논의하고 의견을 교환했다.\n양 기관은 앞으로도 상호 필요한 현안에 대해 수시로 의견을 나누고, 국민이 신뢰할 수 있는 의료소송 절차가 공정하고 신속하게 운영될 수 있도록 긴밀히 협력해 나가기로 의견을 모았다.",
+      "authors": [
+        "이상섭 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "58455d02a0d3",
+      "source_id": "rapportian",
+      "source_name": "라포르시안",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "최인영 한미약품 부사장, ‘국민훈장 목련장’ 수훈",
+      "url": "https://rapportian.com/news/articleView.html?idxno=242987",
+      "published": "2026-11-27T13:30:00Z",
+      "summary": "[라포르시안] 한미약품 신약 연구개발(R&D)을 총괄하는 최인영 미래성장부문장(부사장)이 지난 25일 서울 서초구 JW 메리어트 호텔 서울에서 열린 '2026 보건산업 성과교류회' 보건의료기술진흥 유공자 정부포상 시상식에서 '국민훈장 목련장'을 수훈했다고 27일 밝혔다.\n국민훈장 목련장은 정치·경제·사회·교육·학술 분야에서 국민 복지 향상과 국가 발전에 이바지한 공적이 뚜렷한 인물에게 수여하는 훈장이다. 최 부사장은 혁신신약 개발과 글로벌 기술수출을 주도하고 국내 개발 항암 분야 바이오신약 최초로 미국 식품의약국(FDA) 허가와 상용화를 이끄는 등 한국 보건의료기술 발전과 제약바이오 산업 경쟁력 강화에 기여한 공로를 인정받았다.\n1998년 한미약품 연구원으로 입사한 최 부사장은 비만·대사질환과 희귀질환, 항암 등 다양한 영역에서 혁신신약 개발을 이끌어 왔다. 스펙트럼, 머크 등 글로벌 제약사와 기술수출 계약을 성사시켰으며 올해는 일라이 릴리와 단장증후군 치료제 '소네페글루타이드' 기술수출 과정에서도 핵심 역할을 맡았다.\n신약 상용화 부문에서도 뚜렷한 족적을 남겼다. 호중구감소증 치료 바이오신약 '롤론티스'(미국명 롤베돈) 개발에 기여해 2022년 국내 항암 분야 바이오신약 최초 FDA 허가와 상용화를 달성했다. 롤론티스는 기술 혁신성과 사업화 성과를 인정받아 올해 'IR52 장영실상'을 받았다.\n신약 연구개발 현장에서 직접 연구를 수행하며 신물질과 플랫폼 기술 개발을 주도한 연구자로 현재까지 350여 건의 특허를 등록·보유하고 있다. 연구 성과를 핵심 지식재산권으로 확보하고 기술사업화로 연결해 신약 연구개발부터 특허, 기술수출, 상용화로 이어지는 한미약품 R&D 선순환 체계 구축에 일조했다.\n최인영 부사장은 \"국민훈장 목련장은 한미의 모든 연구원이 오랜 기간 함께 축적해 온 연구개발 역량과 혁신을 향한 도전의 결과\"라며 \"앞으로도 R&D 경쟁력을 더욱 고도화하고 글로벌 시장에서 가치를 인정받는 혁신신약을 지속 창출해 대한민국 보건의료기술 발전과 제약바이오 산업 글로벌 경쟁력 강화에 기여하겠다\"고 말했다.",
+      "authors": [
+        "김상기 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "2a44ed8e8f01",
+      "source_id": "rapportian",
+      "source_name": "라포르시안",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "찬바람 부는 11월, 치핵 증상 주의…수분 섭취 부족•배변 미루는 습관이 원인 될 수도",
+      "url": "https://rapportian.com/news/articleView.html?idxno=242985",
+      "published": "2026-11-27T13:15:00Z",
+      "summary": "아침저녁으로 찬바람이 불면서 두꺼운 외투를 꺼내 입는 사람이 늘고 있다. 땀을 많이 흘리는 여름과 달리 쌀쌀한 날씨에는 갈증을 덜 느껴 평소보다 수분 섭취량이 줄어들기 쉽다. 이러한 생활 습관의 변화는 변비를 유발하고 항문 건강에도 영향을 미칠 수 있다.\n치핵은 항문 내부와 주변의 혈관 및 지지 조직이 늘어나 덩어리 형태로 부풀어 오르는 질환이다. 수분 섭취가 줄어들면 대변이 딱딱해지기 쉽고, 추운 날씨에 화장실 이용을 꺼리거나 배변을 미루는 습관까지 더해지면 대변이 장에 머무는 시간이 길어진다. 단단해진 변을 배출하기 위해 과도하게 힘을 주는 과정에서 항문 조직에 압력이 집중되면서 치핵이 발생하거나 기존 증상이 악화될 수 있다.\n치핵의 대표적인 초기 증상 중 하나는 배변 후 휴지에 묻어나는 선홍색 혈액이다. 통증이 거의 없는 경우도 있어 변이 딱딱해지면서 발생한 일시적인 증상으로 여기고 지나치기 쉽다. 그러나 항문 조직에 반복적으로 자극이 가해지면 출혈이 잦아지거나 조직이 항문 밖으로 빠져나오는 탈출 증상이 나타날 수 있다.\n동작구 서울치항외과 정형석 원장은 “날씨가 쌀쌀해지는 시기에는 배변 후 항문 주위가 묵직하거나 피가 비친다며 찾아오는 환자들이 있다”며 “통증이 없다는 이유로 대수롭지 않게 여기기 쉽지만, 배변 시 출혈은 치핵의 대표적인 초기 증상 중 하나”라고 설명했다.\n치핵은 진행 정도에 따라 출혈과 항문 주위의 묵직함, 이물감, 배변 시 조직이 빠져나오는 탈출 증상 등이 나타날 수 있다. 초기에는 약물치료와 식습관 및 배변 습관 교정 등으로 증상을 관리할 수 있지만, 탈출 정도가 심해지거나 일상생활에 불편이 지속되는 경우에는 수술적 치료를 고려하기도 한다.\n항문 건강을 유지하기 위해서는 충분한 수분과 식이섬유를 섭취하고 배변 신호를 참지 않는 한편, 화장실에 장시간 앉아 있거나 과도하게 힘을 주는 습관을 피하는 것이 중요하다.\n정 원장은 “출혈만 있을 때와 조직이 빠져나오기 시작한 이후에는 증상의 진행 정도에 따라 치료 방법이 달라질 수 있다”며 “배변 시 출혈이 반복된다면 다른 질환과의 감별을 위해 진찰을 받고 상태에 맞는 관리 방법을 확인하는 것이 이후의 치료 부담을 줄이는 데 도움이 될 수 있다”고 말했다.",
+      "authors": [
+        "이상섭 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "2e12d5f8fdc0",
+      "source_id": "rapportian",
+      "source_name": "라포르시안",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "두꺼운 겨울옷에 가려진 ‘말랑한 혹’… 서서히 커지는 지방종, 상태 점검 필요",
+      "url": "https://rapportian.com/news/articleView.html?idxno=242984",
+      "published": "2026-11-27T13:10:00Z",
+      "summary": "패딩과 니트, 목도리 등으로 몸을 감싸는 계절이 되면서 피부 표면의 변화도 알아차리기 어려워진다. 여름철에는 거울을 통해 쉽게 확인할 수 있었던 작은 멍울이 두꺼운 옷에 가려져 한동안 발견되지 않는 경우도 있다. 샤워 중 우연히 만져지거나 가방끈과 옷 솔기가 닿는 부위에 불편함을 느끼면서 뒤늦게 발견하기도 한다.\n지방종은 피부 아래 지방 조직이 덩어리 형태로 자라면서 발생하는 양성 종양으로, 등과 어깨, 목덜미, 팔, 허벅지 등에 흔히 나타난다. 손으로 눌렀을 때 말랑하고 피부 아래에서 움직이는 특징이 있으며, 대개 통증이 없어 일상생활에서 불편함을 느끼지 못하는 경우가 많다. 이 때문에 단순히 살이 뭉친 것으로 여기거나 노화에 따른 변화로 생각해 지나치기 쉽다. 그러나 지방종은 자연적으로 줄어들거나 사라지는 경우가 드물고 시간이 지나면서 서서히 커질 수 있다.\n문제는 외형이나 촉감만으로 지방종과 다른 질환을 구분하기 어렵다는 점이다. 피부 아래 발생하는 멍울에는 표피낭종이나 섬유종 등 다른 양성 질환도 있으며, 드물게는 지방육종과 같은 악성 종양과의 감별이 필요한 경우도 있다. 멍울을 임의로 짜거나 반복적으로 자극하면 주변 조직에 염증과 통증이 발생할 수 있어 주의해야 한다.\n일산 삼성바로하지의원 홍상민 원장은 “지방종은 대부분 양성 종양이지만, 직접 만져보는 것만으로는 정확한 성격을 파악하기 어렵다”며 “크기가 갑자기 커지거나 단단하게 만져지는 경우, 통증이 생기거나 근육 쪽으로 깊이 자리 잡은 것으로 의심되는 경우에는 미루지 말고 초음파 검사 등을 통해 확인해야 한다”고 설명했다.\n지방종은 일반적으로 약물이나 연고, 마사지 등으로 제거하기 어려우며, 제거가 필요한 경우 외과적 절제를 고려할 수 있다. 크기가 작을 때는 국소마취하에 비교적 작은 절개로 제거할 수 있지만, 크기와 발생 위치, 깊이 등에 따라 절제 범위와 회복 과정이 달라질 수 있다. 통증이 없는 지방종이라도 크기와 위치에 따라 주변 조직을 압박하거나 신체 움직임에 불편을 줄 수 있는 만큼 치료 여부는 개인별 상태를 종합적으로 고려해 결정해야 한다.\n겨울철은 두꺼운 옷으로 절제 부위를 가리기 쉽고 자외선 노출이 상대적으로 적지만, 시술 이후에는 의복에 의한 마찰과 상처 관리에도 유의해야 한다.\n홍 원장은 “지방종은 통증이 없다는 이유로 방치하는 사이 크기가 커져 제거 과정에서 부담이 늘어나는 경우가 있다”며 “발견 당시의 크기와 위치를 기억해 두고, 몇 달 사이 눈에 띄는 변화가 나타났다면 진료를 통해 상태를 확인하는 것이 중요하다”고 덧붙였다.",
+      "authors": [
+        "이상섭 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "25a1deb43023",
+      "source_id": "rapportian",
+      "source_name": "라포르시안",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "쌀쌀한 날씨에 굳은 허리, 김장철 무리한 동작 주의…다리 저림 동반하면 허리디스크 의심",
+      "url": "https://rapportian.com/news/articleView.html?idxno=242983",
+      "published": "2026-11-27T13:05:00Z",
+      "summary": "겨울 문턱에 들어서며 기온이 낮아지는 가운데 본격적인 김장철을 맞아 허리 건강에 유의할 필요가 있다. 무거운 배추와 김장 재료를 옮기거나 허리를 숙인 채 장시간 작업하다 보면 허리 통증과 함께 다리가 저리고 당기는 증상이 나타날 수 있다.\n기온이 낮아지면 체온을 유지하기 위해 근육이 수축하면서 허리를 지탱하는 근육도 평소보다 경직되기 쉽다. 근육이 충분히 이완되지 않은 상태에서 무거운 물건을 들거나 갑자기 몸을 굽히면 척추뼈 사이에서 충격을 흡수하는 디스크에 부담이 가해질 수 있다. 디스크 내부의 수핵이 섬유륜을 뚫고 돌출돼 주변 신경을 압박하는 질환을 허리디스크(요추 추간판탈출증)라고 한다.\n허리디스크는 허리 통증뿐 아니라 엉덩이와 허벅지, 종아리를 따라 전기가 오는 듯한 저림이나 당김 증상이 나타날 수 있다. 기침을 하거나 앉았다 일어설 때 통증이 심해지기도 한다. 이러한 증상을 단순 근육통으로 여겨 파스를 붙이거나 찜질을 하는 경우도 있지만, 신경 압박으로 발생한 증상은 휴식과 찜질만으로 호전되지 않을 수 있다.\n인천 미추홀구 바로척정형외과 오정한 대표원장은 “실제 진료실에서도 허리디스크 초기 증상과 단순 근육통의 차이를 묻는 환자가 적지 않다. 쌀쌀한 날씨에 허리가 경직된 상태에서 김장처럼 무리한 동작을 한 뒤 다리 저림을 호소하는 경우도 있다”며 “허리 통증에 그치지 않고 엉덩이나 다리까지 증상이 이어진다면 디스크가 신경을 압박하고 있을 가능성을 고려해야 한다”고 설명했다.\n허리디스크로 진단받았다고 해서 모든 환자에게 수술이 필요한 것은 아니다. 신경 압박 정도와 증상에 따라 약물치료, 주사치료, 물리치료, 운동치료 등 비수술적 방법으로 증상 개선을 도모할 수 있다. 다만 다리에 힘이 빠져 발을 제대로 들어 올리지 못하거나 대소변 조절에 이상이 생기는 경우에는 신경 손상 가능성이 있는 만큼 즉시 응급 진료를 받아야 한다.\n또한 통증이 줄었다고 해서 디스크의 구조적 변화까지 회복됐다고 단정하기는 어렵다. 증상이 호전된 이후에도 허리를 지탱하는 근력을 유지하고 올바른 자세와 생활 습관을 관리하는 것이 재발 예방에 중요하다.\n오정한 원장은 “허리디스크 진단을 받으면 반드시 수술해야 하는지 묻는 환자들이 많다. 통증이 줄어든 뒤에도 기존의 잘못된 생활 습관을 반복하면 증상이 재발하는 경우가 적지 않다”며 “정밀 진단을 통해 신경 압박 정도를 파악한 뒤 개인별 상태에 맞는 치료와 허리 근력 및 자세 관리를 병행하는 것이 중요하다”고 조언했다.",
+      "authors": [
+        "이상섭 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "bd410e05274a",
+      "source_id": "medipana",
+      "source_name": "메디파나뉴스",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "바커케미칼코리아, 일·생활 균형 우수기업 선정",
+      "url": "https://medipana.com/news/articleView.html?idxno=422867",
+      "published": "2026-11-28T09:48:26Z",
+      "summary": "육아휴직이나 병가로 장기간 자리를 비운 직원의 업무를 대신하는 동료에게 수당을 지급하고, 난임 치료비를 지원하는 등 임직원 복지를 확대한 바커케미칼코리아가 정부의 일·생활 균형 우수기업에 선정됐다.\n독일 뮌헨에 본사를 둔 글로벌 화학·바이오 기업 바커(WACKER)의 한국 현지 법인 바커케미칼코리아는 지난 26일 고용노동부의 '2026 대한민국 일·생활 균형 우수기업'에 선정됐다고 밝혔다.\n고용노동부 주최, 노사발전재단 주관의 '대한민국 일·생활 균형 우수기업'은 유연근무와 근로시간 관리, 휴가 활용, 일·육아 병행 등에서 모범을 보인 기업을 선정하는 인증 제도다. 근로자의 일과 생활의 균형을 맞추는 문화의 확산을 도모하기 위해 마련됐다.\n우수기업에 선정된 기업에는 정기 근로감독·세무조사 유예, 공공조달 가점, 출입국·기술보증·신용보증 우대, 고용24 내 별도 채용관 운영 등 다양한 혜택이 제공된다.\n바커케미칼코리아는 ▲유연근무제 운영 및 인프라 확대 ▲초과근무 감축 노력 ▲출산·육아 지원 제도 개선 ▲일하는 방식과 조직문화 개선 등 주요 항목에서 높은 평가를 받았다.\n회사는 재택근무·시차 출근·선택근무제 등 유연근무를 운영하고, 초과근무 승인제로 근로시간을 관리한다. 반반차 휴가와 남성 육아휴직, 근속휴가, 하계휴가, 병가 등을 지원하며 출산 축하 및 자녀 교육비 지원제도도 시행 중이다. 자율좌석제와 수평적 호칭제를 통해 업무환경과 조직문화도 개선하고 있다.\n11월부터는 '업무분담 지원제도'와 '난임 치료 지원제도'를 새롭게 도입한다. 업무분담 지원제도는 육아휴직이나 병가 등 장기휴가자의 업무를 대신 수행하는 동료에게 수당을 지급해 휴직을 부담 없이 사용하는 제도다.\n난임 치료 지원제도는 난임 치료 중인 임직원의 경제적 부담을 덜기 위해 치료비를 지원하는 제도다.\n임직원의 생애주기 전반을 아우르는 복지도 강화하고 있다. 특히 정년퇴직자의 안정적인 은퇴 준비를 돕기 위해 퇴직연금 교육, 심리상담 확대, 재고용 기회 연계 등 맞춤형 지원을 확대할 예정이다.\n김지영 바커케미칼코리아 대표이사는 \"임직원은 회사와 함께 성장하는 파트너\"라며 \"당사는 '양질의 일자리 창출, 회사와 함께 성장하는 구성원, 사회적 책임을 다하는 기업'이라는 비전 아래, 앞으로도 결혼, 출산, 가족돌봄, 정년 등 임직원의 생애주기 맞춤 일·생활 균형 제도를 강화하여 저출산 문제 해결에 기여하고 조직 경쟁력을 함께 높여 나가겠다\"고 밝혔다.",
+      "authors": [
+        "조해진 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "e09433a16772",
+      "source_id": "medipana",
+      "source_name": "메디파나뉴스",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "요로감염 항생제, 국소·전신 감염 따라 선택 달라",
+      "url": "https://medipana.com/news/articleView.html?idxno=422866",
+      "published": "2026-11-28T09:42:06Z",
+      "summary": "요로감염은 감염이 방광에 국한됐는지, 발열·오한 등 전신 증상이 동반됐는지에 따라 항생제 선택이 달라진다.\n약학정보원(원장 차용일)은 지난 26일 발행한 온라인 학술정보지 '팜리뷰' 11월호에서 질병관리청과 대한항균요법학회가 올해 발간한 '2026 요로감염 항생제 적정사용을 위한 실무지침'의 주요 치료 권고사항을 소개했다.\n이번 '팜리뷰'는 지침을 두 차례에 걸쳐 소개했다. 지난 10월에는 요로감염의 발생 현황과 분류체계, 증상·진단·검사, 무증상 세균뇨 관리 및 항생제 선택 알고리즘을 다뤘다. 11월에는 국소·전신 요로감염과 특수 상황의 치료, 주요 항생제의 신기능별 용량과 사용 시 주의사항에 초점을 맞췄다.\n요로감염은 방광에 국한된 국소 요로감염과 발열·오한·옆구리 통증 등이 동반된 전신 요로감염으로 분류한다. 경험적 항생제 선택은 질환 분류, 패혈증 여부를 포함한 중증도, 내성균 감염 위험인자, 환자별 특성과 고려사항, 의료기관의 항생제 감수성 자료를 종합적으로 평가해 이뤄진다.\n국소 요로감염의 1차 약제는 니트로푸란토인(nitrofurantoin, 5일) 또는 포스포마이신(fosfomycin, 3g 1회)이며, 두 약제는 전신 요로감염에는 사용하지 않는다. 니트로푸란토인은 크레아티닌 청소율(CrCl) 30mL/min 미만과 임신 말기에 금기다.\n전신 요로감염의 경험적 항생제 요법으로는 패혈증이 없는 경우 주사제형으로 3·4세대 세팔로스포린(cephalosporin), 피페라실린/타조박탐(piperacillin/tazobactam), 플루오로퀴놀론(fluoroquinolone) 등이 추천되며, 대안 약제로 아미노글리코사이드(aminoglycoside) 계열인 아미카신(amikacin)을 고려할 수 있다.\n경구제로는 시프로플록사신(ciprofloxacin), 레보플록사신(levofloxacin), 트리메토프림/설파메톡사졸(trimethoprim-sulfamethoxazole, TMP-SMX) 등이 추천되며, 대안으로 아목시실린/클라불란산(amoxicillin/clavulanate), 세팔로스포린(cephalosporin) 등을 고려할 수 있다. 전신 요로감염에 사용되는 약제의 용량 정보도 구체적으로 제시했다.\n원고를 작성한 권기정 영남대학교 약제부 학술위원은 \"항생제 내성은 세계적으로 심각한 임상적 및 공중보건학적 문제로 인식되고 있다\"고 밝혔다.\n이어 \"현재 의료기관을 중심으로 항생제 적정사용관리(Antimicrobial Stewardship Program, ASP) 시범사업이 실시되고, 항생제 사용관리가 강화되는 추세에서 임상현장에서 실질적으로 활용할 수 있는 지침의 내용에 대한 이해와 적용은 매우 중요하다\"고 강조했다.\n해당 '팜리뷰'는 약학정보원 홈페이지와 약국 서비스 플랫폼 PharmIT3000, PM+20에서 확인할 수 있다.",
+      "authors": [
+        "조해진 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "6b28e9aff568",
+      "source_id": "medipana",
+      "source_name": "메디파나뉴스",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "경도인지장애 당사자 10명의 '건강이웃'…한국에자이 CSR 대상",
+      "url": "https://medipana.com/news/articleView.html?idxno=422865",
+      "published": "2026-11-28T09:22:14Z",
+      "summary": "경도인지장애 당사자가 지역사회에서 이웃을 돕는 노인일자리 모델 '건강이웃'이 기업의 사회적 책임 활동 사례로 주목받았다. 이들의 참여 과정을 담은 영상이 올해 CSR 필름 페스티벌에서 대상을 받았다.\n한국에자이는 살림의료복지사회적협동조합, 한국노인인력개발원, 은평구치매안심센터와 함께 출품한 '경도인지장애 노인일자리 건강이웃' 활동 영상으로 '2026 CSR 필름 페스티벌 어워드'에서 안심 돌봄 부문 대상(서울특별시장상)을 수상했다고 밝혔다.\n시상식은 지난 25일 서울 웨스틴 서울 파르나스에서 열렸다. 한국에자이와 3개 협력기관은 이번 수상을 통해 경도인지장애 당사자의 사회참여와 지역사회 돌봄을 연결한 활동의 의미를 영상으로 전했다.\nCSR 필름 페스티벌 어워드는 기업·공공기관·비영리단체의 사회적 책임 실천 사례를 발굴하고 알리는 행사로, 2012년 시작해 올해 15회를 맞았다. ISO 26000을 기반으로 사회문제의 중대성, 해결 기여도, 기획 창의성 등을 평가한다.\n수상 영상에 담긴 '건강이웃'은 경도인지장애 당사자 10명이 참여하는 노인일자리 모델이다. 당사자를 단순한 돌봄과 지원의 대상으로만 바라보는 데서 벗어나, 이들이 지역사회에서 다른 사람을 돕고 사회적 역할을 수행하는 주체임을 보여준다.\n한국에자이는 기업사회혁신 브랜드 '인지마루'를 중심으로 치매와 경도인지장애를 둘러싼 지역사회 문제를 발굴하고, 다양한 기관과 협력해 해결 방안을 모색하고 있다. 이번 영상은 이러한 활동과 협력 과정, 당사자의 사회참여 가능성을 담았다는 점에서 의미가 있다.\n안우석 한국에자이 기업사회혁신 부장은 \"이번 수상은 경도인지장애가 있어도 지역사회 안에서 자신의 역할을 수행하고 다른 사람에게 기여할 수 있다는 가능성을 영상으로 전했다는 점에서 의미가 있다\"며 \"한국에자이는 앞으로도 다양한 파트너와 함께 기존의 돌봄 방식을 넘어서는 사회적 실천을 시도하고, 이러한 모델이 지역사회에 확산될 수 있도록 노력하겠다\"고 말했다.\n한국에자이는 앞으로도 기업의 자원과 역량을 사회문제 해결에 연결하고 다양한 주체와 함께 더 나은 사회를 만들어가는 기업사회혁신 활동을 이어갈 계획이다.",
+      "authors": [
+        "조해진 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "a4e90652bc3e",
+      "source_id": "medipana",
+      "source_name": "메디파나뉴스",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "수술 어려운 CTEPH 환자, '아뎀파스' 12월부터 급여",
+      "url": "https://medipana.com/news/articleView.html?idxno=422863",
+      "published": "2026-11-28T09:04:36Z",
+      "summary": "수술이 어렵거나 수술·시술 후에도 폐고혈압이 지속되는 만성 혈전색전성 폐고혈압(CTEPH) 환자의 치료 접근성이 확대된다.\n바이엘 코리아(대표이사 이진아)는 27일 자사의 폐고혈압 치료제 '아뎀파스(리오시구앗)'가 오는 12월 1일부터 CTEPH 적응증에 건강보험 급여가 적용된다고 밝혔다.\n보건복지부 고시에 따른 급여 대상은 항응고제를 3개월 이상 투여해도 CT, 폐 스캔, 폐동맥조영술 등에서 혈전색전증이 확인되고 우심도자 검사로 폐고혈압을 확진받은 CTEPH 환자다.\n이 가운데 ▲평균 폐동맥압이 20mmHg를 넘고 폐동맥혈전제거술과 풍선폐혈관성형술이 모두 불가능하거나 ▲두 시술 중 하나를 받은 지 3개월이 지나도 평균 폐동맥압이 20mmHg를 초과하는 경우 급여가 인정된다.\n아뎀파스는 국내에서 CTEPH 적응증으로 허가받은 유일한 치료제로, 이번 급여 적용으로 수술 및 풍선폐혈관성형술을 시행하기 어렵거나 수술 후에도 질환이 지속되는 환자의 치료 접근성이 확대될 것으로 기대된다.\n이번 CTEPH 급여 인정으로 아뎀파스는 지난해 6월 폐동맥고혈압(PAH) 적응증에 급여가 적용된 데 이어, 국내 허가된 두 적응증 모두에서 급여 적용이 가능해졌다.\n아울러 CTEPH은 11월 24일 질병관리청의 국가관리대상 희귀질환으로 신규 지정됐다. 아뎀파스의 급여인정과 더불어 향후 산정특례 적용 등 국가 지원 정책과 연계될 경우, 환자의 경제적 부담을 완화하고 치료 접근성을 높이는 데에도 기여할 것으로 기대된다.\nCTEPH은 폐동맥 안에 남은 혈전이 섬유화돼 혈관을 점차 막으면서 폐동맥압을 높이고 폐 혈류를 떨어뜨리는 질환이다. 전체 폐고혈압의 약 3%를 차지하는 희귀질환으로, 호흡 곤란과 피로, 흉통, 어지럼증, 부종, 기침, 객혈 등의 증상이 나타난다. 적절히 치료하지 않으면 우심부전이나 사망으로 이어질 수 있다.\nCTEPH 진단에는 3개월 이상 항응고제 치료 후에도 남는 폐 관류 결손과 함께 ▲평균 폐동맥압 20mmHg 초과 ▲폐동맥 쐐기압 15mmHg 이하 ▲폐혈관 저항 2 Wood units 초과 등의 혈역학적 기준이 적용된다.\n주요 치료법인 폐동맥내막절제술(PEA)은 병변 위치나 동반 질환 때문에 환자 약 40%에서 시행이 어렵고, 수술 환자의 약 10~35%에서는 폐고혈압이 남거나 재발한다. 이러한 환자군에는 폐혈관성형술과 아뎀파스(리오시구앗)를 이용한 약물치료가 Class 1으로 권고된다.\n아뎀파스의 CTEPH 환자에 대한 건강보험 적용은 글로벌 3상 임상연구 CHEST-1과 장기 연장 연구 CHEST-2에서 확인된 임상적 유효성 및 안전성 결과를 근거로 이뤄졌다.\nCHEST-1은 26개국 89개 기관에서 수술이 불가능하거나 폐동맥내막절제술 이후 폐고혈압이 지속·재발한 18~80세 CTEPH 환자 261명을 대상으로 진행한 글로벌 3상 연구다. 환자들을 아뎀파스 투여군과 위약군에 무작위 배정한 뒤 16주간 치료 효과를 비교했다.\n1차 유효성 평가 지표인 6분 보행거리는 아뎀파스군에서 평균 39m 늘었고 위약군에서는 평균 6m 줄었다. 위약 대비 개선 효과는 46m로 통계적으로 유의했다. 폐혈관저항(PVR)과 심부전 지표 NT-proBNP 등 2차 평가 지표도 유의하게 개선됐다.\n장기 연장 연구 CHEST-2에는 CHEST-1을 완료한 환자 중 237명이 참여했다. 참여 환자 모두 아뎀파스를 투여받았으며, 1년 시점까지 6분 보행거리와 WHO 기능 등급의 개선이 유지됐다. 새로운 안전성 문제도 관찰되지 않았다.\n대한폐고혈압학회 차기회장인 김계훈 전남대학교병원 순환기내과 교수는 \"CTEPH은 폐동맥내막절제술이 1차 치료로 권고되지만, 실제 진료 현장에서는 병변 위치나 동반 질환 등으로 수술이 어렵거나 수술 후에도 폐고혈압이 지속되는 환자들이 있어 약물 치료의 역할이 중요한데 그동안 사용할 수 있는 옵션이 없어 환자 치료에 어려움을 겪어 왔다\"고 말했다.\n이어 \"sGC를 직접 자극하는 기전의 아뎀파스는 이러한 환자들의 운동능력 개선 효과가 확인된 치료제로, 이번 급여 적용과 희귀질환 지정을 통해 치료 접근성이 높아지고 임상적 근거에 기반한 치료를 보다 폭넓게 받을 수 있을 것으로 기대한다\"고 말했다.\n이진아 바이엘 코리아 대표는 \"아뎀파스는 국내에서 CTEPH 적응증으로 허가된 유일한 치료제로, 이번 급여 인정과 희귀질환 지정을 통해 수술이 어렵거나 수술 후에도 질환이 지속되는 환자들의 치료 접근성이 한층 높아지게 되어 기쁘다\"며 \"바이엘 코리아는 CTEPH 환자들이 희귀질환이라는 이유로 더 이상 치료과정에서 소외되지 않고 적시에 치료받을 수 있도록 환자 중심의 혁신을 바탕으로 최선을 다하겠다\"고 밝혔다.\n아뎀파스는 2014년 6월 식품의약품안전처로부터 ▲수술이 불가능하거나 수술 후 지속 또는 재발하는 CTEPH(WHO 그룹 4) 성인 환자의 운동능력 개선 ▲WHO 기능분류 2~3단계인 PAH(WHO 그룹 1) 성인 환자의 운동능력 개선 용도로 허가됐다.\n지난해 6월에는 PAH 적응증에서 처음 급여가 적용됐다. 급여 대상은 ERA 및/또는 PDE-5 억제제에 반응이 불충분하거나 두 계열 약제에 모두 금기인 WHO 기능분류 2~3단계 PAH 환자다. 제형별 함량은 0.5mg, 1mg, 1.5mg, 2mg, 2.5mg 등 5가지다.",
+      "authors": [
+        "조해진 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "a8112dafcac1",
+      "source_id": "medipana",
+      "source_name": "메디파나뉴스",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "안양샘병원, 간호 우수사례 공유·굿즈 판매로 이웃돕기",
+      "url": "https://medipana.com/news/articleView.html?idxno=422862",
+      "published": "2026-11-28T08:56:18Z",
+      "summary": "안양샘병원 간호부가 한 해 동안의 임상 성과를 공유하고 지역사회 이웃돕기를 위한 나눔 행사를 진행했다. 간호 모범사례와 석사 논문을 발표하는 한편, 직접 제작한 굿즈를 판매해 약 300만원의 수익을 올렸다.\n효산의료재단 안양샘병원(병원장 권덕주)은 지난 17일 병원 지하 1층 샘누리홀에서 '2026 간호부 학술대회 및 성경축제'를 개최했다. 행사에는 권덕주 병원장, 김상한 미션원장, 우미화 간호부장을 비롯한 간호사 및 임직원 150여명이 참석했다.\n매년 열리는 이 행사는 한 해 동안 환자 곁에서 헌신한 간호사들의 노고를 격려하고, 임상현장의 간호 모범사례를 공유해 전문성을 강화하기 위해 마련됐다. 특히 '샘병원 미션의 달' 행사의 일환으로 성경 말씀을 통한 기독간호사 문화를 확산하는 한편, 올해는 어려운 이웃을 돕기 위한 간호부 자체 제작 굿즈 판매 행사도 진행했다.\n학술대회가 열린 1부에서는 간호우수상황 사례와 간호석사 논문을 발표했다. 우수간호사례 최우수상은 신관6병동 김민영 간호사에게 돌아갔다. 우수상은 응급센터 이승아·5층중환자실 이초롱 간호사, 장려상은 인공신장실 김민진·신관7병동 심희윤·전담간호 차은실 간호사가 받았다.\n신관4병동 한애리 수간호사와 본관5병동 이하늬 간호사는 간호석사 논문을 발표했다. 2부에서는 신규간호사 공채로 입사해 만 3년 근속한 간호사 19명을 격려하고 동료 간 감사와 응원을 나눴다.\n이어진 3부는 간호부 성경축제로 꾸며졌다. 공동체 화합을 위해 OX퀴즈 '다윗의 오 예스! 노 엑스', 주관식 문제 '다윗의 시에 빠진 단어 넣기', 경연 프로그램 등을 진행했다.\n'다윗의 노래방' 부문에서는 본관3병동(찬양에 진심이상), 중환자실 연합(화음이 기가 막히상), 수술마취 연합(성대에 기름부으심상)이 수상했으며, '다윗의 시 입체낭독' 부문에서는 워십팀(온몸이 예배하상), 찬양팀(고막에 은혜내리상), 사투리팀(방언의 은혜상)이 각각 수상했다.\n올해 특별히 마련된 굿즈 판매 행사에는 간호부에서 직접 기획·제작한 말씀액자, 엽서, 마그넷, 키링, 수세미, 쿠키 등 39개 항목, 500여점의 물품이 선보였다. 간호부와 병원 직원 등 177명이 참여해 약 300만원의 판매 수익을 올렸으며, 제작 재료비를 제외한 수익금 전액은 후원금과 합쳐 지역 내 어려운 이웃을 위해 기부할 예정이다.\n우미화 안양샘병원 간호부장은 \"올해도 각자의 자리에서 최선을 다해주신 간호사 여러분 덕분에 안양샘병원이 환자 중심의 따뜻한 병원으로 성장하고 있다\"며 \"앞으로도 전문성과 섬김의 마음을 겸비한 간호문화를 만들어 가며, 환자와 지역사회에 선한 영향력과 감동을 전하는 간호부가 되도록 함께 노력하겠다\"고 밝혔다.",
+      "authors": [
+        "조해진 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "a406f45834e0",
+      "source_id": "medipana",
+      "source_name": "메디파나뉴스",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "제약 R&D 공시, 현황 넘어 이력으로 변화…3분기 개시",
+      "url": "https://medipana.com/news/articleView.html?idxno=422855",
+      "published": "2026-11-28T06:04:00Z",
+      "summary": "제약·바이오 연구개발(R&D) 공시가 파이프라인 진행 현황을 넘어 개발 중단과 기술이전까지 이력을 추적하는 방향으로 변화하고 있다. 주요 상장사가 이력관리 체계를 도입하면서, 투자자가 연구개발 성과와 위험 요인을 함께 판단할 수 있는 기반도 마련되기 시작했다.\n파이프라인 이력관리 첫 적용…40개사 총괄표 확인\n27일 메디파나뉴스가 주요 상장 제약·바이오기업 96곳 반기보고서와 3분기보고서를 확인한 결과, 40개사가 연구개발 항목에 '연구개발 이력관리 총괄표'를 새롭게 기재한 것으로 집계됐다.\n이는 조사 대상 41.7%에 해당하는 규모다. 반기보고서에서는 해당 총괄표가 확인되지 않았지만, 3분기보고서부터는 파이프라인별 개발 이력을 별도로 관리하는 체계가 등장했다.\n금융감독원은 지난 7월 발표한 '제약·바이오 기업 공시 종합개선 방안'에서 파이프라인별 연구개발 이력관리 총괄표 신설을 추진하고, 9월 설명회에서 3분기보고서부터 개선 기준을 적용하도록 안내했다.\n개선 취지는 연구개발 정보 연속성과 비교 가능성을 높여 투자자와 기업 사이 정보 비대칭을 줄이는 데 있다. 기존에는 연구개발 진행 현황을 중심으로 공시가 이뤄져 파이프라인별 개발 경과를 파악하려면 여러 보고서를 비교해야 하는 경우가 많았다. 개발 중단이나 기술이전 이후 과제가 보고서에서 제외되면 변경 경위를 지속적으로 확인하기 어려웠다.\n개선안은 파이프라인마다 고유 식별번호를 부여하고 최초 공시시점, 현재 상태, 개발 단계 등을 누적 관리하도록 하는 데 초점을 맞췄다. 개발 중단이나 기술이전, 품목허가, 판매 단계도 이력으로 남겨 연구개발 성과와 위험 요인을 함께 판단할 수 있도록 한 것이다.\n이번 3분기보고서에서는 유한양행과 한미약품, 종근당, 대웅제약, GC녹십자, 셀트리온, SK바이오팜, 에이비엘바이오 등 주요 제약·바이오기업에서 신규 총괄표 도입이 확인됐다.\n반면 나머지 56개사에서는 동일한 형태 이력관리 총괄표가 확인되지 않았다.\n신약 유형·적응증·지역…기업별 관리 단위 다양\n특히 기업별 파이프라인 특성에 따라 이력관리 방식에도 차이가 나타났다.\n유한양행은 혁신신약과 개량신약·자료제출의약품을 별도 분류하고 각각 'Y'와 'YP'로 시작하는 고유번호를 부여했다. 신약개발 과제와 개량신약 등 기존 제품 중심 연구개발 과제를 구분해 관리하는 방식이다.\n한미약품은 질환군별로 파이프라인을 분류하면서 동일 물질이라도 적응증에 따라 별도 식별번호를 부여했다. 비만과 당뇨병을 대상으로 개발하는 '에페글레나타이드'가 대표적이다. 각각 'P-003-01'과 'P-003-02'로 구분해 개발 단계를 관리하고 있다.\n한올바이오파마는 개발 지역과 적응증을 함께 구분했다. 자가면역질환 치료제 '바토클리맙'은 중국과 미국·유럽, 일본 등 지역별 개발 현황을 구분하고, 동일 지역에서도 적응증에 따라 고유번호를 달리 부여했다. 기술이전 이후에도 개발 진행과 중단, 허가 완료 여부를 구분해 관리 대상으로 포함했다.\n기업마다 연구개발 포트폴리오와 글로벌 개발 전략에 맞춰 관리 단위를 설정하면서 동일 물질 복수 적응증 개발이나 해외 파트너사 개발 경과까지 구분할 수 있는 체계가 마련된 셈이다.\n반기 대비 변화 확인 사례도…제도 성과 확인\n이번 총괄표 도입과 함께 개발 중단이나 과제 종료 등 경과를 보다 명확하게 확인할 수 있는 사례도 나타났다. 기존에 진행 중이거나 보류 상태로 기재됐던 과제 상태가 변경되는 한편, 과거 중단된 연구개발 이력도 별도 관리 대상으로 포함됐다.\n유한양행은 반기보고서에서 급성기관지염 치료제 개발과제 'YHP2401'을 임상 3상 진행으로 기재했지만, 3분기보고서에서는 '과제종료'로 분류했다. 신규 총괄표에는 해당 과제에 'YP-0015'라는 식별번호를 부여하고 현 상태를 명시했다.\n삼천당제약은 안구건조증 치료제 'SCD311' 개발 중단을 확정해 기재했다. 해당 과제는 2019년 반기보고서부터 진행보류 상태로 관리됐으며, 이후 연구개발이 진행되지 않았다.\n회사는 이번 보고서에서 제형 특허 저촉 우려와 복합제 우월성 입증 가능성, 시장성 등을 검토해 3분기 중 개발 중단을 확정했다고 설명했다. 장기간 보류 상태였던 과제에 대한 최종 처리 결과와 사유가 구체화된 사례다.\nHLB제약도 반기보고서에서 임상 1상 시험계획(IND) 승인 상태로 기재했던 장기지속형 항응고 주사제 'HLBP-024'를 3분기보고서에서는 개발 중단으로 분류했다. 회사는 외부 사업 파트너 확보 어려움을 중단 사유로 제시했다.\n파미셀은 발기부전 치료제 'Cellgram-ED' 개발을 지난 8월 19일 중단한 것으로 기재했다. 반기보고서에서는 임상 2상 종료 상태였지만, 3분기보고서에서는 대상 환자군 축소 우려와 후속 임상 투자 대비 사업적 실익 등을 중단 사유로 설명했다.\n이미 중단된 연구개발 과제 과거 이력이 보다 체계적으로 정리된 사례도 확인됐다.\n보령은 항암 신약 후보물질 'BR2010'과 'BR2011'을 2022년 7월 중단했으며, 'BR2018'은 지난해 3월 개발을 중단했다고 기재했다. BR2010과 BR2011은 연구개발 담당 인력 변동과 후속 연구 인력 부재, BR2018은 공동연구계약 종료를 중단 사유로 제시했다.\n한올바이오파마도 3분기부터 기술이전 이후 개발 중단된 바토클리맙 적응증별 이력을 총괄표에 포함했다.\n개발 중단이나 기술이전 사실 자체가 이번에 처음 공개된 것은 아니다. 기존 보고서에도 관련 내용이 기재된 사례가 있었지만, 새 총괄표에서는 과제별 식별번호와 현재 상태를 함께 정리해 개발 경과를 비교하기 쉬워졌다. 연구개발 성과뿐 아니라 중단과 종료 등 위험 요인까지 지속적으로 확인하도록 한 공시 개선 취지가 첫 보고서부터 일부 구현된 셈이다.",
+      "authors": [
+        "조후현 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "0125f78daa16",
+      "source_id": "medipana",
+      "source_name": "메디파나뉴스",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "한미사이언스 오너 지분, 윌로엔에 옮겨진다…주주간계약 주목",
+      "url": "https://medipana.com/news/articleView.html?idxno=422859",
+      "published": "2026-11-28T06:03:00Z",
+      "summary": "한미사이언스 오너 일가의 지분이 임주현 부회장 소유 법인인 윌로엔으로 추가 이동한다. 앞서 윌로엔에 170만주를 매각한 송영숙 회장은 남은 직접 소유분 61만2760주를 임 부회장에게 넘기고, 임 부회장은 보유분 49만주를 윌로엔에 또다시 넘긴다. 이에 따라 윌로엔이 보유 주식은 219만주로 한 차례 더 늘어난다.\n이와는 별도로 임 부회장 주식 105만주 시간외매매 계획에 대해선 매수자가 공개되지 않아 추가 지분 이동의 향방도 주목된다.\n특히 송 회장 공동보유자인 윌로엔은 기존 '4자 연합 주주간계약' 당사자에서 빠져 있어, 이번 거래로 넘어가는 지분에 의결권 공동행사와 우선매수권 등 계약 의무가 그대로 승계될지는 향후 변수로 꼽힌다.\n송영숙 회장, 지분 전량 매각 계획…Repo 환매 물량 31만주 별도\n27일 공시된 임원·주요주주 특정증권 등 거래계획보고서에 따르면 송 회장은 한미사이언스 보통주 61만2760주를 임 부회장에게 매각할 예정이다. 주당 가격은 5만3000원으로, 예정 거래금액은 약 325억원이다.\n양측은 지난 16일 주식매매계약을 체결했다. 송 회장이 제출한 보고서상 거래 예정 기간은 오는 12월 28일부터 30일까지다. 거래 목적은 채무 상환이다.\n송 회장은 앞서 지난 10월 27일 윌로엔에 한미사이언스 주식 170만주를 매각했다. 이번에는 남은 직접 소유분 전량을 임 부회장에게 넘길 계획이다.\n다만 거래계획보고서에 기재된 거래 후 예상 소유 주식은 0주가 아닌 31만2120주다. 이는 별도로 체결한 환매조건부 주식매매계약(Repo)의 대상 주식과 같은 수량이다.\n지난 13일 제출한 대량보유상황보고서에 따르면 송 회장이 에쿼티스퍼스트홀딩스코리아와 체결한 31만2120주 규모의 Repo 계약 종료일은 오는 12월 6일이다. 매도했던 주식을 계약 종료일에 다시 매수하는 내용이다.\n이번 환매 일정과 매각 계획이 모두 진행되면 송 회장에게는 31만2120주가 남게 된다. 공시된 일정은 Repo 계약 종료가 12월 6일, 임 부회장에 대한 주식 매각이 12월 28~30일이다. 구체적인 상환 대상 채무와 환매재원 조달 방식은 공개되지 않았다.\n임주현 부회장, 윌로엔에 49만주 매각…윌로엔 지분 3.2%\n임 부회장은 송 회장의 주식을 매입하는 한편, 자신의 보유 주식 49만주를 윌로엔에 매각한다. 윌로엔은 임 부회장이 지분 전량을 보유하고 대표이사를 맡고 있는 법인이다.\n주당 가격은 5만3000원으로, 예정 거래금액은 약 260억원이다. 지난 16일 계약을 체결했으며, 거래 예정 기간은 12월 28일부터 내년 1월 26일까지다.\n송 회장에게서 매입한 170만주에 이번 49만주가 더해지면, 윌로엔이 보유한 주식은 219만주로 늘어난다. 현재 발행주식총수 기준 지분율은 약 2.49%에서 3.20%로 높아진다.\n임 부회장 시간외매매 별도 매각 105만주 향방 불투명\n임 부회장은 윌로엔에 매각할 49만주 외에 보통주 105만주를 시간외매매로 처분할 계획이다. 거래 예정 기간은 12월 28일부터 내년 1월 26일까지다.\n예정 단가는 공시 전일 종가인 5만5200원을 적용했으며, 예정 거래금액은 약 580억원이다. 실제 거래가격과 수량은 달라질 수 있다.\n49만주 거래는 매수자가 윌로엔으로 명시됐지만, 105만주 거래는 상대방이 기재되지 않았다.\n윌로엔이 해당 물량까지 전부 매수하면 보유 주식은 총 324만주, 현재 발행주식총수 기준 지분율은 약 4.74%가 된다. 임 부회장 개인의 직접 보유분이 줄고, 자신이 소유한 법인의 보유분이 늘어나는 구조다. 해당 거래만으로 임 부회장 개인과 윌로엔의 합산 보유 주식이 늘어나는 것은 아니다.\n다만 윌로엔의 추가 매수 여부는 확인되지 않았다. 다른 투자자가 인수할 경우에는 해당 투자자의 공동보유 관계와 의결권 행사 방향 등을 별도로 확인해야 한다.\n이번 매입과 두 건의 처분이 모두 계획대로 이뤄지면 임 부회장 개인의 소유 주식은 562만5990주에서 469만8750주로 감소한다. 지분율은 8.23%에서 6.87%로 낮아질 예정이다. 임 부회장도 거래 목적을 채무 상환으로 기재했다.\n임 부회장은 내년 1월 일부 Repo 계약의 종료도 앞두고 있다. 1월 3일에는 30만6000주, 1월 17일에는 15만3000주에 대한 계약이 종료될 예정이다. 이번 주식 거래 예정 기간과 일부 겹치지만, 매각대금이 환매에 사용될지는 공시에 명시되지 않았다.\n윌로엔 보유분 확대…주주간계약 승계 여부 주목\n윌로엔이 보유한 한미사이언스 지분이 늘어나는 가운데, 기존 4자 연합(송영숙·임주현·신동국·라데팡스) 간 맺어진 '주주간계약' 효력이 윌로엔 보유 주식에도 그대로 이어질지가 주목된다. 윌로엔은 공시(대량보유보고서)상 송 회장 측 우호 지분인 '공동보유자'로 편입돼있지만, 의결권 공동행사 등을 약정한 사적 '주주간계약' 당사자 명단에는 빠져 있기 때문이다.\n기존 주주간계약에는 주총 표 대결 시 의결권을 함께 행사하고, 주식을 외부에 팔 때 연합 내 다른 주주에게 먼저 살 권리(우선매수권)를 주는 등 강력한 제약 조건이 담겨 있다. 그럼에도 이번 거래가 마무리되면 계약 당사자인 임 부회장 주식 49만주는 4자연합 계약 당사자가 아닌 윌로엔 명의로 추가 이전된다.\n주식을 넘겨받는 법인 윌로엔이 기존 계약상 의무까지 자동으로 이어받는지 여부는 공시만으로는 확인되지 않는다. 주주간계약 세부 조항에 '지분 양수인의 계약 승계 의무'가 명시돼 있는지에 따라, 윌로엔으로 모인 지분이 기존 연합 통제를 받을지 독자 행보가 가능한 물량이 될지가 갈릴 수 있다.\n이번 거래계획보고서에서는 주주간계약에 대한 윌로엔 편입이나 관련 의무 승계에 대한 별도 설명이 기재되지 않았다.",
+      "authors": [
+        "강희재 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "dc56e521a8f6",
+      "source_id": "medipana",
+      "source_name": "메디파나뉴스",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "韓 비만 환자 CT로 본 '위고비' 효과…내장지방 면적 25.4%↓",
+      "url": "https://medipana.com/news/articleView.html?idxno=422861",
+      "published": "2026-11-28T06:01:00Z",
+      "summary": "'위고비(세마글루티드)'가 심혈관·대사 고위험 비만 환자군에서도 내장지방을 의미 있게 감소시킨 것으로 확인됐다. 해당 환자군은 체중 감량 반응이 상대적으로 낮은 제2형 당뇨병 환자가 다수를 차지하고 있다.\n김규호 가톨릭대학교 성빈센트병원 내분비내과 교수는 26일 서울 aT센터에서 열린 '비만대사연구학회 국제학술대회(SICOM 2026)'에서 한국인 비만 환자 40명의 세마글루티드 치료 전후 복부 CT를 분석한 리얼월드 연구 결과를 발표했다.\n김 교수는 연구 발표에 앞서 진행된 여러 임상시험에서 성인 비만 환자에게 GLP-1 수용체 작용제인 세마글루티드를 투여한 후 내장지방이 감소하는 효과가 입증된 점에 주목했다.\nSTEP1 연구에서는 총 체지방량을 약 19%, 내장지방량을 27% 줄였으며, STEP 6 연구에서는 일본인 참여자의 내장지방 면적이 68주 후 40% 줄었다.\n그러나 김 교수는 \"진료 현장에서 세마글루티드 치료 후 내장지방 변화를 살펴본 연구, 특히 한국인 환자를 대상으로 한 연구는 없었다\"면서 \"한국의 일상 진료 환경에서 세마글루티드 투여 시작 후 CT로 내장지방의 변화를 확인하고자 했다\"고 연구 배경을 설명했다.\n이어 \"이번 연구에서 CT로 측정한 내장지방 면적(VFA)은 추적 기간 중앙값이 5.4개월로 짧았지만, 그사이 내장지방 면적은 평균 25%가 줄었다\"며 \"참여자 대부분이 제2형 당뇨병 환자였다는 점, 즉 90%가 당뇨병을 앓고 있었고 약 30%가 인슐린 치료를 받고 있었다는 점을 고려하면 매우 고무적인 결과\"라고 평가했다.\n비만 환자 40명 치료 전후 CT 비교…90%가 제2형 당뇨병 동반\n이번 연구는 성빈센트병원 전자의무기록을 활용한 단일기관 후향적 관찰 연구다.\n체질량지수(BMI)가 30kg/㎡ 이상이거나, BMI가 27kg/㎡ 이상이면서 체중 관련 동반질환이 1개 이상인 성인 가운데 비만 치료 목적으로 위고비를 6개월 이상 투여하고, 치료 전후 복부 CT를 모두 촬영한 40명을 최종 분석했다.\nCT 추적 시점 중앙값은 5.4개월이었으며, 연구진은 배꼽 높이의 복부 CT 단면에서 내장지방과 피하지방 면적(SFA)을 각각 측정했다. 같은 기간 체중 변화도 살폈다.\n김 교수는 \"이 연구는 세마글루티드 투여 전후 CT를 짝지어 분석해, 같은 환자 안에서 내장지방과 피하지방 면적을 직접 비교할 수 있었다는 강점을 지닌다\"고 설명했다.\n연구에 참여한 대상자의 평균 연령은 49.2세였고, 여성이 28명(70.0%)이었다. 평균 BMI는 32.5kg/㎡, 평균 당화혈색소(HbA1c)는 8.2%였다. 제2형 당뇨병을 동반한 환자는 36명(90.0%)으로 이들의 평균 당뇨병 유병기간은 10년이었다.\n전체 참여자의 약 30%가 인슐린 치료를 받고 있었으며, 동반질환으로는 이상지질혈증(72.5%), 고혈압(50.0%), 지방간(40.0%)이 흔했다.\n내장지방 면적 평균 25.4%↓…감소율은 체중의 약 2.4배\n치료 전 평균 208.0㎠였던 내장지방 면적은 추적 검사에서 153.3㎠로 54.7㎠가 줄었다. 환자별 감소율은 평균 25.4%였으며, 전체 40명 중 30명(75%)에서 내장지방 면적이 15% 이상 감소했다.\n체중을 분석한 39명의 평균 체중은 88.3kg에서 79.2kg으로 9.1kg 줄었다. 평균 감소율은 체중이 10.4%, 피하지방 면적(SFA)이 13.7%로, 내장지방 면적 감소율은 체중 감소율의 약 2.4배였다.\n내장지방 면적과 체중 감소율을 비교한 37명 중 31명(83.8%)에서 내장지방 면적 감소율이 더 컸다.\n이러한 결과는 체중계 숫자보다 건강에 더 중요한 내장지방이 더 빠르게 줄었다는 의미로 풀이된다.\n특히 김 교수가 소개한 환자 사례 중 한 50대 중반 여성 환자의 경우는 치료 5.2개월 후 CT에서 내장지방 면적이 50.2%, 피하지방 면적은 9.5% 줄어들기도 했다. 이 환자의 24주 시점 체중 감소율은 18.2%였다.\n폐경 전 29.6%·폐경 후 24.7% 감소…남성 환자도 추가 분석 검토\n폐경 여부에 따른 탐색적 분석에서는 치료 전 지방 분포에 차이가 있었다. 폐경 후 여성은 폐경 전 여성보다 체중과 BMI가 낮고 피하지방 면적도 작았지만 내장지방 면적과 당화혈색소는 더 높았다.\n세마글루티드 치료 후 내장지방 면적은 폐경 전 여성 10명에서 평균 29.6%, 폐경 후 여성 17명에서 평균 24.7% 감소했다. 체중 감소율은 폐경 전 여성 12.1%, 폐경 후 여성 10.5%였다.\n현장 질의응답에서는 폐경 여부가 세마글루티드 치료 반응에 영향을 미치는지에 관한 질문이 나왔다.\n김 교수는 \"표본이 작아서 두 집단의 변화량에 통계적으로 유의한 차이가 있다고 말하기는 어렵다\"며 \"적어도 이번 결과로 보면 효과가 비슷할 수도 있고, 폐경 전 여성에서 조금 더 클 가능성도 있다\"고 답했다.\n연구 대상자 중 당뇨병 환자가 많았던 배경에 대해서도 설명했다. 성빈센트병원 외래를 찾은 환자들을 등록했는데, 비만만으로 내원한 환자는 적었고 대부분 당뇨병을 동반했다는 것이다.\n남성 환자에서는 어떤 변화가 나타났느냐는 질문에 김 교수는 \"처음에는 폐경 여부에 따라서만 하위군 분석을 하기로 했다\"며 \"남성 환자도 분석하려고 한다. 남성에서도 치료 효과는 비슷할 것으로 예상한다\"고 말했다.\n다만 김 교수는 이번 연구가 단일기관에서 대조군 없이 진행됐고, 표본이 작고 추적 기간이 짧다는 점을 한계로 꼽았다. 세마글루티드 치료를 지속한 환자만 포함해 선택 편향이 있을 수 있다고 말했다.\n그러나 제2형 당뇨병을 비롯한 대사질환을 동반한 한국인 비만 환자에서 치료 초기 체중 변화만으로는 파악하기 어려운 내장지방 감소 폭을 확인했다는 데 의미를 뒀다.\n김 교수는 \"특히 여성의 경우 폐경 전과 폐경 후 모두 비슷한 수준으로 내장지방 면적이 줄었다\"며 \"이는 세마글루티드가 체중 감소 이상으로 내장지방 면적을 크게 줄여, 심혈관 결과 개선에 기여할 가능성이 있다는 것을 시사한다\"고 설명했다.",
+      "authors": [
+        "조해진 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "43e029cf932b",
+      "source_id": "medipana",
+      "source_name": "메디파나뉴스",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "박소영 한국병원약사회 부의장 시부상",
+      "url": "https://medipana.com/news/articleView.html?idxno=422858",
+      "published": "2026-11-27T22:28:26Z",
+      "summary": "박소영 한국병원약사회 대구·경북지부장/대의원총회 부의장(영남대병원 약제부장)의 시부 임철규 씨가 별세했다.\n▲ 빈소 : 영남대학교병원 장례식장 301호\n▲ 발인 : 2026년 11월 29일(일) 오전 11시\n▲ 장지 : 경북 예천 선영\n▲ 연락처 : 010-3519-6058 박소영\n이 기사를 공유합니다\n이 기사, 어떻게 보셨나요?",
+      "authors": [
+        "메디파나뉴스"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "1a017f1eb17b",
+      "source_id": "medipana",
+      "source_name": "메디파나뉴스",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "서울대병원, 심박출량 추정 AI 의료기기 식약처 인증 획득",
+      "url": "https://medipana.com/news/articleView.html?idxno=422849",
+      "published": "2026-11-27T18:29:56Z",
+      "summary": "서울대병원은 융합의학기술원 전주기의료기기연구센터(센터장 조성용)가 개발한 인공지능(AI) 기반 심박출량 측정 소프트웨어 'NiCONet'이 지난 5일 식품의약품안전처로부터 2등급 디지털 의료기기 제조인증을 획득했다고 27일 밝혔다. 이번 인증을 통해 안전성과 유효성을 검증받으면서, 국내 유통과 실제 의료현장 적용이 가능해졌다.\nNiCONet은 AI 모델을 활용해 심전도와 광용적맥파(피부에 빛을 비춰 혈류 변화를 측정한 파형)로부터 심장이 한 번 뛸 때 내보내는 혈액량인 일회박출량(SV)과 1분 동안 내보내는 혈액량인 심박출량(CO)을 추정한다. 생체신호 파형과 분석 수치를 동시에 보여주는 독립형 디지털 의료기기 소프트웨어다.\n기존에는 심박출량을 연속으로 측정하기 위해 동맥에 관을 삽입해 혈압 파형을 얻는 침습적 방식에 의존해야 했다. 이 때문에 숙련된 의료진이 시술할 수 있는 중환자실 등 제한적인 환경에서만 모니터링이 이뤄져 왔다.\n서울대병원은 앞서 동맥혈압 파형을 이용한 심박출량 계산 소프트웨어 'APCONet'을 선보인 데 이어, 비침습적 신호만으로 심박출량을 추정하는 AI 모델 NiCONet을 개발했다.\n해당 소프트웨어 역시 의료기기 개발과 인허가 절차를 대행하는 임상시험수탁기관(CRO)을 거치지 않고 병원 내부 역량만으로 2등급 제조인증을 받았다.\n이번 소프트웨어는 전주기의료기기연구센터의 지원을 받아 서울대병원 중환자의학과 이상민·류호걸 교수, 마취통증의학과 이형철 교수팀과 충남의대 양현림 교수팀이 공동으로 개발했다.\nNiCONet은 동맥관 삽입 없이 비침습적으로 일회박출량과 심박출량을 측정해 환자의 통증과 불편을 덜어주며, 심장 펌프 기능을 평가하는 데 참고 지표로 활용할 수 있다. 이에 따라 심박출량 모니터링 범위를 일반병동과 응급실 등 다양한 진료 환경으로 넓힐 수 있을 전망이다.\n조성용 전주기의료기기연구센터장(비뇨의학과)은 \"이번 인증을 통해 의료 AI 연구개발부터 의료기기 인허가까지 아우르는 서울대병원의 전주기 연구지원 역량을 다시 한번 입증했다\"며 \"더 많은 원내 연구진의 우수한 연구성과가 기술 실용화까지 원활하게 이어질 수 있도록 적극 지원하겠다\"고 말했다.",
+      "authors": [
+        "이정수 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "ea94b25168de",
+      "source_id": "medipana",
+      "source_name": "메디파나뉴스",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "한미사이언스 '케어미', 파크골프대회 참여…시니어 접점 확대",
+      "url": "https://medipana.com/news/articleView.html?idxno=422852",
+      "published": "2026-11-27T17:04:03Z",
+      "summary": "한미사이언스가 케어푸드 브랜드 '케어미(Care me)'의 핵심 고객층인 액티브 시니어를 대상으로 현장 마케팅을 확대하고 있다. 건강과 여가 활동을 연계한 마케팅을 통해 소비자 접점을 넓힌다는 전략이다.\n한미사이언스는 지난달 20일부터 21일까지 경남 창원시 대산면파크골프장에서 열린 '문화체육관광부장관기 전국 파크골프대회'에 참여해 약 1000명의 대회 참가자를 대상으로 케어미 브랜드 체험 부스를 운영했다고 27일 밝혔다.\n이번 행사는 건강관리와 여가 활동에 적극적인 50~70대 소비자를 대상으로 제품 체험 기회를 제공하고 브랜드 인지도를 높이기 위해 마련됐다.\n한미사이언스는 현장 부스에서 ▲케어미 완전균형영양식 ▲케어미 식이섬유 영양식 ▲케어미 고단백 영양식 등 주요 제품을 소개하고 제품 체험 프로그램을 진행했다.\n현장 체험을 온라인 구매로 연계하기 위한 마케팅도 진행했다. 대한파크골프협회 회원 대상 기획전 등 온·오프라인 연계 프로그램을 통해 소비자 접점 확대에 나섰다.\n케어미 브랜드 관계자는 \"건강한 여가 활동을 즐기는 액티브 시니어에게 케어미 브랜드 가치를 전한 뜻깊은 자리였다\"며 \"앞으로도 고객의 라이프스타일과 연계한 다양한 현장 마케팅을 통해 브랜드 경험과 소비자 접점을 넓혀 나가겠다\"고 말했다.",
+      "authors": [
+        "강희재 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "9da990a82e99",
+      "source_id": "medipana",
+      "source_name": "메디파나뉴스",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "정부, 국가필수의약품 안정공급 위해 민·관 협력체계 가동",
+      "url": "https://medipana.com/news/articleView.html?idxno=422844",
+      "published": "2026-11-27T15:17:49Z",
+      "summary": "식품의약품안전처(처장 오유경)와 보건복지부는 11월 27일 '2026년 제3차 국가필수의약품 안정공급 협의회'(이하 협의회)를 열고, 국가필수의약품의 안정적 공급을 위한 민·관 공동 대응체계 구축과 협의회 운영 방향 등을 논의했다고 밝혔다.\n이번 회의는 지난해 11월 11일 공포돼 올해 11월 12일 시행된 '약사법' 개정에 따라, 기존 정부 중심으로 운영되던 협의회를 민·관 협의체로 확대·개편한 뒤 처음으로 열린 전체회의다.\n새롭게 개편된 협의회는 식약처 차장과 복지부 보건의료정책실장이 공동의장을 맡으며, 중앙행정기관 정부위원 8명과 의료·약업계, 제조·수입·유통업계, 환자단체 및 의·약학 전문가 등 민간위원 19명으로 구성됐다.\n이번 개편을 통해 의약품의 제조·수입부터 유통, 처방·조제 및 사용에 이르기까지 공급망 전반의 전문가들이 참여하게 되면서, 의료현장과 산업계, 환자의 목소리가 정책에 폭넓게 반영될 전망이다.\n또한 협의회의 논의 대상도 기존의 국가필수의약품뿐만 아니라 일시적인 수요 증가로 안정적 공급 관리가 필요한 의약품까지 넓어졌다. 이에 따라 국가필수의약품의 지정·관리 외에 공급망 안정을 위한 대응방안과 제도개선 사항 등도 통합적으로 다루게 된다.\n이날 회의에서는 그동안의 협의회 운영 경과와 향후 세부 운영 방향을 공유하고, 의약품 수급 문제에 한층 신속하고 전문적으로 대처하기 위한 통합 논의체계 구축 방안을 협의했다. 참석 위원들은 각종 의약품 수급 현안에 대해 긴밀히 협력하고, 필수의약품 안정공급을 위한 공동 대응에 적극 나서기로 뜻을 모았다.\n정경실 복지부 보건의료정책실장은 \"의약품의 안정적인 공급은 환자의 치료 연속성과 직결되는 중요한 과제\"라며 \"의료현장의 수요와 의약품 유통 상황을 면밀히 살피고, 관계기관 간 협력을 통해 의료현장에 불편이 없도록 만전을 기하겠다\"고 말했다.\n김용재 식약처 차장은 \"의약품 안정공급 이슈에 효과적으로 대응하기 위해서는 정부뿐 아니라 공급망 단계별·분야별 기관 및 단체와의 긴밀하고 폭넓은 협력이 중요하다\"며 \"이번 협의회 개편을 계기로 의료현장 수요를 조기에 파악하고, 필수의약품이 적시에 안정적으로 공급될 수 있도록 관계 기관과 함께 대응해 나가겠다\"고 강조했다.\n식약처와 복지부는 앞으로 협의회와 분과협의회를 중심으로 민·관 협력을 공고히 하고, 의약품 공급 부족에 대한 신속한 대응과 안정공급 기반 확충을 통해 국민이 필요한 의약품을 차질 없이 사용할 수 있도록 지원할 방침이다.",
+      "authors": [
+        "이정수 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "fed78b1eba3a",
+      "source_id": "medipana",
+      "source_name": "메디파나뉴스",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "증시 입성도 잠시…새내기 바이오텍 6곳 중 5곳 공모가 무너졌다",
+      "url": "https://medipana.com/news/articleView.html?idxno=422841",
+      "published": "2026-11-27T14:48:38Z",
+      "summary": "국내 바이오텍의 기업공개(IPO) 시장에 한파가 몰아치고 있다. 지난해 증시에 입성한 바이오기업들이 높은 주가 상승률을 기록했던 것과 달리 올해 신규 상장 기업들은 대부분 공모가를 밑돌고 있다. 기업가치를 낮춰 증시에 입성하고도 주가 하락을 피하지 못하면서 후속 상장을 준비하는 바이오기업들의 고민도 깊어지고 있다.\n장기간 연구개발에 필요한 자금을 외부에서 조달해야 하는 바이오텍의 사업 특성상 IPO 시장의 침체가 신약개발 투자 환경에도 적지 않은 영향을 미칠 것으로 보인다.\n키움증권 리서치센터가 지난 25일 발간한 2027년 제약바이오산업 전망 보고서에 따르면 올해 11월 23일 기준 신규 상장 바이오텍 6곳의 공모가 대비 평균 주가 수익률은 -30%로 집계됐다. 2020년 이후 가장 낮은 수준으로, 바이오 업종의 투자심리가 크게 위축됐던 2022년(-9%)보다도 부진한 성적이다.\n◆ 공모가 절반도 지키지 못한 바이오텍 4곳\n올해 증시에 입성한 바이오텍 가운데 공모가를 웃돈 기업은 인제니아테라퓨틱스가 유일했다.\n미세혈관 회복 항체치료제를 개발하는 인제니아테라퓨틱스는 공모가 대비 107%의 상승률을 기록했다. 반면 나머지 5개사는 모두 두 자릿수 하락률을 나타냈으며, 이들 기업의 평균 하락률은 57%에 달했다.\n하락 폭이 가장 큰 곳은 HL지노믹스로 공모가 대비 73% 떨어졌다. 카나프테라퓨틱스도 61% 하락했으며 넥스아이와 인벤테라는 각각 54%, 52% 떨어져 공모가의 절반에도 미치지 못했다.\n아이엠바이오로직스 역시 공모가보다 45% 낮은 수준에서 거래됐다.\n인제니아테라퓨틱스의 주가 상승이 전체 평균 수익률을 끌어올렸다는 점을 고려하면 올해 신규 상장 바이오텍들이 체감하는 증시 상황은 평균 수익률보다 훨씬 좋지 않은 셈이다.\n특히 상장을 추진하는 과정에서 기업가치에 대한 시장의 눈높이를 낮췄음에도 상장 이후 주가 부진이 이어졌다는 점에서 투자심리 위축의 정도를 가늠할 수 있다.\n◆ 지난해 217% 상승에서 올해 30% 하락으로\n신규 상장 바이오텍을 바라보는 자본시장의 시각은 불과 1년 사이 크게 달라졌다.\n키움증권이 2020년 이후 제약바이오 IPO 기업들의 공모가 대비 상장연도 말 평균 주가 수익률을 비교한 결과, 코로나19를 계기로 바이오산업에 대한 관심이 높아졌던 2020년에는 128%의 상승률을 기록했다.\n2021년에는 29%로 낮아졌고, 금리 인상 등으로 바이오 투자시장이 위축됐던 2022년에는 마이너스 9%로 돌아섰다. 이후 2023년 30% 상승, 2024년 3% 하락을 거치며 등락을 이어갔다.\n지난해에는 평균 수익률이 217%에 달하면서 바이오텍의 기업공개 시장에도 다시 활기가 돌았다. 그러나 올해는 11월 23일 기준 마이너스 30%를 기록하며 불과 1년 사이 수익률이 247%포인트나 낮아졌다.\n연도별 상장 기업의 구성과 상장 시점이 다르고 올해는 아직 연말까지 거래가 남아 있지만, 신규 상장 바이오텍에 대한 시장의 투자심리가 지난해와 비교해 크게 위축됐다는 점은 분명하다.\n이 같은 흐름은 국내 바이오텍의 기술수출 성과가 확대되고 있다는 점과도 대비된다. 글로벌 제약사와의 대규모 계약이 이어지고 있지만 산업계의 성과가 신규 상장 기업 전반에 대한 투자심리 회복으로 이어지지는 못하고 있다.\n◆ 공모가 낮추고 상장 철회…좁아지는 자금조달 통로\n신규 상장 바이오텍들의 주가 부진은 최근 기업공개를 추진하는 기업들에도 영향을 미치고 있다.\n퇴행성 뇌질환 치료제를 개발하는 아델은 기관투자자 수요예측 부진 등의 영향으로 지난 20일 증권신고서 철회신고서를 제출했다.\n오가노이드 기반 기술기업 엠비디는 희망 공모가 범위 하단인 9600원보다 27.1% 낮은 7000원으로 최종 공모가를 확정했지만 지난 24일 상장 첫날 종가가 4230원에 머물렀다. 공모가 대비 39.6% 하락한 수준이다.\n엠비디는 키움증권의 집계 기준일 이후 상장한 기업이라는 점에서 기존 6개사 통계에 포함되지는 않았지만 최근 바이오 IPO 시장의 분위기를 보여주는 또 다른 사례다.\n국내 바이오텍의 기업공개 규모 자체도 지난해보다 줄어드는 흐름이다. 미래에셋증권이 이달 발간한 산업 전망 보고서에서는 국내 바이오텍 IPO가 지난해 12건에서 올해 보고서 집계 시점 기준 5건으로 줄었으며, 공모금액도 2270억원 규모로 축소됐다고 분석했다.\n반면 해외 바이오텍 IPO는 보고서 집계 기준 지난해 11건에서 올해 22건으로 늘어나는 등 국내외 시장이 서로 다른 흐름을 보였다. 국내 증시의 투자심리 위축이 장기화할 경우 기업공개를 통해 연구개발 재원을 확보하려 했던 바이오텍들은 상장 일정을 늦추거나 공모 규모를 재조정해야 하는 상황에 놓일 수 있다.\n◆ 상장 이후 성장까지 고민해야 하는 바이오텍\n대부분의 신약개발 바이오텍은 후보물질 발굴에서 임상시험, 품목허가에 이르기까지 상당한 기간 외부 자금에 의존한다. 기업공개는 초기 벤처투자 이후 보다 큰 규모의 연구개발 자금을 확보할 수 있는 주요 성장 통로다.\n상장 이후 주가 하락이 이미 확보한 공모자금을 직접 줄이는 것은 아니다. 그러나 낮아진 기업가치가 지속되면 향후 유상증자나 전환사채 발행 등 추가 자금조달 과정에서 기존 주주의 지분 희석 부담이 커질 수 있다.\n신약개발 과정에서 예상보다 많은 비용이 필요하거나 임상 일정이 길어질 경우 자금조달 환경이 후보물질의 개발 속도와 사업전략에도 영향을 미칠 수 있는 것이다.\n이 때문에 향후 기업공개를 준비하는 바이오텍은 기술의 혁신성과 시장 잠재력뿐 아니라 상장 이후 확보한 자금을 어떻게 활용하고 후속 연구개발 재원을 마련할 것인지에 대해서도 보다 구체적인 사업계획을 요구받을 것으로 보인다.\n지난해만 해도 높은 주가 상승률로 주목받았던 바이오텍 IPO 시장이 올해는 최근 7년 사이 가장 낮은 수익률을 기록하고 있다.\n국내 바이오산업의 기술수출 성과가 확대되는 가운데 기업공개 시장의 침체가 지속될 경우 초기 혁신기업의 성장과 후속 신약개발 투자를 뒷받침하는 자금조달 생태계에도 적지 않은 변화가 나타날 전망이다.",
+      "authors": [
+        "최봉선 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "2da3e81572f6",
+      "source_id": "medipana",
+      "source_name": "메디파나뉴스",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "복잡해지는 의료소송…대법원·의협, 의료감정 개선 모색",
+      "url": "https://medipana.com/news/articleView.html?idxno=422840",
+      "published": "2026-11-27T14:44:53Z",
+      "summary": "의료소송의 쟁점이 복잡해지고 세분화되면서 사건의 특성에 맞는 의료 전문가의 참여와 효율적인 감정 절차 운영이 중요해지고 있다. 대법원과 대한의사협회는 전문심리위원 제도의 운영 현황을 점검하고 의료감정 과정에서 개선이 필요한 사안을 논의했다.\n대한의사협회는 지난 25일 오후 2시 법원행정처에서 효율적인 전문심리위원 제도 운영과 의료감정 등 의료소송 절차 전반의 개선 방안을 모색하기 위한 '대법원-대한의사협회 간담회'를 개최했다.\n이날 의협에서는 박명하 상근부회장, 전성훈 법제이사, 한진 법제이사, 이한결 홍보이사 겸 정책이사가 참석했다. 법원행정처에서는 임선지 사법지원실장(부장판사), 김보현 사법지원총괄심의관(부장판사), 이유진 민사지원제1심의관(판사)이 자리했다.\n법원행정처는 의료분쟁의 공정하고 신속한 해결을 위해 감정절차 관리제도를 시행하고 감정관리센터를 중심으로 의료기관과 업무협약을 체결하는 등 의료감정제도를 개선해 왔다.\n의료소송 사안이 점차 복잡해지고 세분화되는 만큼 전문심리위원과 감정인으로서 의료계가 보다 적극적으로 참여해 줄 것을 요청했으며, 의협도 그 필요성에 공감했다.\n이날 양 기관은 의협이 법원에 추천한 의료계 전문심리위원 현황을 살펴보고 제도의 효율적인 운영과 원활한 의료감정 절차를 위한 의견을 교환했다.\n의협은 의료소송의 개별 사건에 적합한 전문가를 연결하는 것이 중요하다는 점을 강조했다. 의료감정의 효율성을 높이기 위한 절차의 전자화와 함께 감정인이 안심하고 감정에 참여할 수 있도록 개인정보를 보호하는 방안도 제안했다.\n논의 범위는 의료감정제도뿐 아니라 의료기관 내 폭력 방지와 안전한 진료환경 조성, 의료감정 관련 교육 및 지원의 필요성 등 의료소송과 관련된 현안 전반으로 확대됐다.\n대법원과 의협은 앞으로도 주요 현안에 대해 수시로 의견을 나누고 국민이 신뢰할 수 있는 의료소송 절차가 공정하고 신속하게 운영될 수 있도록 긴밀히 협력하기로 했다.",
+      "authors": [
+        "박으뜸 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "3c92c6768555",
+      "source_id": "medipana",
+      "source_name": "메디파나뉴스",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "美 생물보안법 연말 분수령…주춤했던 K-CDMO 수주 살아날까",
+      "url": "https://medipana.com/news/articleView.html?idxno=422839",
+      "published": "2026-11-27T14:43:33Z",
+      "summary": "미국의 생물보안법(BIOSECURE Act) 시행 절차가 구체화되면서 국내 위탁개발생산(CDMO) 업계의 내년 수주 전망에 관심이 모아지고 있다. 올해 미국의 의약품 관세정책을 둘러싼 불확실성으로 신규 수주가 주춤했던 국내 기업들이 글로벌 제약사들의 생산 공급망 재편을 계기로 다시 성장세를 이어갈 수 있을지 주목된다.\n중국 바이오기업에 대한 미국의 규제가 실제 생산 물량 이전으로 이어지기까지는 상당한 시간이 필요하지만, 수년 뒤 상업생산을 준비하는 글로벌 제약사들의 신규 생산 파트너 선정은 법 시행보다 앞서 이뤄질 가능성이 크기 때문이다.\n키움증권 리서치센터가 최근 발간한 2027년 제약바이오산업 전망 보고서는 오는 12월 18일 미국의 생물보안법 관련 우려 바이오기술 기업 명단 공개를 국내 CDMO 산업의 주요 변곡점으로 꼽았다.\n특히 중국 기업의 명단 포함 여부와 별개로 글로벌 제약사들이 중국에 대한 생산 의존도를 낮추려는 움직임은 지속될 것으로 전망했다.\n◆ 중국 생산 물량 이전보다 신규 프로젝트 확보에 무게\n지난해 12월 미국 국방수권법(NDAA)에 포함돼 법제화된 생물보안법은 미국 연방정부의 조달계약과 연방자금이 투입되는 사업에서 지정된 우려 기업의 바이오기술 장비 및 서비스 이용을 제한하는 내용을 담고 있다.\n미국 백악관 산하 관리예산실(OMB)은 오는 12월 18일까지 우려 바이오기술 기업 명단을 공개하고, 내년 6월까지 관련 시행지침을 마련할 예정이다.\n국내 업계가 특히 관심을 기울이는 기업은 항체의약품 위탁개발생산 분야에서 삼성바이오로직스와 경쟁하는 중국 우시바이오로직스다.\n현재 우려 기업으로 지정되지 않은 우시바이오로직스가 명단에 포함될 경우 글로벌 제약사들의 신규 생산 프로젝트가 중국 이외 지역으로 분산되는 움직임이 빨라질 수 있다.\n다만 우려 기업 명단이 발표되더라도 기존 위탁생산 계약이 곧바로 종료되는 것은 아니다. 시행지침 마련과 연방조달규정 개정 등의 후속 절차가 남아 있고 기존 계약에도 일정 기간 유예가 적용되기 때문이다.\n이미 상업화된 바이오의약품의 생산처를 변경하려면 기술이전과 제조공정 검증, 규제기관의 변경허가 등도 필요하다. 안정적인 의약품 공급이 중요한 글로벌 제약사 입장에서는 기존 생산시설을 단기간에 대체하기가 쉽지 않다.\n이 때문에 국내 CDMO 기업의 실질적인 사업 기회는 기존 중국 생산 물량의 이전보다 앞으로 임상개발과 상업생산에 들어갈 신규 프로젝트에서 먼저 나타날 가능성이 크다.\n◆ 지난해 사상 최대 수주했던 삼성바이오, 내년 반등 기대\n국내 CDMO 업계의 수주 회복 가능성을 가늠할 대표적인 기업은 삼성바이오로직스다.\n키움증권이 공시자료를 토대로 집계한 삼성바이오로직스의 연간 수주 규모는 2023년 약 3조5000억원에서 2024년 약 5조4000억원, 지난해 약 6조6000억원으로 빠르게 확대됐다.\n그러나 올해 들어서는 보고서 작성 시점까지 약 1조5000억원에 머물렀다. 지난해 역대 최대 수주 실적을 기록했던 것과 비교하면 신규 계약 체결 속도가 크게 둔화됐다.\n미국의 의약품 관세정책이 주요 배경으로 꼽힌다. 글로벌 제약사들이 관세 부과 범위와 생산시설 소재지에 따른 비용 부담을 검토하면서 신규 위탁생산 계약에 대한 의사결정도 늦어진 것으로 분석된다.\n최근에는 관세정책의 불확실성이 완화되면서 고객사와의 수주 논의가 점차 재개되는 분위기다.\n삼성바이오로직스는 지난 3일 글로벌 제약사와 4343억원 규모의 신규 바이오의약품 위탁생산 계약을 체결했다. 계약기간은 2031년 말까지이며, 이번 계약으로 창립 이후 누적 수주액은 223억달러로 늘어났다.\n국내외 생산능력도 수주 경쟁력을 뒷받침하는 요소다.\n키움증권에 따르면 삼성바이오로직스는 국내 78만5000리터에 미국 생산시설 6만리터를 더해 글로벌 기준 84만5000리터의 바이오의약품 생산능력을 확보했다.\n이는 스위스 론자의 79만3000리터를 넘어서는 규모로, 중국 우시바이오로직스와 일본 후지필름 등 아시아 주요 경쟁사보다도 앞선다.\n다만 글로벌 CDMO 기업들이 미국 현지 생산시설 확보에 적극적으로 나서고 있다는 점은 새로운 경쟁 변수다. 국내 생산능력뿐 아니라 미국 현지에서의 생산 및 공급 역량도 고객사의 위탁생산 파트너 선정에 영향을 미칠 것으로 보인다.\n◆ 항체 넘어 합성의약품·올리고핵산으로 넓어지는 기회\n글로벌 의약품 공급망 재편에 따른 사업 기회는 대규모 항체의약품 생산시설을 갖춘 기업에만 국한되지 않는다.\n신약의 유형이 다양해지면서 합성 원료의약품과 올리고핵산 등 전문적인 제조기술을 필요로 하는 분야에서도 안정적인 생산 파트너 확보의 중요성이 높아지고 있다.\n키움증권이 삼성바이오로직스와 함께 내년 수주 확대 여부에 주목한 기업은 유한양행의 원료의약품 생산 자회사인 유한화학과 올리고핵산 치료제 원료의약품 생산에 강점을 가진 에스티팜이다.\n유한화학은 글로벌 제약사에 합성 원료의약품을 공급하면서 해외 사업 기반을 확대해 왔다. 글로벌 제약사들이 완제의약품뿐 아니라 핵심 원료의 생산 공급망까지 다변화할 경우 추가적인 사업 기회를 확보할 수 있을 것으로 보인다.\n에스티팜 역시 RNA 치료제 시장 확대와 맞물려 올리고핵산 원료의약품 생산 수요 증가가 기대되는 기업이다.\n키움증권의 별도 기업분석 자료에 따르면 올해 9월 기준 에스티팜의 올리고핵산 관련 수주잔고는 약 2억7000만달러에 달한다.\nRNA 치료제의 개발과 상업화가 확대될수록 전문적인 제조기술과 품질관리 역량을 갖춘 CDMO 기업의 역할도 커질 전망이다.\n다만 유한화학과 에스티팜의 수주 전망은 생물보안법에 따른 직접적인 규제 수혜뿐 아니라 글로벌 제약사들의 원료의약품 공급망 다변화와 신약 시장 자체의 성장이라는 측면에서 함께 살펴볼 필요가 있다.\n◆ 기대에서 실적으로…2027년 신규 수주가 가늠자\n생물보안법은 그동안 국내 CDMO 산업의 중장기 성장 기대감을 높여온 주요 정책 가운데 하나였다. 그러나 지난해 말 법제화 이후에도 올해 국내 주요 기업의 신규 수주가 기대만큼 빠르게 늘어나지는 않았다.\n미국의 의약품 관세정책과 글로벌 제약사들의 생산 거점 재검토가 맞물리면서 공급망 재편에 따른 기대감이 실제 계약으로 ",
+      "authors": [
+        "최봉선 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "2181646f20bb",
+      "source_id": "medipana",
+      "source_name": "메디파나뉴스",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "엔비피헬스케어, 'NVP-LC2767' 국가신약개발사업 과제 선정",
+      "url": "https://medipana.com/news/articleView.html?idxno=422836",
+      "published": "2026-11-27T14:36:35Z",
+      "summary": "마이크로바이옴 기반 신약개발 전문기업 엔비피헬스케어는 대사이상 관련 지방간염(MASH) 치료제 후보물질 'NVP-LC2767'이 국가신약개발사업단의 2026년도 제2차 국가신약개발사업 비임상 과제로 선정돼 협약을 맺었다고 27일 밝혔다.\n엔비피헬스케어는 이번 과제로 NVP-LC2767의 약효와 작용기전을 확증하고 의약품 제조·품질관리 체계를 갖춰 미국 FDA에 임상시험계획(IND)을 제출하고 임상 2상에 진입할 계획이다.\nMASH는 간에 지방이 쌓이고 염증과 간세포 손상이 동반되는 만성 간질환으로, 섬유화가 진행되면 간경변이나 간암으로 발전할 수 있다. 최근 장내 미생물 불균형과 장 유래 내독소가 MASH 발병 및 악화에 관여하는 것으로 밝혀지면서 '장-간 축(gut-liver axis)'이 새 치료 표적으로 주목받고 있다.\nNVP-LC2767은 엔비피헬스케어의 듀오바이옴(DuoBiome) 기술을 적용해 'LC27'과 'LC67' 두 균주를 조합한 경구용 복합 생균치료제 후보물질이다. 장내 미생물 불균형과 장 장벽 손상을 개선해 장 유래 내독소(LPS) 생성 및 체내 유입을 줄이고, 간 염증반응과 담즙산·지질대사 관련 신호를 조절한다.\n회사는 이미 다수의 지방간, 간손상, 간섬유화 동물모델에서 NVP-LC2767의 효능을 확인했다. 동일한 균주 조성으로 비알코올성 및 알코올성 간기능 손상자를 대상으로 진행한 2건의 12주 무작위배정·이중눈가림·위약대조 인체적용시험에서도 간효소와 내독소 관련 지표 개선 및 장내 미생물 조성 변화를 입증했다.\n이를 바탕으로 비임상시험관리기준(GLP) 독성시험과 미국 FDA 사전 임상시험계획 상담을 마치며 글로벌 신약개발 토대를 다져 왔다.\n이번 과제에서는 추가적인 표준 MASH 동물모델에서 약효와 작용기전을 확증하고, 인공지능으로 인체적용시험과 비임상 연구에서 확보한 혈액·분변 자료를 통합 분석해 치료반응 예측 및 약력학 바이오마커 후보를 선별한다.\n아울러 의약품 제조·품질관리기준(GMP)에 부합하는 제조공정과 품질관리 체계를 확립해 임상시험용 의약품 생산 기반과 품질 일관성을 확보할 방침이다.\n엔비피헬스케어 관계자는 \"이번 과제는 축적된 마이크로바이옴 연구 성과를 글로벌 신약개발로 잇는 핵심 단계\"라며 \"장-간 축 기반 치료 전략의 차별성과 경쟁력을 높여 임상 2상 성공 가능성을 키우고, 글로벌 공동 개발과 기술 이전을 추진하겠다\"고 말했다.\n한편 국가신약개발사업은 국내 제약·바이오산업의 글로벌 경쟁력 제고를 위해 출범한 범부처 국가 R&D 사업으로, 2021년부터 10년간 국내 신약개발 생태계 강화와 글로벌 실용화, 보건 의료분야 공익적 성과 창출을 목표로 전주기 단계를 지원한다.",
+      "authors": [
+        "이주예 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "d901af82863d",
+      "source_id": "medipana",
+      "source_name": "메디파나뉴스",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "신약 기술만 사던 빅파마, 기업까지 품는다…글로벌 M&A 사상 최대",
+      "url": "https://medipana.com/news/articleView.html?idxno=422838",
+      "published": "2026-11-27T14:34:19Z",
+      "summary": "글로벌 제약바이오산업의 신약 확보 방식에 변화가 나타나고 있다. 외부 바이오텍으로부터 유망 신약 후보물질을 도입하는 기술이전 거래가 대형화되는 가운데 개발 역량과 파이프라인을 한꺼번에 확보할 수 있는 인수합병(M&A) 시장도 빠르게 확대되고 있다.\n주력 의약품의 특허만료를 앞둔 글로벌 빅파마들이 미래 성장동력 확보에 속도를 내면서 임상적 유효성이 확인됐거나 상업화에 근접한 신약의 가치가 더욱 높아지는 모습이다.\n키움증권 리서치센터가 발간한 2027년 제약바이오산업 전망 보고서에 따르면 올해 1~9월 글로벌 제약바이오산업의 기술이전 및 M&A 거래금액은 4030억달러로 사상 최대치를 기록했다.\n전체 거래 규모의 확대와 함께 눈여겨볼 대목은 기술이전과 M&A가 차지하는 비중의 변화다. 지난해 전체 거래금액에서 기술이전이 차지하는 비중은 75.14%, M&A는 24.86%였다. 그러나 올해 3분기 누적 기준 기술이전 비중은 55.89%로 낮아진 반면 M&A는 44.11%까지 높아졌다.\nM&A 비중이 19.25%포인트 상승하면서 기술이전 중심이었던 글로벌 제약바이오 거래시장의 구성이 달라지고 있다.\n◆ 거래 건수 줄었지만 계약 규모는 커져\n기술이전 시장에서도 거래 구조의 변화가 감지된다. 올해 1~9월 글로벌 기술이전 거래 건수는 840건으로 지난해 같은 기간 885건보다 약 5% 감소했지만 전체 거래금액은 오히려 늘었다.\n거래 건수가 줄어드는 상황에서도 시장 규모가 확대됐다는 것은 개별 계약의 평균 금액이 커지고 있음을 의미한다.\n이 같은 흐름은 글로벌 제약사들이 직면한 신약개발 환경의 변화와 맞닿아 있다. 신약개발에 필요한 비용이 증가하고 유망 치료 영역에서의 경쟁도 치열해지면서 자체 연구개발만으로 미래 성장에 필요한 제품군을 확보하기가 갈수록 어려워지고 있기 때문이다.\n여기에 글로벌 시장에서 수십억달러의 매출을 올리는 블록버스터 의약품들의 특허만료까지 다가오면서 새로운 매출원을 확보해야 하는 빅파마들의 움직임도 빨라지고 있다.\n다수의 초기 후보물질에 투자해 개발 가능성을 탐색하는 방식과 함께 임상 데이터를 통해 일정 수준의 경쟁력을 확인한 신약에 자금을 집중하는 전략이 부각되고 있는 배경이다.\n글로벌 제약사들의 기술 확보 경쟁이 치열해질수록 차별화된 임상 데이터를 보유한 후보물질의 협상력도 높아질 것으로 보인다.\n◆ M&A 1777억달러…기업 인수에 적극 나선 빅파마\n기술이전 거래의 대형화 못지않게 두드러지는 변화는 M&A 시장의 성장이다.\n올해 3분기까지 글로벌 제약바이오기업의 M&A 거래금액은 1777억1000만달러로 역대 최대치를 기록했다. 기술이전 거래금액이 약 2252억달러로 추산되는 점을 고려하면 두 시장의 규모 차이도 상당히 좁혀졌다.\n키움증권은 올해 일라이 릴리가 적극적으로 기업 인수에 나선 가운데 임상적 성과를 확보했거나 상업화에 근접한 자산을 중심으로 대규모 M&A가 이뤄졌다고 분석했다.\n기술이전 계약에서는 특정 후보물질이나 플랫폼의 개발 및 판매 권리를 확보하는 것이 일반적이다. 반면 기업 인수를 통해서는 해당 기업이 보유한 신약 파이프라인은 물론 연구인력과 지식재산권, 후속 개발 역량까지 확보할 수 있다.\n특정 기술을 도입하는 데 그치지 않고 기업 자체를 인수함으로써 중장기적인 신약개발 전략에 편입할 수 있다는 점에서 차이가 있다.\n물론 기업 인수는 초기 자금 부담이 크고 인수 이후 조직 통합이나 사업 운영에 따른 위험도 수반한다. 그럼에도 임상적 경쟁력이 확인된 신약의 상업화 가능성이 높다고 판단할 경우 대규모 자금을 투입해서라도 해당 기업을 확보하려는 움직임이 나타나고 있다.\n기술이전이 신약개발의 비용과 위험을 분담하는 수단이라면 M&A는 유망 신약의 개발과 상업화에 대한 주도권을 확보하는 방식이라는 점에서 빅파마들의 선택에도 차이가 생기고 있다.\n◆ 기술의 가능성에서 상업화 경쟁력으로\n글로벌 기술이전과 M&A 시장이 동시에 성장하는 것은 신약개발의 외부 의존도가 높아지는 가운데 기술의 가치를 판단하는 기준도 달라지고 있음을 보여준다.\n새로운 작용기전이나 혁신적인 플랫폼 자체에 대한 기대감은 여전히 중요하지만, 실제 환자에서 치료 효과를 확인한 임상 데이터와 기존 치료제 대비 차별성, 허가 및 상업화 가능성에도 한층 무게가 실리고 있다.\n최근 인공지능(AI)을 활용한 후보물질 발굴이 확대되고 중국을 비롯한 신흥 바이오 강국에서 새로운 신약 파이프라인이 빠르게 늘어나면서 글로벌 제약사들이 검토할 수 있는 기술의 선택지도 다양해졌다.\n후보물질이 늘어날수록 실제 치료 효과와 안전성을 뒷받침하는 임상 데이터의 희소성은 오히려 높아질 수 있다.\nKB증권도 최근 제약산업 전망 보고서에서 AI와 중국의 부상으로 신약 후보물질 확보 경쟁이 치열해지는 가운데 임상시험을 통해 유효성이 입증된 파이프라인의 가치가 더욱 높아질 가능성에 주목했다.\n글로벌 제약사들의 외부 기술 확보 경쟁이 단순한 후보물질 수의 확대보다는 향후 시장에서 경쟁력을 발휘할 수 있는 신약을 선점하는 방향으로 전개되고 있는 것이다.\n◆ K바이오에도 넓어지는 선택지\n이러한 변화는 글로벌 기술수출 시장에서 입지를 넓혀온 국내 제약바이오기업에도 적지 않은 의미를 갖는다. 그동안 국내 바이오텍은 자체 개발한 후보물질이나 플랫폼 기술을 해외 제약사에 이전하고 선급금과 단계별 마일스톤, 판매 로열티 등을 확보하는 방식으로 성장 기반을 마련해 왔다.\n글로벌 M&A 시장이 활성화되면 개별 기술이전뿐 아니라 기업 인수나 전략적 지분투자 등 다양한 형태의 사업 협력 가능성도 열릴 수 있다.\n다만 글로벌 제약사들의 M&A 규모가 커진다고 해서 국내 바이오텍의 기업가치가 일률적으로 높아지는 것은 아니다. 보유 파이프라인의 임상 경쟁력과 지식재산권, 후속 개발 가능성, 글로벌 시장에서의 상업적 가치 등에 따라 기업별 평가도 달라질 수밖에 없다.\n국내에서도 글로벌 기술수출을 통해 상당한 자금과 개발 경험을 축적한 제약사와 바이오텍이 늘어나고 있다는 점은 주목할 만하다. 해외 기술이전의 성과를 바탕으로 또 다른 신약 후보물질을 확보하거나 외부 기업에 투자할 수 있는 기반이 넓어지고 있기 때문이다.\n글로벌 제약바이오 거래시",
+      "authors": [
+        "최봉선 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "f9896dacd6ce",
+      "source_id": "medipana",
+      "source_name": "메디파나뉴스",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "4년 만에 5%서 49%로…빅파마 대형 기술거래 장악한 中바이오",
+      "url": "https://medipana.com/news/articleView.html?idxno=422837",
+      "published": "2026-11-27T14:21:53Z",
+      "summary": "글로벌 제약사들의 신약 기술도입 경쟁에서 중국 바이오기업의 존재감이 갈수록 커지고 있다. 글로벌 연구개발(R&D) 협력 시장이 전반적으로 위축되는 가운데 중국 기업과의 거래는 오히려 늘어났으며, 10억달러 이상의 대형 계약에서는 중국 기업이 관여하는 비중이 절반에 육박했다.\n과거 글로벌 제약사의 생산기지이자 의약품 판매시장으로 주목받았던 중국이 이제는 빅파마의 미래 성장동력이 될 신약 후보물질을 공급하는 핵심 국가로 부상하고 있다.\n키움증권 리서치센터가 지난 25일 발간한 2027년 제약바이오산업 전망 보고서에 따르면 글로벌 R&D 협력 계약은 2021년 약 900건에서 올해 들어 현재까지 약 490건으로 집계됐다.\n이와 달리 중국 기업이 관련된 계약은 2021년 약 60건에서 지난해 약 150건으로 2.5배 증가했다. 글로벌 연구개발 협력 시장이 움츠러드는 상황에서도 중국을 향한 기술도입 수요는 확대된 것이다.\n특히 계약 규모가 클수록 중국 기업의 약진은 더욱 두드러졌다. 10억달러 이상 대형 R&D 협력 계약에서 중국 기업이 차지하는 비중은 2021년 약 5%에 불과했으나 지난해에는 약 49%까지 높아졌다. 4년 만에 비중이 10배 가까이 확대된 셈이다.\n◆ 빅파마는 왜 중국의 신약 후보물질에 주목하나\n중국 바이오기업의 급성장 이면에는 글로벌 제약산업이 직면한 연구개발 생산성 문제가 자리 잡고 있다.\n보고서에 따르면 지난해 글로벌 신약 한 개를 개발하는 데 소요되는 평균 연구개발 비용은 약 27억달러에 달했다. 낮은 임상 성공률과 길어진 개발 기간, 유망 치료 영역에서의 경쟁 심화 등이 맞물리면서 신약개발에 따른 비용 부담이 좀처럼 줄어들지 않고 있다.\n주력 블록버스터 의약품의 특허만료까지 앞둔 글로벌 제약사들로서는 자체 연구개발만으로 미래 성장에 필요한 신약 파이프라인을 확보하기가 갈수록 어려워지고 있다.\n외부 바이오텍이 발굴한 유망 후보물질을 도입해 후속 임상과 상업화를 추진하는 방식이 빅파마의 주요 연구개발 전략으로 자리 잡은 배경이다.\n이러한 흐름을 타고 중국 바이오텍은 가격 경쟁력과 개발 속도를 동시에 앞세워 글로벌 기술거래 시장에서 입지를 넓혀왔다.\n중국의 신약개발 비용을 100으로 가정할 경우 서구권에서는 인건비와 원재료비 등 투입비용만으로도 중국의 약 두 배에 달하는 비용이 발생하는 것으로 분석됐다.\n여기에 연구개발 기간의 차이까지 더해지면 비용 격차는 한층 커진다. 개발 속도가 빠르면 연구인력에 투입되는 비용뿐 아니라 조직 운영과 연구시설 유지에 필요한 간접비까지 줄일 수 있기 때문이다.\n글로벌 빅파마가 중국 바이오텍과의 협력을 확대하는 것은 단순히 저렴한 기술을 확보하기 위해서만은 아니다. 경쟁력 있는 후보물질을 보다 빠르게 확보해 후속 개발에 나설 수 있다는 점도 중요한 요인으로 작용하고 있다.\n◆ 수십억달러 계약 잇따라…올해도 중국 쏠림 지속\n중국 바이오텍을 향한 글로벌 제약사들의 기술도입 움직임은 올해 들어서도 이어지고 있다.\n미래에셋증권이 이달 발간한 제약바이오산업 전망 보고서에 따르면 글로벌 라이선싱 계약금액 가운데 중국 기업이 차지하는 비중은 지난해 48%에서 올해 11월 기준 58%로 확대됐다. 반면 한국을 포함한 기타 지역의 비중은 7%에 그쳤다.\n이 같은 흐름은 올해 성사된 초대형 기술거래에서도 확인할 수 있다.\n미국 브리스톨마이어스스퀴브(BMS)와 중국 항서제약의 연구개발 협력 계약은 최대 152억달러 규모에 달했으며, 화이자와 중국 이노벤트 바이오로직스도 최대 105억달러 규모의 계약을 체결했다.\n중국 기업들이 개별 후보물질을 해외에 기술이전하는 수준을 넘어 글로벌 제약사의 중장기 파이프라인 구축에 참여하는 주요 협력 대상으로 성장하고 있는 것이다.\n물론 대형 기술수출 계약에서 발표되는 최대 계약금액은 확정 수익과는 차이가 있다. 후속 임상과 허가, 상업화 성과에 따라 지급되는 조건부 마일스톤이 상당 부분을 차지하기 때문이다.\n그러나 글로벌 빅파마가 중국 기업의 후보물질을 확보하기 위해 잇따라 대규모 계약을 체결하고 있다는 사실은 중국 바이오산업에 대한 평가가 과거와 달라졌음을 보여준다.\n◆ 기술수출 성장에도 만만치 않은 K바이오의 경쟁 환경\n국내 제약바이오산업 역시 최근 수년간 글로벌 기술수출 시장에서 적지 않은 성과를 거뒀다. 항체약물접합체(ADC)와 이중항체, 약물전달 플랫폼 등 다양한 분야에서 글로벌 빅파마와 대규모 계약을 체결하며 기술 경쟁력을 높여왔다.\n다만 국내 기업의 기술수출 성과가 확대되는 속도만큼 중국 바이오산업의 성장세도 가파르다는 점은 눈여겨볼 대목이다.\n글로벌 제약사들이 외부 신약 후보물질 확보에 적극적으로 나서고 있지만 기술을 도입할 수 있는 후보군도 이전보다 다양해졌다. 국내 기업 입장에서는 기술수출 시장 자체가 커지는 기회와 함께 유망 후보물질을 공급하는 중국 기업들과의 경쟁도 심화되고 있는 셈이다.\n미국의 중국 바이오산업 관련 규제 강화가 국내 기업에 새로운 기회를 제공할 것이라는 기대도 나온다. 빅파마가 중국에 집중된 기술도입과 생산 공급망을 다변화할 경우 한국 기업들의 협력 가능성도 높아질 수 있기 때문이다.\n그러나 중국 기업의 기술 및 비용 경쟁력이 단기간에 사라지는 것은 아니다. 글로벌 제약사의 입장에서도 규제 위험과 별개로 후보물질의 치료 효과와 사업성, 개발 속도는 여전히 중요한 판단 기준이다.\n결국 국내 기업들이 글로벌 기술거래 시장에서 입지를 넓히기 위해서는 경쟁 후보물질보다 우수한 임상 데이터를 확보하는 동시에 후속 개발 기간을 단축할 수 있는 역량을 갖추는 것이 중요해졌다.\n중국이 글로벌 바이오산업의 생산기지에서 신약기술 공급자로 성장하는 동안 국내 제약바이오산업도 기술수출과 글로벌 상업화 경험을 축적해 왔다.\n글로벌 빅파마의 외부 기술 확보 경쟁이 치열해질수록 국내 기업에도 더 많은 기회가 열릴 수 있지만, 그 기회를 실제 계약으로 연결하기 위한 경쟁의 문턱 또한 높아지고 있다.",
+      "authors": [
+        "최봉선 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "e79cec10427c",
+      "source_id": "medipana",
+      "source_name": "메디파나뉴스",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "미·중 바이오 규제의 충돌…K바이오에 새로운 기회 열리나",
+      "url": "https://medipana.com/news/articleView.html?idxno=422835",
+      "published": "2026-11-27T14:11:40Z",
+      "summary": "글로벌 제약바이오산업에서 중국의 위상이 빠르게 높아지면서 미국과 중국의 기술 패권 경쟁도 새로운 국면을 맞고 있다. 미국이 중국 바이오산업에 대한 견제 범위를 생산·연구개발 공급망에서 자본과 기술 영역으로 넓히는 가운데 중국 역시 자국에서 개발한 첨단 바이오기술의 해외 이전에 대한 관리 강화에 나섰다.\n그동안 반도체와 인공지능(AI) 등 첨단산업을 중심으로 전개됐던 양국의 기술 패권 경쟁이 신약개발 분야로까지 확산되는 모습이다. 중국 바이오텍을 주요 기술도입 대상으로 삼아 온 글로벌 빅파마의 연구개발 전략에도 변화가 예상되면서 국내 제약바이오기업에 새로운 기회가 열릴지 관심이 모아지고 있다.\n키움증권 리서치센터가 지난 25일 발간한 2027년 제약바이오산업 전망 보고서에 따르면 글로벌 연구개발(R&D) 협력 계약 가운데 중국 기업이 관련된 거래는 2021년 약 60건에서 2025년 약 150건으로 늘었다.\n거래 규모가 큰 계약에서는 중국의 성장세가 더욱 두드러진다. 10억달러 이상 대형 R&D 협력 계약에서 중국 기업이 차지하는 비중은 2021년 약 5%에 불과했으나 지난해에는 49%까지 높아졌다. 불과 4년 사이 글로벌 대형 거래 두 건 중 한 건에 중국 기업이 관여하는 수준으로 성장한 것이다.\n이 같은 변화의 배경에는 중국 바이오텍의 신약개발 비용과 속도 경쟁력이 자리 잡고 있다. 상대적으로 낮은 인건비와 개발 비용, 빠른 임상 진행 등을 기반으로 중국 기업들이 유망한 신약 후보물질을 잇따라 내놓으면서 글로벌 빅파마의 관심도 높아졌다.\n신약 하나를 개발하는 데 투입되는 비용이 갈수록 커지는 상황에서 글로벌 제약사들로서는 중국에서 발굴한 후보물질을 도입하는 것이 연구개발 생산성을 높이는 효과적인 전략이 될 수 있었다.\n그러나 글로벌 신약개발 생태계에서 중국의 존재감이 커질수록 이를 바라보는 미국의 시각도 달라지고 있다.\n◆ 공급망에서 자본·기술로…달라지는 미국의 중국 견제\n그동안 미국의 중국 바이오산업 견제는 위탁개발생산(CDMO)과 임상시험수탁(CRO) 등 공급망에 대한 의존도를 낮추는 데 무게가 실려 있었다. 최근에는 중국 기업의 기술 경쟁력이 높아지면서 미국 자본이 중국의 첨단 바이오기술 개발에 유입되는 문제와 지식재산권 확보 과정까지 규제 논의의 대상으로 떠오르고 있다.\n미국 재무부가 지난 10월 22일 해외투자 국가안보법(COINS Act)의 규제 대상에 바이오산업을 포함하는 시행규정 개정안을 공개한 것도 이러한 흐름의 연장선에 있다.\n지난해 12월 국방수권법(NDAA)을 통해 법제화된 해외투자 국가안보법을 기반으로 중국 등 우려국의 첨단 바이오기술에 대한 미국 자본의 투자를 제한하려는 것이다.\n개정안이 확정되면 규제 대상 바이오기술을 개발하는 중국 기업에 대한 지분투자나 일부 합작법인 설립, 지분 전환 조건이 포함된 자금 지원 등이 제한될 수 있다.\n다만 글로벌 제약사들이 중국 바이오텍으로부터 신약 후보물질을 도입하면서 선급금과 마일스톤, 판매 로열티 등을 지급하는 일반적인 기술 라이선스 계약은 이번 재무부 개정안의 투자 금지 대상에 포함되지 않았다.\n글로벌 제약업계가 미국 의회에서 논의 중인 바이오기술 투자 국가안보법안(BINSA)에 더욱 관심을 기울이는 이유도 여기에 있다. 재무부의 개정안이 자본투자를 제한하는 데 초점을 맞췄다면 BINSA는 중국 등 규제 대상국 기업과의 기술 라이선스 계약까지 국가안보 차원의 심사 범위에 포함하는 내용을 담고 있다.\n중국 바이오텍에 직접 투자하지 않고 후보물질의 개발 및 상업화 권리를 확보해 온 글로벌 빅파마의 사업전략에도 영향을 미칠 수 있다는 점에서 파급력이 적지 않을 것으로 보인다.\n다만 BINSA는 아직 의회에 계류 중인 법안이다. 내년 1월 3일 제119대 미국 의회 임기가 종료될 때까지 통과되지 않으면 차기 의회에서 다시 발의해야 하는 만큼 실제 규제 도입 여부와 범위는 좀 더 지켜볼 필요가 있다.\n◆ 기술 경쟁력 높아진 중국도 해외 이전에 빗장\n흥미로운 점은 미국의 견제 움직임과 맞물려 중국 역시 자국 바이오기술의 해외 이전에 대한 관리를 강화하고 있다는 것이다. 과거 중국이 해외 자본과 기술을 유치하는 데 주력했다면 이제는 자국에서 개발한 첨단기술과 지식재산권을 전략적 산업 자산으로 관리하려는 움직임이 나타나고 있다.\n중국 상무부와 과학기술부는 지난 10월 기술수출 금지·제한 목록 개정안을 공개하면서 일부 세포·유전자치료제와 소간섭RNA(siRNA) 관련 기술 등을 수출 통제 대상에 추가하는 방안을 제시했다.\n최종 목록은 아직 확정되지 않았으나 지난 10월 16일부터 개정안에 포함된 기술을 해외로 이전하기에 앞서 상무부에 등록하도록 하는 과도기적 관리체계도 도입했다.\n중국 바이오텍의 해외 기술수출을 전면적으로 제한하는 것은 아니지만 전략적 가치가 높은 첨단기술의 이전 과정에서 정부의 관리와 심사가 강화되는 방향이다. 거래 형태에 따라 기술 라이선스뿐 아니라 특허권 이전이나 기술에 대한 실질적 지배권 변경 등도 영향을 받을 수 있다.\n결국 글로벌 제약사들이 중국의 유망 신약 후보물질을 확보하려 할 경우 미국의 투자 및 기술도입 관련 규제와 중국의 기술수출 관리 절차를 함께 고려해야 하는 상황이 만들어지고 있는 셈이다.\n중국 바이오텍의 기술 경쟁력이 높아진 만큼 글로벌 빅파마가 중국과의 협력을 쉽게 줄이기는 어렵겠지만, 거래 과정에서 발생하는 불확실성은 이전보다 커질 것으로 보인다.\n◆ 연말부터 구체화되는 규제…빅파마 협력 구도 변화 주목\n미·중 바이오산업을 둘러싼 규제의 윤곽은 올해 말부터 내년 상반기에 걸쳐 보다 구체화될 전망이다.\n미국 재무부의 해외투자 국가안보법 시행규정 개정안에 대한 의견수렴이 오는 12월 7일 마무리되는 데 이어 같은 달 18일에는 백악관 산하 관리예산실(OMB)의 생물보안법(BIOSECURE Act) 관련 우려 바이오기술 기업 명단 공개 기한이 도래한다.\n생물보안법은 미국 연방정부의 조달계약과 연방자금이 투입되는 사업에서 지정된 우려 기업의 바이오기술 장비 및 서비스 이용을 제한하는 내용을 담고 있다.\n우려 기업 명단이 공개된다고 해서 해당 기업과의 모든 민간 거래가 즉시 금지되",
+      "authors": [
+        "최봉선 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "a47c2f709486",
+      "source_id": "medipana",
+      "source_name": "메디파나뉴스",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "엘앤씨바이오, 싱가포르서 '리투오' 임상 활용 공유",
+      "url": "https://medipana.com/news/articleView.html?idxno=422834",
+      "published": "2026-11-27T13:58:20Z",
+      "summary": "엘앤씨바이오가 싱가포르 국제학술대회에서 인체조직 기반 세포외기질(ECM) 기술과 피부 ECM 제품 '리투오'의 임상 활용 사례를 공유했다. 재건의료 분야에서 축적한 인체조직 가공 기술을 미용의학 분야로 확장하며 글로벌 학술 네트워크를 강화하고 있다.\n엘앤씨바이오는 지난 18일부터 22일까지 싱가포르 의료혁신센터에서 개최된 국제 성형외과 학술대회 'PASM(Plastic Aesthetic Surgery Meeting) 2026'과 비침습 미용의학 학술대회 'NIMAS(Non-Invasive Medical Aesthetics Symposium) 2026'에 참가했다고 27일 밝혔다.\n올해로 18회를 맞은 PASM은 싱가포르 주요 성형외과 관련 학술단체가 공동 주최하는 국제학술대회다. 세계 각국 의료 전문가들이 성형외과 분야 최신 수술 기법과 임상 경험, 의료기술을 공유하는 자리로, 올해는 기존 미용성형 분야에 재건성형 전문 세션을 신설했다.\n지난 22일 열린 NIMAS는 싱가포르 성형외과학회(SAPS)가 주관하는 비침습 미용의학 전문 학술대회로 올해 처음 개최됐다.\n현지 의료진 200여명이 참석한 이번 학술대회에서 리투오 자문의로 활동 중인 이영재 신상성형외과 대표원장은 NIMAS 바이오스티뮬레이터 및 스킨부스터 관련 학술 세션에 연자로 참여했다.\n이 원장은 '리투오의 안면 피부 개선 및 흉터 관련 임상 활용(Usage of Re2O for Facial Rejuvenation and Scars)'을 주제로 발표했다.\n인체조직이식재 '메가덤(MegaDerm)'의 재건의료 분야 활용 경험과 이를 기반으로 개발한 피부 ECM 제품 '리투오(Re2O)'의 소재적 특성, 피부 상태에 따른 임상 활용 사례를 공유했다.\n특히 인체 피부의 구조적 특성과 ECM 역할을 중심으로 기존 미용의학 소재와 차별화되는 인체조직 유래 ECM 특성과 활용 가능성을 설명했다.\n리투오는 기증받은 인체피부에서 세포 성분을 제거한 무세포동종진피(hADM)를 미세입자 형태로 정밀 가공한 제품이다. 콜라겐과 엘라스틴 등 인체 피부 구조를 이루는 다양한 ECM 구성 성분을 기반으로 한다.\n이번 학술대회에서 현지 의료진은 리투오 소재 특성과 임상 활용 사례뿐 아니라 적용 전후 피부 변화에 대한 객관적인 평가 방법에도 관심을 보였다는 것이 회사 측 설명이다.\n기존 리투오와 '리투오 파인(Re2O Fine)', 신제품 '리투오 V(Re2O V)'를 비롯해 메가덤과 3D 인공지능(AI) 피부 분석 솔루션 '루스킨 X(Luskin X)' 등 다양한 제품과 기술도 소개했다.\n엘앤씨바이오는 지난 15년간 재건의료 분야에서 축적한 인체조직 가공 기술과 임상 경험을 기반으로 ECM 제품 포트폴리오를 확대하고 있다.\n재건의료 분야 메가덤에서 미용의학 분야 리투오로 이어지는 제품 개발 역량을 바탕으로 인체조직 기반 ECM 활용 범위를 넓히고, 국내외 학술대회와 의료진 대상 교육 프로그램을 통해 글로벌 학술 네트워크도 확대한다는 전략이다.\n엘앤씨바이오 관계자는 \"이번 학술대회는 재건의료 분야에서 축적해 온 엘앤씨바이오의 인체조직 가공 기술력과 피부 ECM의 임상 활용 가능성을 해외 의료진에게 소개하는 의미 있는 자리였다\"며 \"메가덤에서 리투오로 이어지는 독자적인 인체조직 가공 기술과 임상 경험을 기반으로 글로벌 의료진과의 학술 교류를 강화하고, K-ECM의 글로벌 경쟁력과 시장 입지를 지속적으로 확대해 나가겠다\"고 말했다.",
+      "authors": [
+        "조후현 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "874fdafe927e",
+      "source_id": "medipana",
+      "source_name": "메디파나뉴스",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "같은 약가인하, 달랐던 14년…대형·중소제약의 엇갈린 행보",
+      "url": "https://medipana.com/news/articleView.html?idxno=422831",
+      "published": "2026-11-27T13:44:34Z",
+      "summary": "2012년 일괄 약가인하는 국내 제약산업의 성장 방향을 바꾼 주요 전환점 가운데 하나였다. 제네릭 중심의 사업구조에서 벗어나 신약개발과 해외 기술수출로 눈을 돌리는 계기가 됐지만, 이후 기업 규모에 따른 연구개발(R&D) 투자 격차도 한층 뚜렷해졌다.\n대형 제약사들이 지난 14년간 연구개발 투자를 5배 이상 확대하며 새로운 성장동력을 확보해 온 반면, 중소형 제약사들의 연구개발 투자는 뚜렷한 증가세를 보이지 못했다.\n정부가 제네릭 약가 산정률을 45% 수준으로 낮추는 약가제도 개편을 추진하면서 14년 전 약가인하 이후 나타난 제약산업의 변화가 다시 주목받고 있다.\n키움증권 리서치센터가 최근 발간한 2027년 제약바이오산업 전망 보고서에 따르면 2012년 일괄 약가인하 이후 국내 대형 제약사와 중소형 제약사의 연구개발 투자 규모는 서로 다른 흐름을 보였다.\n◆ 2012년 약가인하…제네릭 중심 성장모델의 전환점\n정부는 2012년 4월 제네릭 약가를 오리지널 의약품 가격의 53.55% 수준으로 조정하는 일괄 약가인하를 시행했다. 제네릭 판매를 기반으로 성장해 온 국내 제약사들은 수익성 압박에 직면했고, 기존 내수시장 중심의 사업구조에서 벗어나 새로운 성장동력을 확보해야 하는 상황을 맞았다.\n연구개발 역량과 자금력을 갖춘 주요 제약사들은 자체 신약개발과 해외시장 진출에 속도를 내는 한편 외부 혁신기술을 도입하는 방식으로 사업 영역을 넓혀갔다.\n2015년 한미약품을 비롯한 국내 제약사들의 대규모 해외 기술수출 계약은 이러한 변화의 흐름을 보여준 대표적인 사례다. 제네릭 판매를 통해 확보한 수익을 신약개발에 재투자하고, 개발 성과를 글로벌 제약사에 기술이전하는 사업모델이 국내 제약산업의 새로운 성장축으로 자리 잡기 시작한 것이다.\n그러나 모든 제약사가 이 같은 변화에 동일하게 대응할 수 있었던 것은 아니다.\n◆ 대형 제약사 R&D 5배 이상 증가…중소형사는 제자리\n보고서가 제시한 2011~2025년 국내 제약사 연구개발비 추이를 보면 기업 규모에 따른 투자 격차가 뚜렷하게 나타난다. 분석 대상은 2025년 매출액 기준 상위 제약사 10곳과 유가증권시장에 상장된 매출 하위 제약사 15곳이다.\n상위 10개사에는 유한양행, GC녹십자, 종근당, 광동제약, 대웅제약, 한미약품, HK이노엔, 보령, 동아에스티, JW중외제약이 포함됐다. 이들 10개사의 연구개발비 합계는 약가인하 이전인 2011년 약 2200억원 수준에서 2015년 5000억원을 넘어섰고, 2020년에는 9000억원 안팎으로 확대됐다.\n2023년에는 1조원 수준에 이르렀으며, 2025년에는 약 1조1700억원까지 늘어난 것으로 나타났다. 2011년과 비교하면 5배 이상 증가한 규모다.\n일부 연도에는 연구개발비가 감소하기도 했지만, 장기적으로는 꾸준한 증가세를 이어갔다. 반면 매출 하위 15개사의 연구개발비는 같은 기간 상대적으로 완만한 흐름을 보였다. 일부 연도에 투자가 늘어났으나 대형 제약사와 같은 지속적인 확대 추세로 이어지지는 못했다.\n분석 대상 기업 수가 중소형 제약사 쪽이 더 많다는 점을 고려하면 개별 기업의 평균 연구개발 투자 규모 차이는 더욱 크다. 2012년 약가인하 이후 국내 제약산업 전체의 신약개발 역량은 성장했지만, 그 과정에서 기업별 연구개발 투자 여력의 차이도 확대된 셈이다.\n◆ 연구개발 투자 격차, 미래 성장동력의 차이로\n제약산업에서 연구개발 투자는 당장의 매출이나 영업이익보다 중장기적인 기업 경쟁력에 영향을 미치는 요소다.\n신약 후보물질 발굴부터 비임상시험, 임상개발, 허가에 이르기까지 상당한 자금과 시간이 필요한 만큼 안정적인 연구개발 재원을 확보한 기업일수록 다양한 파이프라인을 구축할 수 있다.\n대형 제약사들은 기존 의약품 판매에서 발생하는 현금흐름에 기술수출 선급금과 마일스톤, 해외사업 수익 등을 더해 후속 연구개발에 투자할 수 있는 기반을 넓혀왔다.\n자체 개발뿐 아니라 국내외 바이오텍과의 공동연구, 기술도입, 지분투자 등으로 연구개발 영역을 확장하는 것도 가능해졌다. 반면 상대적으로 자금 여력이 부족한 중소형 제약사들은 기존 제품의 매출과 수익성에 대한 의존도가 높은 경우 새로운 연구개발 투자를 확대하는 데 어려움을 겪을 수 있다.\n특히 장기간에 걸쳐 자금을 투입해야 하는 신약개발의 특성상 연구개발 투자 격차가 지속되면 향후 제품 포트폴리오와 해외시장 진출 역량의 차이로 이어질 가능성도 있다.\n다만 연구개발비 규모만으로 기업의 기술 경쟁력이나 혁신 성과를 판단하기는 어렵다. 중소형 제약사들도 특화된 치료 영역이나 개량신약, 제제기술, 생산 경쟁력 등을 통해 차별화된 사업모델을 구축할 수 있기 때문이다.\n◆ 다시 찾아온 약가인하…2012년과 무엇이 다른가\n내년부터 본격화될 기등재 제네릭 약가 조정은 국내 제약산업에 또 다른 사업환경의 변화를 가져올 전망이다.\n제네릭 기본 약가 산정률을 기존 53.55%에서 45% 수준으로 낮추는 것이 이번 개편의 주요 내용이다. 다만 2012년 일괄 약가인하와 달리 기존 등재 의약품은 장기간에 걸쳐 단계적으로 조정하고, 연구개발 역량 등을 갖춘 기업에 차등적인 약가 우대 혜택을 부여한다는 점에서 차이가 있다.\n보고서에 따르면 혁신형 제약기업에는 요건 충족 시 60%, 준혁신형 제약기업 등에는 50%의 우대 산정률을 적용하는 체계도 마련됐다. 약가 인하에 따른 수익성 부담이 발생하는 동시에 기업의 혁신 역량에 따라 적용받는 약가 수준에도 차이가 생기는 구조다.\n키움증권은 이번 약가제도 개편이 연구개발 투자 여력을 갖춘 기업과 그렇지 못한 기업 간 중장기 경쟁력 차이를 더욱 확대할 가능성이 있다고 전망했다.\n기존 사업에서 안정적인 현금흐름을 확보하고 신약개발 성과까지 축적한 기업은 상대적으로 다양한 대응 전략을 마련할 수 있지만, 제네릭 의존도가 높은 기업은 수익성 방어와 미래 성장동력 확보라는 두 가지 과제를 동시에 안게 될 수 있다는 분석이다.\n◆ 기업 간 협력, 투자 격차 좁힐 대안 될까\n2012년과 비교해 달라진 국내 제약산업의 환경 가운데 하나는 기업 간 연구개발 협력 기반이 확대됐다는 점이다.\n국내 제약사들이 글로벌 기술수출과 신약 상업화 경험을 축적",
+      "authors": [
+        "최봉선 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "a97bdd7d5547",
+      "source_id": "medipana",
+      "source_name": "메디파나뉴스",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "큐리바이오, 인간 3D 조직으로 ADC 안전성 평가 제안",
+      "url": "https://medipana.com/news/articleView.html?idxno=422802",
+      "published": "2026-11-27T13:30:00Z",
+      "summary": "큐리바이오(Curi Bio)가 인간 유래 3차원(3D) 심장·골격근 조직을 활용해 항체·약물접합체(ADC)의 안전성을 평가하는 방안을 제시했다. ADC를 구성하는 항체와 페이로드의 영향을 구분하고, 약물에 노출된 조직의 수축력과 전기생리 신호를 추적해 독성의 원인과 시간에 따른 변화를 살피는 접근이다.\n큐리바이오는 11월 25일부터 27일까지 제주 부영호텔&리조트에서 열린 '2026 대한임상약리학회(KSCPT) 추계학술대회'에서 미니 세미나를 진행했다고 27일 밝혔다.\n이번 세미나에서 큐리바이오 김나리 박사(큐리바이오·인제대)는 '멀티웰 기반 인간 3D 심장·근육 조직에서의 기능적 스크리닝: 심장독성부터 근위축까지'(Functional Screening in 24- and 96-Well Human 3D Heart and Muscle Tissues)를 주제로 발표했다.\nADC 구성 성분별 노출 구분…평가 목적에 따라 검증 수준 설정\n김 박사는 ADC의 안전성을 평가할 때 투여 농도와 함께 어떤 형태의 물질에 조직이 얼마나 노출되는지 살펴야 한다고 설명했다. 온전한 ADC와 링커를 통해 연결된 페이로드, 접합체에서 방출된 유리 페이로드는 시간에 따라 서로 다른 노출 양상과 독성을 보일 수 있기 때문이다. 이에 온전한 ADC와 총 항체, 유리 페이로드의 혈중 농도와 활성 대사체 노출을 구분해 평가할 필요가 있다고 밝혔다.\n실험동물에서 ADC의 표적 결합이 일어나지 않으면 사람의 정상 조직에 발현된 표적에 결합해 생기는 독성을 포착하기 어려울 수 있다는 점도 짚었다. 김 박사는 인간 유래 3D 조직을 활용하면 표적 발현 여부에 따른 기능 변화를 비교하는 데 도움이 된다고 설명했다.\n글로벌 규제 동향으로는 국제의약품규제조화위원회(ICH)의 E14/S7B 질의응답 개정과 미국 식품의약국(FDA)의 ADC 임상약리 가이던스를 소개했다. ICH S7A 개정은 논의 단계라고 설명했다. 대체시험법(NAMs)을 도입할 때는 어떤 개발 의사결정에 활용할지 뜻하는 '사용 맥락(Context of Use)'을 먼저 정하고, 초기 위험도 비교, 독성 기전 규명, 기존 시험 대체 등 목적에 따라 검증 수준을 달리해야 한다고 강조했다.\n심장독성 35일 추적…근위축·신경근접합부 모델로 확대\n세미나에서는 3D 조직의 수축력을 측정하는 '맨타레이(Mantarray™)'와 광학 전기생리 분석 장비 '노틸라이(Nautilai™)'를 활용한 연구 사례가 공개됐다. 맨타레이는 자기 센서로 여러 웰에 배치한 심장·골격근 조직의 수축력을 실시간으로 측정한다. 큐리바이오는 디곡신에 대한 급성 반응과 함께, 독소루비신 반복 노출에 따른 지연성 심장독성을 약 35일간 추적한 데이터를 소개했다.\n노틸라이는 2D·3D 조직에서 전압과 칼슘 신호의 변화를 광학적으로 측정한다. 발표에서는 프로프라놀롤 처리 후 칼슘 파형이 달라지고, 리도카인 처리 후 전기 자극에 대한 조직 반응이 감소한 사례를 제시했다.\n인간 심장 질환 모델에서는 'MYBPC3' 유전자 변이 조직과 유전자를 교정한 대조군 사이에 수축력 패턴 차이가 나타났다. 'PKP2' 모델에서는 평균 수축력보다 박동 간 변동성이 조직의 기능 변화를 더 잘 보여주는 지표로 제시됐다.\n골격근 모델에서는 덱사메타손 농도가 높아질수록 수축력이 감소했고, 약물을 제거한 뒤에는 수축력의 회복 양상을 관찰했다. 유전자치료제의 기능 회복과 지연성 독성 평가, 인간 신경근접합부 모델을 활용한 약물 반응 평가 사례도 소개됐다.\n조직 형성 성공률 95% 이상…ADC 5개 시험군 비교 제안\n큐리바이오는 자동화된 조직 제작 공정에서 '95% 이상의 조직 형성 성공률과 약 10%의 기능 측정 변동계수(CV)'를 확보했다고 밝혔다. 24웰과 96웰에서 진행한 비교 시험에서는 일관된 반응 경향을 확인했다. 김 박사는 한 번에 분석하는 조직 수를 늘리려면 조직 자체의 품질과 처리 전 기준선의 안정성, 표준물질에 대한 반응의 일관성을 먼저 확보해야 한다고 설명했다.\nADC 안전성 평가에는 약물을 넣지 않은 대조군(비히클), 항체 단독, 온전한 ADC, 비결합 ADC, 유리 페이로드 등 5개 시험군을 비교하는 설계를 제안했다. 표적을 발현하는 조직과 발현하지 않는 조직을 함께 평가하고, 배양액과 세포 안의 페이로드 양을 측정해 임상 노출 데이터와 비교하는 방안도 제시했다. 이러한 비교를 통해 각 구성 성분이 조직 기능에 미치는 영향과 임상 노출 수준에서의 안전역을 평가할 수 있다는 설명이다.\n큐리바이오 관계자는 \"이번 학술대회를 통해 국내 임상약리 연구자 및 제약·바이오 업계와 인간 3D 조직 기반 NAMs의 실질적인 활용 방안을 심도 있게 논의할 수 있었다\"며 \"앞으로도 관계사 드림씨아이에스와의 긴밀한 협력을 바탕으로 국내 기업들이 신약 개발 초기 단계에서 임상 예측력을 높이고 규제 변화에 선제적으로 대응할 수 있도록 비임상 안전성 평가 협력을 적극 확대해 나갈 것\"이라고 말했다.",
+      "authors": [
+        "최봉선 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "26bd83389a45",
+      "source_id": "medipana",
+      "source_name": "메디파나뉴스",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "함께 개발하고 수익도 나눈다…K바이오 기술수출의 새로운 성공 방정식",
+      "url": "https://medipana.com/news/articleView.html?idxno=422830",
+      "published": "2026-11-27T13:28:39Z",
+      "summary": "국내 제약바이오산업에서 기업 간 연구개발 협력이 글로벌 기술수출 성과로 이어지는 사례가 잇따르고 있다. 전통 제약사의 자본력과 임상개발 역량에 바이오텍의 혁신기술을 결합하는 기존 협력 모델을 넘어 바이오텍 간 공동개발, 대형 제약사 간 연구협력으로까지 오픈이노베이션의 영역이 넓어지고 있다.\n특히 공동개발에 참여한 기업들이 해외 기술수출 수익을 나누고, 이를 통해 확보한 자금과 개발 경험을 다시 새로운 연구개발에 활용하면서 국내 제약바이오산업에도 선순환 구조가 형성될 가능성이 커지고 있다.\n키움증권 리서치센터가 최근 발간한 2027년 제약바이오산업 전망 보고서는 글로벌 기술수출 경험과 개발 노하우를 축적한 국내 기업들을 중심으로 오픈이노베이션의 성과가 본격적으로 나타나고 있다는 점에 주목했다.\n◆ 유한양행·오스코텍에서 아델로…성공 경험의 확산\n국내 제약바이오산업의 대표적인 오픈이노베이션 성공 사례로는 유한양행과 오스코텍·제노스코가 개발한 비소세포폐암 치료제 '레이저티닙'이 꼽힌다.\n유한양행은 오스코텍의 미국 자회사 제노스코가 발굴한 후보물질을 도입해 후속 개발을 진행했으며, 2018년 11월 존슨앤드존슨(J&J)의 얀센과 최대 12억5500만달러 규모의 기술수출 계약을 체결했다.\n기술수출 수익은 유한양행이 60%, 오스코텍과 제노스코가 40%를 배분받는 구조다. 이후 레이저티닙이 글로벌 신약으로 상업화되면서 국내 기업 간 연구개발 협력이 해외 기술수출을 넘어 글로벌 시장 진출로 이어지는 성과를 거뒀다.\n눈여겨볼 대목은 이러한 성공 경험이 또 다른 국내 기업 간 협력으로 이어졌다는 점이다. 오스코텍은 아델과 공동개발한 알츠하이머병 치료제 후보물질 'ADEL-Y01'을 지난해 12월 프랑스 사노피에 최대 10억4000만달러 규모로 기술수출했다.\n두 기업의 기술수출 수익 배분 비율은 아델 53%, 오스코텍 47%다. 전체 계약금액 가운데 확정 선급금은 8000만달러이며, 나머지 9억6000만달러는 개발과 허가, 상업화 성과에 따른 조건부 마일스톤이다. 판매 로열티는 별도다.\n선급금에 양사의 배분 비율을 적용하면 아델과 오스코텍의 몫은 각각 4240만달러와 3760만달러다. 다만 아델은 자사에 배분된 기술료의 10%를 원천기술 보유기관인 울산대학교 산학협력단과 서울아산병원에 지급하는 구조다. 이를 반영하면 전체 기술료의 최종 귀속 비율은 아델 47.7%, 오스코텍 47%, 대학·병원 5.3%가 된다.\n대학과 의료기관에서 출발한 연구 성과가 바이오텍 간 공동개발을 거쳐 글로벌 제약사에 이전되고, 그 수익이 다시 연구개발 참여 주체들에게 돌아가는 구조다.\n◆ 한미약품·GC녹십자, 대형 제약사 간 협력도 결실\n바이오텍 간 협력뿐 아니라 국내 대형 제약사들이 연구개발 역량을 결합해 글로벌 기술수출에 성공한 사례도 등장했다.\n한미약품과 GC녹십자는 공동개발 중인 차세대 파브리병 치료제 'LA-GLA(HM15421·GC1134A)'를 지난 10월 미국 희귀질환 전문 제약기업 바이오마린에 기술수출했다. 전체 계약 규모는 최대 4억7500만달러로, 양사는 기술수출 수익을 50대50으로 배분하는 구조를 마련했다.\n한미약품의 공시에 따르면 회사에 배분되는 계약금액은 최대 2억3750만달러다. 이 가운데 선급금은 3500만달러, 개발과 허가, 상업화에 따른 마일스톤은 최대 2억250만달러다.\n양사의 수익 배분 구조를 고려하면 전체 선급금은 7000만달러에 해당한다. 전체 계약금액 대비 선급금 비중은 14.7%로, 계약 초기부터 상당한 연구개발 재원을 확보할 수 있게 됐다.\n특히 국내 허가 및 상업화 권리는 한미약품과 GC녹십자가 보유한다. 해외 기술수출을 통해 글로벌 개발을 추진하면서 국내 사업권도 유지하는 방식이다.\n국내 대형 제약사들이 각자의 연구개발 역량을 결합해 신약 후보물질을 개발하고 그 성과를 공유했다는 점에서 향후 제약사 간 공동연구 확대에도 영향을 미칠 것으로 보인다.\n올해 5월에는 큐라클과 맵틱스가 공동개발한 망막질환 치료제 후보물질 'MT-103'도 메멘토메디신즈에 약 1조5600억원 규모로 기술수출됐다. 양사의 구체적인 수익 배분 비율은 공개되지 않았다.\n◆ 유한양행·셀트리온 등 후속 오픈이노베이션 확대\n기술수출과 글로벌 상업화 경험을 축적한 기업들의 후속 연구개발 협력도 활발해지고 있다.\n유한양행은 지아이이노베이션과 알레르기질환 치료제 'YH35324(GI-301)'를 개발하고 있으며, 에이비엘바이오와는 HER2와 4-1BB를 표적으로 하는 이중항체 면역항암제 'YH32367(ABL105)' 개발을 추진하고 있다.\n인벤티지랩과 장기지속형 비만치료제를 공동개발하는 한편 카나프테라퓨틱스로부터 항암제 후보물질인 SOS1 저해제를 도입하는 등 외부 혁신기술을 활용한 신약 파이프라인도 확대하고 있다.\n오스코텍 역시 카나프테라퓨틱스의 EP2·EP4 이중저해제 기술을 도입해 면역항암제 개발을 추진하고 있다.\n바이오시밀러 사업을 통해 글로벌 개발과 허가, 상업화 경험을 축적한 셀트리온도 외부 기업과의 신약개발 협력을 확대하고 있다.\n피노바이오의 항체약물접합체(ADC) 플랫폼 기술을 도입한 데 이어 머스트바이오와 면역항암제 공동연구를 진행하고 있으며, 갤럭스와는 인공지능(AI) 기반 항체 설계 기술을 활용한 신약 후보물질 발굴에 나서고 있다.\n키움증권은 기술수출과 글로벌 상업화 경험을 갖춘 국내 기업들의 후속 공동개발이 새로운 기술수출 성과로 이어질 가능성에 주목했다.\n◆ 기술수출 수익이 다시 신약개발 재원으로\n신약개발에는 막대한 연구개발 비용과 오랜 시간이 필요하다. 개별 기업이 후보물질 발굴부터 임상시험, 허가, 상업화까지 모든 과정을 독자적으로 수행하기에는 적지 않은 부담이 따른다.\n기업 간 공동개발은 이러한 비용과 위험을 분담하면서 각 기업이 보유한 기술적 강점을 결합할 수 있다는 점에서 의미가 있다. 기술을 보유한 바이오텍은 제약사의 임상개발 역량과 해외 사업 네트워크를 활용할 수 있고, 제약사는 자체 연구개발만으로 확보하기 어려운 혁신기술을 도입해 사업 영역을 넓힐 수 있다.\n물론 공동개발 성과에 따른 수익 배분은 기업 간 협력의 지속성을 좌우하는 중요한 요소다. 기술의 기여도와 ",
+      "authors": [
+        "최봉선 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "0e5187f13574",
+      "source_id": "medipana",
+      "source_name": "메디파나뉴스",
+      "category": "media_health",
+      "lang": "ko",
+      "title": "블록버스터 특허 줄줄이 만료…바이오시밀러 '황금의 10년' 온다",
+      "url": "https://medipana.com/news/articleView.html?idxno=422829",
+      "published": "2026-11-27T13:18:08Z",
+      "summary": "글로벌 제약산업을 이끌어 온 대형 블록버스터 의약품의 특허만료가 잇따르면서 바이오시밀러 시장이 새로운 성장기를 맞을 전망이다. '키트루다'와 '옵디보', '다잘렉스', '듀픽센트' 등 연간 수십억~수백억달러의 매출을 올리는 의약품들이 줄줄이 독점권 상실을 앞두고 있다.\n각국 정부의 의료재정 절감 정책과 바이오시밀러 개발·허가 규제 완화 움직임까지 맞물리면서 개발과 생산, 상업화 역량을 갖춘 국내 바이오시밀러 기업에도 새로운 성장 기회가 열릴 것으로 기대된다.\n키움증권 리서치센터가 최근 발간한 2027년 제약바이오산업 전망 보고서에 따르면 글로벌 바이오시밀러 전문기업 산도즈는 전례 없는 규모의 특허만료 기회가 도래하는 향후 10년을 바이오시밀러의 '황금의 10년(Golden Decade)'으로 평가했다.\n산도즈는 바이오시밀러와 제네릭의 시장 진입 기회가 되는 특허만료 의약품 시장 규모가 2026~2030년 2600억달러에서 2036~2040년에는 3700억달러로 확대될 것으로 전망했다.\n특히 2032년까지 60개 이상의 바이오의약품에서 특허만료 기회가 발생하지만, 상당수 품목은 후속 바이오시밀러 개발이 충분하지 않은 것으로 분석했다.\n◆ 3000억달러 특허절벽…2028년 대형 품목 집중\n글로벌 빅파마 입장에서는 주력 의약품의 독점적 지위를 잃게 되는 특허절벽이지만, 바이오시밀러와 제네릭 기업에는 새로운 시장이 열리는 기회다.\n보고서는 2026~2033년 글로벌 빅파마의 특허만료에 따른 바이오시밀러·제네릭 경쟁 노출 매출 규모가 약 3000억달러에 달할 것으로 추산했다. 현재 14개 메가 블록버스터 의약품 가운데 10개가 2028~2036년 사이 독점권을 상실할 것으로 예상된다.\n특히 2028년에는 미국에서 7개 블록버스터 의약품의 독점권 상실이 예상된다. 이들 의약품의 2024년 글로벌 매출액을 합산하면 약 900억달러에 달한다.\n이 가운데 항응고제 '엘리퀴스'와 면역항암제 '키트루다' 두 품목의 매출만 약 650억달러에 이른다. 합성의약품인 엘리퀴스는 제네릭, 바이오의약품인 키트루다는 바이오시밀러 기업들의 주요 시장 진입 대상이다.\n◆ 키트루다 22개·스카이리치 3개…개발 경쟁도 양극화\n특허만료를 앞둔 의약품의 매출 규모가 크다고 해서 바이오시밀러 개발 경쟁이 모두 치열한 것은 아니다.\n보고서가 인용한 이밸류에이트파마(Evaluate Pharma) 자료에 따르면 2028년 미국 특허만료가 예상되는 MSD의 면역항암제 키트루다는 올해 매출이 310억6300만달러에 달할 것으로 추정된다. 이미 허가·출시됐거나 개발 중인 바이오시밀러 파이프라인은 22개에 이른다.\n같은 해 특허만료가 예상되는 BMS의 면역항암제 옵디보는 올해 매출 추정액이 102억7900만달러로, 바이오시밀러 파이프라인은 10개다.\n2029년에는 존슨앤드존슨의 다발골수종 치료제 '다잘렉스'와 노바티스의 자가면역질환 치료제 '코센틱스', 암젠의 '엔브렐' 등이 특허만료를 앞두고 있다. 다잘렉스의 올해 매출 추정액은 170억2200만달러로 바이오시밀러 파이프라인은 12개이며, 코센틱스는 70억6100만달러에 6개다.\n반면 엔브렐은 올해 매출 추정액이 23억9300만달러로 상대적으로 작지만 바이오시밀러 파이프라인은 25개에 달한다.\n2031년 특허만료가 예상되는 사노피와 리제네론의 자가면역질환 치료제 '듀픽센트'는 올해 매출 추정액이 222억4600만달러로, 12개의 바이오시밀러 파이프라인이 경쟁하고 있다.\n이에 비해 2033년 특허만료가 예상되는 애브비의 '스카이리치'는 올해 매출 추정액이 218억3000만달러에 달하지만 바이오시밀러 파이프라인은 3개에 불과하다.\n스카이리치의 경우 특허만료까지 남은 기간이 상대적으로 길어 향후 개발 경쟁이 확대될 가능성도 있다. 다만 현재 시점에서는 대형 시장 규모에 비해 개발 경쟁이 상대적으로 덜한 품목으로 꼽힌다.\n이처럼 특허만료 의약품의 시장 규모뿐 아니라 개발 경쟁 강도와 시장 진입 시점에 따라 바이오시밀러 기업들의 사업 기회도 달라질 전망이다.\n◆ 미국 의료비 절감 정책도 시장 확대에 우호적\n글로벌 의약품의 특허만료와 함께 미국의 의료비 절감 정책도 바이오시밀러 시장의 성장에 영향을 미칠 변수로 꼽힌다. 고가 바이오의약품을 상대적으로 저렴한 바이오시밀러로 대체하면 환자의 치료비 부담과 보험재정 지출을 줄일 수 있기 때문이다.\n미국 식품의약국(FDA)도 바이오시밀러 개발 과정에서 발생하는 비용과 부담을 줄이기 위한 규제 간소화를 추진하고 있다.\n개발과 허가에 필요한 비용이 낮아지고 보험자들의 바이오시밀러 사용 유인이 커질 경우 기존에 사업성이 충분하지 않았던 품목에서도 개발 기회가 확대될 수 있다.\n다만 동일한 오리지널 의약품을 대상으로 다수의 바이오시밀러가 시장에 진입하면 가격 경쟁이 심화될 수 있는 만큼 시장 확대가 개별 기업의 수익성 개선으로 곧바로 이어지는 것은 아니다.\n◆ 산도즈 100개·셀트리온 41개…제품군 확대 경쟁\n글로벌 바이오시밀러 기업들은 다가오는 특허절벽에 대응해 장기적인 제품 포트폴리오 확대 전략을 추진하고 있다.\n산도즈는 2040년까지 100개 이상의 제품 확보를 장기 목표로 제시하고 있으며, 셀트리온도 2038년까지 약 41개의 제품 포트폴리오를 구축한다는 계획이다. 산도즈가 글로벌 판매망과 개발·생산 규모, 원가 경쟁력을 기반으로 바이오시밀러 사업을 확대하는 가운데 셀트리온은 미국과 유럽의 직접판매망을 활용해 시장 침투를 확대하고 있다.\n셀트리온은 바이오시밀러를 통해 확보한 수익을 신약 연구개발로 연결한다는 점에서도 사업 확장 전략에 차이를 보인다.\n삼성바이오에피스 역시 글로벌 바이오시밀러 시장에서 주요 기업으로 자리 잡고 있다. 보고서가 제시한 2025년 바이오시밀러 매출액 비교에서는 산도즈와 암젠, 셀트리온, 삼성바이오에피스, 바이오콘 순으로 나타났다.\n국내 기업들이 이미 글로벌 시장에서 바이오시밀러 개발과 허가, 상업화 경험을 축적한 만큼 향후 대규모 특허만료 시기에 이러한 경쟁력이 더욱 부각될 가능성이 있다.\n바이오시밀러 시장의 황금기가 모든 기업에 동일한 성장 기회를 보장하는 것은 아니다. 유망 품목을 선별하는 개발 전략부터 안정적인",
+      "authors": [
+        "최봉선 기자"
+      ],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "7ad1be29489b",
+      "source_id": "mohw_press",
+      "source_name": "보건복지부 보도자료",
+      "category": "gov",
+      "lang": "ko",
+      "title": "정은경 장관, 국가시험 현장 점검, 첨단기기 부정행위 빈틈없이 차단 강조",
+      "url": "https://mohw.go.kr/board.es?mid=a10503010100&bid=0027&act=view&list_no=1492698&tag=&nPage=1",
+      "published": "2026-11-27T15:00:00Z",
+      "summary": "",
+      "authors": [],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "6d9ec621a8f6",
+      "source_id": "mohw_press",
+      "source_name": "보건복지부 보도자료",
+      "category": "gov",
+      "lang": "ko",
+      "title": "맹장 수술 등 7개 질병군 포괄수가 개정으로 환자 의료비 부담 완화",
+      "url": "https://mohw.go.kr/board.es?mid=a10503010100&bid=0027&act=view&list_no=1492696&tag=&nPage=1",
+      "published": "2026-11-26T15:00:00Z",
+      "summary": "",
+      "authors": [],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "398069dd3de6",
+      "source_id": "mohw_press",
+      "source_name": "보건복지부 보도자료",
+      "category": "gov",
+      "lang": "ko",
+      "title": "퇴원환자 77.2% 재활 위해 지역사회 연계, 국립재활원, 사후관리 지원사업 결과 공유",
+      "url": "https://mohw.go.kr/board.es?mid=a10503010100&bid=0027&act=view&list_no=1492694&tag=&nPage=1",
+      "published": "2026-11-26T15:00:00Z",
+      "summary": "",
+      "authors": [],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "40cf1392ccc2",
+      "source_id": "mohw_press",
+      "source_name": "보건복지부 보도자료",
+      "category": "gov",
+      "lang": "ko",
+      "title": "정부, 국가필수의약품 안정공급 강화 위해 민·관 협력 체계 구축",
+      "url": "https://mohw.go.kr/board.es?mid=a10503010100&bid=0027&act=view&list_no=1492693&tag=&nPage=1",
+      "published": "2026-11-26T15:00:00Z",
+      "summary": "",
+      "authors": [],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "dc3acba5cc83",
+      "source_id": "mohw_press",
+      "source_name": "보건복지부 보도자료",
+      "category": "gov",
+      "lang": "ko",
+      "title": "딥페이크·온라인 폭력 등 AI 시대 아동 위기, ‘아동의 시선’으로 해법 찾는다",
+      "url": "https://mohw.go.kr/board.es?mid=a10503010100&bid=0027&act=view&list_no=1492690&tag=&nPage=1",
+      "published": "2026-11-26T15:00:00Z",
+      "summary": "",
+      "authors": [],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "c13bf2657452",
+      "source_id": "mohw_press_gnews",
+      "source_name": "보건복지부 보도자료 (정책브리핑·Google 뉴스)",
+      "category": "gov",
+      "lang": "ko",
+      "title": "AI 시대 보건의료데이터의 윤리적 활용 방안 논의 제9회 국가생명윤리포럼 개최",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaThKM2Uwb25JeXl0YWJwb3BLcTdxS052TU9meFppOWVWa2J6dnBiUWoyZkxNdFZmZ0JhdWJKa3BSWWFqc3NlNlZMOG1EWWltRkMxMGhQRUZ2cHVQTlp3Rl9HQWltdXVheFQ2VFBoX244UjFXQ2IxNGxHOGtXNTNDcVJqVWItb2ZtRFU0elBZQ3lhTTJo?oc=5",
+      "published": "2026-11-26T05:04:26Z",
+      "summary": "AI 시대 보건의료데이터의 윤리적 활용 방안 논의 제9회 국가생명윤리포럼 개최 대한민국 정책브리핑",
+      "authors": [],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "77e7a0faf1e6",
+      "source_id": "mohw_press_gnews",
+      "source_name": "보건복지부 보도자료 (정책브리핑·Google 뉴스)",
+      "category": "gov",
+      "lang": "ko",
+      "title": "지역？필수？공공의료 강화 위한 공공보건의료기관 협력 방안 논의",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQzAzb2N2cnNVWDl6LUF2bG1DLTVLOUl6RWQ4MnRTS1JKcm9SOGJYdEJ6d2tDdjl2WURqODlxcWI2bXBwejJvMUx6bWt4Z21JX25tV0VLSWJaSDVsMTh2aEdkUlhtdU9qbUFMMThKN2J1bkU5YlNfTHVWSEotNk5oelIzN2xlSVJoTEJ0M2Q2Ry1VUQ?oc=5",
+      "published": "2026-11-26T05:05:50Z",
+      "summary": "지역？필수？공공의료 강화 위한 공공보건의료기관 협력 방안 논의 대한민국 정책브리핑",
+      "authors": [],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "8a184efd28b9",
+      "source_id": "mohw_press_gnews",
+      "source_name": "보건복지부 보도자료 (정책브리핑·Google 뉴스)",
+      "category": "gov",
+      "lang": "ko",
+      "title": "지역·필수의료 강화부터 존엄한 임종까지, 의료혁신위, 대정부 권고안 마련",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOT1Q2bkZ5YVJYRHlXVW00M3k5RFY2SWl6X25YZEgyNjM2TmI3N0ZrMzJSLWZ6a1pMMFhXRkZzRndqNVhiMWctRl9pZV9Fc0VPQ0NKZGtyVllWR2xNeDB4TWlMb2pYaTRJR2NtQVFNTmYyZnA3RnhqejBHbklFS3E5UXdKUVA5QTNHUjF5Mm1vMkZac21H?oc=5",
+      "published": "2026-11-26T05:05:00Z",
+      "summary": "지역·필수의료 강화부터 존엄한 임종까지, 의료혁신위, 대정부 권고안 마련 대한민국 정책브리핑",
+      "authors": [],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "70510b8c0527",
+      "source_id": "mohw_press_gnews",
+      "source_name": "보건복지부 보도자료 (정책브리핑·Google 뉴스)",
+      "category": "gov",
+      "lang": "ko",
+      "title": "엄마 치매 관리, 집에서 휴대폰으로 해드려요",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Yby1wdUhSVFg0cmM5UWZjbDV1Mno4Q2RvekhBNDdpRlBHNC1xajM3TFZjbTFxSElzNVFkLVZZbW00ak1jUDhjNElscE9PSDVacUFwRUFIVWFnQVlhV29kdC1ZeUlSZjF1UHc?oc=5",
+      "published": "2026-11-27T05:51:43Z",
+      "summary": "엄마 치매 관리, 집에서 휴대폰으로 해드려요 대한민국 정책브리핑",
+      "authors": [],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "c35876f01ee1",
+      "source_id": "kdca_press_gnews",
+      "source_name": "질병관리청 보도자료 (정책브리핑·Google 뉴스)",
+      "category": "gov",
+      "lang": "ko",
+      "title": "숙의(熟議) 거친 의료혁신 시민패널 84%, \"연명의료 유보？중단 시점 말기까지 확대 필요\"",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNZ0VuZWRjTkxOZlJXM1NFODdaT2kzYTViM0pISXdYNEp2d2o2OW9jVWZuVjBQeHVnNmpiY1NGbDZFMHlrTlBmZEV3NlpvVHpsZWZlWThSUnFIV2xJSl9HY1E3eXNiNHhrRE1ZY1p0X09HdERXYThCXzBfZURnaEFmYnplb3k2eENzcFVXYTFMeWR6eGhfdG5zTnJ3cTE1aEh5TTRybVJNSXdSc0M3RnR2ME53VUlDbmJ0dzlSMDhrdkdlSk51WU9YdDd1WG5YQ1FNNFVORnFYM0kzRGZwWGNvOFUyYTh2Zm9nRDRsdngtWk5EY0F3VlRrSnVmT1kzSmx3c29QbC1SZ29TSG0yN2prYw?oc=5",
+      "published": "2026-11-26T05:05:00Z",
+      "summary": "숙의(熟議) 거친 의료혁신 시민패널 84%, \"연명의료 유보？중단 시점 말기까지 확대 필요\" 대한민국 정책브리핑",
+      "authors": [],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "62bcbff0570a",
+      "source_id": "kdca_press_gnews",
+      "source_name": "질병관리청 보도자료 (정책브리핑·Google 뉴스)",
+      "category": "gov",
+      "lang": "ko",
+      "title": "식약처, 어린이집 급식시설 위생관리 실태 점검...7곳 적발",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNDV0Zzl0azBVSjUtSWszbDNieXhnYkc3RThncGxyUEx4b214WEZkWXpya3BzdHRhaHBHUjExb3JNUWNpUmw5cndiYTFmX3lpYnNXZnhZeUdGaFpBMG1xa3JVSEFjOEZlangzeVVGRTB0OG5LZkZYeHdEeW1lTVNGX2xiRWlsNXNkWXJUYy1QSXFoQQ?oc=5",
+      "published": "2026-11-26T22:59:17Z",
+      "summary": "식약처, 어린이집 급식시설 위생관리 실태 점검...7곳 적발 대한민국 정책브리핑",
+      "authors": [],
+      "journal": null,
+      "doi": null
+    },
+    {
+      "id": "def6ffe366ae",
+      "source_id": "kdca_press_gnews",
+      "source_name": "질병관리청 보도자료 (정책브리핑·Google 뉴스)",
+      "category": "gov",
+      "lang": "ko",
+      "title": "[보도참고] 식약처, 무균의약품 GMP 이행지원 가이드라인 2종 제정",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSV9EUUswSWJnbFpURHhVTjdianlsTUJTM3I1VEZ2N2tnbG55b25STndnU2w4cHdmajRuekdBUl96QlhNb1ZVV3d1VmJzbVJiT2lrOFE2UkozQzA1bm11M0ZZRDVFbW14UlMwd19Da3UyTGlLQnBFYUMyckdHd2RKOXZkanhZblJTYklqUGpsVW5NR2JI?oc=5",
+      "published": "2026-11-27T04:45:46Z",
+      "summary": "[보도참고] 식약처, 무균의약품 GMP 이행지원 가이드라인 2종 제정 대한민국 정책브리핑",
+      "authors": [],
+      "journal": null,
+      "doi": null
+    }
+  ],
+  "source_status": [
+    {
+      "source_id": "health_affairs",
+      "source_name": "Health Affairs",
+      "category": "journal",
+      "ok": true,
+      "fetched": 1,
+      "new": 0,
+      "kept": 0,
+      "error": null
+    },
+    {
+      "source_id": "health_policy",
+      "source_name": "Health Policy",
+      "category": "journal",
+      "ok": true,
+      "fetched": 11,
+      "new": 2,
+      "kept": 2,
+      "error": null
+    },
+    {
+      "source_id": "milbank",
+      "source_name": "The Milbank Quarterly",
+      "category": "journal",
+      "ok": true,
+      "fetched": 2,
+      "new": 0,
+      "kept": 0,
+      "error": null
+    },
+    {
+      "source_id": "jama_health_forum",
+      "source_name": "JAMA Health Forum",
+      "category": "journal",
+      "ok": true,
+      "fetched": 18,
+      "new": 0,
+      "kept": 0,
+      "error": null
+    },
+    {
+      "source_id": "lancet_public_health",
+      "source_name": "The Lancet Public Health",
+      "category": "journal",
+      "ok": true,
+      "fetched": 5,
+      "new": 0,
+      "kept": 0,
+      "error": null
+    },
+    {
+      "source_id": "soc_sci_med",
+      "source_name": "Social Science & Medicine",
+      "category": "journal",
+      "ok": true,
+      "fetched": 4,
+      "new": 0,
+      "kept": 0,
+      "error": null
+    },
+    {
+      "source_id": "health_econ",
+      "source_name": "Health Economics",
+      "category": "journal",
+      "ok": true,
+      "fetched": 11,
+      "new": 2,
+      "kept": 2,
+      "error": null
+    },
+    {
+      "source_id": "hepl",
+      "source_name": "Health Economics, Policy and Law",
+      "category": "journal",
+      "ok": true,
+      "fetched": 4,
+      "new": 1,
+      "kept": 1,
+      "error": null
+    },
+    {
+      "source_id": "hpp",
+      "source_name": "Health Policy and Planning",
+      "category": "journal",
+      "ok": true,
+      "fetched": 5,
+      "new": 0,
+      "kept": 0,
+      "error": null
+    },
+    {
+      "source_id": "bmc_hsr",
+      "source_name": "BMC Health Services Research",
+      "category": "journal",
+      "ok": true,
+      "fetched": 25,
+      "new": 0,
+      "kept": 0,
+      "error": null
+    },
+    {
+      "source_id": "nejm",
+      "source_name": "NEJM",
+      "category": "journal",
+      "ok": true,
+      "fetched": 2,
+      "new": 0,
+      "kept": 0,
+      "error": null
+    },
+    {
+      "source_id": "jama",
+      "source_name": "JAMA",
+      "category": "journal",
+      "ok": true,
+      "fetched": 2,
+      "new": 0,
+      "kept": 0,
+      "error": null
+    },
+    {
+      "source_id": "bmj",
+      "source_name": "BMJ",
+      "category": "journal",
+      "ok": true,
+      "fetched": 0,
+      "new": 0,
+      "kept": 0,
+      "error": null
+    },
+    {
+      "source_id": "lancet",
+      "source_name": "The Lancet",
+      "category": "journal",
+      "ok": true,
+      "fetched": 3,
+      "new": 1,
+      "kept": 1,
+      "error": null
+    },
+    {
+      "source_id": "jpmph",
+      "source_name": "예방의학회지 (JPMPH)",
+      "category": "journal",
+      "ok": true,
+      "fetched": 1,
+      "new": 0,
+      "kept": 0,
+      "error": null
+    },
+    {
+      "source_id": "jkms",
+      "source_name": "JKMS (정책 논문)",
+      "category": "journal",
+      "ok": true,
+      "fetched": 3,
+      "new": 0,
+      "kept": 0,
+      "error": null
+    },
+    {
+      "source_id": "yna_society",
+      "source_name": "연합뉴스 사회",
+      "category": "media_general",
+      "ok": true,
+      "fetched": 120,
+      "new": 120,
+      "kept": 2,
+      "error": null
+    },
+    {
+      "source_id": "yna_economy",
+      "source_name": "연합뉴스 경제",
+      "category": "media_general",
+      "ok": true,
+      "fetched": 120,
+      "new": 119,
+      "kept": 0,
+      "error": null
+    },
+    {
+      "source_id": "chosun_national",
+      "source_name": "조선일보 사회",
+      "category": "media_general",
+      "ok": true,
+      "fetched": 94,
+      "new": 94,
+      "kept": 6,
+      "error": null
+    },
+    {
+      "source_id": "joongang_gnews",
+      "source_name": "중앙일보 (Google 뉴스)",
+      "category": "media_general",
+      "ok": true,
+      "fetched": 44,
+      "new": 44,
+      "kept": 1,
+      "error": null
+    },
+    {
+      "source_id": "donga",
+      "source_name": "동아일보 사회",
+      "category": "media_general",
+      "ok": true,
+      "fetched": 50,
+      "new": 50,
+      "kept": 4,
+      "error": null
+    },
+    {
+      "source_id": "hani_society",
+      "source_name": "한겨레 사회",
+      "category": "media_general",
+      "ok": true,
+      "fetched": 30,
+      "new": 30,
+      "kept": 1,
+      "error": null
+    },
+    {
+      "source_id": "khan_society",
+      "source_name": "경향신문 사회",
+      "category": "media_general",
+      "ok": true,
+      "fetched": 44,
+      "new": 43,
+      "kept": 3,
+      "error": null
+    },
+    {
+      "source_id": "docdocdoc",
+      "source_name": "청년의사",
+      "category": "media_health",
+      "ok": true,
+      "fetched": 50,
+      "new": 24,
+      "kept": 16,
+      "error": null
+    },
+    {
+      "source_id": "doctorsnews",
+      "source_name": "의협신문",
+      "category": "media_health",
+      "ok": true,
+      "fetched": 25,
+      "new": 12,
+      "kept": 10,
+      "error": null
+    },
+    {
+      "source_id": "dailymedi",
+      "source_name": "데일리메디",
+      "category": "media_health",
+      "ok": true,
+      "fetched": 25,
+      "new": 18,
+      "kept": 7,
+      "error": null
+    },
+    {
+      "source_id": "rapportian",
+      "source_name": "라포르시안",
+      "category": "media_health",
+      "ok": true,
+      "fetched": 50,
+      "new": 28,
+      "kept": 15,
+      "error": null
+    },
+    {
+      "source_id": "medipana",
+      "source_name": "메디파나뉴스",
+      "category": "media_health",
+      "ok": true,
+      "fetched": 50,
+      "new": 33,
+      "kept": 24,
+      "error": null
+    },
+    {
+      "source_id": "mohw_press",
+      "source_name": "보건복지부 보도자료",
+      "category": "gov",
+      "ok": true,
+      "fetched": 15,
+      "new": 5,
+      "kept": 5,
+      "error": null
+    },
+    {
+      "source_id": "mohw_press_gnews",
+      "source_name": "보건복지부 보도자료 (정책브리핑·Google 뉴스)",
+      "category": "gov",
+      "ok": true,
+      "fetched": 60,
+      "new": 54,
+      "kept": 5,
+      "error": null
+    },
+    {
+      "source_id": "kdca_press_gnews",
+      "source_name": "질병관리청 보도자료 (정책브리핑·Google 뉴스)",
+      "category": "gov",
+      "ok": true,
+      "fetched": 60,
+      "new": 56,
+      "kept": 3,
+      "error": null
+    },
+    {
+      "source_id": "hira_press",
+      "source_name": "건강보험심사평가원 보도자료",
+      "category": "gov",
+      "ok": true,
+      "fetched": 9,
+      "new": 3,
+      "kept": 0,
+      "error": null
+    }
+  ]
+}
